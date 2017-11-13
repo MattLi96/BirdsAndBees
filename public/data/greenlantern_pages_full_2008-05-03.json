@@ -1,0 +1,273 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guy Gardner"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Kyle Rayner"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "John Stewart"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Manhunters"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Violet"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Blink Bomb"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Temple of The Highlord"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zamaron Defender"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Porter"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Porter/Gallery"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Space Sector 0063"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Sapphire 3"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Sapphire 3/Gallery"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "John Stewart (Justice League Unlimited)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jessica Cruz"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Qwardian Power Ring"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Power Ring (Jessica Cruz)"
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 10
+        },
+        {
+            "source": 6,
+            "target": 13
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 6,
+            "target": 15
+        },
+        {
+            "source": 7,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 9,
+            "target": 8
+        },
+        {
+            "source": 11,
+            "target": 1
+        },
+        {
+            "source": 11,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 12
+        },
+        {
+            "source": 12,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 16
+        }
+    ],
+    "edges": [
+        {
+            "source": "Blink Bomb",
+            "target": "Guy Gardner"
+        },
+        {
+            "source": "Temple of The Highlord",
+            "target": "Space Sector 0063"
+        },
+        {
+            "source": "Temple of The Highlord",
+            "target": "John Stewart (Justice League Unlimited)"
+        },
+        {
+            "source": "Temple of The Highlord",
+            "target": "John Stewart"
+        },
+        {
+            "source": "Temple of The Highlord",
+            "target": "Qwardian Power Ring"
+        },
+        {
+            "source": "Zamaron Defender",
+            "target": "Manhunters"
+        },
+        {
+            "source": "Porter",
+            "target": "Porter/Gallery"
+        },
+        {
+            "source": "Porter/Gallery",
+            "target": "Porter"
+        },
+        {
+            "source": "Sapphire 3",
+            "target": "Kyle Rayner"
+        },
+        {
+            "source": "Sapphire 3",
+            "target": "Violet"
+        },
+        {
+            "source": "Sapphire 3",
+            "target": "Sapphire 3/Gallery"
+        },
+        {
+            "source": "Sapphire 3/Gallery",
+            "target": "Sapphire 3"
+        },
+        {
+            "source": "Jessica Cruz",
+            "target": "Power Ring (Jessica Cruz)"
+        }
+    ],
+    "basic": {
+        "numNodes": 17,
+        "numEdges": 13,
+        "selfLinks": 0,
+        "numStrongComponents": 15,
+        "numWeakComponents": 6,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 5,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.7647058823529411,
+        "averageOutDegree": 0.7647058823529411,
+        "maxOutDegree": 4,
+        "maxInDegree": 1,
+        "pageRank": {
+            "Guy Gardner": 0.04466168217803074,
+            "Kyle Rayner": 0.04186069793660995,
+            "John Stewart": 0.02879491984430111,
+            "Manhunters": 0.04466168217803074,
+            "Violet": 0.04186069793660995,
+            "Blink Bomb": 0.023505999066391232,
+            "Temple of The Highlord": 0.023505999066391232,
+            "Zamaron Defender": 0.023505999066391232,
+            "Porter": 0.23502396301869613,
+            "Porter/Gallery": 0.23502396301869613,
+            "Space Sector 0063": 0.02879491984430111,
+            "Sapphire 3": 0.06118125797591627,
+            "Sapphire 3/Gallery": 0.04186069793660995,
+            "John Stewart (Justice League Unlimited)": 0.02879491984430111,
+            "Jessica Cruz": 0.023505999066391232,
+            "Qwardian Power Ring": 0.02879491984430111,
+            "Power Ring (Jessica Cruz)": 0.04466168217803074
+        },
+        "hitsHubs": {
+            "Guy Gardner": 0.0,
+            "Kyle Rayner": 0.0,
+            "John Stewart": 0.0,
+            "Manhunters": 0.0,
+            "Violet": 0.0,
+            "Blink Bomb": 1.8807909163296387e-37,
+            "Temple of The Highlord": 0.9999999760813284,
+            "Zamaron Defender": 1.8807909163296387e-37,
+            "Porter": 1.8807909163296387e-37,
+            "Porter/Gallery": 1.8807909163296387e-37,
+            "Space Sector 0063": 0.0,
+            "Sapphire 3": 2.391867162501559e-08,
+            "Sapphire 3/Gallery": 1.8807909163296387e-37,
+            "John Stewart (Justice League Unlimited)": 0.0,
+            "Jessica Cruz": 1.8807909163296387e-37,
+            "Qwardian Power Ring": 0.0,
+            "Power Ring (Jessica Cruz)": 0.0
+        },
+        "hitsAuths": {
+            "Guy Gardner": 1.8807909163296387e-37,
+            "Kyle Rayner": 7.972890541671863e-09,
+            "John Stewart": 0.2499999940203321,
+            "Manhunters": 1.8807909163296387e-37,
+            "Violet": 7.972890541671863e-09,
+            "Blink Bomb": 0.0,
+            "Temple of The Highlord": 0.0,
+            "Zamaron Defender": 0.0,
+            "Porter": 1.8807909163296387e-37,
+            "Porter/Gallery": 1.8807909163296387e-37,
+            "Space Sector 0063": 0.2499999940203321,
+            "Sapphire 3": 1.8807909163296387e-37,
+            "Sapphire 3/Gallery": 7.972890541671863e-09,
+            "John Stewart (Justice League Unlimited)": 0.2499999940203321,
+            "Jessica Cruz": 0.0,
+            "Qwardian Power Ring": 0.2499999940203321,
+            "Power Ring (Jessica Cruz)": 1.8807909163296387e-37
+        },
+        "averagePathLength": 1.0
+    }
+}

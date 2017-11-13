@@ -1,0 +1,49 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Fischer"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": "Fischer",
+            "target": "Fischer"
+        }
+    ],
+    "basic": {
+        "numNodes": 1,
+        "numEdges": 1,
+        "selfLinks": 1,
+        "numStrongComponents": 1,
+        "numWeakComponents": 1,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 1,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 1,
+        "averageOutDegree": 1,
+        "maxOutDegree": 1,
+        "maxInDegree": 1,
+        "pageRank": {
+            "Fischer": 1.0
+        },
+        "hitsHubs": {
+            "Fischer": 1.0
+        },
+        "hitsAuths": {
+            "Fischer": 1.0
+        },
+        "averagePathLength": 0
+    }
+}

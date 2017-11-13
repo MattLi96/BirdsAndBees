@@ -1,0 +1,273 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (Taylor Swift song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (Taylor Swift song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan survey (how well do you know her)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David Cook"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of songs"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Childhood pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Songs by Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Survey"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe and Sound (Lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (Taylor Swift album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe & Sound (Lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dan Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Come Back... Be Here"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 10
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 12,
+            "target": 17
+        },
+        {
+            "source": 13,
+            "target": 14
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 18,
+            "target": 19
+        }
+    ],
+    "edges": [
+        {
+            "source": "Breathe (Taylor Swift song)",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "Change (Taylor Swift song)",
+            "target": "Change (song)"
+        },
+        {
+            "source": "Fan survey (how well do you know her)",
+            "target": "Fan Survey"
+        },
+        {
+            "source": "David",
+            "target": "David Cook"
+        },
+        {
+            "source": "List of songs",
+            "target": "List of Songs by Taylor Swift"
+        },
+        {
+            "source": "Childhood pictures",
+            "target": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "source": "Safe and Sound (Lyrics)",
+            "target": "Safe & Sound (Lyrics)"
+        },
+        {
+            "source": "Fearless (Taylor Swift album)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Quotes",
+            "target": "Taylor Swift Quotes"
+        },
+        {
+            "source": "Dan Wilson",
+            "target": "Come Back... Be Here"
+        }
+    ],
+    "basic": {
+        "numNodes": 20,
+        "numEdges": 10,
+        "selfLinks": 0,
+        "numStrongComponents": 20,
+        "numWeakComponents": 10,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 2,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.5,
+        "averageOutDegree": 0.5,
+        "maxOutDegree": 1,
+        "maxInDegree": 1,
+        "pageRank": {
+            "Breathe (Taylor Swift song)": 0.03448297528616237,
+            "Change (Taylor Swift song)": 0.03448297528616237,
+            "Fan survey (how well do you know her)": 0.03448297528616237,
+            "David Cook": 0.06551702471383761,
+            "David": 0.03448297528616237,
+            "List of songs": 0.03448297528616237,
+            "Breathe (song)": 0.06551702471383761,
+            "Change (song)": 0.06551702471383761,
+            "Childhood pictures": 0.03448297528616237,
+            "Taylor Swift's Childhood Pictures": 0.06551702471383761,
+            "List of Songs by Taylor Swift": 0.06551702471383761,
+            "Fan Survey": 0.06551702471383761,
+            "Safe and Sound (Lyrics)": 0.03448297528616237,
+            "Fearless (Taylor Swift album)": 0.03448297528616237,
+            "Fearless (album)": 0.06551702471383761,
+            "Quotes": 0.03448297528616237,
+            "Taylor Swift Quotes": 0.06551702471383761,
+            "Safe & Sound (Lyrics)": 0.06551702471383761,
+            "Dan Wilson": 0.03448297528616237,
+            "Come Back... Be Here": 0.06551702471383761
+        },
+        "hitsHubs": {
+            "Breathe (Taylor Swift song)": 0.1,
+            "Change (Taylor Swift song)": 0.1,
+            "Fan survey (how well do you know her)": 0.1,
+            "David Cook": 0.0,
+            "David": 0.1,
+            "List of songs": 0.1,
+            "Breathe (song)": 0.0,
+            "Change (song)": 0.0,
+            "Childhood pictures": 0.1,
+            "Taylor Swift's Childhood Pictures": 0.0,
+            "List of Songs by Taylor Swift": 0.0,
+            "Fan Survey": 0.0,
+            "Safe and Sound (Lyrics)": 0.1,
+            "Fearless (Taylor Swift album)": 0.1,
+            "Fearless (album)": 0.0,
+            "Quotes": 0.1,
+            "Taylor Swift Quotes": 0.0,
+            "Safe & Sound (Lyrics)": 0.0,
+            "Dan Wilson": 0.1,
+            "Come Back... Be Here": 0.0
+        },
+        "hitsAuths": {
+            "Breathe (Taylor Swift song)": 0.0,
+            "Change (Taylor Swift song)": 0.0,
+            "Fan survey (how well do you know her)": 0.0,
+            "David Cook": 0.1,
+            "David": 0.0,
+            "List of songs": 0.0,
+            "Breathe (song)": 0.1,
+            "Change (song)": 0.1,
+            "Childhood pictures": 0.0,
+            "Taylor Swift's Childhood Pictures": 0.1,
+            "List of Songs by Taylor Swift": 0.1,
+            "Fan Survey": 0.1,
+            "Safe and Sound (Lyrics)": 0.0,
+            "Fearless (Taylor Swift album)": 0.0,
+            "Fearless (album)": 0.1,
+            "Quotes": 0.0,
+            "Taylor Swift Quotes": 0.1,
+            "Safe & Sound (Lyrics)": 0.1,
+            "Dan Wilson": 0.0,
+            "Come Back... Be Here": 0.1
+        },
+        "averagePathLength": 0
+    }
+}

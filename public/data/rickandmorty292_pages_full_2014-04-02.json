@@ -1,0 +1,4825 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Rick and Morty Wiki"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Main Page"
+        },
+        {
+            "degree": 26,
+            "parity": 1,
+            "id": "Rick Sanchez"
+        },
+        {
+            "degree": 27,
+            "parity": 0,
+            "id": "Morty Smith"
+        },
+        {
+            "degree": 26,
+            "parity": 1,
+            "id": "Summer Smith"
+        },
+        {
+            "degree": 30,
+            "parity": 1,
+            "id": "Rick and Morty (TV series)"
+        },
+        {
+            "degree": 18,
+            "parity": 1,
+            "id": "Anatomy Park (episode)"
+        },
+        {
+            "degree": 17,
+            "parity": 0,
+            "id": "Season 1"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Anatomy Park (location)"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Lawnmower Dog"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Pilot"
+        },
+        {
+            "degree": 19,
+            "parity": 0,
+            "id": "M. Night Shaym-Aliens!"
+        },
+        {
+            "degree": 31,
+            "parity": 0,
+            "id": "Meeseeks and Destroy"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Rick Potion 9"
+        },
+        {
+            "degree": 18,
+            "parity": 1,
+            "id": "Raising Gazorpazorp"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Rixty Minutes"
+        },
+        {
+            "degree": 26,
+            "parity": 1,
+            "id": "Something Ricked This Way Comes"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Close Rick-counters of the Rick Kind"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Ricksy Business"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Joyce Smith (C-137)"
+        },
+        {
+            "degree": 18,
+            "parity": 1,
+            "id": "Jerry Smith (C-137)"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Mr. Goldenfold"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Jacob"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Ethan"
+        },
+        {
+            "degree": 19,
+            "parity": 0,
+            "id": "Beth Smith"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Ruben"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Zigerions"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Kevin"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Prince Nebulon"
+        },
+        {
+            "degree": 40,
+            "parity": 1,
+            "id": "Morty"
+        },
+        {
+            "degree": 41,
+            "parity": 0,
+            "id": "Rick"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jerry (disambiguation)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Summer (disambiguation)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Beth (disambiguation)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Season 2"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Jessica"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Snuffles"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Dr. Xenon Bloom"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dr. Xeonon Bloom"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Interdimensional Customs"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Mr. Meeseeks"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mr. Jellybean"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Thirsty Step"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Giant Court"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Fancy Eats"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Smith House"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Smith residence"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Joyce"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mr. Meeseeks Box"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Harry Herpson High School"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Frank Palicky"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Gene Vagina"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Concentrated Dark Matter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Time travel"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Laser gun"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Demonic Alien Containment Box"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Cure for Tuberculosis"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Poncho"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Brad"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Leonard Smith (C-137)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Scary Terry"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Annie"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Roger"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Cronenbergs"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Dale"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Justin Roiland"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Bone Train"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Diseases"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Morty Jr."
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Concentrated dark matter"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Inter-Dimensional Goggles"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Morty, Jr."
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Mr. Needful"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Needful Things"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Curse Purge Plus!"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Portal gun and Portal technology"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Ants in my Eyes Johnson"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Dan Harmon"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Gwendolyn"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chris Parnell"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "King Jellybean"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Cure for tuberculosis"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Butt dimension"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Anatomy Park (Episode)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zigerion"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "C-137 Rick"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Unnamed containment box"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Cronenberg"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "King Flippynips"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Rick and Morty: Season 1"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pocket Mortys:Time-Stabilizing Collar"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Simon"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "The Ricks Must Be Crazy/Transcript"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Interdimensional Cable 2: Tempting Fate/Transcript"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Intergalactic Customs"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Rick Potion No. 9"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Anatomy Park (Location)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Time Travel"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Meeseeks Box"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Smith Residence"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Leonard Smith"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Joyce Smith"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Replacement Dimension"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beth Smith (replacement dimension)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Summer Smith (replacement dimension)"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Summer"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Beth"
+        },
+        {
+            "degree": 25,
+            "parity": 0,
+            "id": "Rick and Morty"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beth Smith (replacement dimension"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Jerry"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Steven Phillips"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Snowball"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lucius Needful"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Demonic alien containment box"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Close Rick-Counters of the Rick Kind"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ass Dimension"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Shady Garage"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Glem"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "1% Visible"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Time Crystal"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Rick and Morty: Pocket Like You Stole It"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Portal gun"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Creature (Auto Erotic Assimilation)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pocket Like You Stole It 4"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 107
+        },
+        {
+            "source": 0,
+            "target": 65
+        },
+        {
+            "source": 0,
+            "target": 77
+        },
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 65
+        },
+        {
+            "source": 2,
+            "target": 16
+        },
+        {
+            "source": 2,
+            "target": 24
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 71
+        },
+        {
+            "source": 2,
+            "target": 29
+        },
+        {
+            "source": 2,
+            "target": 21
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 2,
+            "target": 41
+        },
+        {
+            "source": 2,
+            "target": 109
+        },
+        {
+            "source": 2,
+            "target": 106
+        },
+        {
+            "source": 2,
+            "target": 14
+        },
+        {
+            "source": 2,
+            "target": 105
+        },
+        {
+            "source": 2,
+            "target": 95
+        },
+        {
+            "source": 3,
+            "target": 10
+        },
+        {
+            "source": 3,
+            "target": 65
+        },
+        {
+            "source": 3,
+            "target": 49
+        },
+        {
+            "source": 3,
+            "target": 24
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 71
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 100
+        },
+        {
+            "source": 3,
+            "target": 101
+        },
+        {
+            "source": 3,
+            "target": 35
+        },
+        {
+            "source": 3,
+            "target": 61
+        },
+        {
+            "source": 3,
+            "target": 107
+        },
+        {
+            "source": 3,
+            "target": 30
+        },
+        {
+            "source": 3,
+            "target": 105
+        },
+        {
+            "source": 3,
+            "target": 96
+        },
+        {
+            "source": 3,
+            "target": 94
+        },
+        {
+            "source": 3,
+            "target": 14
+        },
+        {
+            "source": 3,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 95
+        },
+        {
+            "source": 4,
+            "target": 10
+        },
+        {
+            "source": 4,
+            "target": 49
+        },
+        {
+            "source": 4,
+            "target": 24
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 71
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 100
+        },
+        {
+            "source": 4,
+            "target": 101
+        },
+        {
+            "source": 4,
+            "target": 23
+        },
+        {
+            "source": 4,
+            "target": 29
+        },
+        {
+            "source": 4,
+            "target": 30
+        },
+        {
+            "source": 4,
+            "target": 36
+        },
+        {
+            "source": 4,
+            "target": 109
+        },
+        {
+            "source": 4,
+            "target": 83
+        },
+        {
+            "source": 4,
+            "target": 16
+        },
+        {
+            "source": 4,
+            "target": 15
+        },
+        {
+            "source": 5,
+            "target": 65
+        },
+        {
+            "source": 5,
+            "target": 29
+        },
+        {
+            "source": 5,
+            "target": 30
+        },
+        {
+            "source": 5,
+            "target": 109
+        },
+        {
+            "source": 5,
+            "target": 79
+        },
+        {
+            "source": 5,
+            "target": 106
+        },
+        {
+            "source": 5,
+            "target": 105
+        },
+        {
+            "source": 5,
+            "target": 35
+        },
+        {
+            "source": 5,
+            "target": 21
+        },
+        {
+            "source": 5,
+            "target": 51
+        },
+        {
+            "source": 5,
+            "target": 58
+        },
+        {
+            "source": 5,
+            "target": 101
+        },
+        {
+            "source": 5,
+            "target": 100
+        },
+        {
+            "source": 5,
+            "target": 23
+        },
+        {
+            "source": 5,
+            "target": 22
+        },
+        {
+            "source": 5,
+            "target": 40
+        },
+        {
+            "source": 5,
+            "target": 61
+        },
+        {
+            "source": 5,
+            "target": 36
+        },
+        {
+            "source": 5,
+            "target": 9
+        },
+        {
+            "source": 5,
+            "target": 10
+        },
+        {
+            "source": 5,
+            "target": 83
+        },
+        {
+            "source": 5,
+            "target": 96
+        },
+        {
+            "source": 5,
+            "target": 11
+        },
+        {
+            "source": 5,
+            "target": 26
+        },
+        {
+            "source": 5,
+            "target": 12
+        },
+        {
+            "source": 5,
+            "target": 95
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 5,
+            "target": 15
+        },
+        {
+            "source": 5,
+            "target": 16
+        },
+        {
+            "source": 6,
+            "target": 7
+        },
+        {
+            "source": 6,
+            "target": 9
+        },
+        {
+            "source": 6,
+            "target": 11
+        },
+        {
+            "source": 6,
+            "target": 107
+        },
+        {
+            "source": 6,
+            "target": 30
+        },
+        {
+            "source": 6,
+            "target": 29
+        },
+        {
+            "source": 6,
+            "target": 109
+        },
+        {
+            "source": 6,
+            "target": 23
+        },
+        {
+            "source": 6,
+            "target": 47
+        },
+        {
+            "source": 6,
+            "target": 25
+        },
+        {
+            "source": 6,
+            "target": 105
+        },
+        {
+            "source": 6,
+            "target": 37
+        },
+        {
+            "source": 6,
+            "target": 61
+        },
+        {
+            "source": 6,
+            "target": 57
+        },
+        {
+            "source": 6,
+            "target": 62
+        },
+        {
+            "source": 6,
+            "target": 96
+        },
+        {
+            "source": 6,
+            "target": 99
+        },
+        {
+            "source": 7,
+            "target": 107
+        },
+        {
+            "source": 7,
+            "target": 29
+        },
+        {
+            "source": 7,
+            "target": 30
+        },
+        {
+            "source": 7,
+            "target": 10
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 83
+        },
+        {
+            "source": 8,
+            "target": 25
+        },
+        {
+            "source": 8,
+            "target": 30
+        },
+        {
+            "source": 8,
+            "target": 37
+        },
+        {
+            "source": 8,
+            "target": 67
+        },
+        {
+            "source": 8,
+            "target": 66
+        },
+        {
+            "source": 9,
+            "target": 7
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 9,
+            "target": 83
+        },
+        {
+            "source": 9,
+            "target": 77
+        },
+        {
+            "source": 9,
+            "target": 107
+        },
+        {
+            "source": 9,
+            "target": 29
+        },
+        {
+            "source": 9,
+            "target": 36
+        },
+        {
+            "source": 9,
+            "target": 30
+        },
+        {
+            "source": 9,
+            "target": 21
+        },
+        {
+            "source": 9,
+            "target": 109
+        },
+        {
+            "source": 9,
+            "target": 106
+        },
+        {
+            "source": 9,
+            "target": 105
+        },
+        {
+            "source": 9,
+            "target": 60
+        },
+        {
+            "source": 9,
+            "target": 45
+        },
+        {
+            "source": 10,
+            "target": 7
+        },
+        {
+            "source": 10,
+            "target": 9
+        },
+        {
+            "source": 10,
+            "target": 107
+        },
+        {
+            "source": 10,
+            "target": 29
+        },
+        {
+            "source": 10,
+            "target": 30
+        },
+        {
+            "source": 10,
+            "target": 109
+        },
+        {
+            "source": 10,
+            "target": 106
+        },
+        {
+            "source": 10,
+            "target": 105
+        },
+        {
+            "source": 10,
+            "target": 99
+        },
+        {
+            "source": 11,
+            "target": 7
+        },
+        {
+            "source": 11,
+            "target": 83
+        },
+        {
+            "source": 11,
+            "target": 12
+        },
+        {
+            "source": 11,
+            "target": 107
+        },
+        {
+            "source": 11,
+            "target": 30
+        },
+        {
+            "source": 11,
+            "target": 29
+        },
+        {
+            "source": 11,
+            "target": 106
+        },
+        {
+            "source": 11,
+            "target": 21
+        },
+        {
+            "source": 11,
+            "target": 26
+        },
+        {
+            "source": 11,
+            "target": 109
+        },
+        {
+            "source": 11,
+            "target": 28
+        },
+        {
+            "source": 11,
+            "target": 27
+        },
+        {
+            "source": 12,
+            "target": 7
+        },
+        {
+            "source": 12,
+            "target": 11
+        },
+        {
+            "source": 12,
+            "target": 95
+        },
+        {
+            "source": 12,
+            "target": 107
+        },
+        {
+            "source": 12,
+            "target": 29
+        },
+        {
+            "source": 12,
+            "target": 30
+        },
+        {
+            "source": 12,
+            "target": 98
+        },
+        {
+            "source": 12,
+            "target": 40
+        },
+        {
+            "source": 12,
+            "target": 64
+        },
+        {
+            "source": 12,
+            "target": 42
+        },
+        {
+            "source": 12,
+            "target": 41
+        },
+        {
+            "source": 12,
+            "target": 106
+        },
+        {
+            "source": 12,
+            "target": 109
+        },
+        {
+            "source": 12,
+            "target": 105
+        },
+        {
+            "source": 12,
+            "target": 43
+        },
+        {
+            "source": 12,
+            "target": 44
+        },
+        {
+            "source": 12,
+            "target": 99
+        },
+        {
+            "source": 12,
+            "target": 49
+        },
+        {
+            "source": 13,
+            "target": 7
+        },
+        {
+            "source": 13,
+            "target": 12
+        },
+        {
+            "source": 13,
+            "target": 14
+        },
+        {
+            "source": 13,
+            "target": 107
+        },
+        {
+            "source": 13,
+            "target": 29
+        },
+        {
+            "source": 13,
+            "target": 35
+        },
+        {
+            "source": 13,
+            "target": 30
+        },
+        {
+            "source": 13,
+            "target": 109
+        },
+        {
+            "source": 13,
+            "target": 106
+        },
+        {
+            "source": 13,
+            "target": 105
+        },
+        {
+            "source": 13,
+            "target": 63
+        },
+        {
+            "source": 13,
+            "target": 58
+        },
+        {
+            "source": 13,
+            "target": 51
+        },
+        {
+            "source": 13,
+            "target": 49
+        },
+        {
+            "source": 13,
+            "target": 99
+        },
+        {
+            "source": 14,
+            "target": 7
+        },
+        {
+            "source": 14,
+            "target": 95
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 14,
+            "target": 107
+        },
+        {
+            "source": 14,
+            "target": 29
+        },
+        {
+            "source": 14,
+            "target": 30
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 14,
+            "target": 109
+        },
+        {
+            "source": 14,
+            "target": 106
+        },
+        {
+            "source": 14,
+            "target": 71
+        },
+        {
+            "source": 14,
+            "target": 99
+        },
+        {
+            "source": 15,
+            "target": 7
+        },
+        {
+            "source": 15,
+            "target": 14
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 15,
+            "target": 107
+        },
+        {
+            "source": 15,
+            "target": 30
+        },
+        {
+            "source": 15,
+            "target": 109
+        },
+        {
+            "source": 15,
+            "target": 70
+        },
+        {
+            "source": 15,
+            "target": 106
+        },
+        {
+            "source": 15,
+            "target": 105
+        },
+        {
+            "source": 15,
+            "target": 29
+        },
+        {
+            "source": 15,
+            "target": 95
+        },
+        {
+            "source": 15,
+            "target": 99
+        },
+        {
+            "source": 16,
+            "target": 7
+        },
+        {
+            "source": 16,
+            "target": 15
+        },
+        {
+            "source": 16,
+            "target": 17
+        },
+        {
+            "source": 16,
+            "target": 107
+        },
+        {
+            "source": 16,
+            "target": 30
+        },
+        {
+            "source": 16,
+            "target": 29
+        },
+        {
+            "source": 16,
+            "target": 109
+        },
+        {
+            "source": 16,
+            "target": 105
+        },
+        {
+            "source": 16,
+            "target": 73
+        },
+        {
+            "source": 16,
+            "target": 72
+        },
+        {
+            "source": 16,
+            "target": 21
+        },
+        {
+            "source": 16,
+            "target": 74
+        },
+        {
+            "source": 16,
+            "target": 106
+        },
+        {
+            "source": 16,
+            "target": 88
+        },
+        {
+            "source": 16,
+            "target": 99
+        },
+        {
+            "source": 17,
+            "target": 7
+        },
+        {
+            "source": 17,
+            "target": 16
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 17,
+            "target": 107
+        },
+        {
+            "source": 17,
+            "target": 29
+        },
+        {
+            "source": 17,
+            "target": 30
+        },
+        {
+            "source": 18,
+            "target": 7
+        },
+        {
+            "source": 18,
+            "target": 17
+        },
+        {
+            "source": 18,
+            "target": 107
+        },
+        {
+            "source": 18,
+            "target": 29
+        },
+        {
+            "source": 18,
+            "target": 30
+        },
+        {
+            "source": 19,
+            "target": 109
+        },
+        {
+            "source": 19,
+            "target": 100
+        },
+        {
+            "source": 19,
+            "target": 29
+        },
+        {
+            "source": 20,
+            "target": 10
+        },
+        {
+            "source": 20,
+            "target": 79
+        },
+        {
+            "source": 20,
+            "target": 100
+        },
+        {
+            "source": 20,
+            "target": 101
+        },
+        {
+            "source": 20,
+            "target": 2
+        },
+        {
+            "source": 20,
+            "target": 4
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 71
+        },
+        {
+            "source": 20,
+            "target": 24
+        },
+        {
+            "source": 20,
+            "target": 29
+        },
+        {
+            "source": 20,
+            "target": 30
+        },
+        {
+            "source": 20,
+            "target": 106
+        },
+        {
+            "source": 20,
+            "target": 83
+        },
+        {
+            "source": 20,
+            "target": 22
+        },
+        {
+            "source": 20,
+            "target": 16
+        },
+        {
+            "source": 20,
+            "target": 40
+        },
+        {
+            "source": 20,
+            "target": 63
+        },
+        {
+            "source": 20,
+            "target": 15
+        },
+        {
+            "source": 21,
+            "target": 16
+        },
+        {
+            "source": 21,
+            "target": 105
+        },
+        {
+            "source": 22,
+            "target": 47
+        },
+        {
+            "source": 22,
+            "target": 83
+        },
+        {
+            "source": 23,
+            "target": 105
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 96
+        },
+        {
+            "source": 24,
+            "target": 10
+        },
+        {
+            "source": 24,
+            "target": 2
+        },
+        {
+            "source": 24,
+            "target": 4
+        },
+        {
+            "source": 24,
+            "target": 3
+        },
+        {
+            "source": 24,
+            "target": 68
+        },
+        {
+            "source": 24,
+            "target": 30
+        },
+        {
+            "source": 24,
+            "target": 109
+        },
+        {
+            "source": 24,
+            "target": 29
+        },
+        {
+            "source": 24,
+            "target": 105
+        },
+        {
+            "source": 24,
+            "target": 36
+        },
+        {
+            "source": 24,
+            "target": 12
+        },
+        {
+            "source": 24,
+            "target": 15
+        },
+        {
+            "source": 25,
+            "target": 83
+        },
+        {
+            "source": 26,
+            "target": 11
+        },
+        {
+            "source": 26,
+            "target": 30
+        },
+        {
+            "source": 26,
+            "target": 28
+        },
+        {
+            "source": 26,
+            "target": 109
+        },
+        {
+            "source": 26,
+            "target": 27
+        },
+        {
+            "source": 26,
+            "target": 29
+        },
+        {
+            "source": 27,
+            "target": 26
+        },
+        {
+            "source": 27,
+            "target": 11
+        },
+        {
+            "source": 27,
+            "target": 29
+        },
+        {
+            "source": 28,
+            "target": 26
+        },
+        {
+            "source": 28,
+            "target": 107
+        },
+        {
+            "source": 28,
+            "target": 11
+        },
+        {
+            "source": 28,
+            "target": 30
+        },
+        {
+            "source": 28,
+            "target": 27
+        },
+        {
+            "source": 28,
+            "target": 29
+        },
+        {
+            "source": 29,
+            "target": 3
+        },
+        {
+            "source": 30,
+            "target": 2
+        },
+        {
+            "source": 32,
+            "target": 4
+        },
+        {
+            "source": 33,
+            "target": 24
+        },
+        {
+            "source": 35,
+            "target": 29
+        },
+        {
+            "source": 35,
+            "target": 10
+        },
+        {
+            "source": 35,
+            "target": 30
+        },
+        {
+            "source": 35,
+            "target": 94
+        },
+        {
+            "source": 35,
+            "target": 11
+        },
+        {
+            "source": 35,
+            "target": 95
+        },
+        {
+            "source": 36,
+            "target": 29
+        },
+        {
+            "source": 36,
+            "target": 9
+        },
+        {
+            "source": 36,
+            "target": 30
+        },
+        {
+            "source": 36,
+            "target": 109
+        },
+        {
+            "source": 37,
+            "target": 83
+        },
+        {
+            "source": 37,
+            "target": 30
+        },
+        {
+            "source": 37,
+            "target": 96
+        },
+        {
+            "source": 37,
+            "target": 25
+        },
+        {
+            "source": 37,
+            "target": 57
+        },
+        {
+            "source": 37,
+            "target": 62
+        },
+        {
+            "source": 37,
+            "target": 61
+        },
+        {
+            "source": 37,
+            "target": 29
+        },
+        {
+            "source": 38,
+            "target": 37
+        },
+        {
+            "source": 39,
+            "target": 10
+        },
+        {
+            "source": 39,
+            "target": 107
+        },
+        {
+            "source": 40,
+            "target": 98
+        },
+        {
+            "source": 40,
+            "target": 12
+        },
+        {
+            "source": 40,
+            "target": 30
+        },
+        {
+            "source": 41,
+            "target": 80
+        },
+        {
+            "source": 42,
+            "target": 12
+        },
+        {
+            "source": 42,
+            "target": 30
+        },
+        {
+            "source": 42,
+            "target": 29
+        },
+        {
+            "source": 42,
+            "target": 41
+        },
+        {
+            "source": 43,
+            "target": 30
+        },
+        {
+            "source": 43,
+            "target": 29
+        },
+        {
+            "source": 43,
+            "target": 12
+        },
+        {
+            "source": 44,
+            "target": 12
+        },
+        {
+            "source": 44,
+            "target": 109
+        },
+        {
+            "source": 44,
+            "target": 106
+        },
+        {
+            "source": 44,
+            "target": 40
+        },
+        {
+            "source": 45,
+            "target": 99
+        },
+        {
+            "source": 46,
+            "target": 107
+        },
+        {
+            "source": 46,
+            "target": 106
+        },
+        {
+            "source": 46,
+            "target": 109
+        },
+        {
+            "source": 46,
+            "target": 29
+        },
+        {
+            "source": 46,
+            "target": 105
+        },
+        {
+            "source": 46,
+            "target": 30
+        },
+        {
+            "source": 47,
+            "target": 101
+        },
+        {
+            "source": 48,
+            "target": 98
+        },
+        {
+            "source": 48,
+            "target": 30
+        },
+        {
+            "source": 48,
+            "target": 12
+        },
+        {
+            "source": 48,
+            "target": 40
+        },
+        {
+            "source": 49,
+            "target": 29
+        },
+        {
+            "source": 49,
+            "target": 105
+        },
+        {
+            "source": 49,
+            "target": 21
+        },
+        {
+            "source": 49,
+            "target": 3
+        },
+        {
+            "source": 49,
+            "target": 4
+        },
+        {
+            "source": 49,
+            "target": 35
+        },
+        {
+            "source": 49,
+            "target": 50
+        },
+        {
+            "source": 49,
+            "target": 58
+        },
+        {
+            "source": 49,
+            "target": 51
+        },
+        {
+            "source": 50,
+            "target": 49
+        },
+        {
+            "source": 50,
+            "target": 29
+        },
+        {
+            "source": 50,
+            "target": 10
+        },
+        {
+            "source": 50,
+            "target": 30
+        },
+        {
+            "source": 50,
+            "target": 105
+        },
+        {
+            "source": 51,
+            "target": 49
+        },
+        {
+            "source": 51,
+            "target": 72
+        },
+        {
+            "source": 51,
+            "target": 16
+        },
+        {
+            "source": 52,
+            "target": 26
+        },
+        {
+            "source": 54,
+            "target": 41
+        },
+        {
+            "source": 54,
+            "target": 4
+        },
+        {
+            "source": 57,
+            "target": 107
+        },
+        {
+            "source": 57,
+            "target": 83
+        },
+        {
+            "source": 57,
+            "target": 37
+        },
+        {
+            "source": 57,
+            "target": 29
+        },
+        {
+            "source": 58,
+            "target": 107
+        },
+        {
+            "source": 58,
+            "target": 49
+        },
+        {
+            "source": 58,
+            "target": 29
+        },
+        {
+            "source": 58,
+            "target": 105
+        },
+        {
+            "source": 58,
+            "target": 35
+        },
+        {
+            "source": 58,
+            "target": 30
+        },
+        {
+            "source": 58,
+            "target": 51
+        },
+        {
+            "source": 59,
+            "target": 109
+        },
+        {
+            "source": 59,
+            "target": 47
+        },
+        {
+            "source": 59,
+            "target": 29
+        },
+        {
+            "source": 60,
+            "target": 9
+        },
+        {
+            "source": 61,
+            "target": 96
+        },
+        {
+            "source": 61,
+            "target": 83
+        },
+        {
+            "source": 61,
+            "target": 37
+        },
+        {
+            "source": 61,
+            "target": 57
+        },
+        {
+            "source": 61,
+            "target": 29
+        },
+        {
+            "source": 61,
+            "target": 25
+        },
+        {
+            "source": 61,
+            "target": 30
+        },
+        {
+            "source": 61,
+            "target": 23
+        },
+        {
+            "source": 62,
+            "target": 96
+        },
+        {
+            "source": 62,
+            "target": 83
+        },
+        {
+            "source": 62,
+            "target": 37
+        },
+        {
+            "source": 63,
+            "target": 2
+        },
+        {
+            "source": 63,
+            "target": 95
+        },
+        {
+            "source": 64,
+            "target": 12
+        },
+        {
+            "source": 64,
+            "target": 30
+        },
+        {
+            "source": 64,
+            "target": 29
+        },
+        {
+            "source": 65,
+            "target": 107
+        },
+        {
+            "source": 65,
+            "target": 30
+        },
+        {
+            "source": 65,
+            "target": 29
+        },
+        {
+            "source": 68,
+            "target": 29
+        },
+        {
+            "source": 68,
+            "target": 30
+        },
+        {
+            "source": 68,
+            "target": 105
+        },
+        {
+            "source": 68,
+            "target": 106
+        },
+        {
+            "source": 68,
+            "target": 109
+        },
+        {
+            "source": 68,
+            "target": 14
+        },
+        {
+            "source": 69,
+            "target": 52
+        },
+        {
+            "source": 70,
+            "target": 30
+        },
+        {
+            "source": 71,
+            "target": 68
+        },
+        {
+            "source": 72,
+            "target": 73
+        },
+        {
+            "source": 72,
+            "target": 16
+        },
+        {
+            "source": 72,
+            "target": 105
+        },
+        {
+            "source": 72,
+            "target": 30
+        },
+        {
+            "source": 72,
+            "target": 74
+        },
+        {
+            "source": 73,
+            "target": 72
+        },
+        {
+            "source": 73,
+            "target": 16
+        },
+        {
+            "source": 73,
+            "target": 105
+        },
+        {
+            "source": 73,
+            "target": 30
+        },
+        {
+            "source": 73,
+            "target": 74
+        },
+        {
+            "source": 74,
+            "target": 30
+        },
+        {
+            "source": 74,
+            "target": 16
+        },
+        {
+            "source": 74,
+            "target": 73
+        },
+        {
+            "source": 74,
+            "target": 72
+        },
+        {
+            "source": 76,
+            "target": 15
+        },
+        {
+            "source": 76,
+            "target": 65
+        },
+        {
+            "source": 77,
+            "target": 107
+        },
+        {
+            "source": 78,
+            "target": 14
+        },
+        {
+            "source": 78,
+            "target": 71
+        },
+        {
+            "source": 78,
+            "target": 29
+        },
+        {
+            "source": 78,
+            "target": 2
+        },
+        {
+            "source": 78,
+            "target": 3
+        },
+        {
+            "source": 78,
+            "target": 15
+        },
+        {
+            "source": 78,
+            "target": 68
+        },
+        {
+            "source": 79,
+            "target": 107
+        },
+        {
+            "source": 80,
+            "target": 12
+        },
+        {
+            "source": 80,
+            "target": 29
+        },
+        {
+            "source": 80,
+            "target": 42
+        },
+        {
+            "source": 80,
+            "target": 30
+        },
+        {
+            "source": 80,
+            "target": 65
+        },
+        {
+            "source": 81,
+            "target": 56
+        },
+        {
+            "source": 82,
+            "target": 115
+        },
+        {
+            "source": 83,
+            "target": 6
+        },
+        {
+            "source": 84,
+            "target": 26
+        },
+        {
+            "source": 85,
+            "target": 2
+        },
+        {
+            "source": 86,
+            "target": 113
+        },
+        {
+            "source": 87,
+            "target": 63
+        },
+        {
+            "source": 89,
+            "target": 7
+        },
+        {
+            "source": 90,
+            "target": 119
+        },
+        {
+            "source": 91,
+            "target": 30
+        },
+        {
+            "source": 91,
+            "target": 29
+        },
+        {
+            "source": 92,
+            "target": 107
+        },
+        {
+            "source": 92,
+            "target": 34
+        },
+        {
+            "source": 93,
+            "target": 107
+        },
+        {
+            "source": 93,
+            "target": 34
+        },
+        {
+            "source": 94,
+            "target": 39
+        },
+        {
+            "source": 95,
+            "target": 13
+        },
+        {
+            "source": 96,
+            "target": 8
+        },
+        {
+            "source": 97,
+            "target": 53
+        },
+        {
+            "source": 98,
+            "target": 48
+        },
+        {
+            "source": 99,
+            "target": 46
+        },
+        {
+            "source": 100,
+            "target": 59
+        },
+        {
+            "source": 101,
+            "target": 19
+        },
+        {
+            "source": 103,
+            "target": 24
+        },
+        {
+            "source": 104,
+            "target": 4
+        },
+        {
+            "source": 105,
+            "target": 32
+        },
+        {
+            "source": 106,
+            "target": 33
+        },
+        {
+            "source": 107,
+            "target": 5
+        },
+        {
+            "source": 108,
+            "target": 24
+        },
+        {
+            "source": 109,
+            "target": 31
+        },
+        {
+            "source": 110,
+            "target": 4
+        },
+        {
+            "source": 110,
+            "target": 3
+        },
+        {
+            "source": 111,
+            "target": 36
+        },
+        {
+            "source": 112,
+            "target": 72
+        },
+        {
+            "source": 113,
+            "target": 55
+        },
+        {
+            "source": 114,
+            "target": 17
+        },
+        {
+            "source": 116,
+            "target": 102
+        },
+        {
+            "source": 117,
+            "target": 34
+        },
+        {
+            "source": 118,
+            "target": 73
+        },
+        {
+            "source": 121,
+            "target": 75
+        },
+        {
+            "source": 122,
+            "target": 2
+        },
+        {
+            "source": 122,
+            "target": 87
+        },
+        {
+            "source": 122,
+            "target": 65
+        },
+        {
+            "source": 123,
+            "target": 120
+        }
+    ],
+    "edges": [
+        {
+            "source": "Rick and Morty Wiki",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Rick and Morty Wiki",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Rick and Morty Wiki",
+            "target": "Dan Harmon"
+        },
+        {
+            "source": "Main Page",
+            "target": "Rick and Morty Wiki"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Pilot"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Morty, Jr."
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Morty"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Mr. Goldenfold"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Mr. Jellybean"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Jerry"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Beth"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Summer"
+        },
+        {
+            "source": "Rick Sanchez",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Pilot"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Morty, Jr."
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Leonard Smith"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Joyce Smith"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Jessica"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Annie"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Rick"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Summer"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Intergalactic Customs"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Morty Smith",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Pilot"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Morty, Jr."
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Leonard Smith"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Joyce Smith"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Ethan"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Morty"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Rick"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Snuffles"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Jerry"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Summer Smith",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Morty"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Rick"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Jerry"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Chris Parnell"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Beth"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Summer"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Jessica"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Mr. Goldenfold"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Gene Vagina"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Brad"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Joyce Smith"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Leonard Smith"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Ethan"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Jacob"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Mr. Meeseeks"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Annie"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Snuffles"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Pilot"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Zigerions"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Rick and Morty (TV series)",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Season 1"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Rick"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Morty"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Jerry"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Ethan"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Joyce"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Ruben"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Summer"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Dr. Xenon Bloom"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Annie"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Poncho"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Roger"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Anatomy Park (episode)",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Season 1",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Season 1",
+            "target": "Morty"
+        },
+        {
+            "source": "Season 1",
+            "target": "Rick"
+        },
+        {
+            "source": "Season 1",
+            "target": "Pilot"
+        },
+        {
+            "source": "Season 1",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Anatomy Park (location)",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Anatomy Park (location)",
+            "target": "Ruben"
+        },
+        {
+            "source": "Anatomy Park (location)",
+            "target": "Rick"
+        },
+        {
+            "source": "Anatomy Park (location)",
+            "target": "Dr. Xenon Bloom"
+        },
+        {
+            "source": "Anatomy Park (location)",
+            "target": "Diseases"
+        },
+        {
+            "source": "Anatomy Park (location)",
+            "target": "Bone Train"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Season 1"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Pilot"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Dan Harmon"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Morty"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Snuffles"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Rick"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Mr. Goldenfold"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Jerry"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Beth"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Summer"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Scary Terry"
+        },
+        {
+            "source": "Lawnmower Dog",
+            "target": "Smith House"
+        },
+        {
+            "source": "Pilot",
+            "target": "Season 1"
+        },
+        {
+            "source": "Pilot",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Pilot",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Pilot",
+            "target": "Morty"
+        },
+        {
+            "source": "Pilot",
+            "target": "Rick"
+        },
+        {
+            "source": "Pilot",
+            "target": "Jerry"
+        },
+        {
+            "source": "Pilot",
+            "target": "Beth"
+        },
+        {
+            "source": "Pilot",
+            "target": "Summer"
+        },
+        {
+            "source": "Pilot",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Season 1"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Rick"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Morty"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Beth"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Mr. Goldenfold"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Zigerions"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Jerry"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Prince Nebulon"
+        },
+        {
+            "source": "M. Night Shaym-Aliens!",
+            "target": "Kevin"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Season 1"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Morty"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Rick"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Meeseeks Box"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Mr. Meeseeks"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Dale"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Thirsty Step"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Mr. Jellybean"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Beth"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Jerry"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Summer"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Giant Court"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Fancy Eats"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Meeseeks and Destroy",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Season 1"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Morty"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Jessica"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Rick"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Jerry"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Beth"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Summer"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Cronenbergs"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Brad"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Gene Vagina"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Rick Potion 9",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Season 1"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Morty"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Rick"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Jerry"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Beth"
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Morty, Jr."
+        },
+        {
+            "source": "Raising Gazorpazorp",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Season 1"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Rick"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Jerry"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Inter-Dimensional Goggles"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Beth"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Summer"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Morty"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Rixty Minutes",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Season 1"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Close Rick-counters of the Rick Kind"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Rick"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Morty"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Jerry"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Summer"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Needful Things"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Mr. Needful"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Mr. Goldenfold"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Curse Purge Plus!"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Beth"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "King Flippynips"
+        },
+        {
+            "source": "Something Ricked This Way Comes",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Close Rick-counters of the Rick Kind",
+            "target": "Season 1"
+        },
+        {
+            "source": "Close Rick-counters of the Rick Kind",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Close Rick-counters of the Rick Kind",
+            "target": "Ricksy Business"
+        },
+        {
+            "source": "Close Rick-counters of the Rick Kind",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Close Rick-counters of the Rick Kind",
+            "target": "Morty"
+        },
+        {
+            "source": "Close Rick-counters of the Rick Kind",
+            "target": "Rick"
+        },
+        {
+            "source": "Ricksy Business",
+            "target": "Season 1"
+        },
+        {
+            "source": "Ricksy Business",
+            "target": "Close Rick-counters of the Rick Kind"
+        },
+        {
+            "source": "Ricksy Business",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Ricksy Business",
+            "target": "Morty"
+        },
+        {
+            "source": "Ricksy Business",
+            "target": "Rick"
+        },
+        {
+            "source": "Joyce Smith (C-137)",
+            "target": "Jerry"
+        },
+        {
+            "source": "Joyce Smith (C-137)",
+            "target": "Leonard Smith"
+        },
+        {
+            "source": "Joyce Smith (C-137)",
+            "target": "Morty"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Pilot"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Chris Parnell"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Leonard Smith"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Joyce Smith"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Morty, Jr."
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Morty"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Rick"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Beth"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Jacob"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Mr. Meeseeks"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Cronenbergs"
+        },
+        {
+            "source": "Jerry Smith (C-137)",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Mr. Goldenfold",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Mr. Goldenfold",
+            "target": "Summer"
+        },
+        {
+            "source": "Jacob",
+            "target": "Joyce"
+        },
+        {
+            "source": "Jacob",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Ethan",
+            "target": "Summer"
+        },
+        {
+            "source": "Ethan",
+            "target": "Jacob"
+        },
+        {
+            "source": "Ethan",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Pilot"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Morty Jr."
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Rick"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Jerry"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Morty"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Summer"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Snuffles"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Beth Smith",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Ruben",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Zigerions",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Zigerions",
+            "target": "Rick"
+        },
+        {
+            "source": "Zigerions",
+            "target": "Prince Nebulon"
+        },
+        {
+            "source": "Zigerions",
+            "target": "Jerry"
+        },
+        {
+            "source": "Zigerions",
+            "target": "Kevin"
+        },
+        {
+            "source": "Zigerions",
+            "target": "Morty"
+        },
+        {
+            "source": "Kevin",
+            "target": "Zigerions"
+        },
+        {
+            "source": "Kevin",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Kevin",
+            "target": "Morty"
+        },
+        {
+            "source": "Prince Nebulon",
+            "target": "Zigerions"
+        },
+        {
+            "source": "Prince Nebulon",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Prince Nebulon",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Prince Nebulon",
+            "target": "Rick"
+        },
+        {
+            "source": "Prince Nebulon",
+            "target": "Kevin"
+        },
+        {
+            "source": "Prince Nebulon",
+            "target": "Morty"
+        },
+        {
+            "source": "Morty",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Rick",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Summer (disambiguation)",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Beth (disambiguation)",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Jessica",
+            "target": "Morty"
+        },
+        {
+            "source": "Jessica",
+            "target": "Pilot"
+        },
+        {
+            "source": "Jessica",
+            "target": "Rick"
+        },
+        {
+            "source": "Jessica",
+            "target": "Intergalactic Customs"
+        },
+        {
+            "source": "Jessica",
+            "target": "M. Night Shaym-Aliens!"
+        },
+        {
+            "source": "Jessica",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Snuffles",
+            "target": "Morty"
+        },
+        {
+            "source": "Snuffles",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Snuffles",
+            "target": "Rick"
+        },
+        {
+            "source": "Snuffles",
+            "target": "Jerry"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Rick"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Ruben"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Poncho"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Roger"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Annie"
+        },
+        {
+            "source": "Dr. Xenon Bloom",
+            "target": "Morty"
+        },
+        {
+            "source": "Dr. Xeonon Bloom",
+            "target": "Dr. Xenon Bloom"
+        },
+        {
+            "source": "Interdimensional Customs",
+            "target": "Pilot"
+        },
+        {
+            "source": "Interdimensional Customs",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Mr. Meeseeks",
+            "target": "Meeseeks Box"
+        },
+        {
+            "source": "Mr. Meeseeks",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Mr. Meeseeks",
+            "target": "Rick"
+        },
+        {
+            "source": "Mr. Jellybean",
+            "target": "King Jellybean"
+        },
+        {
+            "source": "Thirsty Step",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Thirsty Step",
+            "target": "Rick"
+        },
+        {
+            "source": "Thirsty Step",
+            "target": "Morty"
+        },
+        {
+            "source": "Thirsty Step",
+            "target": "Mr. Jellybean"
+        },
+        {
+            "source": "Giant Court",
+            "target": "Rick"
+        },
+        {
+            "source": "Giant Court",
+            "target": "Morty"
+        },
+        {
+            "source": "Giant Court",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Fancy Eats",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Fancy Eats",
+            "target": "Jerry"
+        },
+        {
+            "source": "Fancy Eats",
+            "target": "Beth"
+        },
+        {
+            "source": "Fancy Eats",
+            "target": "Mr. Meeseeks"
+        },
+        {
+            "source": "Smith House",
+            "target": "Smith Residence"
+        },
+        {
+            "source": "Smith residence",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Smith residence",
+            "target": "Beth"
+        },
+        {
+            "source": "Smith residence",
+            "target": "Jerry"
+        },
+        {
+            "source": "Smith residence",
+            "target": "Morty"
+        },
+        {
+            "source": "Smith residence",
+            "target": "Summer"
+        },
+        {
+            "source": "Smith residence",
+            "target": "Rick"
+        },
+        {
+            "source": "Joyce",
+            "target": "Joyce Smith"
+        },
+        {
+            "source": "Mr. Meeseeks Box",
+            "target": "Meeseeks Box"
+        },
+        {
+            "source": "Mr. Meeseeks Box",
+            "target": "Rick"
+        },
+        {
+            "source": "Mr. Meeseeks Box",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Mr. Meeseeks Box",
+            "target": "Mr. Meeseeks"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Morty"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Summer"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Mr. Goldenfold"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Jessica"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Frank Palicky"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Brad"
+        },
+        {
+            "source": "Harry Herpson High School",
+            "target": "Gene Vagina"
+        },
+        {
+            "source": "Frank Palicky",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Frank Palicky",
+            "target": "Morty"
+        },
+        {
+            "source": "Frank Palicky",
+            "target": "Pilot"
+        },
+        {
+            "source": "Frank Palicky",
+            "target": "Rick"
+        },
+        {
+            "source": "Frank Palicky",
+            "target": "Summer"
+        },
+        {
+            "source": "Gene Vagina",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Gene Vagina",
+            "target": "Mr. Needful"
+        },
+        {
+            "source": "Gene Vagina",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Concentrated Dark Matter",
+            "target": "Zigerions"
+        },
+        {
+            "source": "Laser gun",
+            "target": "Mr. Jellybean"
+        },
+        {
+            "source": "Laser gun",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Poncho",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Poncho",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Poncho",
+            "target": "Dr. Xenon Bloom"
+        },
+        {
+            "source": "Poncho",
+            "target": "Morty"
+        },
+        {
+            "source": "Brad",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Brad",
+            "target": "Harry Herpson High School"
+        },
+        {
+            "source": "Brad",
+            "target": "Morty"
+        },
+        {
+            "source": "Brad",
+            "target": "Summer"
+        },
+        {
+            "source": "Brad",
+            "target": "Jessica"
+        },
+        {
+            "source": "Brad",
+            "target": "Rick"
+        },
+        {
+            "source": "Brad",
+            "target": "Gene Vagina"
+        },
+        {
+            "source": "Leonard Smith (C-137)",
+            "target": "Jerry"
+        },
+        {
+            "source": "Leonard Smith (C-137)",
+            "target": "Joyce"
+        },
+        {
+            "source": "Leonard Smith (C-137)",
+            "target": "Morty"
+        },
+        {
+            "source": "Scary Terry",
+            "target": "Lawnmower Dog"
+        },
+        {
+            "source": "Annie",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Annie",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Annie",
+            "target": "Dr. Xenon Bloom"
+        },
+        {
+            "source": "Annie",
+            "target": "Poncho"
+        },
+        {
+            "source": "Annie",
+            "target": "Morty"
+        },
+        {
+            "source": "Annie",
+            "target": "Ruben"
+        },
+        {
+            "source": "Annie",
+            "target": "Rick"
+        },
+        {
+            "source": "Annie",
+            "target": "Ethan"
+        },
+        {
+            "source": "Roger",
+            "target": "Anatomy Park (Location)"
+        },
+        {
+            "source": "Roger",
+            "target": "Anatomy Park (Episode)"
+        },
+        {
+            "source": "Roger",
+            "target": "Dr. Xenon Bloom"
+        },
+        {
+            "source": "Cronenbergs",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Cronenbergs",
+            "target": "Rick Potion No. 9"
+        },
+        {
+            "source": "Dale",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "Dale",
+            "target": "Rick"
+        },
+        {
+            "source": "Dale",
+            "target": "Morty"
+        },
+        {
+            "source": "Justin Roiland",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Justin Roiland",
+            "target": "Rick"
+        },
+        {
+            "source": "Justin Roiland",
+            "target": "Morty"
+        },
+        {
+            "source": "Morty Jr.",
+            "target": "Morty"
+        },
+        {
+            "source": "Morty Jr.",
+            "target": "Rick"
+        },
+        {
+            "source": "Morty Jr.",
+            "target": "Summer"
+        },
+        {
+            "source": "Morty Jr.",
+            "target": "Beth"
+        },
+        {
+            "source": "Morty Jr.",
+            "target": "Jerry"
+        },
+        {
+            "source": "Morty Jr.",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Concentrated dark matter",
+            "target": "Concentrated Dark Matter"
+        },
+        {
+            "source": "Inter-Dimensional Goggles",
+            "target": "Rick"
+        },
+        {
+            "source": "Morty, Jr.",
+            "target": "Morty Jr."
+        },
+        {
+            "source": "Mr. Needful",
+            "target": "Needful Things"
+        },
+        {
+            "source": "Mr. Needful",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Mr. Needful",
+            "target": "Summer"
+        },
+        {
+            "source": "Mr. Needful",
+            "target": "Rick"
+        },
+        {
+            "source": "Mr. Needful",
+            "target": "Curse Purge Plus!"
+        },
+        {
+            "source": "Needful Things",
+            "target": "Mr. Needful"
+        },
+        {
+            "source": "Needful Things",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Needful Things",
+            "target": "Summer"
+        },
+        {
+            "source": "Needful Things",
+            "target": "Rick"
+        },
+        {
+            "source": "Needful Things",
+            "target": "Curse Purge Plus!"
+        },
+        {
+            "source": "Curse Purge Plus!",
+            "target": "Rick"
+        },
+        {
+            "source": "Curse Purge Plus!",
+            "target": "Something Ricked This Way Comes"
+        },
+        {
+            "source": "Curse Purge Plus!",
+            "target": "Needful Things"
+        },
+        {
+            "source": "Curse Purge Plus!",
+            "target": "Mr. Needful"
+        },
+        {
+            "source": "Ants in my Eyes Johnson",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Ants in my Eyes Johnson",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Dan Harmon",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Raising Gazorpazorp"
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Morty, Jr."
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Morty"
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Rixty Minutes"
+        },
+        {
+            "source": "Gwendolyn",
+            "target": "Morty Jr."
+        },
+        {
+            "source": "Chris Parnell",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "King Jellybean",
+            "target": "Meeseeks and Destroy"
+        },
+        {
+            "source": "King Jellybean",
+            "target": "Morty"
+        },
+        {
+            "source": "King Jellybean",
+            "target": "Thirsty Step"
+        },
+        {
+            "source": "King Jellybean",
+            "target": "Rick"
+        },
+        {
+            "source": "King Jellybean",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Cure for tuberculosis",
+            "target": "Cure for Tuberculosis"
+        },
+        {
+            "source": "Butt dimension",
+            "target": "Ass Dimension"
+        },
+        {
+            "source": "Anatomy Park (Episode)",
+            "target": "Anatomy Park (episode)"
+        },
+        {
+            "source": "Zigerion",
+            "target": "Zigerions"
+        },
+        {
+            "source": "C-137 Rick",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Unnamed containment box",
+            "target": "Demonic alien containment box"
+        },
+        {
+            "source": "Cronenberg",
+            "target": "Cronenbergs"
+        },
+        {
+            "source": "Rick and Morty: Season 1",
+            "target": "Season 1"
+        },
+        {
+            "source": "Pocket Mortys:Time-Stabilizing Collar",
+            "target": "Time Crystal"
+        },
+        {
+            "source": "Simon",
+            "target": "Rick"
+        },
+        {
+            "source": "Simon",
+            "target": "Morty"
+        },
+        {
+            "source": "The Ricks Must Be Crazy/Transcript",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "The Ricks Must Be Crazy/Transcript",
+            "target": "Season 2"
+        },
+        {
+            "source": "Interdimensional Cable 2: Tempting Fate/Transcript",
+            "target": "Rick and Morty"
+        },
+        {
+            "source": "Interdimensional Cable 2: Tempting Fate/Transcript",
+            "target": "Season 2"
+        },
+        {
+            "source": "Intergalactic Customs",
+            "target": "Interdimensional Customs"
+        },
+        {
+            "source": "Rick Potion No. 9",
+            "target": "Rick Potion 9"
+        },
+        {
+            "source": "Anatomy Park (Location)",
+            "target": "Anatomy Park (location)"
+        },
+        {
+            "source": "Time Travel",
+            "target": "Time travel"
+        },
+        {
+            "source": "Meeseeks Box",
+            "target": "Mr. Meeseeks Box"
+        },
+        {
+            "source": "Smith Residence",
+            "target": "Smith residence"
+        },
+        {
+            "source": "Leonard Smith",
+            "target": "Leonard Smith (C-137)"
+        },
+        {
+            "source": "Joyce Smith",
+            "target": "Joyce Smith (C-137)"
+        },
+        {
+            "source": "Beth Smith (replacement dimension)",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Summer Smith (replacement dimension)",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Summer",
+            "target": "Summer (disambiguation)"
+        },
+        {
+            "source": "Beth",
+            "target": "Beth (disambiguation)"
+        },
+        {
+            "source": "Rick and Morty",
+            "target": "Rick and Morty (TV series)"
+        },
+        {
+            "source": "Beth Smith (replacement dimension",
+            "target": "Beth Smith"
+        },
+        {
+            "source": "Jerry",
+            "target": "Jerry (disambiguation)"
+        },
+        {
+            "source": "Steven Phillips",
+            "target": "Summer Smith"
+        },
+        {
+            "source": "Steven Phillips",
+            "target": "Morty Smith"
+        },
+        {
+            "source": "Snowball",
+            "target": "Snuffles"
+        },
+        {
+            "source": "Lucius Needful",
+            "target": "Mr. Needful"
+        },
+        {
+            "source": "Demonic alien containment box",
+            "target": "Demonic Alien Containment Box"
+        },
+        {
+            "source": "Close Rick-Counters of the Rick Kind",
+            "target": "Close Rick-counters of the Rick Kind"
+        },
+        {
+            "source": "Shady Garage",
+            "target": "Replacement Dimension"
+        },
+        {
+            "source": "Glem",
+            "target": "Season 2"
+        },
+        {
+            "source": "1% Visible",
+            "target": "Needful Things"
+        },
+        {
+            "source": "Portal gun",
+            "target": "Portal gun and Portal technology"
+        },
+        {
+            "source": "Creature (Auto Erotic Assimilation)",
+            "target": "Rick Sanchez"
+        },
+        {
+            "source": "Creature (Auto Erotic Assimilation)",
+            "target": "Cronenberg"
+        },
+        {
+            "source": "Creature (Auto Erotic Assimilation)",
+            "target": "Justin Roiland"
+        },
+        {
+            "source": "Pocket Like You Stole It 4",
+            "target": "Rick and Morty: Pocket Like You Stole It"
+        }
+    ],
+    "basic": {
+        "numNodes": 124,
+        "numEdges": 475,
+        "selfLinks": 0,
+        "numStrongComponents": 50,
+        "numWeakComponents": 9,
+        "sizeLargestStrong": 75,
+        "sizeLargestWeak": 107,
+        "radius": 3,
+        "diameter": 8,
+        "averageInDegree": 3.8306451612903225,
+        "averageOutDegree": 3.8306451612903225,
+        "maxOutDegree": 29,
+        "maxInDegree": 40,
+        "pageRank": {
+            "Rick and Morty Wiki": 0.002357725445797353,
+            "Main Page": 0.0012409527419539887,
+            "Rick Sanchez": 0.05180612873935834,
+            "Morty Smith": 0.05174404770395983,
+            "Summer Smith": 0.03671000999083164,
+            "Rick and Morty (TV series)": 0.028067318833735738,
+            "Anatomy Park (episode)": 0.016162719426343657,
+            "Season 1": 0.011368989360462708,
+            "Anatomy Park (location)": 0.00978805246958226,
+            "Lawnmower Dog": 0.013249088441722824,
+            "Pilot": 0.018062742911932526,
+            "M. Night Shaym-Aliens!": 0.007348701324184154,
+            "Meeseeks and Destroy": 0.01678537023076984,
+            "Rick Potion 9": 0.012263259642027544,
+            "Raising Gazorpazorp": 0.010636340016210492,
+            "Rixty Minutes": 0.008670972128755372,
+            "Something Ricked This Way Comes": 0.01632469003643265,
+            "Close Rick-counters of the Rick Kind": 0.003659422486174337,
+            "Ricksy Business": 0.0017898530067479185,
+            "Joyce Smith (C-137)": 0.012989761775751257,
+            "Jerry Smith (C-137)": 0.0012409527419539887,
+            "Mr. Goldenfold": 0.008187414623525043,
+            "Jacob": 0.0038935364738061267,
+            "Ethan": 0.0057315781668868596,
+            "Beth Smith": 0.024852270576701377,
+            "Ruben": 0.005057141940388532,
+            "Zigerions": 0.007333033564413567,
+            "Kevin": 0.00332567958966751,
+            "Prince Nebulon": 0.002891931487427815,
+            "Morty": 0.04678011447026542,
+            "Rick": 0.04544572621402415,
+            "Jerry (disambiguation)": 0.028890339295430518,
+            "Summer (disambiguation)": 0.02699169882909665,
+            "Beth (disambiguation)": 0.015616944312647329,
+            "Season 2": 0.0034744981496407177,
+            "Jessica": 0.006737107862147856,
+            "Snuffles": 0.008009725393763665,
+            "Dr. Xenon Bloom": 0.0070547595190891205,
+            "Dr. Xeonon Bloom": 0.0012409527419539887,
+            "Interdimensional Customs": 0.005472650972214113,
+            "Mr. Meeseeks": 0.004720249211085599,
+            "Mr. Jellybean": 0.006123243927960247,
+            "Thirsty Step": 0.0032958496542761662,
+            "Giant Court": 0.0020803129132727564,
+            "Fancy Eats": 0.0020803129132727564,
+            "Smith House": 0.002092714575404032,
+            "Smith residence": 0.010116831074302841,
+            "Joyce": 0.007078182511130517,
+            "Mr. Meeseeks Box": 0.005503852683864833,
+            "Harry Herpson High School": 0.009500719956017074,
+            "Frank Palicky": 0.0021910339506625506,
+            "Gene Vagina": 0.004286174630251872,
+            "Concentrated Dark Matter": 0.002357725445797353,
+            "Time travel": 0.002357725445797353,
+            "Laser gun": 0.0012409527419539887,
+            "Demonic Alien Containment Box": 0.0033627436034308427,
+            "Cure for Tuberculosis": 0.002357725445797353,
+            "Poncho": 0.0035889868201468035,
+            "Brad": 0.003797881232496744,
+            "Leonard Smith (C-137)": 0.010768626420646191,
+            "Scary Terry": 0.002092714575404032,
+            "Annie": 0.0062121676457328875,
+            "Roger": 0.0028901923893964354,
+            "Cronenbergs": 0.003490579683726873,
+            "Dale": 0.0020803129132727564,
+            "Justin Roiland": 0.010159284207425632,
+            "Bone Train": 0.0027091078621957164,
+            "Diseases": 0.0027091078621957164,
+            "Morty Jr.": 0.01189739086243953,
+            "Concentrated dark matter": 0.0012409527419539887,
+            "Inter-Dimensional Goggles": 0.001891328124487513,
+            "Morty, Jr.": 0.009591804239229614,
+            "Mr. Needful": 0.006606830858529457,
+            "Needful Things": 0.005517137137921315,
+            "Curse Purge Plus!": 0.004402804684827072,
+            "Portal gun and Portal technology": 0.002357725445797353,
+            "Ants in my Eyes Johnson": 0.0012409527419539887,
+            "Dan Harmon": 0.0027999781958963164,
+            "Gwendolyn": 0.0012409527419539887,
+            "Chris Parnell": 0.0021740376943857544,
+            "King Jellybean": 0.006752339888397331,
+            "Cure for tuberculosis": 0.0012409527419539887,
+            "Butt dimension": 0.0012409527419539887,
+            "Anatomy Park (Episode)": 0.01658027300194971,
+            "Zigerion": 0.0012409527419539887,
+            "C-137 Rick": 0.0012409527419539887,
+            "Unnamed containment box": 0.0012409527419539887,
+            "Cronenberg": 0.0016132103099017769,
+            "King Flippynips": 0.0022204946419854695,
+            "Rick and Morty: Season 1": 0.0012409527419539887,
+            "Pocket Mortys:Time-Stabilizing Collar": 0.0012409527419539887,
+            "Simon": 0.0012409527419539887,
+            "The Ricks Must Be Crazy/Transcript": 0.0012409527419539887,
+            "Interdimensional Cable 2: Tempting Fate/Transcript": 0.0012409527419539887,
+            "Intergalactic Customs": 0.004702388704024761,
+            "Rick Potion No. 9": 0.012247025060957505,
+            "Anatomy Park (Location)": 0.009497451701108297,
+            "Time Travel": 0.0012409527419539887,
+            "Meeseeks Box": 0.004735380123613219,
+            "Smith Residence": 0.009861693544301775,
+            "Leonard Smith": 0.010586704389110243,
+            "Joyce Smith": 0.013057372910163168,
+            "Replacement Dimension": 0.002357725445797353,
+            "Beth Smith (replacement dimension)": 0.0012409527419539887,
+            "Summer Smith (replacement dimension)": 0.0012409527419539887,
+            "Summer": 0.028610194114940812,
+            "Beth": 0.015972022023834413,
+            "Rick and Morty": 0.029807468645245482,
+            "Beth Smith (replacement dimension": 0.0012409527419539887,
+            "Jerry": 0.030723076500510725,
+            "Steven Phillips": 0.0012409527419539887,
+            "Snowball": 0.0012409527419539887,
+            "Lucius Needful": 0.0012409527419539887,
+            "Demonic alien containment box": 0.002357725445797353,
+            "Close Rick-Counters of the Rick Kind": 0.0012409527419539887,
+            "Ass Dimension": 0.002357725445797353,
+            "Shady Garage": 0.0012409527419539887,
+            "Glem": 0.0012409527419539887,
+            "1% Visible": 0.0012409527419539887,
+            "Time Crystal": 0.002357725445797353,
+            "Rick and Morty: Pocket Like You Stole It": 0.002357725445797353,
+            "Portal gun": 0.0012409527419539887,
+            "Creature (Auto Erotic Assimilation)": 0.0012409527419539887,
+            "Pocket Like You Stole It 4": 0.0012409527419539887
+        },
+        "hitsHubs": {
+            "Rick and Morty Wiki": 0.004360932880419075,
+            "Main Page": 6.147746414719235e-35,
+            "Rick Sanchez": 0.0315490711547676,
+            "Morty Smith": 0.02994540881361796,
+            "Summer Smith": 0.02979632442817775,
+            "Rick and Morty (TV series)": 0.04718560311042617,
+            "Anatomy Park (episode)": 0.03203396624485134,
+            "Season 1": 0.017480852137861644,
+            "Anatomy Park (location)": 0.008148936488166593,
+            "Lawnmower Dog": 0.032636676081337114,
+            "Pilot": 0.02901750464920251,
+            "M. Night Shaym-Aliens!": 0.029055857335993415,
+            "Meeseeks and Destroy": 0.03443629896294537,
+            "Rick Potion 9": 0.03518755134144511,
+            "Raising Gazorpazorp": 0.029658928481443324,
+            "Rixty Minutes": 0.03251868530569185,
+            "Something Ricked This Way Comes": 0.03215350425514945,
+            "Close Rick-counters of the Rick Kind": 0.018224455286534335,
+            "Ricksy Business": 0.016904373286708494,
+            "Joyce Smith (C-137)": 0.010166675627645299,
+            "Jerry Smith (C-137)": 0.029638896167208887,
+            "Mr. Goldenfold": 0.0048737000116998485,
+            "Jacob": 0.0018109397005175065,
+            "Ethan": 0.0048972684709001615,
+            "Beth Smith": 0.027551517568848674,
+            "Ruben": 0.0015189055942019976,
+            "Zigerions": 0.016615357476879915,
+            "Kevin": 0.0074346792695129905,
+            "Prince Nebulon": 0.016641378275323283,
+            "Morty": 0.0009997213306237424,
+            "Rick": 0.0009080002919939281,
+            "Jerry (disambiguation)": 0.0,
+            "Summer (disambiguation)": 0.001141838329806661,
+            "Beth (disambiguation)": 0.0008321651030000945,
+            "Season 2": 0.0,
+            "Jessica": 0.016047381678020736,
+            "Snuffles": 0.015914020126549414,
+            "Dr. Xenon Bloom": 0.01576159352170211,
+            "Dr. Xeonon Bloom": 0.0004745627214691708,
+            "Interdimensional Customs": 0.005143967451073691,
+            "Mr. Meeseeks": 0.007792365090494621,
+            "Mr. Jellybean": 6.147746414719235e-35,
+            "Thirsty Step": 0.013597438377202058,
+            "Giant Court": 0.013049481567012428,
+            "Fancy Eats": 0.009158201908828897,
+            "Smith House": 0.0015273378773206895,
+            "Smith residence": 0.024130059741740234,
+            "Joyce": 0.0009270080463057016,
+            "Mr. Meeseeks Box": 0.00866266051434942,
+            "Harry Herpson High School": 0.014897877169949617,
+            "Frank Palicky": 0.01757395143348913,
+            "Gene Vagina": 0.0030486054405442385,
+            "Concentrated Dark Matter": 0.0006856065915791281,
+            "Time travel": 0.0,
+            "Laser gun": 0.0016897951399962936,
+            "Demonic Alien Containment Box": 0.0,
+            "Cure for Tuberculosis": 0.0,
+            "Poncho": 0.01081917917837334,
+            "Brad": 0.020673240796177234,
+            "Leonard Smith (C-137)": 0.00946940592562701,
+            "Scary Terry": 0.0011755482572699933,
+            "Annie": 0.015913930560862797,
+            "Roger": 0.0029962641369067357,
+            "Cronenbergs": 0.00241662330755424,
+            "Dale": 0.013049481567012425,
+            "Justin Roiland": 0.01438681091267009,
+            "Bone Train": 0.0,
+            "Diseases": 0.0,
+            "Morty Jr.": 0.022323230881730494,
+            "Concentrated dark matter": 6.147746414719235e-35,
+            "Inter-Dimensional Goggles": 0.005561100049967921,
+            "Morty, Jr.": 0.0002664590611887428,
+            "Mr. Needful": 0.01114898680701222,
+            "Needful Things": 0.011169822091085458,
+            "Curse Purge Plus!": 0.007805994007955626,
+            "Portal gun and Portal technology": 0.0,
+            "Ants in my Eyes Johnson": 0.0023018066887175795,
+            "Dan Harmon": 0.0032254744831521306,
+            "Gwendolyn": 0.011703060912233184,
+            "Chris Parnell": 0.0032254744831521306,
+            "King Jellybean": 0.0142638408631984,
+            "Cure for tuberculosis": 6.147746414719235e-35,
+            "Butt dimension": 6.147746414719235e-35,
+            "Anatomy Park (Episode)": 6.147746414719235e-35,
+            "Zigerion": 0.0006856065915791281,
+            "C-137 Rick": 0.0009080002919939281,
+            "Unnamed containment box": 6.147746414719235e-35,
+            "Cronenberg": 0.00044004024530910825,
+            "King Flippynips": 0.0,
+            "Rick and Morty: Season 1": 0.0021845587728715954,
+            "Pocket Mortys:Time-Stabilizing Collar": 6.147746414719235e-35,
+            "Simon": 0.01116133642951796,
+            "The Ricks Must Be Crazy/Transcript": 0.003269866014662786,
+            "Interdimensional Cable 2: Tempting Fate/Transcript": 0.003269866014662786,
+            "Intergalactic Customs": 6.147746414719235e-35,
+            "Rick Potion No. 9": 6.147746414719235e-35,
+            "Anatomy Park (Location)": 6.147746414719235e-35,
+            "Time Travel": 6.147746414719235e-35,
+            "Meeseeks Box": 6.147746414719235e-35,
+            "Smith Residence": 6.147746414719235e-35,
+            "Leonard Smith": 6.147746414719235e-35,
+            "Joyce Smith": 6.147746414719235e-35,
+            "Replacement Dimension": 0.0,
+            "Beth Smith (replacement dimension)": 0.0008321651030000945,
+            "Summer Smith (replacement dimension)": 0.001141838329806661,
+            "Summer": 6.147746414719235e-35,
+            "Beth": 6.147746414719235e-35,
+            "Rick and Morty": 6.147746414719235e-35,
+            "Beth Smith (replacement dimension": 0.0008321651030000945,
+            "Jerry": 6.147746414719235e-35,
+            "Steven Phillips": 0.002141559660430403,
+            "Snowball": 0.00093110722699838,
+            "Lucius Needful": 0.0003677583559758051,
+            "Demonic alien containment box": 6.147746414719235e-35,
+            "Close Rick-Counters of the Rick Kind": 0.0003330036011668095,
+            "Ass Dimension": 0.0,
+            "Shady Garage": 6.147746414719235e-35,
+            "Glem": 4.4391531510654834e-05,
+            "1% Visible": 0.00034692307190256513,
+            "Time Crystal": 0.0,
+            "Rick and Morty: Pocket Like You Stole It": 0.0,
+            "Portal gun": 6.147746414719235e-35,
+            "Creature (Auto Erotic Assimilation)": 0.0018061908232338958,
+            "Pocket Like You Stole It 4": 6.147746414719235e-35
+        },
+        "hitsAuths": {
+            "Rick and Morty Wiki": 8.930059084006368e-34,
+            "Main Page": 0.0,
+            "Rick Sanchez": 0.013189379829309573,
+            "Morty Smith": 0.014521696159484815,
+            "Summer Smith": 0.016586051313279993,
+            "Rick and Morty (TV series)": 8.930059084006368e-34,
+            "Anatomy Park (episode)": 8.930059084006368e-34,
+            "Season 1": 0.031732341574011926,
+            "Anatomy Park (location)": 8.930059084006368e-34,
+            "Lawnmower Dog": 0.017075713091203006,
+            "Pilot": 0.02786753779363992,
+            "M. Night Shaym-Aliens!": 0.01668770201362841,
+            "Meeseeks and Destroy": 0.02742671297670132,
+            "Rick Potion 9": 8.930059084006368e-34,
+            "Raising Gazorpazorp": 0.020606883204545966,
+            "Rixty Minutes": 0.020565459396679336,
+            "Something Ricked This Way Comes": 0.022227475538428347,
+            "Close Rick-counters of the Rick Kind": 0.004837125074786141,
+            "Ricksy Business": 0.0017848227770003132,
+            "Joyce Smith (C-137)": 8.930059084006368e-34,
+            "Jerry Smith (C-137)": 0.0,
+            "Mr. Goldenfold": 0.01836082619430352,
+            "Jacob": 0.008003469521013797,
+            "Ethan": 0.012235076027244066,
+            "Beth Smith": 0.012087817284796827,
+            "Ruben": 0.007037497410971775,
+            "Zigerions": 0.009958945861083389,
+            "Kevin": 0.0061026205550351025,
+            "Prince Nebulon": 0.004472837358792639,
+            "Morty": 0.08134760021012957,
+            "Rick": 0.08077911590397356,
+            "Jerry (disambiguation)": 8.930059084006368e-34,
+            "Summer (disambiguation)": 8.930059084006368e-34,
+            "Beth (disambiguation)": 8.930059084006368e-34,
+            "Season 2": 0.0006448200242458804,
+            "Jessica": 0.014483663152509487,
+            "Snuffles": 0.013525025252721973,
+            "Dr. Xenon Bloom": 0.006893376622757292,
+            "Dr. Xeonon Bloom": 0.0,
+            "Interdimensional Customs": 8.930059084006368e-34,
+            "Mr. Meeseeks": 0.012641688565676882,
+            "Mr. Jellybean": 0.00795948036952425,
+            "Thirsty Step": 0.004769476916326206,
+            "Giant Court": 0.0033725392489013005,
+            "Fancy Eats": 0.0033725392489013005,
+            "Smith House": 0.0031962921204817998,
+            "Smith residence": 8.930059084006368e-34,
+            "Joyce": 0.004242012679147882,
+            "Mr. Meeseeks Box": 8.930059084006368e-34,
+            "Harry Herpson High School": 0.01671382302109538,
+            "Frank Palicky": 0.0014590323869366152,
+            "Gene Vagina": 0.01155094187967442,
+            "Concentrated Dark Matter": 8.930059084006368e-34,
+            "Time travel": 8.930059084006368e-34,
+            "Laser gun": 0.0,
+            "Demonic Alien Containment Box": 8.930059084006368e-34,
+            "Cure for Tuberculosis": 8.930059084006368e-34,
+            "Poncho": 0.0062394265099165675,
+            "Brad": 0.009526295849608785,
+            "Leonard Smith (C-137)": 8.930059084006368e-34,
+            "Scary Terry": 0.0031962921204817998,
+            "Annie": 0.012234757476681974,
+            "Roger": 0.004680886334733473,
+            "Cronenbergs": 0.006391911970445931,
+            "Dale": 0.0033725392489013005,
+            "Justin Roiland": 0.012869995392078074,
+            "Bone Train": 0.0007980709010552067,
+            "Diseases": 0.0007980709010552067,
+            "Morty Jr.": 0.003870516119837406,
+            "Concentrated dark matter": 0.0,
+            "Inter-Dimensional Goggles": 0.003184736624345482,
+            "Morty, Jr.": 0.01589413236997703,
+            "Mr. Needful": 0.005341963747297748,
+            "Needful Things": 0.005039315743859261,
+            "Curse Purge Plus!": 0.005334778115429222,
+            "Portal gun and Portal technology": 8.930059084006368e-34,
+            "Ants in my Eyes Johnson": 0.0,
+            "Dan Harmon": 0.003623382654140615,
+            "Gwendolyn": 0.0,
+            "Chris Parnell": 0.007523852645060741,
+            "King Jellybean": 8.930059084006368e-34,
+            "Cure for tuberculosis": 0.0,
+            "Butt dimension": 0.0,
+            "Anatomy Park (Episode)": 0.02206323388156715,
+            "Zigerion": 0.0,
+            "C-137 Rick": 0.0,
+            "Unnamed containment box": 0.0,
+            "Cronenberg": 0.00017689036343058375,
+            "King Flippynips": 0.0031489724028561073,
+            "Rick and Morty: Season 1": 0.0,
+            "Pocket Mortys:Time-Stabilizing Collar": 0.0,
+            "Simon": 0.0,
+            "The Ricks Must Be Crazy/Transcript": 0.0,
+            "Interdimensional Cable 2: Tempting Fate/Transcript": 0.0,
+            "Intergalactic Customs": 0.0045043310618244565,
+            "Rick Potion No. 9": 0.021913871776151835,
+            "Anatomy Park (Location)": 0.014566355423164075,
+            "Time Travel": 0.0,
+            "Meeseeks Box": 0.004984071886309784,
+            "Smith Residence": 0.022185719067818004,
+            "Leonard Smith": 0.014370373897175135,
+            "Joyce Smith": 0.013465481603208401,
+            "Replacement Dimension": 8.930059084006368e-34,
+            "Beth Smith (replacement dimension)": 0.0,
+            "Summer Smith (replacement dimension)": 0.0,
+            "Summer": 0.04856664335690971,
+            "Beth": 0.04100074145482061,
+            "Rick and Morty": 0.04685241674825796,
+            "Beth Smith (replacement dimension": 0.0,
+            "Jerry": 0.05196055379265643,
+            "Steven Phillips": 0.0,
+            "Snowball": 0.0,
+            "Lucius Needful": 0.0,
+            "Demonic alien containment box": 8.930059084006368e-34,
+            "Close Rick-Counters of the Rick Kind": 0.0,
+            "Ass Dimension": 8.930059084006368e-34,
+            "Shady Garage": 0.0,
+            "Glem": 0.0,
+            "1% Visible": 0.0,
+            "Time Crystal": 8.930059084006368e-34,
+            "Rick and Morty: Pocket Like You Stole It": 8.930059084006368e-34,
+            "Portal gun": 0.0,
+            "Creature (Auto Erotic Assimilation)": 0.0,
+            "Pocket Like You Stole It 4": 0.0
+        },
+        "averagePathLength": 3.409369369369369
+    }
+}

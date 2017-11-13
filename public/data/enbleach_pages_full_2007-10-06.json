@@ -1,0 +1,153 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Bleach Wiki"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Races"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "List of Arrancar"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gin Ichimaru"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Hueco Mundo"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Arturo Plateado"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Gantenbein Mosqueda"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 4,
+            "target": 3
+        }
+    ],
+    "edges": [
+        {
+            "source": "Bleach Wiki",
+            "target": "List of Arrancar"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "Races"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Races",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "List of Arrancar",
+            "target": "Gantenbein Mosqueda"
+        },
+        {
+            "source": "List of Arrancar",
+            "target": "Arturo Plateado"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Hueco Mundo",
+            "target": "Gin Ichimaru"
+        }
+    ],
+    "basic": {
+        "numNodes": 7,
+        "numEdges": 8,
+        "selfLinks": 0,
+        "numStrongComponents": 6,
+        "numWeakComponents": 1,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 7,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 1.1428571428571428,
+        "averageOutDegree": 1.1428571428571428,
+        "maxOutDegree": 3,
+        "maxInDegree": 3,
+        "pageRank": {
+            "Bleach Wiki": 0.024113817217265486,
+            "Races": 0.03134796238244513,
+            "List of Arrancar": 0.03134796238244513,
+            "Gin Ichimaru": 0.40904799870712966,
+            "Hueco Mundo": 0.4277014587319826,
+            "Arturo Plateado": 0.0382204002893658,
+            "Gantenbein Mosqueda": 0.0382204002893658
+        },
+        "hitsHubs": {
+            "Bleach Wiki": 0.49999999860301614,
+            "Races": 0.24999999930150807,
+            "List of Arrancar": 2.7939677160401795e-09,
+            "Gin Ichimaru": 0.24999999930150807,
+            "Hueco Mundo": 2.0816681653560545e-17,
+            "Arturo Plateado": 0.0,
+            "Gantenbein Mosqueda": 0.0
+        },
+        "hitsAuths": {
+            "Bleach Wiki": 0.0,
+            "Races": 0.24999999860301614,
+            "List of Arrancar": 0.24999999860301614,
+            "Gin Ichimaru": 4.1633363190798817e-17,
+            "Hueco Mundo": 0.4999999972060323,
+            "Arturo Plateado": 2.793967708233924e-09,
+            "Gantenbein Mosqueda": 2.793967708233924e-09
+        },
+        "averagePathLength": 0.38095238095238093
+    }
+}

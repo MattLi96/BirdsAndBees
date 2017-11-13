@@ -1,0 +1,1081 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Bleach Wiki"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Races"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "List of Arrancar"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Gin Ichimaru"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Kisuke Urahara"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Bleach: Memories of Nobody"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Hueco Mundo"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Arturo Plateado"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ulquiorra Cifer"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Soul Society"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "List of Hollow"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Isshin Kurosaki"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Bleach"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Rangiku Matsumoto"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Gotei 13"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zanpaktou"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Bankai"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Zanpakut\u014d"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Renji Abarai"
+        },
+        {
+            "degree": 18,
+            "parity": 1,
+            "id": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Byakuya Kuchiki"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Shikai"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Grimmjow Jaegerjaquez"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Hollow"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "S\u014dsuke Aizen"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 23
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 24
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 3,
+            "target": 24
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 3,
+            "target": 14
+        },
+        {
+            "source": 3,
+            "target": 19
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 3,
+            "target": 20
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 4,
+            "target": 9
+        },
+        {
+            "source": 4,
+            "target": 21
+        },
+        {
+            "source": 4,
+            "target": 18
+        },
+        {
+            "source": 4,
+            "target": 14
+        },
+        {
+            "source": 4,
+            "target": 11
+        },
+        {
+            "source": 4,
+            "target": 23
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 4,
+            "target": 16
+        },
+        {
+            "source": 4,
+            "target": 24
+        },
+        {
+            "source": 6,
+            "target": 9
+        },
+        {
+            "source": 6,
+            "target": 24
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 24
+        },
+        {
+            "source": 9,
+            "target": 12
+        },
+        {
+            "source": 9,
+            "target": 6
+        },
+        {
+            "source": 9,
+            "target": 13
+        },
+        {
+            "source": 9,
+            "target": 19
+        },
+        {
+            "source": 9,
+            "target": 24
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 18
+        },
+        {
+            "source": 10,
+            "target": 6
+        },
+        {
+            "source": 10,
+            "target": 9
+        },
+        {
+            "source": 10,
+            "target": 19
+        },
+        {
+            "source": 10,
+            "target": 24
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 12,
+            "target": 5
+        },
+        {
+            "source": 12,
+            "target": 18
+        },
+        {
+            "source": 12,
+            "target": 20
+        },
+        {
+            "source": 12,
+            "target": 9
+        },
+        {
+            "source": 12,
+            "target": 23
+        },
+        {
+            "source": 12,
+            "target": 6
+        },
+        {
+            "source": 13,
+            "target": 19
+        },
+        {
+            "source": 13,
+            "target": 9
+        },
+        {
+            "source": 13,
+            "target": 21
+        },
+        {
+            "source": 13,
+            "target": 14
+        },
+        {
+            "source": 13,
+            "target": 3
+        },
+        {
+            "source": 14,
+            "target": 20
+        },
+        {
+            "source": 14,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 14,
+            "target": 24
+        },
+        {
+            "source": 14,
+            "target": 18
+        },
+        {
+            "source": 14,
+            "target": 19
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 15,
+            "target": 17
+        },
+        {
+            "source": 17,
+            "target": 9
+        },
+        {
+            "source": 17,
+            "target": 23
+        },
+        {
+            "source": 17,
+            "target": 11
+        },
+        {
+            "source": 17,
+            "target": 4
+        },
+        {
+            "source": 17,
+            "target": 20
+        },
+        {
+            "source": 17,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 20
+        },
+        {
+            "source": 18,
+            "target": 9
+        },
+        {
+            "source": 18,
+            "target": 21
+        },
+        {
+            "source": 18,
+            "target": 16
+        },
+        {
+            "source": 18,
+            "target": 24
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 18,
+            "target": 13
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 4
+        },
+        {
+            "source": 18,
+            "target": 6
+        },
+        {
+            "source": 19,
+            "target": 9
+        },
+        {
+            "source": 19,
+            "target": 21
+        },
+        {
+            "source": 19,
+            "target": 16
+        },
+        {
+            "source": 19,
+            "target": 13
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 24
+        },
+        {
+            "source": 19,
+            "target": 6
+        },
+        {
+            "source": 20,
+            "target": 18
+        },
+        {
+            "source": 20,
+            "target": 9
+        },
+        {
+            "source": 20,
+            "target": 21
+        },
+        {
+            "source": 20,
+            "target": 16
+        },
+        {
+            "source": 20,
+            "target": 14
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 19
+        },
+        {
+            "source": 22,
+            "target": 24
+        },
+        {
+            "source": 22,
+            "target": 17
+        },
+        {
+            "source": 23,
+            "target": 6
+        },
+        {
+            "source": 23,
+            "target": 9
+        },
+        {
+            "source": 23,
+            "target": 19
+        },
+        {
+            "source": 23,
+            "target": 24
+        },
+        {
+            "source": 24,
+            "target": 9
+        },
+        {
+            "source": 24,
+            "target": 21
+        },
+        {
+            "source": 24,
+            "target": 16
+        },
+        {
+            "source": 24,
+            "target": 6
+        },
+        {
+            "source": 24,
+            "target": 18
+        },
+        {
+            "source": 24,
+            "target": 3
+        },
+        {
+            "source": 24,
+            "target": 19
+        },
+        {
+            "source": 24,
+            "target": 4
+        }
+    ],
+    "edges": [
+        {
+            "source": "Bleach Wiki",
+            "target": "List of Hollow"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "List of Arrancar"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "Hollow"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Bleach Wiki",
+            "target": "Zanpakut\u014d"
+        },
+        {
+            "source": "Races",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Races",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "List of Arrancar",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "List of Arrancar",
+            "target": "Arturo Plateado"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "Gotei 13"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "Rangiku Matsumoto"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "Gin Ichimaru",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Shikai"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Renji Abarai"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Gotei 13"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Isshin Kurosaki"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Hollow"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "Bankai"
+        },
+        {
+            "source": "Kisuke Urahara",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Hueco Mundo",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Hueco Mundo",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Hueco Mundo",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "Ulquiorra Cifer",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Soul Society",
+            "target": "Bleach"
+        },
+        {
+            "source": "Soul Society",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Soul Society",
+            "target": "Rangiku Matsumoto"
+        },
+        {
+            "source": "Soul Society",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Soul Society",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Soul Society",
+            "target": "Kisuke Urahara"
+        },
+        {
+            "source": "Soul Society",
+            "target": "Renji Abarai"
+        },
+        {
+            "source": "List of Hollow",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "List of Hollow",
+            "target": "Soul Society"
+        },
+        {
+            "source": "List of Hollow",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "List of Hollow",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "List of Hollow",
+            "target": "Kisuke Urahara"
+        },
+        {
+            "source": "Bleach",
+            "target": "Bleach: Memories of Nobody"
+        },
+        {
+            "source": "Bleach",
+            "target": "Renji Abarai"
+        },
+        {
+            "source": "Bleach",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "Bleach",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Bleach",
+            "target": "Hollow"
+        },
+        {
+            "source": "Bleach",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Rangiku Matsumoto",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Rangiku Matsumoto",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Rangiku Matsumoto",
+            "target": "Shikai"
+        },
+        {
+            "source": "Rangiku Matsumoto",
+            "target": "Gotei 13"
+        },
+        {
+            "source": "Rangiku Matsumoto",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "Rangiku Matsumoto"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "Renji Abarai"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Gotei 13",
+            "target": "Kisuke Urahara"
+        },
+        {
+            "source": "Zanpaktou",
+            "target": "Zanpakut\u014d"
+        },
+        {
+            "source": "Zanpakut\u014d",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Zanpakut\u014d",
+            "target": "Hollow"
+        },
+        {
+            "source": "Zanpakut\u014d",
+            "target": "Isshin Kurosaki"
+        },
+        {
+            "source": "Zanpakut\u014d",
+            "target": "Kisuke Urahara"
+        },
+        {
+            "source": "Zanpakut\u014d",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "Zanpakut\u014d",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Shikai"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Bankai"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Rangiku Matsumoto"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Kisuke Urahara"
+        },
+        {
+            "source": "Renji Abarai",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Soul Society"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Shikai"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Bankai"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Rangiku Matsumoto"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Byakuya Kuchiki"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "T\u014dshir\u014d Hitsugaya",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "Renji Abarai"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "Shikai"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "Bankai"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "Gotei 13"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "Byakuya Kuchiki",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Grimmjow Jaegerjaquez",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "Grimmjow Jaegerjaquez",
+            "target": "Zanpakut\u014d"
+        },
+        {
+            "source": "Hollow",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "Hollow",
+            "target": "Soul Society"
+        },
+        {
+            "source": "Hollow",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "Hollow",
+            "target": "S\u014dsuke Aizen"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Soul Society"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Shikai"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Bankai"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Hueco Mundo"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Renji Abarai"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Gin Ichimaru"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "T\u014dshir\u014d Hitsugaya"
+        },
+        {
+            "source": "S\u014dsuke Aizen",
+            "target": "Kisuke Urahara"
+        }
+    ],
+    "basic": {
+        "numNodes": 25,
+        "numEdges": 106,
+        "selfLinks": 0,
+        "numStrongComponents": 14,
+        "numWeakComponents": 1,
+        "sizeLargestStrong": 12,
+        "sizeLargestWeak": 25,
+        "radius": 2,
+        "diameter": 3,
+        "averageInDegree": 4.24,
+        "averageOutDegree": 4.24,
+        "maxOutDegree": 10,
+        "maxInDegree": 14,
+        "pageRank": {
+            "Bleach Wiki": 0.009403396236070422,
+            "Races": 0.009403396236070422,
+            "List of Arrancar": 0.010813935839807618,
+            "Gin Ichimaru": 0.08037968038379704,
+            "Kisuke Urahara": 0.05139696970168829,
+            "Bleach: Memories of Nobody": 0.012943059391185282,
+            "Hueco Mundo": 0.0766333884862146,
+            "Arturo Plateado": 0.014269723429583017,
+            "Ulquiorra Cifer": 0.009403396236070422,
+            "Soul Society": 0.1103939150223252,
+            "List of Hollow": 0.010813935839807618,
+            "Isshin Kurosaki": 0.01806947065899601,
+            "Bleach": 0.02359667193240879,
+            "Rangiku Matsumoto": 0.053642778792164794,
+            "Gotei 13": 0.0411749125224059,
+            "Zanpaktou": 0.009403396236070422,
+            "Bankai": 0.04757936936354591,
+            "Zanpakut\u014d": 0.023508792273442387,
+            "Renji Abarai": 0.05618815356328169,
+            "T\u014dshir\u014d Hitsugaya": 0.08320798325281982,
+            "Byakuya Kuchiki": 0.05165524067386687,
+            "Shikai": 0.05723534395797694,
+            "Grimmjow Jaegerjaquez": 0.009403396236070422,
+            "Hollow": 0.02301967341784807,
+            "S\u014dsuke Aizen": 0.10646002031648212
+        },
+        "hitsHubs": {
+            "Bleach Wiki": 0.03351215463246506,
+            "Races": 0.02746226311419361,
+            "List of Arrancar": 0.012314105519755121,
+            "Gin Ichimaru": 0.0735210961818481,
+            "Kisuke Urahara": 0.07188514335477307,
+            "Bleach: Memories of Nobody": 0.0,
+            "Hueco Mundo": 0.036973751520748714,
+            "Arturo Plateado": 0.0,
+            "Ulquiorra Cifer": 0.012081711163428311,
+            "Soul Society": 0.05991106431871482,
+            "List of Hollow": 0.05994297554977732,
+            "Isshin Kurosaki": 0.0,
+            "Bleach": 0.04902577249881012,
+            "Rangiku Matsumoto": 0.05085527856878867,
+            "Gotei 13": 0.06554672377900211,
+            "Zanpaktou": 0.0008942082709741893,
+            "Bankai": 0.0,
+            "Zanpakut\u014d": 0.05174181712575646,
+            "Renji Abarai": 0.10170128282641373,
+            "T\u014dshir\u014d Hitsugaya": 0.08130228155425834,
+            "Byakuya Kuchiki": 0.06583799384434769,
+            "Shikai": 0.0,
+            "Grimmjow Jaegerjaquez": 0.012975919434402499,
+            "Hollow": 0.05202931142690554,
+            "S\u014dsuke Aizen": 0.08048514531463637
+        },
+        "hitsAuths": {
+            "Bleach Wiki": 0.0,
+            "Races": 0.0,
+            "List of Arrancar": 0.005070542367998796,
+            "Gin Ichimaru": 0.07303509089570152,
+            "Kisuke Urahara": 0.06344639812419278,
+            "Bleach: Memories of Nobody": 0.007417823748408114,
+            "Hueco Mundo": 0.09364139585993864,
+            "Arturo Plateado": 0.0018631805222453215,
+            "Ulquiorra Cifer": 0.0,
+            "Soul Society": 0.12653242651630978,
+            "List of Hollow": 0.005070542367998796,
+            "Isshin Kurosaki": 0.018705324901452977,
+            "Bleach": 0.009064818219161264,
+            "Rangiku Matsumoto": 0.05779569264054531,
+            "Gotei 13": 0.03965685565514227,
+            "Zanpaktou": 0.0,
+            "Bankai": 0.06070518858161272,
+            "Zanpakut\u014d": 0.007169156169037181,
+            "Renji Abarai": 0.05941607302300282,
+            "T\u014dshir\u014d Hitsugaya": 0.10009897554266674,
+            "Byakuya Kuchiki": 0.07485402307124514,
+            "Shikai": 0.0683998249662149,
+            "Grimmjow Jaegerjaquez": 0.0,
+            "Hollow": 0.031193691017859893,
+            "S\u014dsuke Aizen": 0.09686297580926485
+        },
+        "averagePathLength": 0.99
+    }
+}

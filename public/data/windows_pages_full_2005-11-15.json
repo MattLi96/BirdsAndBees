@@ -1,0 +1,281 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Windows 3.1"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Corporation"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PowerPoint"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "LOP"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Original equipment manufacturer"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Outlook Express"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guide:Saem"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "SMS"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "United States v. Microsoft"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Midori (operating system)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Notepad (Windows)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Metro design language"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sound Recorder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Popfly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Popfly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microshaft Winblows 98"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Metro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Office 98 Macintosh Edition"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Windows 98"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Policy"
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 19
+        },
+        {
+            "source": 6,
+            "target": 7
+        },
+        {
+            "source": 8,
+            "target": 1
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 2
+        },
+        {
+            "source": 10,
+            "target": 0
+        },
+        {
+            "source": 11,
+            "target": 16
+        },
+        {
+            "source": 12,
+            "target": 0
+        },
+        {
+            "source": 13,
+            "target": 14
+        },
+        {
+            "source": 15,
+            "target": 18
+        },
+        {
+            "source": 17,
+            "target": 5
+        }
+    ],
+    "edges": [
+        {
+            "source": "LOP",
+            "target": "Policy"
+        },
+        {
+            "source": "Guide:Saem",
+            "target": "SMS"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Microsoft Corporation"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Original equipment manufacturer"
+        },
+        {
+            "source": "Midori (operating system)",
+            "target": "PowerPoint"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Metro design language",
+            "target": "Metro"
+        },
+        {
+            "source": "Sound Recorder",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Popfly",
+            "target": "Microsoft Popfly"
+        },
+        {
+            "source": "Microshaft Winblows 98",
+            "target": "Microsoft Windows 98"
+        },
+        {
+            "source": "Microsoft Office 98 Macintosh Edition",
+            "target": "Outlook Express"
+        }
+    ],
+    "basic": {
+        "numNodes": 20,
+        "numEdges": 11,
+        "selfLinks": 0,
+        "numStrongComponents": 20,
+        "numWeakComponents": 9,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 3,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.55,
+        "averageOutDegree": 0.55,
+        "maxOutDegree": 2,
+        "maxInDegree": 2,
+        "pageRank": {
+            "Windows 3.1": 0.09655107414151284,
+            "Microsoft Corporation": 0.04999999999999999,
+            "PowerPoint": 0.06551702471383761,
+            "LOP": 0.03448297528616237,
+            "Original equipment manufacturer": 0.04999999999999999,
+            "Outlook Express": 0.06551702471383761,
+            "Guide:Saem": 0.03448297528616237,
+            "SMS": 0.06551702471383761,
+            "United States v. Microsoft": 0.03448297528616237,
+            "Midori (operating system)": 0.03448297528616237,
+            "Notepad (Windows)": 0.03448297528616237,
+            "Metro design language": 0.03448297528616237,
+            "Sound Recorder": 0.03448297528616237,
+            "Popfly": 0.03448297528616237,
+            "Microsoft Popfly": 0.06551702471383761,
+            "Microshaft Winblows 98": 0.03448297528616237,
+            "Metro": 0.06551702471383761,
+            "Microsoft Office 98 Macintosh Edition": 0.03448297528616237,
+            "Microsoft Windows 98": 0.06551702471383761,
+            "Policy": 0.06551702471383761
+        },
+        "hitsHubs": {
+            "Windows 3.1": 0.0,
+            "Microsoft Corporation": 0.0,
+            "PowerPoint": 0.0,
+            "LOP": 3.1044085753054484e-10,
+            "Original equipment manufacturer": 0.0,
+            "Outlook Express": 0.0,
+            "Guide:Saem": 3.1044085753054484e-10,
+            "SMS": 0.0,
+            "United States v. Microsoft": 0.33333333260897136,
+            "Midori (operating system)": 3.1044085753054484e-10,
+            "Notepad (Windows)": 0.33333333260897136,
+            "Metro design language": 3.1044085753054484e-10,
+            "Sound Recorder": 0.33333333260897136,
+            "Popfly": 3.1044085753054484e-10,
+            "Microsoft Popfly": 0.0,
+            "Microshaft Winblows 98": 3.1044085753054484e-10,
+            "Metro": 0.0,
+            "Microsoft Office 98 Macintosh Edition": 3.1044085753054484e-10,
+            "Microsoft Windows 98": 0.0,
+            "Policy": 0.0
+        },
+        "hitsAuths": {
+            "Windows 3.1": 0.4999999983701855,
+            "Microsoft Corporation": 0.24999999918509275,
+            "PowerPoint": 4.656612857898562e-10,
+            "LOP": 0.0,
+            "Original equipment manufacturer": 0.24999999918509275,
+            "Outlook Express": 4.656612857898562e-10,
+            "Guide:Saem": 0.0,
+            "SMS": 4.656612857898562e-10,
+            "United States v. Microsoft": 0.0,
+            "Midori (operating system)": 0.0,
+            "Notepad (Windows)": 0.0,
+            "Metro design language": 0.0,
+            "Sound Recorder": 0.0,
+            "Popfly": 0.0,
+            "Microsoft Popfly": 4.656612857898562e-10,
+            "Microshaft Winblows 98": 0.0,
+            "Metro": 4.656612857898562e-10,
+            "Microsoft Office 98 Macintosh Edition": 0.0,
+            "Microsoft Windows 98": 4.656612857898562e-10,
+            "Policy": 4.656612857898562e-10
+        },
+        "averagePathLength": 0
+    }
+}

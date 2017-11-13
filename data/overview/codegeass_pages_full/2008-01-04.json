@@ -1,0 +1,52 @@
+{
+  "numNodes": 10,
+  "numEdges": 7,
+  "selfLinks": 0,
+  "numStrongComponents": 10,
+  "numWeakComponents": 3,
+  "sizeLargestStrong": 1,
+  "sizeLargestWeak": 6,
+  "radius": 0,
+  "diameter": 0,
+  "averageInDegree": 0.7,
+  "averageOutDegree": 0.7,
+  "maxOutDegree": 5,
+  "maxInDegree": 1,
+  "pageRank": {
+    "Kyoto House": 0.09291333178710443,
+    "The Messenger from Kyoto": 0.09291333178710443,
+    "Energy Filler": 0.09291333178710443,
+    "Yggdrasil Drive": 0.09291333178710443,
+    "Chinese Federation": 0.14960667749026893,
+    "The Black Knights": 0.09291333178710443,
+    "Code Geass:No page": 0.14960667749026893,
+    "CG:NOPAGE": 0.0787399953613133,
+    "Burai Special Weapons B-Type": 0.0787399953613133,
+    "Yukimaro Sawazaki": 0.0787399953613133
+  },
+  "hitsHubs": {
+    "Kyoto House": 0.0,
+    "The Messenger from Kyoto": 0.0,
+    "Energy Filler": 0.0,
+    "Yggdrasil Drive": 0.0,
+    "Chinese Federation": 0.0,
+    "The Black Knights": 0.0,
+    "Code Geass:No page": 0.0,
+    "CG:NOPAGE": 8.191999986578232e-10,
+    "Burai Special Weapons B-Type": 0.9999999983615999,
+    "Yukimaro Sawazaki": 8.191999986578232e-10
+  },
+  "hitsAuths": {
+    "Kyoto House": 0.19999999967232,
+    "The Messenger from Kyoto": 0.19999999967232,
+    "Energy Filler": 0.19999999967232,
+    "Yggdrasil Drive": 0.19999999967232,
+    "Chinese Federation": 8.191999986578232e-10,
+    "The Black Knights": 0.19999999967232,
+    "Code Geass:No page": 8.191999986578232e-10,
+    "CG:NOPAGE": 0.0,
+    "Burai Special Weapons B-Type": 0.0,
+    "Yukimaro Sawazaki": 0.0
+  },
+  "averagePathLength": 0
+}

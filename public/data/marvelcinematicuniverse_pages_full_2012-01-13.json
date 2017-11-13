@@ -1,0 +1,857 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Nick Fury"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "The Incredible Hulk"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Iron Man"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Marvel Cinematic Universe"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Iron Man 2"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Iron Man (film)"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Captain America: The First Avenger"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Black Widow"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "The Avengers"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Thor (film)"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "S.H.I.E.L.D."
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Phil Coulson"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Bruce Banner"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Captain America"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Pepper Potts"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Howard Stark"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Betty Ross"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Abomination"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Happy Hogan"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Jane Foster"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hawkeye"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Stark Industries"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Marvel Studios"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Thor"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Destroyer"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chris Evans"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Odin"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Asgard"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Kenneth Branagh"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Jon Favreau"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Joe Johnston"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Natasha Romanoff"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Steve Rogers"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Clint Barton"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Thor 2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mjolnir"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 15
+        },
+        {
+            "source": 2,
+            "target": 14
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 2,
+            "target": 21
+        },
+        {
+            "source": 2,
+            "target": 2
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 29
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 3,
+            "target": 28
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 30
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 9,
+            "target": 28
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 6
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 10,
+            "target": 0
+        },
+        {
+            "source": 10,
+            "target": 31
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 10,
+            "target": 2
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 10,
+            "target": 1
+        },
+        {
+            "source": 11,
+            "target": 2
+        },
+        {
+            "source": 11,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 8
+        },
+        {
+            "source": 12,
+            "target": 8
+        },
+        {
+            "source": 12,
+            "target": 16
+        },
+        {
+            "source": 13,
+            "target": 6
+        },
+        {
+            "source": 13,
+            "target": 8
+        },
+        {
+            "source": 13,
+            "target": 25
+        },
+        {
+            "source": 14,
+            "target": 2
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 17,
+            "target": 1
+        },
+        {
+            "source": 18,
+            "target": 2
+        },
+        {
+            "source": 18,
+            "target": 4
+        },
+        {
+            "source": 19,
+            "target": 9
+        },
+        {
+            "source": 19,
+            "target": 34
+        },
+        {
+            "source": 22,
+            "target": 1
+        },
+        {
+            "source": 22,
+            "target": 2
+        },
+        {
+            "source": 23,
+            "target": 27
+        },
+        {
+            "source": 23,
+            "target": 8
+        },
+        {
+            "source": 23,
+            "target": 9
+        },
+        {
+            "source": 23,
+            "target": 34
+        },
+        {
+            "source": 23,
+            "target": 26
+        },
+        {
+            "source": 23,
+            "target": 19
+        },
+        {
+            "source": 23,
+            "target": 35
+        },
+        {
+            "source": 24,
+            "target": 27
+        },
+        {
+            "source": 24,
+            "target": 23
+        },
+        {
+            "source": 25,
+            "target": 6
+        },
+        {
+            "source": 26,
+            "target": 27
+        },
+        {
+            "source": 26,
+            "target": 9
+        },
+        {
+            "source": 27,
+            "target": 26
+        },
+        {
+            "source": 28,
+            "target": 9
+        },
+        {
+            "source": 29,
+            "target": 2
+        },
+        {
+            "source": 29,
+            "target": 4
+        },
+        {
+            "source": 29,
+            "target": 18
+        },
+        {
+            "source": 30,
+            "target": 6
+        },
+        {
+            "source": 31,
+            "target": 7
+        },
+        {
+            "source": 32,
+            "target": 13
+        },
+        {
+            "source": 33,
+            "target": 20
+        }
+    ],
+    "edges": [
+        {
+            "source": "Nick Fury",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Nick Fury",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Nick Fury",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Howard Stark"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Pepper Potts"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Iron Man (film)"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Stark Industries"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Iron Man (film)"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Jon Favreau"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Thor (film)"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Kenneth Branagh"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Marvel Cinematic Universe",
+            "target": "Joe Johnston"
+        },
+        {
+            "source": "Iron Man 2",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Iron Man (film)",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Iron Man (film)",
+            "target": "Pepper Potts"
+        },
+        {
+            "source": "Thor (film)",
+            "target": "Kenneth Branagh"
+        },
+        {
+            "source": "Thor (film)",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Thor (film)",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Thor (film)",
+            "target": "Marvel Cinematic Universe"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Nick Fury"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Natasha Romanoff"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Phil Coulson"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Iron Man"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Phil Coulson",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Phil Coulson",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Phil Coulson",
+            "target": "The Avengers"
+        },
+        {
+            "source": "Bruce Banner",
+            "target": "The Avengers"
+        },
+        {
+            "source": "Bruce Banner",
+            "target": "Betty Ross"
+        },
+        {
+            "source": "Captain America",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Captain America",
+            "target": "The Avengers"
+        },
+        {
+            "source": "Captain America",
+            "target": "Chris Evans"
+        },
+        {
+            "source": "Pepper Potts",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Pepper Potts",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Abomination",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Happy Hogan",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Happy Hogan",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Jane Foster",
+            "target": "Thor (film)"
+        },
+        {
+            "source": "Jane Foster",
+            "target": "Thor 2"
+        },
+        {
+            "source": "Marvel Studios",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Marvel Studios",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Thor",
+            "target": "Asgard"
+        },
+        {
+            "source": "Thor",
+            "target": "The Avengers"
+        },
+        {
+            "source": "Thor",
+            "target": "Thor (film)"
+        },
+        {
+            "source": "Thor",
+            "target": "Thor 2"
+        },
+        {
+            "source": "Thor",
+            "target": "Odin"
+        },
+        {
+            "source": "Thor",
+            "target": "Jane Foster"
+        },
+        {
+            "source": "Thor",
+            "target": "Mjolnir"
+        },
+        {
+            "source": "Destroyer",
+            "target": "Asgard"
+        },
+        {
+            "source": "Destroyer",
+            "target": "Thor"
+        },
+        {
+            "source": "Chris Evans",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Odin",
+            "target": "Asgard"
+        },
+        {
+            "source": "Odin",
+            "target": "Thor (film)"
+        },
+        {
+            "source": "Asgard",
+            "target": "Odin"
+        },
+        {
+            "source": "Kenneth Branagh",
+            "target": "Thor (film)"
+        },
+        {
+            "source": "Jon Favreau",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Jon Favreau",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Jon Favreau",
+            "target": "Happy Hogan"
+        },
+        {
+            "source": "Joe Johnston",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Natasha Romanoff",
+            "target": "Black Widow"
+        },
+        {
+            "source": "Steve Rogers",
+            "target": "Captain America"
+        },
+        {
+            "source": "Clint Barton",
+            "target": "Hawkeye"
+        }
+    ],
+    "basic": {
+        "numNodes": 36,
+        "numEdges": 67,
+        "selfLinks": 1,
+        "numStrongComponents": 30,
+        "numWeakComponents": 2,
+        "sizeLargestStrong": 4,
+        "sizeLargestWeak": 34,
+        "radius": 1,
+        "diameter": 2,
+        "averageInDegree": 1.8611111111111112,
+        "averageOutDegree": 1.8611111111111112,
+        "maxOutDegree": 7,
+        "maxInDegree": 10,
+        "pageRank": {
+            "Nick Fury": 0.010369703825497853,
+            "The Incredible Hulk": 0.022542831427251143,
+            "Iron Man": 0.18106407466326319,
+            "Marvel Cinematic Universe": 0.02234240578826202,
+            "Iron Man 2": 0.11093576585576911,
+            "Iron Man (film)": 0.03904891498417096,
+            "Captain America: The First Avenger": 0.05690807192757784,
+            "Black Widow": 0.018349836455571703,
+            "The Avengers": 0.02300649008498234,
+            "Thor (film)": 0.05921632840093348,
+            "S.H.I.E.L.D.": 0.00901713409196971,
+            "Phil Coulson": 0.010369703825497853,
+            "Bruce Banner": 0.00901713409196971,
+            "Captain America": 0.01713255249313857,
+            "Pepper Potts": 0.053747845544673184,
+            "Howard Stark": 0.0361762399823321,
+            "Betty Ross": 0.01307484329255414,
+            "Abomination": 0.00901713409196971,
+            "Happy Hogan": 0.012584229422091116,
+            "Jane Foster": 0.010698172704608032,
+            "Hawkeye": 0.01713255249313857,
+            "Stark Industries": 0.0361762399823321,
+            "Marvel Studios": 0.00901713409196971,
+            "Thor": 0.01307484329255414,
+            "Destroyer": 0.00901713409196971,
+            "Chris Evans": 0.014156841483892261,
+            "Odin": 0.04030405521607653,
+            "Asgard": 0.03289260581584648,
+            "Kenneth Branagh": 0.02521508079010088,
+            "Jon Favreau": 0.01188980909380857,
+            "Joe Johnston": 0.01188980909380857,
+            "Natasha Romanoff": 0.010369703825497853,
+            "Steve Rogers": 0.00901713409196971,
+            "Clint Barton": 0.00901713409196971,
+            "Thor 2": 0.015512336886373202,
+            "Mjolnir": 0.010698172704608032
+        },
+        "hitsHubs": {
+            "Nick Fury": 0.09078889012269231,
+            "The Incredible Hulk": 0.0,
+            "Iron Man": 0.10346013973313288,
+            "Marvel Cinematic Universe": 0.08983504009106834,
+            "Iron Man 2": 0.03446625513160528,
+            "Iron Man (film)": 0.048742210810557046,
+            "Captain America: The First Avenger": 0.0,
+            "Black Widow": 0.0,
+            "The Avengers": 0.0,
+            "Thor (film)": 0.06772220998108218,
+            "S.H.I.E.L.D.": 0.09779985596285118,
+            "Phil Coulson": 0.08215277119252085,
+            "Bruce Banner": 0.007000264486959694,
+            "Captain America": 0.023096944042881283,
+            "Pepper Potts": 0.07550673358540054,
+            "Howard Stark": 0.0,
+            "Betty Ross": 0.0,
+            "Abomination": 0.007446538624089848,
+            "Happy Hogan": 0.07550673358540054,
+            "Jane Foster": 0.008039741983548176,
+            "Hawkeye": 0.0,
+            "Stark Industries": 0.0,
+            "Marvel Studios": 0.04191279375569513,
+            "Thor": 0.01908963277885067,
+            "Destroyer": 0.0015319719195925165,
+            "Chris Evans": 0.015282156537291775,
+            "Odin": 0.008121394492179829,
+            "Asgard": 0.0010174575437003617,
+            "Kenneth Branagh": 0.006666943306697296,
+            "Jon Favreau": 0.07953116379491063,
+            "Joe Johnston": 0.015282156537291775,
+            "Natasha Romanoff": 9.683383402645527e-41,
+            "Steve Rogers": 9.683383402645527e-41,
+            "Clint Barton": 9.683383402645527e-41,
+            "Thor 2": 0.0,
+            "Mjolnir": 0.0
+        },
+        "hitsAuths": {
+            "Nick Fury": 0.026572321678729385,
+            "The Incredible Hulk": 0.039983303162440906,
+            "Iron Man": 0.18506245617834868,
+            "Marvel Cinematic Universe": 0.018400194281202847,
+            "Iron Man 2": 0.2203619661141934,
+            "Iron Man (film)": 0.05251849966053226,
+            "Captain America: The First Avenger": 0.08205572127561458,
+            "Black Widow": 5.199377506397435e-40,
+            "The Avengers": 0.03568510819440666,
+            "Thor (film)": 0.035797358860952026,
+            "S.H.I.E.L.D.": 0.0,
+            "Phil Coulson": 0.026572321678729385,
+            "Bruce Banner": 0.0,
+            "Captain America": 5.199377506397435e-40,
+            "Pepper Potts": 0.04135353554740006,
+            "Howard Stark": 0.02811022662096249,
+            "Betty Ross": 0.0019019790858380244,
+            "Abomination": 0.0,
+            "Happy Hogan": 0.02160869918842253,
+            "Jane Foster": 0.005186672956162096,
+            "Hawkeye": 5.199377506397435e-40,
+            "Stark Industries": 0.02811022662096249,
+            "Marvel Studios": 0.0,
+            "Thor": 0.0004162383584860956,
+            "Destroyer": 0.0,
+            "Chris Evans": 0.006275463523467342,
+            "Odin": 0.005463117225106221,
+            "Asgard": 0.007809502591712871,
+            "Kenneth Branagh": 0.04280846732077261,
+            "Jon Favreau": 0.02440827303956977,
+            "Joe Johnston": 0.02440827303956977,
+            "Natasha Romanoff": 0.026572321678729385,
+            "Steve Rogers": 0.0,
+            "Clint Barton": 0.0,
+            "Thor 2": 0.007371079161525913,
+            "Mjolnir": 0.005186672956162096
+        },
+        "averagePathLength": 1.3333333333333333
+    }
+}

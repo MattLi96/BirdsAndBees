@@ -1,0 +1,46 @@
+{
+  "numNodes": 8,
+  "numEdges": 6,
+  "selfLinks": 0,
+  "numStrongComponents": 8,
+  "numWeakComponents": 2,
+  "sizeLargestStrong": 1,
+  "sizeLargestWeak": 6,
+  "radius": 0,
+  "diameter": 0,
+  "averageInDegree": 0.75,
+  "averageOutDegree": 0.75,
+  "maxOutDegree": 1,
+  "maxInDegree": 5,
+  "pageRank": {
+    "IPod Touch 4g": 0.07462660826726203,
+    "IPod Touch 4": 0.14179113057757936,
+    "Mac OS X": 0.4104492198188487,
+    "Final Cut Server": 0.07462660826726203,
+    "App:Angry Birds Star Wars": 0.07462660826726203,
+    "Jurassic Park Builder": 0.07462660826726203,
+    "Temple Run": 0.07462660826726203,
+    "Temple Run 2": 0.07462660826726203
+  },
+  "hitsHubs": {
+    "IPod Touch 4g": 1.6383999997315657e-10,
+    "IPod Touch 4": 0.0,
+    "Mac OS X": 0.0,
+    "Final Cut Server": 0.199999999967232,
+    "App:Angry Birds Star Wars": 0.199999999967232,
+    "Jurassic Park Builder": 0.199999999967232,
+    "Temple Run": 0.199999999967232,
+    "Temple Run 2": 0.199999999967232
+  },
+  "hitsAuths": {
+    "IPod Touch 4g": 0.0,
+    "IPod Touch 4": 8.191999993289119e-10,
+    "Mac OS X": 0.9999999991808,
+    "Final Cut Server": 0.0,
+    "App:Angry Birds Star Wars": 0.0,
+    "Jurassic Park Builder": 0.0,
+    "Temple Run": 0.0,
+    "Temple Run 2": 0.0
+  },
+  "averagePathLength": 0
+}

@@ -1,0 +1,345 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Michael"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pam"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Office (US)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Nick Figaro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Devon Abner"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Karly Rothenberg"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Madge"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Devon"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jim's pranks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lester"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mackenzie Crook"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Judgement"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Interview"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Judgement Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Interview Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "St. Patrick's Day Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Jim's Pranks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pam Beesly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Calvin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Cameraman"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Brian (Cameraman)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Office: The Girl Next Door"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Girl Next Door"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Books, Movies, and Television Shows"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Books, Movies, Music, and Television Shows"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 17
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 7
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 8,
+            "target": 16
+        },
+        {
+            "source": 9,
+            "target": 18
+        },
+        {
+            "source": 11,
+            "target": 10
+        },
+        {
+            "source": 12,
+            "target": 10
+        },
+        {
+            "source": 13,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 12
+        },
+        {
+            "source": 15,
+            "target": 0
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 21,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 24
+        }
+    ],
+    "edges": [
+        {
+            "source": "Pam",
+            "target": "Pam Beesly"
+        },
+        {
+            "source": "Nick Figaro",
+            "target": "The Office (US)"
+        },
+        {
+            "source": "Devon Abner",
+            "target": "Devon"
+        },
+        {
+            "source": "Karly Rothenberg",
+            "target": "Madge"
+        },
+        {
+            "source": "Jim's pranks",
+            "target": "List of Jim's Pranks"
+        },
+        {
+            "source": "Lester",
+            "target": "Calvin"
+        },
+        {
+            "source": "Judgement",
+            "target": "Mackenzie Crook"
+        },
+        {
+            "source": "Interview",
+            "target": "Mackenzie Crook"
+        },
+        {
+            "source": "Judgement Quotes",
+            "target": "Judgement"
+        },
+        {
+            "source": "Interview Quotes",
+            "target": "Interview"
+        },
+        {
+            "source": "St. Patrick's Day Quotes",
+            "target": "Michael"
+        },
+        {
+            "source": "The Cameraman",
+            "target": "Brian (Cameraman)"
+        },
+        {
+            "source": "The Office: The Girl Next Door",
+            "target": "The Girl Next Door"
+        },
+        {
+            "source": "List of Books, Movies, and Television Shows",
+            "target": "List of Books, Movies, Music, and Television Shows"
+        }
+    ],
+    "basic": {
+        "numNodes": 25,
+        "numEdges": 14,
+        "selfLinks": 0,
+        "numStrongComponents": 25,
+        "numWeakComponents": 11,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 5,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.56,
+        "averageOutDegree": 0.56,
+        "maxOutDegree": 1,
+        "maxInDegree": 2,
+        "pageRank": {
+            "Michael": 0.048444504379975176,
+            "Pam": 0.02549726063750658,
+            "The Office (US)": 0.048444504379975176,
+            "Nick Figaro": 0.02549726063750658,
+            "Devon Abner": 0.02549726063750658,
+            "Karly Rothenberg": 0.02549726063750658,
+            "Madge": 0.048444504379975176,
+            "Devon": 0.048444504379975176,
+            "Jim's pranks": 0.02549726063750658,
+            "Lester": 0.02549726063750658,
+            "Mackenzie Crook": 0.11269881979021945,
+            "Judgement": 0.048444504379975176,
+            "Interview": 0.048444504379975176,
+            "Judgement Quotes": 0.02549726063750658,
+            "Interview Quotes": 0.02549726063750658,
+            "St. Patrick's Day Quotes": 0.02549726063750658,
+            "List of Jim's Pranks": 0.048444504379975176,
+            "Pam Beesly": 0.048444504379975176,
+            "Calvin": 0.048444504379975176,
+            "The Cameraman": 0.02549726063750658,
+            "Brian (Cameraman)": 0.048444504379975176,
+            "The Office: The Girl Next Door": 0.02549726063750658,
+            "The Girl Next Door": 0.048444504379975176,
+            "List of Books, Movies, and Television Shows": 0.02549726063750658,
+            "List of Books, Movies, Music, and Television Shows": 0.048444504379975176
+        },
+        "hitsHubs": {
+            "Michael": 0.0,
+            "Pam": 2.3283064300334833e-10,
+            "The Office (US)": 0.0,
+            "Nick Figaro": 2.3283064300334833e-10,
+            "Devon Abner": 2.3283064300334833e-10,
+            "Karly Rothenberg": 2.3283064300334833e-10,
+            "Madge": 0.0,
+            "Devon": 0.0,
+            "Jim's pranks": 2.3283064300334833e-10,
+            "Lester": 2.3283064300334833e-10,
+            "Mackenzie Crook": 0.0,
+            "Judgement": 0.49999999860301614,
+            "Interview": 0.49999999860301614,
+            "Judgement Quotes": 2.3283064300334833e-10,
+            "Interview Quotes": 2.3283064300334833e-10,
+            "St. Patrick's Day Quotes": 2.3283064300334833e-10,
+            "List of Jim's Pranks": 0.0,
+            "Pam Beesly": 0.0,
+            "Calvin": 0.0,
+            "The Cameraman": 2.3283064300334833e-10,
+            "Brian (Cameraman)": 0.0,
+            "The Office: The Girl Next Door": 2.3283064300334833e-10,
+            "The Girl Next Door": 0.0,
+            "List of Books, Movies, and Television Shows": 2.3283064300334833e-10,
+            "List of Books, Movies, Music, and Television Shows": 0.0
+        },
+        "hitsAuths": {
+            "Michael": 4.6566128470565404e-10,
+            "Pam": 0.0,
+            "The Office (US)": 4.6566128470565404e-10,
+            "Nick Figaro": 0.0,
+            "Devon Abner": 0.0,
+            "Karly Rothenberg": 0.0,
+            "Madge": 4.6566128470565404e-10,
+            "Devon": 4.6566128470565404e-10,
+            "Jim's pranks": 0.0,
+            "Lester": 0.0,
+            "Mackenzie Crook": 0.9999999944120646,
+            "Judgement": 4.6566128470565404e-10,
+            "Interview": 4.6566128470565404e-10,
+            "Judgement Quotes": 0.0,
+            "Interview Quotes": 0.0,
+            "St. Patrick's Day Quotes": 0.0,
+            "List of Jim's Pranks": 4.6566128470565404e-10,
+            "Pam Beesly": 4.6566128470565404e-10,
+            "Calvin": 4.6566128470565404e-10,
+            "The Cameraman": 0.0,
+            "Brian (Cameraman)": 4.6566128470565404e-10,
+            "The Office: The Girl Next Door": 0.0,
+            "The Girl Next Door": 4.6566128470565404e-10,
+            "List of Books, Movies, and Television Shows": 0.0,
+            "List of Books, Movies, Music, and Television Shows": 4.6566128470565404e-10
+        },
+        "averagePathLength": 0
+    }
+}

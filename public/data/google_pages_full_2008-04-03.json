@@ -1,0 +1,1513 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 31,
+            "parity": 0,
+            "id": "Google Wiki:Main Page"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Gmail"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google+ Local"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Blogger"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zeitgeist"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Video"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Wiki talk:Main Page"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Google"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Help"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Blog Search"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Google Reader"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Base"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Desktop Search"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Summer of Code"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Toolbar"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Cooking"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Removing pages from Google's index"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Analytics"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Analytics"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google in China"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Talk"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Gmail for your domain"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Google Page Creator"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Google Groups"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Wiki:Gmail sending limit"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Google Desktop"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Trends"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Co-op"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Notebook"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Google errors"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Gmail down"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Spreadsheets"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Project Hosting"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google.org"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Gmail errors"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Errors"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Gadgets"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Labs"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Voice"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Slides"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Google Docs"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Documents"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Blogspot"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Code Hosting"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Spreadsheets"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Documents"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "GrandCentral"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Search URL parts"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Foundation"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Secure Access"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gmail tips"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Desktop Search"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Desktop"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Co-op"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Search engine"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Reader"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Voice"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Toolbar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Trends"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Summer of Code"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of devices running Chromium OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Local"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chromebooks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google gadgets"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Search Engine"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google search"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chrome OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "List of Devices Running Chromium"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Gmail sending limit"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HP"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chromebox"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moto G2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Motorola Moto G (2014)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Android 2.2 Froyo"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 52
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 53
+        },
+        {
+            "source": 0,
+            "target": 28
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 41
+        },
+        {
+            "source": 0,
+            "target": 45
+        },
+        {
+            "source": 0,
+            "target": 46
+        },
+        {
+            "source": 0,
+            "target": 47
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 29
+        },
+        {
+            "source": 0,
+            "target": 44
+        },
+        {
+            "source": 0,
+            "target": 24
+        },
+        {
+            "source": 0,
+            "target": 51
+        },
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 65
+        },
+        {
+            "source": 0,
+            "target": 23
+        },
+        {
+            "source": 0,
+            "target": 59
+        },
+        {
+            "source": 0,
+            "target": 27
+        },
+        {
+            "source": 0,
+            "target": 26
+        },
+        {
+            "source": 0,
+            "target": 30
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 50
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 61
+        },
+        {
+            "source": 0,
+            "target": 49
+        },
+        {
+            "source": 1,
+            "target": 22
+        },
+        {
+            "source": 1,
+            "target": 74
+        },
+        {
+            "source": 1,
+            "target": 52
+        },
+        {
+            "source": 1,
+            "target": 30
+        },
+        {
+            "source": 3,
+            "target": 8
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 8
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 8
+        },
+        {
+            "source": 10,
+            "target": 8
+        },
+        {
+            "source": 11,
+            "target": 8
+        },
+        {
+            "source": 11,
+            "target": 26
+        },
+        {
+            "source": 11,
+            "target": 1
+        },
+        {
+            "source": 13,
+            "target": 53
+        },
+        {
+            "source": 14,
+            "target": 24
+        },
+        {
+            "source": 14,
+            "target": 8
+        },
+        {
+            "source": 15,
+            "target": 8
+        },
+        {
+            "source": 15,
+            "target": 56
+        },
+        {
+            "source": 16,
+            "target": 12
+        },
+        {
+            "source": 17,
+            "target": 24
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 20,
+            "target": 1
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 21,
+            "target": 8
+        },
+        {
+            "source": 22,
+            "target": 8
+        },
+        {
+            "source": 22,
+            "target": 1
+        },
+        {
+            "source": 22,
+            "target": 74
+        },
+        {
+            "source": 23,
+            "target": 38
+        },
+        {
+            "source": 23,
+            "target": 1
+        },
+        {
+            "source": 23,
+            "target": 24
+        },
+        {
+            "source": 25,
+            "target": 1
+        },
+        {
+            "source": 27,
+            "target": 38
+        },
+        {
+            "source": 28,
+            "target": 69
+        },
+        {
+            "source": 30,
+            "target": 74
+        },
+        {
+            "source": 31,
+            "target": 30
+        },
+        {
+            "source": 35,
+            "target": 30
+        },
+        {
+            "source": 36,
+            "target": 30
+        },
+        {
+            "source": 37,
+            "target": 23
+        },
+        {
+            "source": 40,
+            "target": 41
+        },
+        {
+            "source": 41,
+            "target": 45
+        },
+        {
+            "source": 41,
+            "target": 46
+        },
+        {
+            "source": 41,
+            "target": 47
+        },
+        {
+            "source": 42,
+            "target": 41
+        },
+        {
+            "source": 43,
+            "target": 3
+        },
+        {
+            "source": 44,
+            "target": 33
+        },
+        {
+            "source": 45,
+            "target": 32
+        },
+        {
+            "source": 46,
+            "target": 42
+        },
+        {
+            "source": 47,
+            "target": 79
+        },
+        {
+            "source": 48,
+            "target": 39
+        },
+        {
+            "source": 50,
+            "target": 34
+        },
+        {
+            "source": 53,
+            "target": 26
+        },
+        {
+            "source": 54,
+            "target": 26
+        },
+        {
+            "source": 55,
+            "target": 28
+        },
+        {
+            "source": 57,
+            "target": 11
+        },
+        {
+            "source": 58,
+            "target": 39
+        },
+        {
+            "source": 59,
+            "target": 15
+        },
+        {
+            "source": 60,
+            "target": 27
+        },
+        {
+            "source": 61,
+            "target": 14
+        },
+        {
+            "source": 62,
+            "target": 73
+        },
+        {
+            "source": 63,
+            "target": 71
+        },
+        {
+            "source": 64,
+            "target": 72
+        },
+        {
+            "source": 65,
+            "target": 2
+        },
+        {
+            "source": 66,
+            "target": 73
+        },
+        {
+            "source": 67,
+            "target": 37
+        },
+        {
+            "source": 68,
+            "target": 56
+        },
+        {
+            "source": 74,
+            "target": 25
+        },
+        {
+            "source": 75,
+            "target": 66
+        },
+        {
+            "source": 75,
+            "target": 76
+        },
+        {
+            "source": 76,
+            "target": 70
+        },
+        {
+            "source": 76,
+            "target": 75
+        },
+        {
+            "source": 77,
+            "target": 78
+        },
+        {
+            "source": 79,
+            "target": 40
+        },
+        {
+            "source": 80,
+            "target": 8
+        }
+    ],
+    "edges": [
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Gmail tips"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Blog Search"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Desktop Search"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Co-op"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Zeitgeist"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Reader"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Docs"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Spreadsheets"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Documents"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Presentations"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Analytics"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Notebook"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Code Hosting"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Groups"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Secure Access"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Talk"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Video"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Base"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Local"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Page Creator"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Toolbar"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Trends"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Desktop"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google errors"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google in China"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Cooking"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google Foundation"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Removing pages from Google's index"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Summer of Code"
+        },
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Search URL parts"
+        },
+        {
+            "source": "Gmail",
+            "target": "Gmail for your domain"
+        },
+        {
+            "source": "Gmail",
+            "target": "Gmail sending limit"
+        },
+        {
+            "source": "Gmail",
+            "target": "Gmail tips"
+        },
+        {
+            "source": "Gmail",
+            "target": "Google errors"
+        },
+        {
+            "source": "Blogger",
+            "target": "Google"
+        },
+        {
+            "source": "Zeitgeist",
+            "target": "Google Zeitgeist"
+        },
+        {
+            "source": "Google Video",
+            "target": "Google"
+        },
+        {
+            "source": "Google Wiki talk:Main Page",
+            "target": "Help"
+        },
+        {
+            "source": "Google",
+            "target": "Google"
+        },
+        {
+            "source": "Blog Search",
+            "target": "Google"
+        },
+        {
+            "source": "Google Reader",
+            "target": "Google"
+        },
+        {
+            "source": "Google Reader",
+            "target": "Google Desktop"
+        },
+        {
+            "source": "Google Reader",
+            "target": "Gmail"
+        },
+        {
+            "source": "Desktop Search",
+            "target": "Google Desktop Search"
+        },
+        {
+            "source": "Google Summer of Code",
+            "target": "Google Groups"
+        },
+        {
+            "source": "Google Summer of Code",
+            "target": "Google"
+        },
+        {
+            "source": "Google Toolbar",
+            "target": "Google"
+        },
+        {
+            "source": "Google Toolbar",
+            "target": "Search engine"
+        },
+        {
+            "source": "Google Cooking",
+            "target": "Google Base"
+        },
+        {
+            "source": "Removing pages from Google's index",
+            "target": "Google Groups"
+        },
+        {
+            "source": "Analytics",
+            "target": "Google Analytics"
+        },
+        {
+            "source": "Google in China",
+            "target": "Gmail"
+        },
+        {
+            "source": "Google in China",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Talk",
+            "target": "Google"
+        },
+        {
+            "source": "Gmail for your domain",
+            "target": "Google"
+        },
+        {
+            "source": "Gmail for your domain",
+            "target": "Gmail"
+        },
+        {
+            "source": "Gmail for your domain",
+            "target": "Gmail sending limit"
+        },
+        {
+            "source": "Google Page Creator",
+            "target": "Google Labs"
+        },
+        {
+            "source": "Google Page Creator",
+            "target": "Gmail"
+        },
+        {
+            "source": "Google Page Creator",
+            "target": "Google Groups"
+        },
+        {
+            "source": "Google Wiki:Gmail sending limit",
+            "target": "Gmail"
+        },
+        {
+            "source": "Google Trends",
+            "target": "Google Labs"
+        },
+        {
+            "source": "Google Co-op",
+            "target": "Google search"
+        },
+        {
+            "source": "Google errors",
+            "target": "Gmail sending limit"
+        },
+        {
+            "source": "Gmail down",
+            "target": "Google errors"
+        },
+        {
+            "source": "Gmail errors",
+            "target": "Google errors"
+        },
+        {
+            "source": "Errors",
+            "target": "Google errors"
+        },
+        {
+            "source": "Google Gadgets",
+            "target": "Google Page Creator"
+        },
+        {
+            "source": "Google Slides",
+            "target": "Google Docs"
+        },
+        {
+            "source": "Google Docs",
+            "target": "Google Spreadsheets"
+        },
+        {
+            "source": "Google Docs",
+            "target": "Google Documents"
+        },
+        {
+            "source": "Google Docs",
+            "target": "Google Presentations"
+        },
+        {
+            "source": "Documents",
+            "target": "Google Docs"
+        },
+        {
+            "source": "Blogspot",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Code Hosting",
+            "target": "Google Project Hosting"
+        },
+        {
+            "source": "Google Spreadsheets",
+            "target": "Spreadsheets"
+        },
+        {
+            "source": "Google Documents",
+            "target": "Documents"
+        },
+        {
+            "source": "Google Presentations",
+            "target": "Presentations"
+        },
+        {
+            "source": "GrandCentral",
+            "target": "Google Voice"
+        },
+        {
+            "source": "Google Foundation",
+            "target": "Google.org"
+        },
+        {
+            "source": "Google Desktop Search",
+            "target": "Google Desktop"
+        },
+        {
+            "source": "Desktop",
+            "target": "Google Desktop"
+        },
+        {
+            "source": "Co-op",
+            "target": "Google Co-op"
+        },
+        {
+            "source": "Reader",
+            "target": "Google Reader"
+        },
+        {
+            "source": "Voice",
+            "target": "Google Voice"
+        },
+        {
+            "source": "Toolbar",
+            "target": "Google Toolbar"
+        },
+        {
+            "source": "Trends",
+            "target": "Google Trends"
+        },
+        {
+            "source": "Summer of Code",
+            "target": "Google Summer of Code"
+        },
+        {
+            "source": "List of devices running Chromium OS",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "Series 5 550",
+            "target": "Samsung Series 5 550"
+        },
+        {
+            "source": "Series 5",
+            "target": "Samsung Series 5"
+        },
+        {
+            "source": "Google Local",
+            "target": "Google+ Local"
+        },
+        {
+            "source": "Chromebooks",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "Google gadgets",
+            "target": "Google Gadgets"
+        },
+        {
+            "source": "Search Engine",
+            "target": "Search engine"
+        },
+        {
+            "source": "Gmail sending limit",
+            "target": "Google Wiki:Gmail sending limit"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebooks"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebox"
+        },
+        {
+            "source": "Chromebox",
+            "target": "Chrome OS"
+        },
+        {
+            "source": "Chromebox",
+            "target": "HP"
+        },
+        {
+            "source": "Moto G2",
+            "target": "Motorola Moto G (2014)"
+        },
+        {
+            "source": "Presentations",
+            "target": "Google Slides"
+        },
+        {
+            "source": "Android 2.2 Froyo",
+            "target": "Google"
+        }
+    ],
+    "basic": {
+        "numNodes": 81,
+        "numEdges": 104,
+        "selfLinks": 1,
+        "numStrongComponents": 71,
+        "numWeakComponents": 7,
+        "sizeLargestStrong": 6,
+        "sizeLargestWeak": 64,
+        "radius": 3,
+        "diameter": 5,
+        "averageInDegree": 1.2839506172839505,
+        "averageOutDegree": 1.2839506172839505,
+        "maxOutDegree": 31,
+        "maxInDegree": 10,
+        "pageRank": {
+            "Google Wiki:Main Page": 0.0032950179443427268,
+            "Gmail": 0.04858722260249161,
+            "Google+ Local": 0.006346722287893963,
+            "Blogger": 0.007882137998164907,
+            "Google Zeitgeist": 0.00635628582638929,
+            "Zeitgeist": 0.0032950179443427268,
+            "Google Video": 0.003390682565656682,
+            "Google Wiki talk:Main Page": 0.0032950179443427268,
+            "Google": 0.34364766115050743,
+            "Help": 0.006260621205075334,
+            "Blog Search": 0.003390682565656682,
+            "Google Reader": 0.00635628582638929,
+            "Google Base": 0.006442386909207919,
+            "Desktop Search": 0.0032950179443427268,
+            "Google Summer of Code": 0.006346722287893963,
+            "Google Toolbar": 0.006346722287893963,
+            "Google Cooking": 0.003390682565656682,
+            "Removing pages from Google's index": 0.003390682565656682,
+            "Google Analytics": 0.00635628582638929,
+            "Analytics": 0.0032950179443427268,
+            "Google in China": 0.003390682565656682,
+            "Google Talk": 0.003390682565656682,
+            "Gmail for your domain": 0.014228140900691461,
+            "Google Page Creator": 0.009025419393766767,
+            "Google Groups": 0.012006219801988818,
+            "Google Wiki:Gmail sending limit": 0.0387552124959888,
+            "Google Desktop": 0.013984069707627575,
+            "Google Trends": 0.00635628582638929,
+            "Google Co-op": 0.00635628582638929,
+            "Google Notebook": 0.003390682565656682,
+            "Google errors": 0.023220615304203236,
+            "Gmail down": 0.0032950179443427268,
+            "Spreadsheets": 0.014982918963835341,
+            "Google Project Hosting": 0.006346722287893963,
+            "Google.org": 0.006346722287893963,
+            "Gmail errors": 0.0032950179443427268,
+            "Errors": 0.0032950179443427268,
+            "Google Gadgets": 0.006260621205075334,
+            "Google Labs": 0.011723573325916545,
+            "Google Voice": 0.009226224465807942,
+            "Google Slides": 0.016780692194685153,
+            "Google Docs": 0.0319801558728237,
+            "Documents": 0.014982918963835341,
+            "Blogspot": 0.0032950179443427268,
+            "Google Code Hosting": 0.003390682565656682,
+            "Google Spreadsheets": 0.012985530449155984,
+            "Google Documents": 0.012985530449155984,
+            "Google Presentations": 0.012985530449155984,
+            "GrandCentral": 0.0032950179443427268,
+            "Search URL parts": 0.003390682565656682,
+            "Google Foundation": 0.003390682565656682,
+            "Google Secure Access": 0.003390682565656682,
+            "Gmail tips": 0.014323805522005417,
+            "Google Desktop Search": 0.00635628582638929,
+            "Desktop": 0.0032950179443427268,
+            "Co-op": 0.0032950179443427268,
+            "Search engine": 0.009116736627211129,
+            "Reader": 0.0032950179443427268,
+            "Voice": 0.0032950179443427268,
+            "Toolbar": 0.003390682565656682,
+            "Trends": 0.0032950179443427268,
+            "Summer of Code": 0.003390682565656682,
+            "List of devices running Chromium OS": 0.0032950179443427268,
+            "Series 5 550": 0.0032950179443427268,
+            "Series 5": 0.0032950179443427268,
+            "Google Local": 0.003390682565656682,
+            "Chromebooks": 0.0059911067662205475,
+            "Google gadgets": 0.0032950179443427268,
+            "Search Engine": 0.0032950179443427268,
+            "Google search": 0.00901585585527144,
+            "Chrome OS": 0.0059911067662205475,
+            "Samsung Series 5 550": 0.006260621205075334,
+            "Samsung Series 5": 0.006260621205075334,
+            "List of Devices Running Chromium": 0.011652798848830975,
+            "Gmail sending limit": 0.039396912601037073,
+            "HP": 0.0059911067662205475,
+            "Chromebox": 0.0059911067662205475,
+            "Moto G2": 0.0032950179443427268,
+            "Motorola Moto G (2014)": 0.006260621205075334,
+            "Presentations": 0.014982918963835341,
+            "Android 2.2 Froyo": 0.0032950179443427268
+        },
+        "hitsHubs": {
+            "Google Wiki:Main Page": 0.5126391902233064,
+            "Gmail": 0.0386260887298047,
+            "Google+ Local": 0.0,
+            "Blogger": 0.0018561796030531403,
+            "Google Zeitgeist": 0.0,
+            "Zeitgeist": 0.016437462058960194,
+            "Google Video": 0.0018561796030531403,
+            "Google Wiki talk:Main Page": 5.971616608612526e-33,
+            "Google": 0.0018561796030531403,
+            "Help": 0.0,
+            "Blog Search": 0.0018561796030531403,
+            "Google Reader": 0.021699905342603014,
+            "Google Base": 0.0,
+            "Desktop Search": 0.016437462058960194,
+            "Google Summer of Code": 0.01957954947326815,
+            "Google Toolbar": 0.001917668475513777,
+            "Google Cooking": 0.016437462058960194,
+            "Removing pages from Google's index": 0.017723369870215007,
+            "Google Analytics": 0.0,
+            "Analytics": 0.016437462058960194,
+            "Google in China": 0.019195869309548568,
+            "Google Talk": 0.0018561796030531403,
+            "Gmail for your domain": 0.005411108856690417,
+            "Google Page Creator": 0.02052437483895867,
+            "Google Groups": 0.0,
+            "Google Wiki:Gmail sending limit": 0.0021429034408320885,
+            "Google Desktop": 0.0,
+            "Google Trends": 0.0006581015279115775,
+            "Google Co-op": 5.971616608612526e-33,
+            "Google Notebook": 0.0,
+            "Google errors": 0.0014120258128051877,
+            "Gmail down": 0.018887196792111566,
+            "Spreadsheets": 0.0,
+            "Google Project Hosting": 0.0,
+            "Google.org": 0.0,
+            "Gmail errors": 0.018887196792111566,
+            "Errors": 0.018887196792111566,
+            "Google Gadgets": 0.016437462058960194,
+            "Google Labs": 0.0,
+            "Google Voice": 0.0,
+            "Google Slides": 0.016981978822128433,
+            "Google Docs": 0.052691422649338626,
+            "Documents": 0.016981978822128433,
+            "Blogspot": 0.01705296586871648,
+            "Google Code Hosting": 5.971616608612526e-33,
+            "Google Spreadsheets": 5.971616608612526e-33,
+            "Google Documents": 5.971616608612526e-33,
+            "Google Presentations": 5.971616608612526e-33,
+            "GrandCentral": 1.2523387713984976e-26,
+            "Search URL parts": 0.0,
+            "Google Foundation": 5.971616608612526e-33,
+            "Google Secure Access": 0.0,
+            "Gmail tips": 0.0,
+            "Google Desktop Search": 0.017700822298717785,
+            "Desktop": 0.017700822298717785,
+            "Co-op": 0.016437462058960194,
+            "Search engine": 0.0,
+            "Reader": 0.016437462058960194,
+            "Voice": 1.2523387713984976e-26,
+            "Toolbar": 5.971616608612526e-33,
+            "Trends": 0.016437462058960194,
+            "Summer of Code": 5.971616608612526e-33,
+            "List of devices running Chromium OS": 1.2523387713984976e-26,
+            "Series 5 550": 5.971616608612526e-33,
+            "Series 5": 5.971616608612526e-33,
+            "Google Local": 5.971616608612526e-33,
+            "Chromebooks": 1.2523387713984976e-26,
+            "Google gadgets": 5.971616608612526e-33,
+            "Search Engine": 6.148887246063678e-05,
+            "Google search": 0.0,
+            "Chrome OS": 0.0,
+            "Samsung Series 5 550": 0.0,
+            "Samsung Series 5": 0.0,
+            "List of Devices Running Chromium": 0.0,
+            "Gmail sending limit": 5.971616608612526e-33,
+            "HP": 1.2523387713984976e-26,
+            "Chromebox": 1.2523387713984976e-26,
+            "Moto G2": 5.971616608612526e-33,
+            "Motorola Moto G (2014)": 0.0,
+            "Presentations": 5.971616608612526e-33,
+            "Android 2.2 Froyo": 0.0018561796030531403
+        },
+        "hitsAuths": {
+            "Google Wiki:Main Page": 0.0,
+            "Gmail": 0.004121206450448202,
+            "Google+ Local": 1.1484542148787349e-32,
+            "Blogger": 0.03279606145489139,
+            "Google Zeitgeist": 0.03161233183707059,
+            "Zeitgeist": 0.0,
+            "Google Video": 0.030630193421277065,
+            "Google Wiki talk:Main Page": 0.0,
+            "Google": 0.003569782570474855,
+            "Help": 1.1484542148787349e-32,
+            "Blog Search": 0.030630193421277065,
+            "Google Reader": 0.03161233183707059,
+            "Google Base": 0.03161233183707059,
+            "Desktop Search": 0.0,
+            "Google Summer of Code": 1.1484542148787349e-32,
+            "Google Toolbar": 1.1484542148787349e-32,
+            "Google Cooking": 0.030630193421277065,
+            "Removing pages from Google's index": 0.030630193421277065,
+            "Google Analytics": 0.03161233183707059,
+            "Analytics": 0.0,
+            "Google in China": 0.030630193421277065,
+            "Google Talk": 0.030630193421277065,
+            "Gmail for your domain": 0.002307908939364306,
+            "Google Page Creator": 0.03161233183707059,
+            "Google Groups": 0.03408537446953156,
+            "Google Wiki:Gmail sending limit": 1.1484542148787349e-32,
+            "Google Desktop": 0.03404201124778032,
+            "Google Trends": 0.03161233183707059,
+            "Google Co-op": 0.03161233183707059,
+            "Google Notebook": 0.030630193421277065,
+            "Google errors": 0.03632363258528825,
+            "Gmail down": 0.0,
+            "Spreadsheets": 1.1484542148787349e-32,
+            "Google Project Hosting": 1.1484542148787349e-32,
+            "Google.org": 1.1484542148787349e-32,
+            "Gmail errors": 0.0,
+            "Errors": 0.0,
+            "Google Gadgets": 1.1484542148787349e-32,
+            "Google Labs": 0.0012656530435295186,
+            "Google Voice": 2.4084830536413686e-26,
+            "Google Slides": 1.1484542148787349e-32,
+            "Google Docs": 0.032659540009863826,
+            "Documents": 1.1484542148787349e-32,
+            "Blogspot": 0.0,
+            "Google Code Hosting": 0.030630193421277065,
+            "Google Spreadsheets": 0.033778506109671265,
+            "Google Documents": 0.033778506109671265,
+            "Google Presentations": 0.033778506109671265,
+            "GrandCentral": 0.0,
+            "Search URL parts": 0.030630193421277065,
+            "Google Foundation": 0.030630193421277065,
+            "Google Secure Access": 0.030630193421277065,
+            "Gmail tips": 0.03293810236064137,
+            "Google Desktop Search": 0.03161233183707059,
+            "Desktop": 0.0,
+            "Co-op": 0.0,
+            "Search engine": 0.00011825466933646098,
+            "Reader": 0.0,
+            "Voice": 0.0,
+            "Toolbar": 0.030630193421277065,
+            "Trends": 0.0,
+            "Summer of Code": 0.030630193421277065,
+            "List of devices running Chromium OS": 0.0,
+            "Series 5 550": 0.0,
+            "Series 5": 0.0,
+            "Google Local": 0.030630193421277065,
+            "Chromebooks": 1.2042415268206843e-26,
+            "Google gadgets": 0.0,
+            "Search Engine": 0.0,
+            "Google search": 1.1484542148787349e-32,
+            "Chrome OS": 1.2042415268206843e-26,
+            "Samsung Series 5 550": 1.1484542148787349e-32,
+            "Samsung Series 5": 1.1484542148787349e-32,
+            "List of Devices Running Chromium": 2.4084830536413686e-26,
+            "Gmail sending limit": 0.0027155912753924613,
+            "HP": 1.2042415268206843e-26,
+            "Chromebox": 1.2042415268206843e-26,
+            "Moto G2": 0.0,
+            "Motorola Moto G (2014)": 1.1484542148787349e-32,
+            "Presentations": 1.1484542148787349e-32,
+            "Android 2.2 Froyo": 0.0
+        },
+        "averagePathLength": 2.5
+    }
+}

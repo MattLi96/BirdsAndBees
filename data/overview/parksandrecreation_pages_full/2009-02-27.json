@@ -1,0 +1,43 @@
+{
+  "numNodes": 7,
+  "numEdges": 5,
+  "selfLinks": 0,
+  "numStrongComponents": 7,
+  "numWeakComponents": 2,
+  "sizeLargestStrong": 1,
+  "sizeLargestWeak": 5,
+  "radius": 0,
+  "diameter": 0,
+  "averageInDegree": 0.7142857142857143,
+  "averageOutDegree": 0.7142857142857143,
+  "maxOutDegree": 1,
+  "maxInDegree": 4,
+  "pageRank": {
+    "Ron's Woodshop": 0.08695675867013652,
+    "Doubletime Sound Studio": 0.08695675867013652,
+    "Pawnee Central High School": 0.08695675867013652,
+    "Norton Construction": 0.08695675867013652,
+    "Moving Up (Part 1)": 0.08695675867013652,
+    "Moving Up (Parts 1 & 2)": 0.16521729653194525,
+    "Parks and Recreation Department": 0.39999891011737143
+  },
+  "hitsHubs": {
+    "Ron's Woodshop": 0.24999999994179234,
+    "Doubletime Sound Studio": 0.24999999994179234,
+    "Pawnee Central High School": 0.24999999994179234,
+    "Norton Construction": 0.24999999994179234,
+    "Moving Up (Part 1)": 2.3283064359965952e-10,
+    "Moving Up (Parts 1 & 2)": 0.0,
+    "Parks and Recreation Department": 0.0
+  },
+  "hitsAuths": {
+    "Ron's Woodshop": 0.0,
+    "Doubletime Sound Studio": 0.0,
+    "Pawnee Central High School": 0.0,
+    "Norton Construction": 0.0,
+    "Moving Up (Part 1)": 0.0,
+    "Moving Up (Parts 1 & 2)": 9.313225737481168e-10,
+    "Parks and Recreation Department": 0.9999999990686774
+  },
+  "averagePathLength": 0
+}

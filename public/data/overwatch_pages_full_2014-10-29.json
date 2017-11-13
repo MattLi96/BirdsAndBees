@@ -1,0 +1,121 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Spectator Mode"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Spectate"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ultimate abilities"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ultimate Ability"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fortified"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Soundwave"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Crowd control"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 6,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 5
+        }
+    ],
+    "edges": [
+        {
+            "source": "Spectate",
+            "target": "Spectator Mode"
+        },
+        {
+            "source": "Ultimate abilities",
+            "target": "Ultimate Ability"
+        },
+        {
+            "source": "Crowd control",
+            "target": "Fortified"
+        },
+        {
+            "source": "Crowd control",
+            "target": "Soundwave"
+        }
+    ],
+    "basic": {
+        "numNodes": 7,
+        "numEdges": 4,
+        "selfLinks": 0,
+        "numStrongComponents": 7,
+        "numWeakComponents": 3,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 3,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.5714285714285714,
+        "averageOutDegree": 0.5714285714285714,
+        "maxOutDegree": 2,
+        "maxInDegree": 1,
+        "pageRank": {
+            "Spectator Mode": 0.19587651042179915,
+            "Spectate": 0.10309261718365052,
+            "Ultimate abilities": 0.10309261718365052,
+            "Ultimate Ability": 0.19587651042179915,
+            "Fortified": 0.14948456380272485,
+            "Soundwave": 0.14948456380272485,
+            "Crowd control": 0.10309261718365052
+        },
+        "hitsHubs": {
+            "Spectator Mode": 0.0,
+            "Spectate": 3.7252902707063384e-09,
+            "Ultimate abilities": 3.7252902707063384e-09,
+            "Ultimate Ability": 0.0,
+            "Fortified": 0.0,
+            "Soundwave": 0.0,
+            "Crowd control": 0.9999999925494194
+        },
+        "hitsAuths": {
+            "Spectator Mode": 3.7252902707063384e-09,
+            "Spectate": 0.0,
+            "Ultimate abilities": 0.0,
+            "Ultimate Ability": 3.7252902707063384e-09,
+            "Fortified": 0.4999999962747097,
+            "Soundwave": 0.4999999962747097,
+            "Crowd control": 0.0
+        },
+        "averagePathLength": 0
+    }
+}

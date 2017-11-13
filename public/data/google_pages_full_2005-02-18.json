@@ -1,0 +1,225 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of devices running Chromium OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chromebooks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chrome OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "List of Devices Running Chromium"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HP"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chromebox"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moto G2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Motorola Moto G (2014)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Presentations"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 7
+        },
+        {
+            "source": 4,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 10,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 9
+        },
+        {
+            "source": 11,
+            "target": 12
+        }
+    ],
+    "edges": [
+        {
+            "source": "Google Presentations",
+            "target": "Presentations"
+        },
+        {
+            "source": "List of devices running Chromium OS",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "Series 5 550",
+            "target": "Samsung Series 5 550"
+        },
+        {
+            "source": "Series 5",
+            "target": "Samsung Series 5"
+        },
+        {
+            "source": "Chromebooks",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebooks"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebox"
+        },
+        {
+            "source": "Chromebox",
+            "target": "Chrome OS"
+        },
+        {
+            "source": "Chromebox",
+            "target": "HP"
+        },
+        {
+            "source": "Moto G2",
+            "target": "Motorola Moto G (2014)"
+        }
+    ],
+    "basic": {
+        "numNodes": 14,
+        "numEdges": 10,
+        "selfLinks": 0,
+        "numStrongComponents": 13,
+        "numWeakComponents": 5,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 6,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.7142857142857143,
+        "averageOutDegree": 0.7142857142857143,
+        "maxOutDegree": 2,
+        "maxInDegree": 2,
+        "pageRank": {
+            "Google Presentations": 0.0427182055800537,
+            "List of devices running Chromium OS": 0.0427182055800537,
+            "Series 5 550": 0.0427182055800537,
+            "Series 5": 0.0427182055800537,
+            "Chromebooks": 0.07766976420806007,
+            "Chrome OS": 0.07766976420806007,
+            "Samsung Series 5 550": 0.08116535960229561,
+            "Samsung Series 5": 0.08116535960229561,
+            "List of Devices Running Chromium": 0.15106847685830835,
+            "HP": 0.07766976420806007,
+            "Chromebox": 0.07766976420806007,
+            "Moto G2": 0.0427182055800537,
+            "Motorola Moto G (2014)": 0.08116535960229561,
+            "Presentations": 0.08116535960229561
+        },
+        "hitsHubs": {
+            "Google Presentations": 4.656612864403775e-10,
+            "List of devices running Chromium OS": 0.2499999995343387,
+            "Series 5 550": 4.656612864403775e-10,
+            "Series 5": 4.656612864403775e-10,
+            "Chromebooks": 0.2499999995343387,
+            "Chrome OS": 0.0,
+            "Samsung Series 5 550": 0.0,
+            "Samsung Series 5": 0.0,
+            "List of Devices Running Chromium": 0.0,
+            "HP": 0.2499999995343387,
+            "Chromebox": 0.2499999995343387,
+            "Moto G2": 4.656612864403775e-10,
+            "Motorola Moto G (2014)": 0.0,
+            "Presentations": 0.0
+        },
+        "hitsAuths": {
+            "Google Presentations": 0.0,
+            "List of devices running Chromium OS": 0.0,
+            "Series 5 550": 0.0,
+            "Series 5": 0.0,
+            "Chromebooks": 0.1666666662527455,
+            "Chrome OS": 0.1666666662527455,
+            "Samsung Series 5 550": 6.208817148683425e-10,
+            "Samsung Series 5": 6.208817148683425e-10,
+            "List of Devices Running Chromium": 0.333333332505491,
+            "HP": 0.1666666662527455,
+            "Chromebox": 0.1666666662527455,
+            "Moto G2": 0.0,
+            "Motorola Moto G (2014)": 6.208817148683425e-10,
+            "Presentations": 6.208817148683425e-10
+        },
+        "averagePathLength": 1.0
+    }
+}

@@ -1,0 +1,465 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Main Page"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dark Cloud"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dark Chronicle"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "PlayStation 2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Playstation Event Project"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Playstation 2 Game project"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PlayStation 1"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Rayman Arena"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PSP"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ys: The Oath in Felghana"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pop'n music 10"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearful Harmony"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PlayStation 4K"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PlayStation Neo"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Kingdom Hearts II"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Crash Bandicoot"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Crash Bandicoot 2: Cortex Strikes Back"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Crash Bandicoot 3: Warp"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Star Wars: Battlefront"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lego Star Wars: The Video Game"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lego Star Wars II: The Original Trilogy"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Spyro the Dragon"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Spyro: Ripto's Rage"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Star Wars Episode III: Revenge of the Sith (Video Game)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lego Indiana Jones: The Original Adventures"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Spyro: Enter the Dragonfly"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Spyro: A Hero's Tail"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "The Legend of Spyro: A New Beginning"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "The Legend of Spyro: The Eternal Night"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Legend of Spyro: Dawn of the Dragon"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 7,
+            "target": 3
+        },
+        {
+            "source": 9,
+            "target": 8
+        },
+        {
+            "source": 10,
+            "target": 3
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 12,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 15,
+            "target": 15
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 17,
+            "target": 16
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 21,
+            "target": 26
+        },
+        {
+            "source": 22,
+            "target": 26
+        },
+        {
+            "source": 23,
+            "target": 3
+        },
+        {
+            "source": 24,
+            "target": 3
+        },
+        {
+            "source": 25,
+            "target": 26
+        },
+        {
+            "source": 26,
+            "target": 25
+        },
+        {
+            "source": 27,
+            "target": 28
+        },
+        {
+            "source": 28,
+            "target": 27
+        },
+        {
+            "source": 28,
+            "target": 29
+        }
+    ],
+    "edges": [
+        {
+            "source": "Main Page",
+            "target": "Playstation 2 Game project"
+        },
+        {
+            "source": "Main Page",
+            "target": "Playstation Event Project"
+        },
+        {
+            "source": "Dark Cloud",
+            "target": "Dark Chronicle"
+        },
+        {
+            "source": "Rayman Arena",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Ys: The Oath in Felghana",
+            "target": "PSP"
+        },
+        {
+            "source": "Pop'n music 10",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Fearful Harmony",
+            "target": "PlayStation 1"
+        },
+        {
+            "source": "PlayStation 4K",
+            "target": "PlayStation Neo"
+        },
+        {
+            "source": "Kingdom Hearts II",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Crash Bandicoot",
+            "target": "Crash Bandicoot"
+        },
+        {
+            "source": "Crash Bandicoot",
+            "target": "Crash Bandicoot 2: Cortex Strikes Back"
+        },
+        {
+            "source": "Crash Bandicoot 3: Warp",
+            "target": "Crash Bandicoot 2: Cortex Strikes Back"
+        },
+        {
+            "source": "Star Wars: Battlefront",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Lego Star Wars: The Video Game",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Lego Star Wars II: The Original Trilogy",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Spyro the Dragon",
+            "target": "Spyro: A Hero's Tail"
+        },
+        {
+            "source": "Spyro: Ripto's Rage",
+            "target": "Spyro: A Hero's Tail"
+        },
+        {
+            "source": "Star Wars Episode III: Revenge of the Sith (Video Game)",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Lego Indiana Jones: The Original Adventures",
+            "target": "PlayStation 2"
+        },
+        {
+            "source": "Spyro: Enter the Dragonfly",
+            "target": "Spyro: A Hero's Tail"
+        },
+        {
+            "source": "Spyro: A Hero's Tail",
+            "target": "Spyro: Enter the Dragonfly"
+        },
+        {
+            "source": "The Legend of Spyro: A New Beginning",
+            "target": "The Legend of Spyro: The Eternal Night"
+        },
+        {
+            "source": "The Legend of Spyro: The Eternal Night",
+            "target": "The Legend of Spyro: A New Beginning"
+        },
+        {
+            "source": "The Legend of Spyro: The Eternal Night",
+            "target": "The Legend of Spyro: Dawn of the Dragon"
+        }
+    ],
+    "basic": {
+        "numNodes": 30,
+        "numEdges": 24,
+        "selfLinks": 1,
+        "numStrongComponents": 28,
+        "numWeakComponents": 9,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 9,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.8,
+        "averageOutDegree": 0.8,
+        "maxOutDegree": 2,
+        "maxInDegree": 8,
+        "pageRank": {
+            "Main Page": 0.011722838747811916,
+            "Dark Cloud": 0.011722838747811916,
+            "Dark Chronicle": 0.022273394108518592,
+            "PlayStation 2": 0.09612728163346532,
+            "Playstation Event Project": 0.016998116428165254,
+            "Playstation 2 Game project": 0.016998116428165254,
+            "PlayStation 1": 0.022273394108518592,
+            "Rayman Arena": 0.011722838747811916,
+            "PSP": 0.022273394108518592,
+            "Ys: The Oath in Felghana": 0.011722838747811916,
+            "Pop'n music 10": 0.011722838747811916,
+            "Fearful Harmony": 0.011722838747811916,
+            "PlayStation 4K": 0.011722838747811916,
+            "PlayStation Neo": 0.022273394108518592,
+            "Kingdom Hearts II": 0.011722838747811916,
+            "Crash Bandicoot": 0.02131425322836914,
+            "Crash Bandicoot 2: Cortex Strikes Back": 0.03186480858907582,
+            "Crash Bandicoot 3: Warp": 0.011722838747811916,
+            "Star Wars: Battlefront": 0.011722838747811916,
+            "Lego Star Wars: The Video Game": 0.011722838747811916,
+            "Lego Star Wars II: The Original Trilogy": 0.011722838747811916,
+            "Spyro the Dragon": 0.011722838747811916,
+            "Spyro: Ripto's Rage": 0.011722838747811916,
+            "Star Wars Episode III: Revenge of the Sith (Video Game)": 0.011722838747811916,
+            "Lego Indiana Jones: The Original Adventures": 0.011722838747811916,
+            "Spyro: Enter the Dragonfly": 0.2171876807805009,
+            "Spyro: A Hero's Tail": 0.22827993498423277,
+            "The Legend of Spyro: A New Beginning": 0.028568265862073026,
+            "The Legend of Spyro: The Eternal Night": 0.037434279804814355,
+            "The Legend of Spyro: Dawn of the Dragon": 0.028568265862073026
+        },
+        "hitsHubs": {
+            "Main Page": 2.8421709417877698e-14,
+            "Dark Cloud": 1.3552527150095796e-20,
+            "Dark Chronicle": 0.0,
+            "PlayStation 2": 0.0,
+            "Playstation Event Project": 0.0,
+            "Playstation 2 Game project": 0.0,
+            "PlayStation 1": 0.0,
+            "Rayman Arena": 0.12499999994490871,
+            "PSP": 0.0,
+            "Ys: The Oath in Felghana": 1.3552527150095796e-20,
+            "Pop'n music 10": 0.12499999994490871,
+            "Fearful Harmony": 1.3552527150095796e-20,
+            "PlayStation 4K": 1.3552527150095796e-20,
+            "PlayStation Neo": 0.0,
+            "Kingdom Hearts II": 0.12499999994490871,
+            "Crash Bandicoot": 9.505860897296793e-12,
+            "Crash Bandicoot 2: Cortex Strikes Back": 0.0,
+            "Crash Bandicoot 3: Warp": 5.874945126857991e-12,
+            "Star Wars: Battlefront": 0.12499999994490871,
+            "Lego Star Wars: The Video Game": 0.12499999994490871,
+            "Lego Star Wars II: The Original Trilogy": 0.12499999994490871,
+            "Spyro the Dragon": 1.4176422078324901e-10,
+            "Spyro: Ripto's Rage": 1.4176422078324901e-10,
+            "Star Wars Episode III: Revenge of the Sith (Video Game)": 0.12499999994490871,
+            "Lego Indiana Jones: The Original Adventures": 0.12499999994490871,
+            "Spyro: Enter the Dragonfly": 1.4176422078324901e-10,
+            "Spyro: A Hero's Tail": 1.3552527150095796e-20,
+            "The Legend of Spyro: A New Beginning": 1.3552527150095796e-20,
+            "The Legend of Spyro: The Eternal Night": 2.8421709417877698e-14,
+            "The Legend of Spyro: Dawn of the Dragon": 0.0
+        },
+        "hitsAuths": {
+            "Main Page": 0.0,
+            "Dark Cloud": 0.0,
+            "Dark Chronicle": 1.0842021711729526e-19,
+            "PlayStation 2": 0.9999999987893846,
+            "Playstation Event Project": 1.13686837583985e-13,
+            "Playstation 2 Game project": 1.13686837583985e-13,
+            "PlayStation 1": 1.0842021711729526e-19,
+            "Rayman Arena": 0.0,
+            "PSP": 1.0842021711729526e-19,
+            "Ys: The Oath in Felghana": 0.0,
+            "Pop'n music 10": 0.0,
+            "Fearful Harmony": 0.0,
+            "PlayStation 4K": 0.0,
+            "PlayStation Neo": 1.0842021711729526e-19,
+            "Kingdom Hearts II": 0.0,
+            "Crash Bandicoot": 2.9047326141147308e-11,
+            "Crash Bandicoot 2: Cortex Strikes Back": 4.699956097867967e-11,
+            "Crash Bandicoot 3: Warp": 0.0,
+            "Star Wars: Battlefront": 0.0,
+            "Lego Star Wars: The Video Game": 0.0,
+            "Lego Star Wars II: The Original Trilogy": 0.0,
+            "Spyro the Dragon": 0.0,
+            "Spyro: Ripto's Rage": 0.0,
+            "Star Wars Episode III: Revenge of the Sith (Video Game)": 0.0,
+            "Lego Indiana Jones: The Original Adventures": 0.0,
+            "Spyro: Enter the Dragonfly": 1.0842021711729526e-19,
+            "Spyro: A Hero's Tail": 1.134113765392855e-09,
+            "The Legend of Spyro: A New Beginning": 1.13686837583985e-13,
+            "The Legend of Spyro: The Eternal Night": 1.0842021711729526e-19,
+            "The Legend of Spyro: Dawn of the Dragon": 1.13686837583985e-13
+        },
+        "averagePathLength": 1.0
+    }
+}

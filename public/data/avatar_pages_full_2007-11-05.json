@@ -1,0 +1,745 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Airbenders"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Waterbenders"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Earthbenders"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Avatar"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Airbender"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Earthbender"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Waterbender"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Firebender"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Flying bison"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Unagi"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Kanna"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Sokka"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Katara"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Aang"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Waterbending"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "The Avatar Returns"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "The Southern Air Temple"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "The Warriors of Kyoshi"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "The King of Omashu"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Imprisoned"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Winter Solstice, Part 1: The Spirit World"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Zuko"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 1,
+            "target": 13
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 3,
+            "target": 16
+        },
+        {
+            "source": 3,
+            "target": 15
+        },
+        {
+            "source": 3,
+            "target": 11
+        },
+        {
+            "source": 8,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 13
+        },
+        {
+            "source": 10,
+            "target": 12
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 10,
+            "target": 13
+        },
+        {
+            "source": 10,
+            "target": 6
+        },
+        {
+            "source": 11,
+            "target": 12
+        },
+        {
+            "source": 11,
+            "target": 13
+        },
+        {
+            "source": 11,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 2
+        },
+        {
+            "source": 12,
+            "target": 13
+        },
+        {
+            "source": 12,
+            "target": 11
+        },
+        {
+            "source": 12,
+            "target": 14
+        },
+        {
+            "source": 12,
+            "target": 6
+        },
+        {
+            "source": 12,
+            "target": 3
+        },
+        {
+            "source": 13,
+            "target": 12
+        },
+        {
+            "source": 13,
+            "target": 11
+        },
+        {
+            "source": 13,
+            "target": 14
+        },
+        {
+            "source": 13,
+            "target": 3
+        },
+        {
+            "source": 13,
+            "target": 4
+        },
+        {
+            "source": 13,
+            "target": 6
+        },
+        {
+            "source": 13,
+            "target": 9
+        },
+        {
+            "source": 13,
+            "target": 21
+        },
+        {
+            "source": 13,
+            "target": 18
+        },
+        {
+            "source": 14,
+            "target": 1
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 16,
+            "target": 15
+        },
+        {
+            "source": 16,
+            "target": 17
+        },
+        {
+            "source": 16,
+            "target": 13
+        },
+        {
+            "source": 16,
+            "target": 12
+        },
+        {
+            "source": 16,
+            "target": 11
+        },
+        {
+            "source": 17,
+            "target": 16
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 17,
+            "target": 13
+        },
+        {
+            "source": 17,
+            "target": 3
+        },
+        {
+            "source": 17,
+            "target": 12
+        },
+        {
+            "source": 17,
+            "target": 11
+        },
+        {
+            "source": 17,
+            "target": 7
+        },
+        {
+            "source": 18,
+            "target": 17
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 19,
+            "target": 13
+        },
+        {
+            "source": 19,
+            "target": 12
+        },
+        {
+            "source": 19,
+            "target": 11
+        },
+        {
+            "source": 19,
+            "target": 5
+        },
+        {
+            "source": 19,
+            "target": 14
+        },
+        {
+            "source": 20,
+            "target": 19
+        },
+        {
+            "source": 20,
+            "target": 13
+        },
+        {
+            "source": 20,
+            "target": 12
+        },
+        {
+            "source": 20,
+            "target": 11
+        },
+        {
+            "source": 21,
+            "target": 13
+        },
+        {
+            "source": 21,
+            "target": 12
+        },
+        {
+            "source": 21,
+            "target": 11
+        },
+        {
+            "source": 21,
+            "target": 3
+        },
+        {
+            "source": 21,
+            "target": 15
+        },
+        {
+            "source": 21,
+            "target": 5
+        }
+    ],
+    "edges": [
+        {
+            "source": "Airbenders",
+            "target": "Aang"
+        },
+        {
+            "source": "Airbenders",
+            "target": "The Avatar Returns"
+        },
+        {
+            "source": "Airbenders",
+            "target": "Zuko"
+        },
+        {
+            "source": "Airbenders",
+            "target": "Waterbending"
+        },
+        {
+            "source": "Waterbenders",
+            "target": "Aang"
+        },
+        {
+            "source": "Waterbenders",
+            "target": "Katara"
+        },
+        {
+            "source": "Waterbenders",
+            "target": "Earthbenders"
+        },
+        {
+            "source": "Avatar",
+            "target": "Aang"
+        },
+        {
+            "source": "Avatar",
+            "target": "The Southern Air Temple"
+        },
+        {
+            "source": "Avatar",
+            "target": "The Avatar Returns"
+        },
+        {
+            "source": "Avatar",
+            "target": "Sokka"
+        },
+        {
+            "source": "Flying bison",
+            "target": "Airbenders"
+        },
+        {
+            "source": "Flying bison",
+            "target": "Aang"
+        },
+        {
+            "source": "Kanna",
+            "target": "Katara"
+        },
+        {
+            "source": "Kanna",
+            "target": "Sokka"
+        },
+        {
+            "source": "Kanna",
+            "target": "Aang"
+        },
+        {
+            "source": "Kanna",
+            "target": "Waterbender"
+        },
+        {
+            "source": "Sokka",
+            "target": "Katara"
+        },
+        {
+            "source": "Sokka",
+            "target": "Aang"
+        },
+        {
+            "source": "Sokka",
+            "target": "Airbender"
+        },
+        {
+            "source": "Sokka",
+            "target": "Earthbenders"
+        },
+        {
+            "source": "Katara",
+            "target": "Aang"
+        },
+        {
+            "source": "Katara",
+            "target": "Sokka"
+        },
+        {
+            "source": "Katara",
+            "target": "Waterbending"
+        },
+        {
+            "source": "Katara",
+            "target": "Waterbender"
+        },
+        {
+            "source": "Katara",
+            "target": "Avatar"
+        },
+        {
+            "source": "Aang",
+            "target": "Katara"
+        },
+        {
+            "source": "Aang",
+            "target": "Sokka"
+        },
+        {
+            "source": "Aang",
+            "target": "Waterbending"
+        },
+        {
+            "source": "Aang",
+            "target": "Avatar"
+        },
+        {
+            "source": "Aang",
+            "target": "Airbender"
+        },
+        {
+            "source": "Aang",
+            "target": "Waterbender"
+        },
+        {
+            "source": "Aang",
+            "target": "Unagi"
+        },
+        {
+            "source": "Aang",
+            "target": "Zuko"
+        },
+        {
+            "source": "Aang",
+            "target": "The King of Omashu"
+        },
+        {
+            "source": "Waterbending",
+            "target": "Waterbenders"
+        },
+        {
+            "source": "The Avatar Returns",
+            "target": "The Southern Air Temple"
+        },
+        {
+            "source": "The Southern Air Temple",
+            "target": "The Avatar Returns"
+        },
+        {
+            "source": "The Southern Air Temple",
+            "target": "The Warriors of Kyoshi"
+        },
+        {
+            "source": "The Southern Air Temple",
+            "target": "Aang"
+        },
+        {
+            "source": "The Southern Air Temple",
+            "target": "Katara"
+        },
+        {
+            "source": "The Southern Air Temple",
+            "target": "Sokka"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "The Southern Air Temple"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "The King of Omashu"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "Aang"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "Avatar"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "Katara"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "Sokka"
+        },
+        {
+            "source": "The Warriors of Kyoshi",
+            "target": "Firebender"
+        },
+        {
+            "source": "The King of Omashu",
+            "target": "The Warriors of Kyoshi"
+        },
+        {
+            "source": "The King of Omashu",
+            "target": "Imprisoned"
+        },
+        {
+            "source": "Imprisoned",
+            "target": "The King of Omashu"
+        },
+        {
+            "source": "Imprisoned",
+            "target": "Aang"
+        },
+        {
+            "source": "Imprisoned",
+            "target": "Katara"
+        },
+        {
+            "source": "Imprisoned",
+            "target": "Sokka"
+        },
+        {
+            "source": "Imprisoned",
+            "target": "Earthbender"
+        },
+        {
+            "source": "Imprisoned",
+            "target": "Waterbending"
+        },
+        {
+            "source": "Winter Solstice, Part 1: The Spirit World",
+            "target": "Imprisoned"
+        },
+        {
+            "source": "Winter Solstice, Part 1: The Spirit World",
+            "target": "Aang"
+        },
+        {
+            "source": "Winter Solstice, Part 1: The Spirit World",
+            "target": "Katara"
+        },
+        {
+            "source": "Winter Solstice, Part 1: The Spirit World",
+            "target": "Sokka"
+        },
+        {
+            "source": "Zuko",
+            "target": "Aang"
+        },
+        {
+            "source": "Zuko",
+            "target": "Katara"
+        },
+        {
+            "source": "Zuko",
+            "target": "Sokka"
+        },
+        {
+            "source": "Zuko",
+            "target": "Avatar"
+        },
+        {
+            "source": "Zuko",
+            "target": "The Avatar Returns"
+        },
+        {
+            "source": "Zuko",
+            "target": "Earthbender"
+        }
+    ],
+    "basic": {
+        "numNodes": 22,
+        "numEdges": 67,
+        "selfLinks": 0,
+        "numStrongComponents": 11,
+        "numWeakComponents": 1,
+        "sizeLargestStrong": 12,
+        "sizeLargestWeak": 22,
+        "radius": 2,
+        "diameter": 4,
+        "averageInDegree": 3.0454545454545454,
+        "averageOutDegree": 3.0454545454545454,
+        "maxOutDegree": 9,
+        "maxInDegree": 12,
+        "pageRank": {
+            "Airbenders": 0.018962883424362954,
+            "Waterbenders": 0.05990096744407933,
+            "Earthbenders": 0.05095057286411113,
+            "Avatar": 0.05283110712804002,
+            "Airbender": 0.0453888534822285,
+            "Earthbender": 0.022355204598557235,
+            "Waterbender": 0.04588553237045633,
+            "Firebender": 0.01850304820238061,
+            "Flying bison": 0.013077839841567889,
+            "Unagi": 0.02548537563950108,
+            "Kanna": 0.013077839841567889,
+            "Sokka": 0.08845900996030717,
+            "Katara": 0.09698683561962014,
+            "Aang": 0.12407587137637355,
+            "Waterbending": 0.05202410775654088,
+            "The Avatar Returns": 0.046735731319048866,
+            "The Southern Air Temple": 0.07245227295158405,
+            "The Warriors of Kyoshi": 0.042195318993194376,
+            "The King of Omashu": 0.035725060569134645,
+            "Imprisoned": 0.03209673052761323,
+            "Winter Solstice, Part 1: The Spirit World": 0.013077839841567889,
+            "Zuko": 0.02975199624816232
+        },
+        "hitsHubs": {
+            "Airbenders": 0.05101054192618932,
+            "Waterbenders": 0.05372139091240019,
+            "Earthbenders": 0.0,
+            "Avatar": 0.06599631832987503,
+            "Airbender": 0.0,
+            "Earthbender": 0.0,
+            "Waterbender": 0.0,
+            "Firebender": 0.0,
+            "Flying bison": 0.027939033010552578,
+            "Unagi": 0.0,
+            "Kanna": 0.0825767345116407,
+            "Sokka": 0.05850870264196339,
+            "Katara": 0.0811660589012236,
+            "Aang": 0.09886387072149003,
+            "Waterbending": 4.760778309061299e-23,
+            "The Avatar Returns": 0.005334816812170641,
+            "The Southern Air Temple": 0.08667783741430363,
+            "The Warriors of Kyoshi": 0.10403948966538436,
+            "The King of Omashu": 0.005304746261570491,
+            "Imprisoned": 0.1000113520305725,
+            "Winter Solstice, Part 1: The Spirit World": 0.0770947901206772,
+            "Zuko": 0.1017543167399865
+        },
+        "hitsAuths": {
+            "Airbenders": 0.005330249329054265,
+            "Waterbenders": 2.9857363092694197e-22,
+            "Earthbenders": 0.021411420368649958,
+            "Avatar": 0.07360801303983423,
+            "Airbender": 0.030023768230381134,
+            "Earthbender": 0.038493147517304184,
+            "Waterbender": 0.0501004809891464,
+            "Firebender": 0.019848805037420893,
+            "Flying bison": 0.0,
+            "Unagi": 0.01886139290313002,
+            "Kanna": 0.0,
+            "Sokka": 0.15227808699214831,
+            "Katara": 0.14561365516058505,
+            "Aang": 0.16989022910975735,
+            "Waterbending": 0.06315854797522738,
+            "The Avatar Returns": 0.05827209909550761,
+            "The Southern Air Temple": 0.03345746267807096,
+            "The Warriors of Kyoshi": 0.017548571008987938,
+            "The King of Omashu": 0.05779050902409259,
+            "Imprisoned": 0.01572030331453665,
+            "Winter Solstice, Part 1: The Spirit World": 0.0,
+            "Zuko": 0.028593258226164868
+        },
+        "averagePathLength": 1.2857142857142858
+    }
+}

@@ -1,0 +1,86 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h5{
+    font-weight: bold;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#info{
+    display: block;
+    position:absolute;
+    float: left;
+    width: 30%;
+    left: 15px;
+    top: 15px;
+    background-color: #ffffff;
+    margin: 15px;
+    text-align: center;
+    z-index:1;
+    border-radius: 6px;
+    box-shadow: 0px 0px 8px #000000;
+}
+
+#graph-container {
+      top: 0;
+      bottom: 0;
+      left: 0%;
+      right: 0;
+      position: absolute;
+}
+
+#searchBox{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.slider.slider-horizontal {
+    width: 100% !important;
+}
+
+div.master {
+    padding-left:10px;
+    padding-right:5px;
+}
+
+#dance{
+    background-color:darkred;
+    color:white;
+}
+.forceOn{
+    background-color: limegreen !important;
+}
+
+.displayTab{
+    padding-top: 10px;
+}
+
+.node {stroke: #fff; stroke-width: 1.5px;}
+.link {stroke: #999; stroke-opacity: .6;}
+
+#mainOptions{
+    text-align: left;
+    margin: 15px;
+}
+
+#mainOptions .dropdown{
+    padding-left: 10px; 
+    display: block;
+    float: left;
+    width: 20%;
+}
+
+
+#mainOptions .btn-group-vertical{
+    display: block;
+    float: left;
+    width: 42%;
+    margin-left: 35%;
+    padding-bottom: 20px;
+}

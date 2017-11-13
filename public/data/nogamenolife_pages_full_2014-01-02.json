@@ -1,0 +1,105 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chlammy"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Feel Nilvalen/Image Gallery"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Math"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mathematical formulas"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chlammy Zell"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 4
+        }
+    ],
+    "edges": [
+        {
+            "source": "Chlammy",
+            "target": "Chlammy Zell"
+        },
+        {
+            "source": "Feel Nilvalen/Image Gallery",
+            "target": "Fiel Nilvalen/Image Gallery"
+        },
+        {
+            "source": "Math",
+            "target": "Mathematical formulas"
+        }
+    ],
+    "basic": {
+        "numNodes": 6,
+        "numEdges": 3,
+        "selfLinks": 0,
+        "numStrongComponents": 6,
+        "numWeakComponents": 3,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 2,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.5,
+        "averageOutDegree": 0.5,
+        "maxOutDegree": 1,
+        "maxInDegree": 1,
+        "pageRank": {
+            "Chlammy": 0.11494267498482624,
+            "Feel Nilvalen/Image Gallery": 0.11494267498482624,
+            "Fiel Nilvalen/Image Gallery": 0.21839065834850702,
+            "Math": 0.11494267498482624,
+            "Mathematical formulas": 0.21839065834850702,
+            "Chlammy Zell": 0.21839065834850702
+        },
+        "hitsHubs": {
+            "Chlammy": 0.3333333333333333,
+            "Feel Nilvalen/Image Gallery": 0.3333333333333333,
+            "Fiel Nilvalen/Image Gallery": 0.0,
+            "Math": 0.3333333333333333,
+            "Mathematical formulas": 0.0,
+            "Chlammy Zell": 0.0
+        },
+        "hitsAuths": {
+            "Chlammy": 0.0,
+            "Feel Nilvalen/Image Gallery": 0.0,
+            "Fiel Nilvalen/Image Gallery": 0.3333333333333333,
+            "Math": 0.0,
+            "Mathematical formulas": 0.3333333333333333,
+            "Chlammy Zell": 0.3333333333333333
+        },
+        "averagePathLength": 0
+    }
+}

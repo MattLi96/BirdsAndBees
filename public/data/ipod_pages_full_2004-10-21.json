@@ -1,0 +1,145 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4g"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac OS X"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Final Cut Server"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "App:Angry Birds Star Wars"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jurassic Park Builder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run 2"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 7,
+            "target": 2
+        }
+    ],
+    "edges": [
+        {
+            "source": "IPod Touch 4g",
+            "target": "IPod Touch 4"
+        },
+        {
+            "source": "Final Cut Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "App:Angry Birds Star Wars",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jurassic Park Builder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run 2",
+            "target": "Mac OS X"
+        }
+    ],
+    "basic": {
+        "numNodes": 8,
+        "numEdges": 6,
+        "selfLinks": 0,
+        "numStrongComponents": 8,
+        "numWeakComponents": 2,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 6,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.75,
+        "averageOutDegree": 0.75,
+        "maxOutDegree": 1,
+        "maxInDegree": 5,
+        "pageRank": {
+            "IPod Touch 4g": 0.07462660826726203,
+            "IPod Touch 4": 0.14179113057757936,
+            "Mac OS X": 0.4104492198188487,
+            "Final Cut Server": 0.07462660826726203,
+            "App:Angry Birds Star Wars": 0.07462660826726203,
+            "Jurassic Park Builder": 0.07462660826726203,
+            "Temple Run": 0.07462660826726203,
+            "Temple Run 2": 0.07462660826726203
+        },
+        "hitsHubs": {
+            "IPod Touch 4g": 1.6383999997315657e-10,
+            "IPod Touch 4": 0.0,
+            "Mac OS X": 0.0,
+            "Final Cut Server": 0.199999999967232,
+            "App:Angry Birds Star Wars": 0.199999999967232,
+            "Jurassic Park Builder": 0.199999999967232,
+            "Temple Run": 0.199999999967232,
+            "Temple Run 2": 0.199999999967232
+        },
+        "hitsAuths": {
+            "IPod Touch 4g": 0.0,
+            "IPod Touch 4": 8.191999993289119e-10,
+            "Mac OS X": 0.9999999991808,
+            "Final Cut Server": 0.0,
+            "App:Angry Birds Star Wars": 0.0,
+            "Jurassic Park Builder": 0.0,
+            "Temple Run": 0.0,
+            "Temple Run 2": 0.0
+        },
+        "averagePathLength": 0
+    }
+}

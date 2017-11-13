@@ -1,0 +1,401 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Nick Fury"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "The Incredible Hulk"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Iron Man"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Iron Man 2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Iron Man (film)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Captain America: The First Avenger"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Black Widow"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Avengers"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "S.H.I.E.L.D."
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Phil Coulson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Captain America"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Pepper Potts"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Betty Ross"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Abomination"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Happy Hogan"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hawkeye"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Natasha Romanoff"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Steve Rogers"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Clint Barton"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 2,
+            "target": 2
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 16
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 2
+        },
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 1
+        },
+        {
+            "source": 9,
+            "target": 2
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 9,
+            "target": 7
+        },
+        {
+            "source": 11,
+            "target": 2
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 1
+        },
+        {
+            "source": 13,
+            "target": 1
+        },
+        {
+            "source": 14,
+            "target": 2
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 16,
+            "target": 6
+        },
+        {
+            "source": 17,
+            "target": 10
+        },
+        {
+            "source": 18,
+            "target": 15
+        }
+    ],
+    "edges": [
+        {
+            "source": "Nick Fury",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Nick Fury",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Nick Fury",
+            "target": "Captain America: The First Avenger"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Iron Man",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Iron Man",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Iron Man 2",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Iron Man (film)",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Black Widow",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Nick Fury"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Natasha Romanoff"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Phil Coulson"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Iron Man"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "S.H.I.E.L.D.",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Phil Coulson",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Phil Coulson",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Phil Coulson",
+            "target": "The Avengers"
+        },
+        {
+            "source": "Pepper Potts",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Pepper Potts",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Betty Ross",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Abomination",
+            "target": "The Incredible Hulk"
+        },
+        {
+            "source": "Happy Hogan",
+            "target": "Iron Man"
+        },
+        {
+            "source": "Happy Hogan",
+            "target": "Iron Man 2"
+        },
+        {
+            "source": "Natasha Romanoff",
+            "target": "Black Widow"
+        },
+        {
+            "source": "Steve Rogers",
+            "target": "Captain America"
+        },
+        {
+            "source": "Clint Barton",
+            "target": "Hawkeye"
+        }
+    ],
+    "basic": {
+        "numNodes": 19,
+        "numEdges": 27,
+        "selfLinks": 1,
+        "numStrongComponents": 18,
+        "numWeakComponents": 3,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 15,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 1.4210526315789473,
+        "averageOutDegree": 1.4210526315789473,
+        "maxOutDegree": 6,
+        "maxInDegree": 8,
+        "pageRank": {
+            "Nick Fury": 0.020205486954542703,
+            "The Incredible Hulk": 0.1457837213894751,
+            "Iron Man": 0.31316879813802573,
+            "Iron Man 2": 0.19008664444811316,
+            "Iron Man (film)": 0.017569942908941823,
+            "Captain America: The First Avenger": 0.023631660668402516,
+            "Black Widow": 0.035755096187323906,
+            "The Avengers": 0.023631660668402516,
+            "S.H.I.E.L.D.": 0.017569942908941823,
+            "Phil Coulson": 0.020205486954542703,
+            "Captain America": 0.033383207182547114,
+            "Pepper Potts": 0.017569942908941823,
+            "Betty Ross": 0.017569942908941823,
+            "Abomination": 0.017569942908941823,
+            "Happy Hogan": 0.017569942908941823,
+            "Hawkeye": 0.033383207182547114,
+            "Natasha Romanoff": 0.020205486954542703,
+            "Steve Rogers": 0.017569942908941823,
+            "Clint Barton": 0.017569942908941823
+        },
+        "hitsHubs": {
+            "Nick Fury": 0.12199085339596645,
+            "The Incredible Hulk": 0.0,
+            "Iron Man": 0.13731217777873903,
+            "Iron Man 2": 0.054907339853041776,
+            "Iron Man (film)": 0.05906355324396812,
+            "Captain America: The First Avenger": 0.0,
+            "Black Widow": 0.05906355324396812,
+            "The Avengers": 0.0,
+            "S.H.I.E.L.D.": 0.1710473135308719,
+            "Phil Coulson": 0.12199085339596645,
+            "Captain America": 0.0,
+            "Pepper Potts": 0.1139708930970099,
+            "Betty Ross": 0.023341284681729125,
+            "Abomination": 0.023341284681729125,
+            "Happy Hogan": 0.1139708930970099,
+            "Hawkeye": 0.0,
+            "Natasha Romanoff": 3.2380505144381395e-18,
+            "Steve Rogers": 3.2380505144381395e-18,
+            "Clint Barton": 3.2380505144381395e-18
+        },
+        "hitsAuths": {
+            "Nick Fury": 0.060105892863701355,
+            "The Incredible Hulk": 0.12476150385366067,
+            "Iron Man": 0.29348522954401735,
+            "Iron Man 2": 0.3157006062920928,
+            "Iron Man (film)": 0.0,
+            "Captain America: The First Avenger": 0.042867490859562686,
+            "Black Widow": 1.7307704234962218e-17,
+            "The Avengers": 0.042867490859562686,
+            "S.H.I.E.L.D.": 0.0,
+            "Phil Coulson": 0.060105892863701355,
+            "Captain America": 1.7307704234962218e-17,
+            "Pepper Potts": 0.0,
+            "Betty Ross": 0.0,
+            "Abomination": 0.0,
+            "Happy Hogan": 0.0,
+            "Hawkeye": 1.7307704234962218e-17,
+            "Natasha Romanoff": 0.060105892863701355,
+            "Steve Rogers": 0.0,
+            "Clint Barton": 0.0
+        },
+        "averagePathLength": 1.0
+    }
+}

@@ -1,0 +1,793 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Picture to Burn"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Should've Said No"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Teardrops on My Guitar"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Tim McGraw (song)"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Discography"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Our Song (song)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Sounds of the Season: The Taylor Swift Holiday Collection"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beautiful Eyes"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Our Song (Taylor Swift song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (Taylor Swift song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (Taylor Swift song)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Tim McGraw"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Picture to burn"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan survey (how well do you know her)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift discography"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David Cook"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Gallery"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Teardrops on my Guitar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of songs"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Childhood pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Our Song"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beautiful Eyes (EP)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Songs by Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Survey"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe and Sound (Lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (Taylor Swift album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe & Sound (Lyrics)"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Big Machine Records"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Take Two with Phineas and Ferb"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dan Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Come Back... Be Here"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sarah Hyland"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 35
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 1,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 35
+        },
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 18
+        },
+        {
+            "source": 2,
+            "target": 35
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 18
+        },
+        {
+            "source": 3,
+            "target": 35
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 11
+        },
+        {
+            "source": 4,
+            "target": 18
+        },
+        {
+            "source": 4,
+            "target": 6
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 5
+        },
+        {
+            "source": 4,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 18
+        },
+        {
+            "source": 5,
+            "target": 35
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 11
+        },
+        {
+            "source": 6,
+            "target": 18
+        },
+        {
+            "source": 6,
+            "target": 35
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 9,
+            "target": 21
+        },
+        {
+            "source": 10,
+            "target": 22
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 0
+        },
+        {
+            "source": 13,
+            "target": 28
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 16,
+            "target": 15
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 18,
+            "target": 35
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 18,
+            "target": 11
+        },
+        {
+            "source": 18,
+            "target": 6
+        },
+        {
+            "source": 18,
+            "target": 2
+        },
+        {
+            "source": 18,
+            "target": 8
+        },
+        {
+            "source": 19,
+            "target": 2
+        },
+        {
+            "source": 20,
+            "target": 27
+        },
+        {
+            "source": 23,
+            "target": 24
+        },
+        {
+            "source": 25,
+            "target": 5
+        },
+        {
+            "source": 26,
+            "target": 7
+        },
+        {
+            "source": 29,
+            "target": 34
+        },
+        {
+            "source": 30,
+            "target": 31
+        },
+        {
+            "source": 32,
+            "target": 33
+        },
+        {
+            "source": 36,
+            "target": 18
+        },
+        {
+            "source": 37,
+            "target": 38
+        },
+        {
+            "source": 39,
+            "target": 18
+        }
+    ],
+    "edges": [
+        {
+            "source": "Picture to Burn",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Discography",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Discography",
+            "target": "Sounds of the Season: The Taylor Swift Holiday Collection"
+        },
+        {
+            "source": "Discography",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Discography",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Discography",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Sounds of the Season: The Taylor Swift Holiday Collection",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Sounds of the Season: The Taylor Swift Holiday Collection",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Our Song (Taylor Swift song)",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Breathe (Taylor Swift song)",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "Change (Taylor Swift song)",
+            "target": "Change (song)"
+        },
+        {
+            "source": "Tim McGraw",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Picture to burn",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Fan survey (how well do you know her)",
+            "target": "Fan Survey"
+        },
+        {
+            "source": "Taylor Swift discography",
+            "target": "Discography"
+        },
+        {
+            "source": "David",
+            "target": "David Cook"
+        },
+        {
+            "source": "Fan Gallery",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Sounds of the Season: The Taylor Swift Holiday Collection"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Our Song (Taylor Swift song)"
+        },
+        {
+            "source": "Teardrops on my Guitar",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "List of songs",
+            "target": "List of Songs by Taylor Swift"
+        },
+        {
+            "source": "Childhood pictures",
+            "target": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "source": "Our Song",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Beautiful Eyes (EP)",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Safe and Sound (Lyrics)",
+            "target": "Safe & Sound (Lyrics)"
+        },
+        {
+            "source": "Fearless (Taylor Swift album)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Quotes",
+            "target": "Taylor Swift Quotes"
+        },
+        {
+            "source": "Take Two with Phineas and Ferb",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Dan Wilson",
+            "target": "Come Back... Be Here"
+        },
+        {
+            "source": "Sarah Hyland",
+            "target": "Taylor Swift"
+        }
+    ],
+    "basic": {
+        "numNodes": 40,
+        "numEdges": 55,
+        "selfLinks": 0,
+        "numStrongComponents": 32,
+        "numWeakComponents": 12,
+        "sizeLargestStrong": 9,
+        "sizeLargestWeak": 18,
+        "radius": 2,
+        "diameter": 5,
+        "averageInDegree": 1.375,
+        "averageOutDegree": 1.375,
+        "maxOutDegree": 7,
+        "maxInDegree": 10,
+        "pageRank": {
+            "Picture to Burn": 0.037688456956392655,
+            "Should've Said No": 0.019836986734026958,
+            "Teardrops on My Guitar": 0.07103279739072199,
+            "Tim McGraw (song)": 0.0989125891363011,
+            "Discography": 0.01734176469004771,
+            "Our Song (song)": 0.06758518512139723,
+            "Sounds of the Season: The Taylor Swift Holiday Collection": 0.0283995752477783,
+            "Beautiful Eyes": 0.01734176469004771,
+            "Our Song (Taylor Swift song)": 0.026169866709931967,
+            "Breathe (Taylor Swift song)": 0.009127306976632318,
+            "Change (Taylor Swift song)": 0.009127306976632318,
+            "Tim McGraw": 0.060588631139460274,
+            "Picture to burn": 0.009127306976632318,
+            "Fan survey (how well do you know her)": 0.009127306976632318,
+            "Taylor Swift discography": 0.009127306976632318,
+            "David Cook": 0.01734176469004771,
+            "David": 0.009127306976632318,
+            "Fan Gallery": 0.009127306976632318,
+            "Taylor Swift": 0.11361186582441415,
+            "Teardrops on my Guitar": 0.009127306976632318,
+            "List of songs": 0.009127306976632318,
+            "Breathe (song)": 0.01734176469004771,
+            "Change (song)": 0.01734176469004771,
+            "Childhood pictures": 0.009127306976632318,
+            "Taylor Swift's Childhood Pictures": 0.01734176469004771,
+            "Our Song": 0.009127306976632318,
+            "Beautiful Eyes (EP)": 0.009127306976632318,
+            "List of Songs by Taylor Swift": 0.01734176469004771,
+            "Fan Survey": 0.01734176469004771,
+            "Safe and Sound (Lyrics)": 0.009127306976632318,
+            "Fearless (Taylor Swift album)": 0.009127306976632318,
+            "Fearless (album)": 0.01734176469004771,
+            "Quotes": 0.009127306976632318,
+            "Taylor Swift Quotes": 0.01734176469004771,
+            "Safe & Sound (Lyrics)": 0.01734176469004771,
+            "Big Machine Records": 0.1037813438796213,
+            "Take Two with Phineas and Ferb": 0.009127306976632318,
+            "Dan Wilson": 0.009127306976632318,
+            "Come Back... Be Here": 0.01734176469004771,
+            "Sarah Hyland": 0.009127306976632318
+        },
+        "hitsHubs": {
+            "Picture to Burn": 0.09502797599689183,
+            "Should've Said No": 0.08447112625489982,
+            "Teardrops on My Guitar": 0.10052288332255903,
+            "Tim McGraw (song)": 0.1051205931951968,
+            "Discography": 0.12814398670173405,
+            "Our Song (song)": 0.12119901317560124,
+            "Sounds of the Season: The Taylor Swift Holiday Collection": 0.0683927062744954,
+            "Beautiful Eyes": 0.0,
+            "Our Song (Taylor Swift song)": 0.016379971100206687,
+            "Breathe (Taylor Swift song)": 3.498790671514538e-23,
+            "Change (Taylor Swift song)": 3.498790671514538e-23,
+            "Tim McGraw": 0.015750205947856935,
+            "Picture to burn": 0.016078419980404417,
+            "Fan survey (how well do you know her)": 3.498790671514538e-23,
+            "Taylor Swift discography": 3.498790671514538e-23,
+            "David Cook": 0.0,
+            "David": 3.498790671514538e-23,
+            "Fan Gallery": 0.03746361444845436,
+            "Taylor Swift": 0.09833299954337446,
+            "Teardrops on my Guitar": 0.021809304061209504,
+            "List of songs": 3.498790671514538e-23,
+            "Breathe (song)": 0.0,
+            "Change (song)": 0.0,
+            "Childhood pictures": 3.498790671514538e-23,
+            "Taylor Swift's Childhood Pictures": 0.0,
+            "Our Song": 0.016379971100206687,
+            "Beautiful Eyes (EP)": 3.498790671514538e-23,
+            "List of Songs by Taylor Swift": 0.0,
+            "Fan Survey": 0.0,
+            "Safe and Sound (Lyrics)": 3.498790671514538e-23,
+            "Fearless (Taylor Swift album)": 3.498790671514538e-23,
+            "Fearless (album)": 0.0,
+            "Quotes": 3.498790671514538e-23,
+            "Taylor Swift Quotes": 0.0,
+            "Safe & Sound (Lyrics)": 0.0,
+            "Big Machine Records": 0.0,
+            "Take Two with Phineas and Ferb": 0.03746361444845436,
+            "Dan Wilson": 3.498790671514538e-23,
+            "Come Back... Be Here": 0.0,
+            "Sarah Hyland": 0.03746361444845436
+        },
+        "hitsAuths": {
+            "Picture to Burn": 0.09006998278322978,
+            "Should've Said No": 0.057449337152734134,
+            "Teardrops on My Guitar": 0.12217392279225403,
+            "Tim McGraw (song)": 0.08823135483988741,
+            "Discography": 1.9599936805327365e-22,
+            "Our Song (song)": 0.09175924728819708,
+            "Sounds of the Season: The Taylor Swift Holiday Collection": 0.058300122323557926,
+            "Beautiful Eyes": 1.9599936805327365e-22,
+            "Our Song (Taylor Swift song)": 0.025313061564740717,
+            "Breathe (Taylor Swift song)": 0.0,
+            "Change (Taylor Swift song)": 0.0,
+            "Tim McGraw": 0.08357267088073814,
+            "Picture to burn": 0.0,
+            "Fan survey (how well do you know her)": 0.0,
+            "Taylor Swift discography": 0.0,
+            "David Cook": 1.9599936805327365e-22,
+            "David": 0.0,
+            "Fan Gallery": 0.0,
+            "Taylor Swift": 0.2098680786098591,
+            "Teardrops on my Guitar": 0.0,
+            "List of songs": 0.0,
+            "Breathe (song)": 1.9599936805327365e-22,
+            "Change (song)": 1.9599936805327365e-22,
+            "Childhood pictures": 0.0,
+            "Taylor Swift's Childhood Pictures": 1.9599936805327365e-22,
+            "Our Song": 0.0,
+            "Beautiful Eyes (EP)": 0.0,
+            "List of Songs by Taylor Swift": 1.9599936805327365e-22,
+            "Fan Survey": 1.9599936805327365e-22,
+            "Safe and Sound (Lyrics)": 0.0,
+            "Fearless (Taylor Swift album)": 0.0,
+            "Fearless (album)": 1.9599936805327365e-22,
+            "Quotes": 0.0,
+            "Taylor Swift Quotes": 1.9599936805327365e-22,
+            "Safe & Sound (Lyrics)": 1.9599936805327365e-22,
+            "Big Machine Records": 0.17326222176480174,
+            "Take Two with Phineas and Ferb": 0.0,
+            "Dan Wilson": 0.0,
+            "Come Back... Be Here": 1.9599936805327365e-22,
+            "Sarah Hyland": 0.0
+        },
+        "averagePathLength": 2.013888888888889
+    }
+}

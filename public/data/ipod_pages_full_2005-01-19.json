@@ -1,0 +1,2633 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "GarageBand"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IDVD"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Dogcow"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "MultiFinder"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "MacWrite"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "SimpleText"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "December 2004"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Compatibility Checker"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Macintosh Portable"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "TeachText"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Tuna Helper"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "System 7 Tune-Up 1.1.1"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "WorldScript"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Netscape"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "GMT"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Greenwich Mean Time"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple Open Collaboration Environment"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "HyperCard"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HyperTalk"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "ImageWriter"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "LaserWriter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "QuickTake"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Apple Events"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Apple Backup"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "OpenDoc"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "FireWire"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "MacPPP"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Quartz Compositor"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Groupware"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "CSCW"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mac OS 7.5.3 Revision 2.2"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "January 2005"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Power Computing"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Quartz"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Quartz 2D"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sherlock 3"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Apple typography"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gill Sans"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple Type Services for Unicode Imaging"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "PICT"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "QuickTime GX"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ColourSync"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Inside Macintosh"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Old World ROM"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Open Firmware"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Happy Mac icon"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Macintosh Programmer's Workshop"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "WebCore"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Shake"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Xcode"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "WriteNow"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Bill Atkinson"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "FreePPP"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Custom Install"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Easy Install"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Grab"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Asia Text Extras folder"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "AppleEvent Object Model"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "A/UX"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gershwin"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "OpenGL"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "AirPort Base Station"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "StuffIt Expander"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "AirPort (original)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "AirPort Express"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Macintosh Office"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "KanjiTalk"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "PowerTalk"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Macintouch (magazine)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Macworld Switzerland"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Power key"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "1977"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "1996"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "IMovie HD"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gil Amelio"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guy Kawasaki"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ZhongWen-Talk"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Text control panel"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Read Me document"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Apple Guide"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Battery desk accessory"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Brightness control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mac OS 7.5.3 Revision 2.1"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mac OS 7.6.1"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "System 3"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guide menu"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "System 3.2"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Macworld Conference & Expo"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moscone Centre"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mac Publishing"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac the Knife"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "MacWEEK"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Macworld"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Utility"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ShutDown Manager"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Blessed System Folder"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Andy Hertzfeld"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Jens Alfke"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "AudioTuneUp 2.0"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Twentieth Anniversary Macintosh"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Font/DA Mover"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "System 7.0.1"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": ".Mac"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Central processing unit"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "1992"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "1993"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "1995"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "1999"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "1983"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "1986"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "1989"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "2002"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "GUI"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ethernet"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4g"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4"
+        },
+        {
+            "degree": 44,
+            "parity": 1,
+            "id": "Mac OS X"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Final Cut Server"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Cocoa"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "GNU Compiler Collection"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "WindowServer"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mac-Roman encodiing"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "USA"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "1975"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mac OS X 10.2.8"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Gerschwin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "App:Angry Birds Star Wars"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jurassic Park Builder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run 2"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 88
+        },
+        {
+            "source": 0,
+            "target": 112
+        },
+        {
+            "source": 1,
+            "target": 117
+        },
+        {
+            "source": 2,
+            "target": 109
+        },
+        {
+            "source": 2,
+            "target": 117
+        },
+        {
+            "source": 3,
+            "target": 97
+        },
+        {
+            "source": 3,
+            "target": 117
+        },
+        {
+            "source": 4,
+            "target": 113
+        },
+        {
+            "source": 4,
+            "target": 19
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 4,
+            "target": 117
+        },
+        {
+            "source": 5,
+            "target": 39
+        },
+        {
+            "source": 5,
+            "target": 9
+        },
+        {
+            "source": 5,
+            "target": 79
+        },
+        {
+            "source": 5,
+            "target": 117
+        },
+        {
+            "source": 6,
+            "target": 14
+        },
+        {
+            "source": 6,
+            "target": 64
+        },
+        {
+            "source": 6,
+            "target": 123
+        },
+        {
+            "source": 6,
+            "target": 13
+        },
+        {
+            "source": 6,
+            "target": 117
+        },
+        {
+            "source": 6,
+            "target": 125
+        },
+        {
+            "source": 7,
+            "target": 17
+        },
+        {
+            "source": 8,
+            "target": 111
+        },
+        {
+            "source": 9,
+            "target": 117
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 11,
+            "target": 102
+        },
+        {
+            "source": 11,
+            "target": 20
+        },
+        {
+            "source": 11,
+            "target": 10
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 15,
+            "target": 15
+        },
+        {
+            "source": 16,
+            "target": 67
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 17,
+            "target": 51
+        },
+        {
+            "source": 17,
+            "target": 72
+        },
+        {
+            "source": 17,
+            "target": 113
+        },
+        {
+            "source": 17,
+            "target": 117
+        },
+        {
+            "source": 18,
+            "target": 17
+        },
+        {
+            "source": 18,
+            "target": 51
+        },
+        {
+            "source": 19,
+            "target": 113
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 110
+        },
+        {
+            "source": 20,
+            "target": 113
+        },
+        {
+            "source": 21,
+            "target": 117
+        },
+        {
+            "source": 22,
+            "target": 117
+        },
+        {
+            "source": 22,
+            "target": 57
+        },
+        {
+            "source": 23,
+            "target": 117
+        },
+        {
+            "source": 23,
+            "target": 103
+        },
+        {
+            "source": 24,
+            "target": 105
+        },
+        {
+            "source": 25,
+            "target": 107
+        },
+        {
+            "source": 25,
+            "target": 104
+        },
+        {
+            "source": 26,
+            "target": 52
+        },
+        {
+            "source": 27,
+            "target": 117
+        },
+        {
+            "source": 27,
+            "target": 121
+        },
+        {
+            "source": 27,
+            "target": 34
+        },
+        {
+            "source": 27,
+            "target": 60
+        },
+        {
+            "source": 27,
+            "target": 33
+        },
+        {
+            "source": 28,
+            "target": 29
+        },
+        {
+            "source": 30,
+            "target": 72
+        },
+        {
+            "source": 31,
+            "target": 14
+        },
+        {
+            "source": 31,
+            "target": 6
+        },
+        {
+            "source": 32,
+            "target": 107
+        },
+        {
+            "source": 32,
+            "target": 72
+        },
+        {
+            "source": 33,
+            "target": 117
+        },
+        {
+            "source": 33,
+            "target": 27
+        },
+        {
+            "source": 33,
+            "target": 34
+        },
+        {
+            "source": 34,
+            "target": 117
+        },
+        {
+            "source": 35,
+            "target": 117
+        },
+        {
+            "source": 36,
+            "target": 124
+        },
+        {
+            "source": 36,
+            "target": 71
+        },
+        {
+            "source": 36,
+            "target": 112
+        },
+        {
+            "source": 36,
+            "target": 37
+        },
+        {
+            "source": 36,
+            "target": 122
+        },
+        {
+            "source": 36,
+            "target": 51
+        },
+        {
+            "source": 36,
+            "target": 117
+        },
+        {
+            "source": 36,
+            "target": 38
+        },
+        {
+            "source": 36,
+            "target": 106
+        },
+        {
+            "source": 36,
+            "target": 101
+        },
+        {
+            "source": 36,
+            "target": 12
+        },
+        {
+            "source": 36,
+            "target": 107
+        },
+        {
+            "source": 36,
+            "target": 111
+        },
+        {
+            "source": 36,
+            "target": 105
+        },
+        {
+            "source": 36,
+            "target": 33
+        },
+        {
+            "source": 36,
+            "target": 72
+        },
+        {
+            "source": 37,
+            "target": 117
+        },
+        {
+            "source": 39,
+            "target": 117
+        },
+        {
+            "source": 40,
+            "target": 117
+        },
+        {
+            "source": 40,
+            "target": 41
+        },
+        {
+            "source": 42,
+            "target": 110
+        },
+        {
+            "source": 43,
+            "target": 44
+        },
+        {
+            "source": 45,
+            "target": 117
+        },
+        {
+            "source": 46,
+            "target": 117
+        },
+        {
+            "source": 46,
+            "target": 49
+        },
+        {
+            "source": 47,
+            "target": 117
+        },
+        {
+            "source": 47,
+            "target": 119
+        },
+        {
+            "source": 48,
+            "target": 117
+        },
+        {
+            "source": 49,
+            "target": 117
+        },
+        {
+            "source": 49,
+            "target": 120
+        },
+        {
+            "source": 50,
+            "target": 4
+        },
+        {
+            "source": 50,
+            "target": 113
+        },
+        {
+            "source": 50,
+            "target": 117
+        },
+        {
+            "source": 51,
+            "target": 17
+        },
+        {
+            "source": 51,
+            "target": 112
+        },
+        {
+            "source": 52,
+            "target": 26
+        },
+        {
+            "source": 53,
+            "target": 54
+        },
+        {
+            "source": 54,
+            "target": 53
+        },
+        {
+            "source": 55,
+            "target": 117
+        },
+        {
+            "source": 56,
+            "target": 117
+        },
+        {
+            "source": 57,
+            "target": 22
+        },
+        {
+            "source": 58,
+            "target": 102
+        },
+        {
+            "source": 58,
+            "target": 72
+        },
+        {
+            "source": 59,
+            "target": 126
+        },
+        {
+            "source": 60,
+            "target": 117
+        },
+        {
+            "source": 60,
+            "target": 105
+        },
+        {
+            "source": 61,
+            "target": 114
+        },
+        {
+            "source": 61,
+            "target": 63
+        },
+        {
+            "source": 61,
+            "target": 108
+        },
+        {
+            "source": 61,
+            "target": 64
+        },
+        {
+            "source": 62,
+            "target": 117
+        },
+        {
+            "source": 63,
+            "target": 108
+        },
+        {
+            "source": 64,
+            "target": 64
+        },
+        {
+            "source": 65,
+            "target": 20
+        },
+        {
+            "source": 66,
+            "target": 110
+        },
+        {
+            "source": 66,
+            "target": 105
+        },
+        {
+            "source": 66,
+            "target": 12
+        },
+        {
+            "source": 66,
+            "target": 117
+        },
+        {
+            "source": 67,
+            "target": 123
+        },
+        {
+            "source": 68,
+            "target": 69
+        },
+        {
+            "source": 68,
+            "target": 72
+        },
+        {
+            "source": 69,
+            "target": 72
+        },
+        {
+            "source": 70,
+            "target": 112
+        },
+        {
+            "source": 70,
+            "target": 117
+        },
+        {
+            "source": 71,
+            "target": 123
+        },
+        {
+            "source": 72,
+            "target": 123
+        },
+        {
+            "source": 73,
+            "target": 25
+        },
+        {
+            "source": 73,
+            "target": 0
+        },
+        {
+            "source": 73,
+            "target": 117
+        },
+        {
+            "source": 74,
+            "target": 73
+        },
+        {
+            "source": 74,
+            "target": 123
+        },
+        {
+            "source": 75,
+            "target": 126
+        },
+        {
+            "source": 75,
+            "target": 100
+        },
+        {
+            "source": 76,
+            "target": 93
+        },
+        {
+            "source": 77,
+            "target": 117
+        },
+        {
+            "source": 78,
+            "target": 12
+        },
+        {
+            "source": 79,
+            "target": 5
+        },
+        {
+            "source": 79,
+            "target": 9
+        },
+        {
+            "source": 79,
+            "target": 117
+        },
+        {
+            "source": 80,
+            "target": 117
+        },
+        {
+            "source": 81,
+            "target": 8
+        },
+        {
+            "source": 83,
+            "target": 30
+        },
+        {
+            "source": 84,
+            "target": 117
+        },
+        {
+            "source": 85,
+            "target": 87
+        },
+        {
+            "source": 86,
+            "target": 80
+        },
+        {
+            "source": 88,
+            "target": 90
+        },
+        {
+            "source": 88,
+            "target": 89
+        },
+        {
+            "source": 88,
+            "target": 106
+        },
+        {
+            "source": 88,
+            "target": 108
+        },
+        {
+            "source": 88,
+            "target": 92
+        },
+        {
+            "source": 88,
+            "target": 91
+        },
+        {
+            "source": 88,
+            "target": 93
+        },
+        {
+            "source": 90,
+            "target": 93
+        },
+        {
+            "source": 90,
+            "target": 92
+        },
+        {
+            "source": 91,
+            "target": 92
+        },
+        {
+            "source": 91,
+            "target": 88
+        },
+        {
+            "source": 91,
+            "target": 90
+        },
+        {
+            "source": 92,
+            "target": 90
+        },
+        {
+            "source": 92,
+            "target": 91
+        },
+        {
+            "source": 93,
+            "target": 90
+        },
+        {
+            "source": 93,
+            "target": 88
+        },
+        {
+            "source": 94,
+            "target": 23
+        },
+        {
+            "source": 94,
+            "target": 117
+        },
+        {
+            "source": 95,
+            "target": 117
+        },
+        {
+            "source": 96,
+            "target": 102
+        },
+        {
+            "source": 96,
+            "target": 11
+        },
+        {
+            "source": 97,
+            "target": 124
+        },
+        {
+            "source": 97,
+            "target": 51
+        },
+        {
+            "source": 97,
+            "target": 110
+        },
+        {
+            "source": 97,
+            "target": 108
+        },
+        {
+            "source": 98,
+            "target": 106
+        },
+        {
+            "source": 98,
+            "target": 24
+        },
+        {
+            "source": 98,
+            "target": 117
+        },
+        {
+            "source": 98,
+            "target": 112
+        },
+        {
+            "source": 99,
+            "target": 100
+        },
+        {
+            "source": 100,
+            "target": 84
+        },
+        {
+            "source": 102,
+            "target": 8
+        },
+        {
+            "source": 102,
+            "target": 82
+        },
+        {
+            "source": 115,
+            "target": 116
+        },
+        {
+            "source": 118,
+            "target": 117
+        },
+        {
+            "source": 121,
+            "target": 27
+        },
+        {
+            "source": 126,
+            "target": 59
+        },
+        {
+            "source": 127,
+            "target": 117
+        },
+        {
+            "source": 128,
+            "target": 117
+        },
+        {
+            "source": 129,
+            "target": 117
+        },
+        {
+            "source": 130,
+            "target": 117
+        }
+    ],
+    "edges": [
+        {
+            "source": "GarageBand",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "GarageBand",
+            "target": "2002"
+        },
+        {
+            "source": "IDVD",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Dogcow",
+            "target": "1983"
+        },
+        {
+            "source": "Dogcow",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "MultiFinder",
+            "target": "Andy Hertzfeld"
+        },
+        {
+            "source": "MultiFinder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "MacWrite",
+            "target": "GUI"
+        },
+        {
+            "source": "MacWrite",
+            "target": "ImageWriter"
+        },
+        {
+            "source": "MacWrite",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "MacWrite",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "SimpleText",
+            "target": "PICT"
+        },
+        {
+            "source": "SimpleText",
+            "target": "TeachText"
+        },
+        {
+            "source": "SimpleText",
+            "target": "Read Me document"
+        },
+        {
+            "source": "SimpleText",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "December 2004",
+            "target": "GMT"
+        },
+        {
+            "source": "December 2004",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "December 2004",
+            "target": "USA"
+        },
+        {
+            "source": "December 2004",
+            "target": "Netscape"
+        },
+        {
+            "source": "December 2004",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "December 2004",
+            "target": "Mac OS X 10.2.8"
+        },
+        {
+            "source": "Compatibility Checker",
+            "target": "HyperCard"
+        },
+        {
+            "source": "Macintosh Portable",
+            "target": "1989"
+        },
+        {
+            "source": "TeachText",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "TeachText",
+            "target": "SimpleText"
+        },
+        {
+            "source": "Tuna Helper",
+            "target": "System 7 Tune-Up 1.1.1"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "Tuna Helper"
+        },
+        {
+            "source": "GMT",
+            "target": "Greenwich Mean Time"
+        },
+        {
+            "source": "Greenwich Mean Time",
+            "target": "Greenwich Mean Time"
+        },
+        {
+            "source": "Apple Open Collaboration Environment",
+            "target": "PowerTalk"
+        },
+        {
+            "source": "HyperCard",
+            "target": "HyperTalk"
+        },
+        {
+            "source": "HyperCard",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "HyperCard",
+            "target": "1996"
+        },
+        {
+            "source": "HyperCard",
+            "target": "GUI"
+        },
+        {
+            "source": "HyperCard",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "HyperTalk",
+            "target": "HyperCard"
+        },
+        {
+            "source": "HyperTalk",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "ImageWriter",
+            "target": "GUI"
+        },
+        {
+            "source": "ImageWriter",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "ImageWriter",
+            "target": "1986"
+        },
+        {
+            "source": "LaserWriter",
+            "target": "GUI"
+        },
+        {
+            "source": "QuickTake",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Events",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Events",
+            "target": "AppleEvent Object Model"
+        },
+        {
+            "source": "Apple Backup",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Backup",
+            "target": ".Mac"
+        },
+        {
+            "source": "OpenDoc",
+            "target": "1992"
+        },
+        {
+            "source": "FireWire",
+            "target": "1995"
+        },
+        {
+            "source": "FireWire",
+            "target": "Central processing unit"
+        },
+        {
+            "source": "MacPPP",
+            "target": "FreePPP"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "WindowServer"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "Quartz 2D"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "OpenGL"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "Quartz"
+        },
+        {
+            "source": "Groupware",
+            "target": "CSCW"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2.2",
+            "target": "1996"
+        },
+        {
+            "source": "January 2005",
+            "target": "GMT"
+        },
+        {
+            "source": "January 2005",
+            "target": "December 2004"
+        },
+        {
+            "source": "Power Computing",
+            "target": "1995"
+        },
+        {
+            "source": "Power Computing",
+            "target": "1996"
+        },
+        {
+            "source": "Quartz",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Quartz",
+            "target": "Quartz Compositor"
+        },
+        {
+            "source": "Quartz",
+            "target": "Quartz 2D"
+        },
+        {
+            "source": "Quartz 2D",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Sherlock 3",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1975"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1977"
+        },
+        {
+            "source": "Apple typography",
+            "target": "2002"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Gill Sans"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Mac-Roman encodiing"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Apple Type Services for Unicode Imaging"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1993"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Font/DA Mover"
+        },
+        {
+            "source": "Apple typography",
+            "target": "WorldScript"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1995"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1989"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1992"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Quartz"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1996"
+        },
+        {
+            "source": "Gill Sans",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "PICT",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "QuickTime GX",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "QuickTime GX",
+            "target": "ColourSync"
+        },
+        {
+            "source": "Inside Macintosh",
+            "target": "1986"
+        },
+        {
+            "source": "Old World ROM",
+            "target": "Open Firmware"
+        },
+        {
+            "source": "Happy Mac icon",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Macintosh Programmer's Workshop",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Macintosh Programmer's Workshop",
+            "target": "Xcode"
+        },
+        {
+            "source": "WebCore",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "WebCore",
+            "target": "Cocoa"
+        },
+        {
+            "source": "Shake",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Xcode",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Xcode",
+            "target": "GNU Compiler Collection"
+        },
+        {
+            "source": "WriteNow",
+            "target": "MacWrite"
+        },
+        {
+            "source": "WriteNow",
+            "target": "GUI"
+        },
+        {
+            "source": "WriteNow",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Bill Atkinson",
+            "target": "HyperCard"
+        },
+        {
+            "source": "Bill Atkinson",
+            "target": "2002"
+        },
+        {
+            "source": "FreePPP",
+            "target": "MacPPP"
+        },
+        {
+            "source": "Custom Install",
+            "target": "Easy Install"
+        },
+        {
+            "source": "Easy Install",
+            "target": "Custom Install"
+        },
+        {
+            "source": "Grab",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Asia Text Extras folder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "AppleEvent Object Model",
+            "target": "Apple Events"
+        },
+        {
+            "source": "A/UX",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "A/UX",
+            "target": "1996"
+        },
+        {
+            "source": "Gershwin",
+            "target": "Gerschwin"
+        },
+        {
+            "source": "OpenGL",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "OpenGL",
+            "target": "1992"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "Ethernet"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "AirPort (original)"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "1999"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "StuffIt Expander",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "AirPort (original)",
+            "target": "1999"
+        },
+        {
+            "source": "AirPort Express",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "Macintosh Office",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "1986"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "1992"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "WorldScript"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "PowerTalk",
+            "target": "USA"
+        },
+        {
+            "source": "Macintouch (magazine)",
+            "target": "Macworld Switzerland"
+        },
+        {
+            "source": "Macintouch (magazine)",
+            "target": "1996"
+        },
+        {
+            "source": "Macworld Switzerland",
+            "target": "1996"
+        },
+        {
+            "source": "Power key",
+            "target": "2002"
+        },
+        {
+            "source": "Power key",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "1977",
+            "target": "USA"
+        },
+        {
+            "source": "1996",
+            "target": "USA"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "FireWire"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "GarageBand"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IMovie HD",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "IMovie HD",
+            "target": "USA"
+        },
+        {
+            "source": "Gil Amelio",
+            "target": "Gerschwin"
+        },
+        {
+            "source": "Gil Amelio",
+            "target": "Twentieth Anniversary Macintosh"
+        },
+        {
+            "source": "Guy Kawasaki",
+            "target": "Macworld"
+        },
+        {
+            "source": "ZhongWen-Talk",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Text control panel",
+            "target": "WorldScript"
+        },
+        {
+            "source": "Read Me document",
+            "target": "SimpleText"
+        },
+        {
+            "source": "Read Me document",
+            "target": "TeachText"
+        },
+        {
+            "source": "Read Me document",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Guide",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Battery desk accessory",
+            "target": "Macintosh Portable"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2.1",
+            "target": "Mac OS 7.5.3 Revision 2.2"
+        },
+        {
+            "source": "Mac OS 7.6.1",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "System 3",
+            "target": "System 3.2"
+        },
+        {
+            "source": "Guide menu",
+            "target": "Apple Guide"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Moscone Centre"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "1993"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "1999"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "MacWEEK"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Mac the Knife"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Macworld"
+        },
+        {
+            "source": "Mac Publishing",
+            "target": "Macworld"
+        },
+        {
+            "source": "Mac Publishing",
+            "target": "MacWEEK"
+        },
+        {
+            "source": "Mac the Knife",
+            "target": "MacWEEK"
+        },
+        {
+            "source": "Mac the Knife",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "Mac the Knife",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "MacWEEK",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "MacWEEK",
+            "target": "Mac the Knife"
+        },
+        {
+            "source": "Macworld",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "Macworld",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "Utility",
+            "target": "Apple Backup"
+        },
+        {
+            "source": "Utility",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "ShutDown Manager",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System 7 Tune-Up 1.1.1"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "1975"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "1986"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "1999"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "1993"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "OpenDoc"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "2002"
+        },
+        {
+            "source": "AudioTuneUp 2.0",
+            "target": "Twentieth Anniversary Macintosh"
+        },
+        {
+            "source": "Twentieth Anniversary Macintosh",
+            "target": "Mac OS 7.6.1"
+        },
+        {
+            "source": "System 7.0.1",
+            "target": "Macintosh Portable"
+        },
+        {
+            "source": "System 7.0.1",
+            "target": "Brightness control panel"
+        },
+        {
+            "source": "IPod Touch 4g",
+            "target": "IPod Touch 4"
+        },
+        {
+            "source": "Final Cut Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "WindowServer",
+            "target": "Quartz Compositor"
+        },
+        {
+            "source": "Gerschwin",
+            "target": "Gershwin"
+        },
+        {
+            "source": "App:Angry Birds Star Wars",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jurassic Park Builder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run 2",
+            "target": "Mac OS X"
+        }
+    ],
+    "basic": {
+        "numNodes": 131,
+        "numEdges": 194,
+        "selfLinks": 2,
+        "numStrongComponents": 116,
+        "numWeakComponents": 7,
+        "sizeLargestStrong": 5,
+        "sizeLargestWeak": 119,
+        "radius": 1,
+        "diameter": 2,
+        "averageInDegree": 1.4809160305343512,
+        "averageOutDegree": 1.4809160305343512,
+        "maxOutDegree": 16,
+        "maxInDegree": 44,
+        "pageRank": {
+            "GarageBand": 0.0037951982710676233,
+            "IDVD": 0.0026446979787860484,
+            "Dogcow": 0.0026446979787860484,
+            "MultiFinder": 0.0026446979787860484,
+            "MacWrite": 0.0034381362011447697,
+            "SimpleText": 0.00622504215550038,
+            "December 2004": 0.003834855312324131,
+            "Compatibility Checker": 0.0026446979787860484,
+            "Macintosh Portable": 0.008435887768535865,
+            "TeachText": 0.005259059965061978,
+            "Tuna Helper": 0.005199081872066511,
+            "System 7 Tune-Up 1.1.1": 0.00851423313813431,
+            "WorldScript": 0.005768860979323514,
+            "Netscape": 0.0032199481249268356,
+            "GMT": 0.004410105458464918,
+            "Greenwich Mean Time": 0.06604852244719828,
+            "Apple Open Collaboration Environment": 0.0026446979787860484,
+            "HyperCard": 0.01047520714944652,
+            "HyperTalk": 0.004530319542832775,
+            "ImageWriter": 0.003418307680516516,
+            "LaserWriter": 0.009378537366482862,
+            "QuickTake": 0.0026446979787860484,
+            "Apple Events": 0.008446012020552049,
+            "Apple Backup": 0.003834855312324131,
+            "OpenDoc": 0.0032397766455550896,
+            "FireWire": 0.0037951982710676233,
+            "MacPPP": 0.026414731252851778,
+            "Quartz Compositor": 0.007478613426489798,
+            "Groupware": 0.0026446979787860484,
+            "CSCW": 0.005025012645862213,
+            "Mac OS 7.5.3 Revision 2.2": 0.005025012645862213,
+            "January 2005": 0.0026446979787860484,
+            "Power Computing": 0.0026446979787860484,
+            "Quartz": 0.004139676010833127,
+            "Quartz 2D": 0.005232859775122072,
+            "Sherlock 3": 0.0026446979787860484,
+            "Apple typography": 0.0026446979787860484,
+            "Gill Sans": 0.002793467645478309,
+            "Apple Type Services for Unicode Imaging": 0.002793467645478309,
+            "PICT": 0.004045392638396112,
+            "QuickTime GX": 0.0026446979787860484,
+            "ColourSync": 0.003834855312324131,
+            "Inside Macintosh": 0.0026446979787860484,
+            "Old World ROM": 0.0026446979787860484,
+            "Open Firmware": 0.005025012645862213,
+            "Happy Mac icon": 0.0026446979787860484,
+            "Macintosh Programmer's Workshop": 0.0026446979787860484,
+            "WebCore": 0.0026446979787860484,
+            "Shake": 0.0026446979787860484,
+            "Xcode": 0.003834855312324131,
+            "WriteNow": 0.0026446979787860484,
+            "Bill Atkinson": 0.00758069497293231,
+            "FreePPP": 0.026414731252851778,
+            "Custom Install": 0.026414731252851778,
+            "Easy Install": 0.026414731252851778,
+            "Grab": 0.0026446979787860484,
+            "Asia Text Extras folder": 0.0026446979787860484,
+            "AppleEvent Object Model": 0.006445591938874531,
+            "A/UX": 0.0026446979787860484,
+            "Gershwin": 0.03205678415102377,
+            "OpenGL": 0.003990906344140867,
+            "AirPort Base Station": 0.0026446979787860484,
+            "StuffIt Expander": 0.0026446979787860484,
+            "AirPort (original)": 0.0032397766455550896,
+            "AirPort Express": 0.03810138833429497,
+            "Macintosh Office": 0.0026446979787860484,
+            "KanjiTalk": 0.0026446979787860484,
+            "PowerTalk": 0.005025012645862213,
+            "Macintouch (magazine)": 0.0026446979787860484,
+            "Macworld Switzerland": 0.003834855312324131,
+            "Power key": 0.0026446979787860484,
+            "1977": 0.002793467645478309,
+            "1996": 0.016223749173597292,
+            "Macworld Conference & Expo San Francisco 2005 Keynote address": 0.003834855312324131,
+            "IMovie HD": 0.0026446979787860484,
+            "Gil Amelio": 0.0026446979787860484,
+            "Guy Kawasaki": 0.0026446979787860484,
+            "ZhongWen-Talk": 0.0026446979787860484,
+            "Text control panel": 0.0026446979787860484,
+            "Read Me document": 0.004045392638396112,
+            "Apple Guide": 0.005025012645862213,
+            "Battery desk accessory": 0.0026446979787860484,
+            "Brightness control panel": 0.0060555731014597,
+            "Mac OS 7.5.3 Revision 2.1": 0.0026446979787860484,
+            "Mac OS 7.6.1": 0.008238571275167896,
+            "System 3": 0.0026446979787860484,
+            "Guide menu": 0.0026446979787860484,
+            "System 3.2": 0.005025012645862213,
+            "Macworld Conference & Expo": 0.017940448276686866,
+            "Moscone Centre": 0.004951585400390819,
+            "Mac Publishing": 0.028582026666457875,
+            "Mac the Knife": 0.014994181376886708,
+            "MacWEEK": 0.022313977080793766,
+            "Macworld": 0.020195478055085793,
+            "Utility": 0.0026446979787860484,
+            "ShutDown Manager": 0.0026446979787860484,
+            "Blessed System Folder": 0.0026446979787860484,
+            "Andy Hertzfeld": 0.003834855312324131,
+            "Jens Alfke": 0.0026446979787860484,
+            "AudioTuneUp 2.0": 0.0026446979787860484,
+            "Twentieth Anniversary Macintosh": 0.006215169979400295,
+            "Font/DA Mover": 0.002793467645478309,
+            "System 7.0.1": 0.007579396539142676,
+            ".Mac": 0.004370448417208411,
+            "Central processing unit": 0.004352602987115697,
+            "1992": 0.008100435092569067,
+            "1993": 0.00569543373385212,
+            "1995": 0.00569152998734604,
+            "1999": 0.009325447058331486,
+            "1983": 0.003834855312324131,
+            "1986": 0.007508497657452155,
+            "1989": 0.010386093762802204,
+            "2002": 0.009698072613503294,
+            "GUI": 0.015563945614935078,
+            "Ethernet": 0.0032397766455550896,
+            "IPod Touch 4g": 0.0026446979787860484,
+            "IPod Touch 4": 0.005025012645862213,
+            "Mac OS X": 0.09261814506615679,
+            "Final Cut Server": 0.0026446979787860484,
+            "Cocoa": 0.003834855312324131,
+            "GNU Compiler Collection": 0.004370448417208411,
+            "WindowServer": 0.003990906344140867,
+            "Mac-Roman encodiing": 0.002793467645478309,
+            "USA": 0.026049009209005457,
+            "1975": 0.00365634286468949,
+            "Mac OS X 10.2.8": 0.0032199481249268356,
+            "Gerschwin": 0.03265769499171266,
+            "App:Angry Birds Star Wars": 0.0026446979787860484,
+            "Jurassic Park Builder": 0.0026446979787860484,
+            "Temple Run": 0.0026446979787860484,
+            "Temple Run 2": 0.0026446979787860484
+        },
+        "hitsHubs": {
+            "GarageBand": 0.0019546333220424018,
+            "IDVD": 0.020639196327785547,
+            "Dogcow": 0.021090544676652497,
+            "MultiFinder": 0.021090544676652497,
+            "MacWrite": 0.023365407453892147,
+            "SimpleText": 0.022570844382134247,
+            "December 2004": 0.02320567860526583,
+            "Compatibility Checker": 7.729931158760682e-05,
+            "Macintosh Portable": 0.0008359598050556795,
+            "TeachText": 0.021583663177734014,
+            "Tuna Helper": 1.1057994789619726e-06,
+            "System 7 Tune-Up 1.1.1": 0.0006519468708842192,
+            "WorldScript": 0.0,
+            "Netscape": 0.0,
+            "GMT": 3.925173371149338e-31,
+            "Greenwich Mean Time": 3.925173371149338e-31,
+            "Apple Open Collaboration Environment": 1.8716685157534303e-37,
+            "HyperCard": 0.025861500645078174,
+            "HyperTalk": 0.0015493199224221774,
+            "ImageWriter": 0.0028950867735157535,
+            "LaserWriter": 0.0016376447328013,
+            "QuickTake": 0.020639196327785547,
+            "Apple Events": 0.021090544676652497,
+            "Apple Backup": 0.021090544676652497,
+            "OpenDoc": 0.0018648679695283457,
+            "FireWire": 0.0009094060530264133,
+            "MacPPP": 1.8716685157534303e-37,
+            "Quartz Compositor": 0.023983443352164038,
+            "Groupware": 1.8716685157534303e-37,
+            "CSCW": 0.0,
+            "Mac OS 7.5.3 Revision 2.2": 0.0015591897481802045,
+            "January 2005": 0.0005188192784921528,
+            "Power Computing": 0.0024491340505940064,
+            "Quartz": 0.022109092753964638,
+            "Quartz 2D": 0.020639196327785547,
+            "Sherlock 3": 0.020639196327785547,
+            "Apple typography": 0.038226657032800704,
+            "Gill Sans": 0.020639196327785547,
+            "Apple Type Services for Unicode Imaging": 0.0,
+            "PICT": 0.020639196327785547,
+            "QuickTime GX": 0.021090544676652497,
+            "ColourSync": 0.0,
+            "Inside Macintosh": 0.0006689072130527425,
+            "Old World ROM": 1.8716685157534303e-37,
+            "Open Firmware": 0.0,
+            "Happy Mac icon": 0.020639196327785547,
+            "Macintosh Programmer's Workshop": 0.021090544676652497,
+            "WebCore": 0.021090544676652497,
+            "Shake": 0.020639196327785547,
+            "Xcode": 0.021090544676652497,
+            "WriteNow": 0.022764002249957328,
+            "Bill Atkinson": 0.0019854125544059398,
+            "FreePPP": 1.8716685157534303e-37,
+            "Custom Install": 1.8716685157534303e-37,
+            "Easy Install": 1.8716685157534303e-37,
+            "Grab": 0.020639196327785547,
+            "Asia Text Extras folder": 0.020639196327785547,
+            "AppleEvent Object Model": 1.8716685157534303e-37,
+            "A/UX": 0.0016086497978311438,
+            "Gershwin": 1.3052209169143773e-27,
+            "OpenGL": 0.02250406429731389,
+            "AirPort Base Station": 0.0006714558729489816,
+            "StuffIt Expander": 0.020639196327785547,
+            "AirPort (original)": 0.0001205596682447107,
+            "AirPort Express": 0.0005221572124846327,
+            "Macintosh Office": 0.0005885348276617107,
+            "KanjiTalk": 0.02454570925823489,
+            "PowerTalk": 0.0005433822075062792,
+            "Macintouch (magazine)": 0.0015932868955523581,
+            "Macworld Switzerland": 0.0015591897481802045,
+            "Power key": 0.022547309570603878,
+            "1977": 0.0005433822075062792,
+            "1996": 0.0005433822075062792,
+            "Macworld Conference & Expo San Francisco 2005 Keynote address": 0.021562075001550482,
+            "IMovie HD": 0.0005552651635209462,
+            "Gil Amelio": 2.6104418338287545e-27,
+            "Guy Kawasaki": 3.879742139475214e-05,
+            "ZhongWen-Talk": 0.020639196327785547,
+            "Text control panel": 0.0013727377478682553,
+            "Read Me document": 0.022549256205950708,
+            "Apple Guide": 0.020639196327785547,
+            "Battery desk accessory": 8.113578894871592e-29,
+            "Brightness control panel": 0.0,
+            "Mac OS 7.5.3 Revision 2.1": 1.8716685157534303e-37,
+            "Mac OS 7.6.1": 0.020639196327785547,
+            "System 3": 1.8716685157534303e-37,
+            "Guide menu": 1.8716685157534303e-37,
+            "System 3.2": 0.0,
+            "Macworld Conference & Expo": 0.0016945777019860013,
+            "Moscone Centre": 0.0,
+            "Mac Publishing": 7.954554107513923e-05,
+            "Mac the Knife": 0.00012994938717667118,
+            "MacWEEK": 8.067244141574403e-05,
+            "Macworld": 8.920126749628406e-05,
+            "Utility": 0.021090544676652497,
+            "ShutDown Manager": 0.020639196327785547,
+            "Blessed System Folder": 5.0565849129901085e-05,
+            "Andy Hertzfeld": 0.0031469026456362164,
+            "Jens Alfke": 0.024448045365738632,
+            "AudioTuneUp 2.0": 1.3052209169143773e-27,
+            "Twentieth Anniversary Macintosh": 1.8716685157534303e-37,
+            "Font/DA Mover": 0.0,
+            "System 7.0.1": 1.3128046422306045e-28,
+            ".Mac": 0.0,
+            "Central processing unit": 0.0,
+            "1992": 0.0,
+            "1993": 0.0,
+            "1995": 0.0,
+            "1999": 0.0,
+            "1983": 0.0,
+            "1986": 0.0,
+            "1989": 0.0,
+            "2002": 0.0,
+            "GUI": 0.0,
+            "Ethernet": 0.0,
+            "IPod Touch 4g": 1.8716685157534303e-37,
+            "IPod Touch 4": 0.0,
+            "Mac OS X": 0.0,
+            "Final Cut Server": 0.020639196327785547,
+            "Cocoa": 0.0,
+            "GNU Compiler Collection": 0.0,
+            "WindowServer": 0.0004834927848424144,
+            "Mac-Roman encodiing": 0.0,
+            "USA": 0.0,
+            "1975": 0.0,
+            "Mac OS X 10.2.8": 0.0,
+            "Gerschwin": 1.8716685157534303e-37,
+            "App:Angry Birds Star Wars": 0.020639196327785547,
+            "Jurassic Park Builder": 0.020639196327785547,
+            "Temple Run": 0.020639196327785547,
+            "Temple Run 2": 0.020639196327785547
+        },
+        "hitsAuths": {
+            "GarageBand": 0.008135351124748738,
+            "IDVD": 0.0,
+            "Dogcow": 0.0,
+            "MultiFinder": 0.0,
+            "MacWrite": 0.008588837173386774,
+            "SimpleText": 0.016651310011684715,
+            "December 2004": 0.00019575003798286104,
+            "Compatibility Checker": 0.0,
+            "Macintosh Portable": 1.4304548379875947e-27,
+            "TeachText": 0.017023772574796914,
+            "Tuna Helper": 0.0002459789565445428,
+            "System 7 Tune-Up 1.1.1": 1.9495665661489192e-05,
+            "WorldScript": 0.024201888934210186,
+            "Netscape": 0.008755481257135355,
+            "GMT": 0.008951231295118217,
+            "Greenwich Mean Time": 6.920230038373847e-30,
+            "Apple Open Collaboration Environment": 0.0,
+            "HyperCard": 0.0013628162820169718,
+            "HyperTalk": 0.0097575204779709,
+            "ImageWriter": 0.00881574680531537,
+            "LaserWriter": 0.010376092997444296,
+            "QuickTake": 0.0,
+            "Apple Events": 3.299822825610088e-36,
+            "Apple Backup": 0.007957443165586666,
+            "OpenDoc": 0.009224225097127753,
+            "FireWire": 0.008135351124748738,
+            "MacPPP": 3.299822825610088e-36,
+            "Quartz Compositor": 0.00852416180542819,
+            "Groupware": 0.0,
+            "CSCW": 3.299822825610088e-36,
+            "Mac OS 7.5.3 Revision 2.2": 3.299822825610088e-36,
+            "January 2005": 0.0,
+            "Power Computing": 0.0,
+            "Quartz": 0.023471813829507818,
+            "Quartz 2D": 0.017390671604247235,
+            "Sherlock 3": 0.0,
+            "Apple typography": 0.0,
+            "Gill Sans": 0.014422882646359771,
+            "Apple Type Services for Unicode Imaging": 0.014422882646359771,
+            "PICT": 0.008515958886935975,
+            "QuickTime GX": 0.0,
+            "ColourSync": 0.007957443165586666,
+            "Inside Macintosh": 0.0,
+            "Old World ROM": 0.0,
+            "Open Firmware": 3.299822825610088e-36,
+            "Happy Mac icon": 0.0,
+            "Macintosh Programmer's Workshop": 0.0,
+            "WebCore": 0.0,
+            "Shake": 0.0,
+            "Xcode": 0.007957443165586666,
+            "WriteNow": 0.0,
+            "Bill Atkinson": 0.02595228359357798,
+            "FreePPP": 3.299822825610088e-36,
+            "Custom Install": 3.299822825610088e-36,
+            "Easy Install": 3.299822825610088e-36,
+            "Grab": 0.0,
+            "Asia Text Extras folder": 0.0,
+            "AppleEvent Object Model": 0.007957443165586666,
+            "A/UX": 0.0,
+            "Gershwin": 3.299822825610088e-36,
+            "OpenGL": 0.009048931183148045,
+            "AirPort Base Station": 0.0,
+            "StuffIt Expander": 0.0,
+            "AirPort (original)": 0.00025333968518783854,
+            "AirPort Express": 0.009205830379746132,
+            "Macintosh Office": 0.0,
+            "KanjiTalk": 0.0,
+            "PowerTalk": 3.299822825610088e-36,
+            "Macintouch (magazine)": 0.0,
+            "Macworld Switzerland": 0.0006011456849319875,
+            "Power key": 0.0,
+            "1977": 0.014422882646359771,
+            "1996": 0.027489108659987115,
+            "Macworld Conference & Expo San Francisco 2005 Keynote address": 0.00020950103697787872,
+            "IMovie HD": 0.0,
+            "Gil Amelio": 0.0,
+            "Guy Kawasaki": 0.0,
+            "ZhongWen-Talk": 0.0,
+            "Text control panel": 0.0,
+            "Read Me document": 0.008515958886935975,
+            "Apple Guide": 3.299822825610088e-36,
+            "Battery desk accessory": 0.0,
+            "Brightness control panel": 8.840697092480578e-28,
+            "Mac OS 7.5.3 Revision 2.1": 0.0,
+            "Mac OS 7.6.1": 3.299822825610088e-36,
+            "System 3": 0.0,
+            "Guide menu": 0.0,
+            "System 3.2": 3.299822825610088e-36,
+            "Macworld Conference & Expo": 0.000820166701425645,
+            "Moscone Centre": 0.0006393626134620023,
+            "Mac Publishing": 0.000752485592931623,
+            "Mac the Knife": 0.0006698002517079417,
+            "MacWEEK": 0.0007184048579665622,
+            "Macworld": 0.0006840133047901415,
+            "Utility": 0.0,
+            "ShutDown Manager": 0.0,
+            "Blessed System Folder": 0.0,
+            "Andy Hertzfeld": 0.007957443165586666,
+            "Jens Alfke": 0.0,
+            "AudioTuneUp 2.0": 0.0,
+            "Twentieth Anniversary Macintosh": 2.3011541508802007e-26,
+            "Font/DA Mover": 0.014422882646359771,
+            "System 7.0.1": 0.0008719994989512237,
+            ".Mac": 0.007957443165586666,
+            "Central processing unit": 0.00034311807009253015,
+            "1992": 0.03287833203798708,
+            "1993": 0.024286470356949526,
+            "1995": 0.01569005674834774,
+            "1999": 0.002125512833995252,
+            "1983": 0.007957443165586666,
+            "1986": 0.011793088740172259,
+            "1989": 0.014738289514395467,
+            "2002": 0.033640762664462635,
+            "GUI": 0.02887229989741286,
+            "Ethernet": 0.00025333968518783854,
+            "IPod Touch 4g": 0.0,
+            "IPod Touch 4": 3.299822825610088e-36,
+            "Mac OS X": 0.36387688616570585,
+            "Final Cut Server": 0.0,
+            "Cocoa": 0.007957443165586666,
+            "GNU Compiler Collection": 0.007957443165586666,
+            "WindowServer": 0.009048931183148045,
+            "Mac-Roman encodiing": 0.014422882646359771,
+            "USA": 0.00958003511982905,
+            "1975": 0.015610206129358728,
+            "Mac OS X 10.2.8": 0.008755481257135355,
+            "Gerschwin": 2.3011541508802007e-26,
+            "App:Angry Birds Star Wars": 0.0,
+            "Jurassic Park Builder": 0.0,
+            "Temple Run": 0.0,
+            "Temple Run 2": 0.0
+        },
+        "averagePathLength": 1.35
+    }
+}

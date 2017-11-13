@@ -1,0 +1,297 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google+ Local"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Blogger"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Blogspot"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of devices running Chromium OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Local"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chromebooks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chrome OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "List of Devices Running Chromium"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HP"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chromebox"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moto G2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Motorola Moto G (2014)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Presentations"
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 19
+        },
+        {
+            "source": 6,
+            "target": 14
+        },
+        {
+            "source": 7,
+            "target": 12
+        },
+        {
+            "source": 8,
+            "target": 13
+        },
+        {
+            "source": 9,
+            "target": 0
+        },
+        {
+            "source": 10,
+            "target": 14
+        },
+        {
+            "source": 15,
+            "target": 10
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 16,
+            "target": 11
+        },
+        {
+            "source": 16,
+            "target": 15
+        },
+        {
+            "source": 17,
+            "target": 18
+        }
+    ],
+    "edges": [
+        {
+            "source": "Zeitgeist",
+            "target": "Google Zeitgeist"
+        },
+        {
+            "source": "Blogspot",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Presentations",
+            "target": "Presentations"
+        },
+        {
+            "source": "List of devices running Chromium OS",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "Series 5 550",
+            "target": "Samsung Series 5 550"
+        },
+        {
+            "source": "Series 5",
+            "target": "Samsung Series 5"
+        },
+        {
+            "source": "Google Local",
+            "target": "Google+ Local"
+        },
+        {
+            "source": "Chromebooks",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebooks"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebox"
+        },
+        {
+            "source": "Chromebox",
+            "target": "Chrome OS"
+        },
+        {
+            "source": "Chromebox",
+            "target": "HP"
+        },
+        {
+            "source": "Moto G2",
+            "target": "Motorola Moto G (2014)"
+        }
+    ],
+    "basic": {
+        "numNodes": 20,
+        "numEdges": 13,
+        "selfLinks": 0,
+        "numStrongComponents": 19,
+        "numWeakComponents": 8,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 6,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.65,
+        "averageOutDegree": 0.65,
+        "maxOutDegree": 2,
+        "maxInDegree": 2,
+        "pageRank": {
+            "Google+ Local": 0.059173576029741215,
+            "Blogger": 0.059173576029741215,
+            "Google Zeitgeist": 0.059173576029741215,
+            "Zeitgeist": 0.031143593307005217,
+            "Blogspot": 0.031143593307005217,
+            "Google Presentations": 0.031143593307005217,
+            "List of devices running Chromium OS": 0.031143593307005217,
+            "Series 5 550": 0.031143593307005217,
+            "Series 5": 0.031143593307005217,
+            "Google Local": 0.031143593307005217,
+            "Chromebooks": 0.056624971986673205,
+            "Chrome OS": 0.056624971986673205,
+            "Samsung Series 5 550": 0.059173576029741215,
+            "Samsung Series 5": 0.059173576029741215,
+            "List of Devices Running Chromium": 0.11013633338907719,
+            "HP": 0.056624971986673205,
+            "Chromebox": 0.056624971986673205,
+            "Moto G2": 0.031143593307005217,
+            "Motorola Moto G (2014)": 0.059173576029741215,
+            "Presentations": 0.059173576029741215
+        },
+        "hitsHubs": {
+            "Google+ Local": 0.0,
+            "Blogger": 0.0,
+            "Google Zeitgeist": 0.0,
+            "Zeitgeist": 2.3283064327439887e-10,
+            "Blogspot": 2.3283064327439887e-10,
+            "Google Presentations": 2.3283064327439887e-10,
+            "List of devices running Chromium OS": 0.24999999959254637,
+            "Series 5 550": 2.3283064327439887e-10,
+            "Series 5": 2.3283064327439887e-10,
+            "Google Local": 2.3283064327439887e-10,
+            "Chromebooks": 0.24999999959254637,
+            "Chrome OS": 0.0,
+            "Samsung Series 5 550": 0.0,
+            "Samsung Series 5": 0.0,
+            "List of Devices Running Chromium": 0.0,
+            "HP": 0.24999999959254637,
+            "Chromebox": 0.24999999959254637,
+            "Moto G2": 2.3283064327439887e-10,
+            "Motorola Moto G (2014)": 0.0,
+            "Presentations": 0.0
+        },
+        "hitsAuths": {
+            "Google+ Local": 3.1044085753054484e-10,
+            "Blogger": 3.1044085753054484e-10,
+            "Google Zeitgeist": 3.1044085753054484e-10,
+            "Zeitgeist": 0.0,
+            "Blogspot": 0.0,
+            "Google Presentations": 0.0,
+            "List of devices running Chromium OS": 0.0,
+            "Series 5 550": 0.0,
+            "Series 5": 0.0,
+            "Google Local": 0.0,
+            "Chromebooks": 0.16666666630448568,
+            "Chrome OS": 0.16666666630448568,
+            "Samsung Series 5 550": 3.1044085753054484e-10,
+            "Samsung Series 5": 3.1044085753054484e-10,
+            "List of Devices Running Chromium": 0.33333333260897136,
+            "HP": 0.16666666630448568,
+            "Chromebox": 0.16666666630448568,
+            "Moto G2": 0.0,
+            "Motorola Moto G (2014)": 3.1044085753054484e-10,
+            "Presentations": 3.1044085753054484e-10
+        },
+        "averagePathLength": 1.0
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "MultiFinder"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "MacWrite"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "GMT"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Greenwich Mean Time"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "GUI"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4g"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Mac OS X"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Final Cut Server"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "App:Angry Birds Star Wars"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jurassic Park Builder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run 2"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 3,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 8,
+            "target": 7
+        },
+        {
+            "source": 9,
+            "target": 7
+        },
+        {
+            "source": 10,
+            "target": 7
+        },
+        {
+            "source": 11,
+            "target": 7
+        },
+        {
+            "source": 12,
+            "target": 7
+        }
+    ],
+    "edges": [
+        {
+            "source": "MultiFinder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "MacWrite",
+            "target": "GUI"
+        },
+        {
+            "source": "MacWrite",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "GMT",
+            "target": "Greenwich Mean Time"
+        },
+        {
+            "source": "Greenwich Mean Time",
+            "target": "Greenwich Mean Time"
+        },
+        {
+            "source": "IPod Touch 4g",
+            "target": "IPod Touch 4"
+        },
+        {
+            "source": "Final Cut Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "App:Angry Birds Star Wars",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jurassic Park Builder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run 2",
+            "target": "Mac OS X"
+        }
+    ],
+    "basic": {
+        "numNodes": 13,
+        "numEdges": 11,
+        "selfLinks": 1,
+        "numStrongComponents": 13,
+        "numWeakComponents": 3,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 9,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.8461538461538461,
+        "averageOutDegree": 0.8461538461538461,
+        "maxOutDegree": 2,
+        "maxInDegree": 7,
+        "pageRank": {
+            "MultiFinder": 0.02617926286998698,
+            "MacWrite": 0.02617926286998698,
+            "GMT": 0.02617926286998698,
+            "Greenwich Mean Time": 0.4973561393654662,
+            "GUI": 0.037960057007155115,
+            "IPod Touch 4g": 0.02617926286998698,
+            "IPod Touch 4": 0.04974085114432326,
+            "Mac OS X": 0.17932958665317275,
+            "Final Cut Server": 0.02617926286998698,
+            "App:Angry Birds Star Wars": 0.02617926286998698,
+            "Jurassic Park Builder": 0.02617926286998698,
+            "Temple Run": 0.02617926286998698,
+            "Temple Run 2": 0.02617926286998698
+        },
+        "hitsHubs": {
+            "MultiFinder": 0.13962038991725012,
+            "MacWrite": 0.16227766010481823,
+            "GMT": 1.9583894326376325e-10,
+            "Greenwich Mean Time": 1.9583894326376325e-10,
+            "GUI": 0.0,
+            "IPod Touch 4g": 2.9882651254846687e-15,
+            "IPod Touch 4": 0.0,
+            "Mac OS X": 0.0,
+            "Final Cut Server": 0.13962038991725012,
+            "App:Angry Birds Star Wars": 0.13962038991725012,
+            "Jurassic Park Builder": 0.13962038991725012,
+            "Temple Run": 0.13962038991725012,
+            "Temple Run 2": 0.13962038991725012
+        },
+        "hitsAuths": {
+            "MultiFinder": 0.0,
+            "MacWrite": 0.0,
+            "GMT": 0.0,
+            "Greenwich Mean Time": 1.206813944081535e-09,
+            "GUI": 0.13962038980343822,
+            "IPod Touch 4g": 0.0,
+            "IPod Touch 4": 1.8414519410423813e-14,
+            "Mac OS X": 0.8603796089897293,
+            "Final Cut Server": 0.0,
+            "App:Angry Birds Star Wars": 0.0,
+            "Jurassic Park Builder": 0.0,
+            "Temple Run": 0.0,
+            "Temple Run 2": 0.0
+        },
+        "averagePathLength": 0
+    }
+}

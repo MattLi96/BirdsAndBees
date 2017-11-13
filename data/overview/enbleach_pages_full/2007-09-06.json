@@ -1,0 +1,28 @@
+{
+  "numNodes": 2,
+  "numEdges": 1,
+  "selfLinks": 0,
+  "numStrongComponents": 2,
+  "numWeakComponents": 1,
+  "sizeLargestStrong": 1,
+  "sizeLargestWeak": 2,
+  "radius": 0,
+  "diameter": 0,
+  "averageInDegree": 0.5,
+  "averageOutDegree": 0.5,
+  "maxOutDegree": 1,
+  "maxInDegree": 1,
+  "pageRank": {
+    "Bleach Wiki": 0.3448273887704846,
+    "Races": 0.6551726112295155
+  },
+  "hitsHubs": {
+    "Bleach Wiki": 1.0,
+    "Races": 0.0
+  },
+  "hitsAuths": {
+    "Bleach Wiki": 0.0,
+    "Races": 1.0
+  },
+  "averagePathLength": 0.5
+}

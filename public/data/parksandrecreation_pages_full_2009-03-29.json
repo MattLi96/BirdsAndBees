@@ -1,0 +1,689 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Parks and Recreation Wiki"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Main Page"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Amy Poehler"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Leslie Knope"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Pawnee, Indiana"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Ann Perkins"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Rashida Jones"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Tom Haverford"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Aziz Ansari"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Leslie"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pawnee"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Bluebell Cafe"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Ron's Woodshop"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Pawnee Summer Kick-Off"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Doubletime Sound Studio"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Pawnee Central High School"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Kevin"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Norton Construction"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Bill Haggerty"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "North Pawnee Recreation Center"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Artie"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "WVYS Action 8 News"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mezze"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jamm Orthodontia"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Nathaniel Bixby Mark"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Sweetums Stadium"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Leslie and Ben's House"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Police Station"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chez Chez La Rue"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Gregory"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Roz Degrandis"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tom"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moving Up (Part 1)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moving Up (Parts 1 & 2)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Parks and Recreation Department"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 7,
+            "target": 8
+        },
+        {
+            "source": 8,
+            "target": 7
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 34
+        },
+        {
+            "source": 13,
+            "target": 3
+        },
+        {
+            "source": 13,
+            "target": 4
+        },
+        {
+            "source": 13,
+            "target": 5
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 14,
+            "target": 34
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 15,
+            "target": 4
+        },
+        {
+            "source": 15,
+            "target": 3
+        },
+        {
+            "source": 15,
+            "target": 34
+        },
+        {
+            "source": 16,
+            "target": 4
+        },
+        {
+            "source": 16,
+            "target": 3
+        },
+        {
+            "source": 17,
+            "target": 4
+        },
+        {
+            "source": 17,
+            "target": 34
+        },
+        {
+            "source": 18,
+            "target": 4
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 7
+        },
+        {
+            "source": 20,
+            "target": 4
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 21,
+            "target": 4
+        },
+        {
+            "source": 22,
+            "target": 5
+        },
+        {
+            "source": 23,
+            "target": 4
+        },
+        {
+            "source": 24,
+            "target": 4
+        },
+        {
+            "source": 25,
+            "target": 4
+        },
+        {
+            "source": 25,
+            "target": 7
+        },
+        {
+            "source": 26,
+            "target": 3
+        },
+        {
+            "source": 26,
+            "target": 5
+        },
+        {
+            "source": 27,
+            "target": 4
+        },
+        {
+            "source": 28,
+            "target": 7
+        },
+        {
+            "source": 28,
+            "target": 3
+        },
+        {
+            "source": 29,
+            "target": 4
+        },
+        {
+            "source": 30,
+            "target": 4
+        },
+        {
+            "source": 30,
+            "target": 3
+        },
+        {
+            "source": 31,
+            "target": 7
+        },
+        {
+            "source": 32,
+            "target": 33
+        }
+    ],
+    "edges": [
+        {
+            "source": "Parks and Recreation Wiki",
+            "target": "Main Page"
+        },
+        {
+            "source": "Amy Poehler",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Leslie Knope",
+            "target": "Amy Poehler"
+        },
+        {
+            "source": "Leslie Knope",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Ann Perkins",
+            "target": "Rashida Jones"
+        },
+        {
+            "source": "Ann Perkins",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Tom Haverford",
+            "target": "Aziz Ansari"
+        },
+        {
+            "source": "Aziz Ansari",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Leslie",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Bluebell Cafe",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Ron's Woodshop",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Ron's Woodshop",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Pawnee Summer Kick-Off",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Summer Kick-Off",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Pawnee Summer Kick-Off",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Doubletime Sound Studio",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Pawnee Central High School",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Kevin",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Kevin",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Norton Construction",
+            "target": "Parks and Recreation Department"
+        },
+        {
+            "source": "Bill Haggerty",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Bill Haggerty",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "North Pawnee Recreation Center",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Artie",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Artie",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "WVYS Action 8 News",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Mezze",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Jamm Orthodontia",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Nathaniel Bixby Mark",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Sweetums Stadium",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Sweetums Stadium",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Leslie and Ben's House",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Leslie and Ben's House",
+            "target": "Ann Perkins"
+        },
+        {
+            "source": "Police Station",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Chez Chez La Rue",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Chez Chez La Rue",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Gregory",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Roz Degrandis",
+            "target": "Pawnee, Indiana"
+        },
+        {
+            "source": "Roz Degrandis",
+            "target": "Leslie Knope"
+        },
+        {
+            "source": "Tom",
+            "target": "Tom Haverford"
+        },
+        {
+            "source": "Moving Up (Part 1)",
+            "target": "Moving Up (Parts 1 & 2)"
+        }
+    ],
+    "basic": {
+        "numNodes": 35,
+        "numEdges": 47,
+        "selfLinks": 0,
+        "numStrongComponents": 33,
+        "numWeakComponents": 3,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 31,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 1.3428571428571427,
+        "averageOutDegree": 1.3428571428571427,
+        "maxOutDegree": 3,
+        "maxInDegree": 16,
+        "pageRank": {
+            "Parks and Recreation Wiki": 0.008150074046184475,
+            "Main Page": 0.015485141809600683,
+            "Amy Poehler": 0.06327098330932136,
+            "Leslie Knope": 0.12249088029829804,
+            "Pawnee, Indiana": 0.1366216609434835,
+            "Ann Perkins": 0.02159769827911419,
+            "Rashida Jones": 0.017869039915252998,
+            "Tom Haverford": 0.19730939110785378,
+            "Aziz Ansari": 0.18574302438765128,
+            "Leslie": 0.008150074046184475,
+            "Pawnee": 0.008150074046184475,
+            "Bluebell Cafe": 0.008150074046184475,
+            "Ron's Woodshop": 0.008150074046184475,
+            "Pawnee Summer Kick-Off": 0.008150074046184475,
+            "Doubletime Sound Studio": 0.008150074046184475,
+            "Pawnee Central High School": 0.008150074046184475,
+            "Kevin": 0.008150074046184475,
+            "Norton Construction": 0.008150074046184475,
+            "Bill Haggerty": 0.008150074046184475,
+            "North Pawnee Recreation Center": 0.008150074046184475,
+            "Artie": 0.008150074046184475,
+            "WVYS Action 8 News": 0.008150074046184475,
+            "Mezze": 0.008150074046184475,
+            "Jamm Orthodontia": 0.008150074046184475,
+            "Nathaniel Bixby Mark": 0.008150074046184475,
+            "Sweetums Stadium": 0.008150074046184475,
+            "Leslie and Ben's House": 0.008150074046184475,
+            "Police Station": 0.008150074046184475,
+            "Chez Chez La Rue": 0.008150074046184475,
+            "Gregory": 0.008150074046184475,
+            "Roz Degrandis": 0.008150074046184475,
+            "Tom": 0.008150074046184475,
+            "Moving Up (Part 1)": 0.008150074046184475,
+            "Moving Up (Parts 1 & 2)": 0.015485141809600683,
+            "Parks and Recreation Department": 0.020375186985211485
+        },
+        "hitsHubs": {
+            "Parks and Recreation Wiki": 6.0444970762556916e-24,
+            "Main Page": 0.0,
+            "Amy Poehler": 0.028969446683755597,
+            "Leslie Knope": 0.03416831793990403,
+            "Pawnee, Indiana": 0.0,
+            "Ann Perkins": 0.030265009516970035,
+            "Rashida Jones": 0.0,
+            "Tom Haverford": 6.0444970762556916e-24,
+            "Aziz Ansari": 0.0033591174291430024,
+            "Leslie": 0.028969446683755597,
+            "Pawnee": 0.03270566507913499,
+            "Bluebell Cafe": 0.028969446683755597,
+            "Ron's Woodshop": 0.03852628830731165,
+            "Pawnee Summer Kick-Off": 0.06612709037200364,
+            "Doubletime Sound Studio": 0.07123195338644664,
+            "Pawnee Central High School": 0.07123195338644663,
+            "Kevin": 0.061675111762890575,
+            "Norton Construction": 0.04226250670269105,
+            "Bill Haggerty": 0.061675111762890575,
+            "North Pawnee Recreation Center": 0.0033591174291430024,
+            "Artie": 0.061675111762890575,
+            "WVYS Action 8 News": 0.03270566507913499,
+            "Mezze": 0.004451978609113044,
+            "Jamm Orthodontia": 0.03270566507913499,
+            "Nathaniel Bixby Mark": 0.03270566507913499,
+            "Sweetums Stadium": 0.03606478250827799,
+            "Leslie and Ben's House": 0.033421425292868644,
+            "Police Station": 0.03270566507913499,
+            "Chez Chez La Rue": 0.032328564112898604,
+            "Gregory": 0.03270566507913499,
+            "Roz Degrandis": 0.061675111762890575,
+            "Tom": 0.0033591174291430024,
+            "Moving Up (Part 1)": 6.0444970762556916e-24,
+            "Moving Up (Parts 1 & 2)": 0.0,
+            "Parks and Recreation Department": 0.0
+        },
+        "hitsAuths": {
+            "Parks and Recreation Wiki": 0.0,
+            "Main Page": 7.389246446843674e-23,
+            "Amy Poehler": 0.017880565277894774,
+            "Leslie Knope": 0.3541442377660489,
+            "Pawnee, Indiana": 0.3998185728751512,
+            "Ann Perkins": 0.05442432464404591,
+            "Rashida Jones": 0.015837931495737763,
+            "Tom Haverford": 0.04106437014475546,
+            "Aziz Ansari": 7.389246446843674e-23,
+            "Leslie": 0.0,
+            "Pawnee": 0.0,
+            "Bluebell Cafe": 0.0,
+            "Ron's Woodshop": 0.0,
+            "Pawnee Summer Kick-Off": 0.0,
+            "Doubletime Sound Studio": 0.0,
+            "Pawnee Central High School": 0.0,
+            "Kevin": 0.0,
+            "Norton Construction": 0.0,
+            "Bill Haggerty": 0.0,
+            "North Pawnee Recreation Center": 0.0,
+            "Artie": 0.0,
+            "WVYS Action 8 News": 0.0,
+            "Mezze": 0.0,
+            "Jamm Orthodontia": 0.0,
+            "Nathaniel Bixby Mark": 0.0,
+            "Sweetums Stadium": 0.0,
+            "Leslie and Ben's House": 0.0,
+            "Police Station": 0.0,
+            "Chez Chez La Rue": 0.0,
+            "Gregory": 0.0,
+            "Roz Degrandis": 0.0,
+            "Tom": 0.0,
+            "Moving Up (Part 1)": 0.0,
+            "Moving Up (Parts 1 & 2)": 7.389246446843674e-23,
+            "Parks and Recreation Department": 0.11682999779636599
+        },
+        "averagePathLength": 1.0
+    }
+}

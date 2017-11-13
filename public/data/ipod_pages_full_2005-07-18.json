@@ -1,0 +1,7449 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Main Screen"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "GarageBand"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IDVD"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Safari"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Dogcow"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Macintosh 128K"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Scrapbook"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Software Update"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "MultiFinder"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "MacWrite"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "SimpleText"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "December 2004"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Compatibility Checker"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Macintosh Portable"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Sad Mac icon"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "ICal"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "ITunes Music Store"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "TeachText"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Tuna Helper"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "System 7 Tune-Up 1.1.1"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "System file"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple File Exchange"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "WorldScript"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Internet Explorer"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Netscape"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Mac OS X 10.3.7"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Michigan"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "GMT"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Greenwich Mean Time"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "System 5"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple Open Collaboration Environment"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "HyperCard"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HyperTalk"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Macintosh Classic"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "ImageWriter"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "LaserWriter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "QuickTake"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Apple Events"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Apple Backup"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "ResEdit"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "OpenDoc"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "FireWire"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "MacPPP"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Steve Wozniak"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Quartz Compositor"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Groupware"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "CSCW"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mac OS 7.5.3 Revision 2.2"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Camino"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "January 2005"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Power Computing"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Quartz"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Quartz 2D"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Worldwide Developers Conference"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "IPhoto"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Music Player"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sherlock 3"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Xserve RAID"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple Developer Connection"
+        },
+        {
+            "degree": 22,
+            "parity": 1,
+            "id": "Apple typography"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gill Sans"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Apple Type Services for Unicode Imaging"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "PICT"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "QuickTime GX"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ColourSync"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Inside Macintosh"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Old World ROM"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Open Firmware"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Happy Mac icon"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ITrip"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Chooser"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Macintosh Programmer's Workshop"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "WebCore"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Shake"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "IChat"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Xcode"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "WriteNow"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Jef Raskin"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Bill Atkinson"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "FreePPP"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "People's Republic of China"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Shutdown Items folder"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Apple Installer"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Custom Install"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Easy Install"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Grab"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Asia Text Extras folder"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Screenshots"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Apple Menu Items folder"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "AppleEvent Object Model"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "A/UX"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gershwin"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Mac OS X Server"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "System 1.0"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "OpenGL"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "AirPort Base Station"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "StuffIt Expander"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "AirPort (original)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "AirPort Extreme"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "AirPort Express"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Macintosh Office"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Apple Store (retail)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "ISight"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "KanjiTalk"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "PowerTalk"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Macintouch (magazine)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Macworld Switzerland"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Map"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Memory control panel"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Virtual memory"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Power key"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "1977"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "1996"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "New products released at the Macworld Conference & Expo San Francisco 2005"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IWork"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Pages"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "IPhoto 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "IMovie HD"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "ITunes 4.7.1"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "ILife '05"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Keynote 2"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gil Amelio"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guy Kawasaki"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ZhongWen-Talk"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Text control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Application Support folder"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Internet Search Sites"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PrintMonitor Documents folder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Network Software Selector"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Balloon Help"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Read Me document"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Apple Guide"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Battery desk accessory"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Brightness control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Numbers control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Screen control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "7.5.2 Printing Fix"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "System 1"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mac OS 7.5.3 Revision 2.1"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Mac OS 7.5.3 Revision 2"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Mac OS 7.6.1"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "System 3"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Guide menu"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "System 3.2"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "IPod Updater 2005-01-11"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Macworld Conference & Expo"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moscone Centre"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Mac Publishing"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac the Knife"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "MacWEEK"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Macworld"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Utility"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Startup Memory Tests"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ShutDown Manager"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Startup disk"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Blessed System Folder"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Andy Hertzfeld"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Jens Alfke"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "ICab"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "AudioTuneUp 2.0"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Twentieth Anniversary Macintosh"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Font/DA Mover"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "System 7.0.1"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Huh?"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Control panel"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Force Quit"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Network Utility"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Battery Monitor"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Menu Extra"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Dock Extra"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Avie Tevanian"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Package First Aid"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "MacWorld China"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "OSXFAQ"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Performa control panel"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "WindowShade"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Desktop Patterns control panel"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Mouse control panel"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Startup Disk control panel"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Appearance folder"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Contextual Menu Items folder"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Print Catalogue"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Mac OS X 10.2.1"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac OS X 10.2.5"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac OS X 10.2.4"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Mac OS X 10.2.3"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mac OS X 10.2.2"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Mac OS X 10.3.1"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "MacCentral Online"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Apple Menu Options control panel"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "AppleCD Audio Player"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hong Kong University Mac User Group"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PowerBook G4 (15-inch Aluminium)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Powerbook G4 15-inch Aluminum"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "ITunes 3"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Internet Connect"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Georgia"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "AMUG"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Atlanta Macintosh Users Group"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Security Update 2005-001"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "IPhoto 5.0.1"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Preview"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Mac OS X 10.2.7"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mac OS X 10.3.2"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "London"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Classic environment"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac OS X 10.3.5"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mac OS X 10.2.8 Build 6R73"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mac OS X 10.2.8 (6R73)"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mac OS X 10.2.8 (G5)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mac OS X 10.2.0"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Mac OS X 10.3.8"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "AppleTalk Remote Access"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "TrueType"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Core Image"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Font Book"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "System 3.1"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Get Info"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Macintosh Drag and Drop"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Smart Album"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Smart Playlist"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Cary Lu"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "The Apple Macintosh Book"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "OmniWeb"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "About This Macintosh..."
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Click Wheel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Date & Time control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hardware System Update"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "System Update 3.0"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Open Transport"
+        },
+        {
+            "degree": 28,
+            "parity": 1,
+            "id": "System Folder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "DigitalColor Meter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Directory Setup"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ColorSync (System Preferences)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Appearance (System Preferences)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Apple Stores"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Gestalt"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Worldwide Developers Conference 2005"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Modern Memory Manager"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Library folder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Security Update 2005-002"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "IPod Updater 2005-02-22"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Updater 2005-02-23"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Apple Store"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Build number"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Bluetooth"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "AliasMenu"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "MenuChoice"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "SafeSleep"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple Store Shinsaibashi"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "System 7.0"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Music folder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pictures folder"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "WindowShade X"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "IMovie"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "IPod 4G"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod (4G)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "RAM Doubler"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Security Update 2005-003"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Macintosh Quadra"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Mac OS X 10.3.9"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Terminal"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mac OS X Server Wiki"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Firewall"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Automator"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Security Update 2005-005"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Security Update 2005-004"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "ITunes 4.8"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lucida Grande"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Worldwide Developers Conference 2005 Keynote address"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Calculator"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "System 3.3"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Suitcase"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "1976"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Shuffle Songs"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PowerBook 500"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Application package"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "AAC"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": ".Mac"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Central processing unit"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "1992"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "1993"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "1995"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "1999"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "1983"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "1986"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "1989"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "2002"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Apple Terminal"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "GUI"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Application programme"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "System 7 (Macintosh)"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Ethernet"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Battery life"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4g"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Address Book"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IPod Touch 4"
+        },
+        {
+            "degree": 114,
+            "parity": 1,
+            "id": "Mac OS X"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Final Cut Server"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Main page"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Cocoa"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "GNU Compiler Collection"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "WindowServer"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Dock Connector"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Map control panel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mac-Roman encodiing"
+        },
+        {
+            "degree": 17,
+            "parity": 0,
+            "id": "USA"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Font"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Printing"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "1975"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mac OS X 10.2.8"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Gerschwin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "App:Angry Birds Star Wars"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jurassic Park Builder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Temple Run 2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Screen shot"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "About This Macintosh"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Force quit"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 294
+        },
+        {
+            "source": 0,
+            "target": 278
+        },
+        {
+            "source": 1,
+            "target": 146
+        },
+        {
+            "source": 1,
+            "target": 288
+        },
+        {
+            "source": 2,
+            "target": 298
+        },
+        {
+            "source": 4,
+            "target": 285
+        },
+        {
+            "source": 4,
+            "target": 298
+        },
+        {
+            "source": 5,
+            "target": 93
+        },
+        {
+            "source": 5,
+            "target": 144
+        },
+        {
+            "source": 6,
+            "target": 231
+        },
+        {
+            "source": 7,
+            "target": 298
+        },
+        {
+            "source": 7,
+            "target": 93
+        },
+        {
+            "source": 7,
+            "target": 231
+        },
+        {
+            "source": 8,
+            "target": 157
+        },
+        {
+            "source": 8,
+            "target": 298
+        },
+        {
+            "source": 9,
+            "target": 290
+        },
+        {
+            "source": 9,
+            "target": 34
+        },
+        {
+            "source": 9,
+            "target": 35
+        },
+        {
+            "source": 9,
+            "target": 298
+        },
+        {
+            "source": 10,
+            "target": 206
+        },
+        {
+            "source": 10,
+            "target": 62
+        },
+        {
+            "source": 10,
+            "target": 17
+        },
+        {
+            "source": 10,
+            "target": 131
+        },
+        {
+            "source": 10,
+            "target": 298
+        },
+        {
+            "source": 11,
+            "target": 27
+        },
+        {
+            "source": 11,
+            "target": 99
+        },
+        {
+            "source": 11,
+            "target": 98
+        },
+        {
+            "source": 11,
+            "target": 224
+        },
+        {
+            "source": 11,
+            "target": 205
+        },
+        {
+            "source": 11,
+            "target": 26
+        },
+        {
+            "source": 11,
+            "target": 307
+        },
+        {
+            "source": 11,
+            "target": 25
+        },
+        {
+            "source": 11,
+            "target": 23
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 11,
+            "target": 24
+        },
+        {
+            "source": 11,
+            "target": 298
+        },
+        {
+            "source": 11,
+            "target": 311
+        },
+        {
+            "source": 12,
+            "target": 31
+        },
+        {
+            "source": 13,
+            "target": 287
+        },
+        {
+            "source": 14,
+            "target": 231
+        },
+        {
+            "source": 14,
+            "target": 298
+        },
+        {
+            "source": 15,
+            "target": 279
+        },
+        {
+            "source": 15,
+            "target": 246
+        },
+        {
+            "source": 16,
+            "target": 298
+        },
+        {
+            "source": 16,
+            "target": 307
+        },
+        {
+            "source": 16,
+            "target": 146
+        },
+        {
+            "source": 17,
+            "target": 206
+        },
+        {
+            "source": 17,
+            "target": 298
+        },
+        {
+            "source": 17,
+            "target": 10
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 251
+        },
+        {
+            "source": 19,
+            "target": 163
+        },
+        {
+            "source": 19,
+            "target": 35
+        },
+        {
+            "source": 19,
+            "target": 70
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 213
+        },
+        {
+            "source": 20,
+            "target": 231
+        },
+        {
+            "source": 20,
+            "target": 308
+        },
+        {
+            "source": 20,
+            "target": 22
+        },
+        {
+            "source": 20,
+            "target": 298
+        },
+        {
+            "source": 21,
+            "target": 251
+        },
+        {
+            "source": 22,
+            "target": 20
+        },
+        {
+            "source": 25,
+            "target": 94
+        },
+        {
+            "source": 25,
+            "target": 41
+        },
+        {
+            "source": 25,
+            "target": 3
+        },
+        {
+            "source": 25,
+            "target": 298
+        },
+        {
+            "source": 25,
+            "target": 207
+        },
+        {
+            "source": 25,
+            "target": 202
+        },
+        {
+            "source": 25,
+            "target": 188
+        },
+        {
+            "source": 25,
+            "target": 204
+        },
+        {
+            "source": 26,
+            "target": 115
+        },
+        {
+            "source": 27,
+            "target": 28
+        },
+        {
+            "source": 28,
+            "target": 28
+        },
+        {
+            "source": 29,
+            "target": 20
+        },
+        {
+            "source": 30,
+            "target": 104
+        },
+        {
+            "source": 31,
+            "target": 32
+        },
+        {
+            "source": 31,
+            "target": 78
+        },
+        {
+            "source": 31,
+            "target": 112
+        },
+        {
+            "source": 31,
+            "target": 53
+        },
+        {
+            "source": 31,
+            "target": 290
+        },
+        {
+            "source": 31,
+            "target": 298
+        },
+        {
+            "source": 32,
+            "target": 31
+        },
+        {
+            "source": 32,
+            "target": 78
+        },
+        {
+            "source": 33,
+            "target": 281
+        },
+        {
+            "source": 34,
+            "target": 290
+        },
+        {
+            "source": 34,
+            "target": 35
+        },
+        {
+            "source": 34,
+            "target": 286
+        },
+        {
+            "source": 35,
+            "target": 290
+        },
+        {
+            "source": 36,
+            "target": 298
+        },
+        {
+            "source": 37,
+            "target": 298
+        },
+        {
+            "source": 37,
+            "target": 89
+        },
+        {
+            "source": 38,
+            "target": 298
+        },
+        {
+            "source": 38,
+            "target": 279
+        },
+        {
+            "source": 39,
+            "target": 298
+        },
+        {
+            "source": 40,
+            "target": 281
+        },
+        {
+            "source": 41,
+            "target": 283
+        },
+        {
+            "source": 41,
+            "target": 280
+        },
+        {
+            "source": 42,
+            "target": 79
+        },
+        {
+            "source": 43,
+            "target": 274
+        },
+        {
+            "source": 44,
+            "target": 298
+        },
+        {
+            "source": 44,
+            "target": 303
+        },
+        {
+            "source": 44,
+            "target": 52
+        },
+        {
+            "source": 44,
+            "target": 94
+        },
+        {
+            "source": 44,
+            "target": 51
+        },
+        {
+            "source": 45,
+            "target": 46
+        },
+        {
+            "source": 47,
+            "target": 112
+        },
+        {
+            "source": 48,
+            "target": 298
+        },
+        {
+            "source": 48,
+            "target": 301
+        },
+        {
+            "source": 49,
+            "target": 27
+        },
+        {
+            "source": 49,
+            "target": 244
+        },
+        {
+            "source": 49,
+            "target": 11
+        },
+        {
+            "source": 50,
+            "target": 283
+        },
+        {
+            "source": 50,
+            "target": 112
+        },
+        {
+            "source": 51,
+            "target": 298
+        },
+        {
+            "source": 51,
+            "target": 44
+        },
+        {
+            "source": 51,
+            "target": 52
+        },
+        {
+            "source": 52,
+            "target": 298
+        },
+        {
+            "source": 53,
+            "target": 298
+        },
+        {
+            "source": 53,
+            "target": 285
+        },
+        {
+            "source": 53,
+            "target": 307
+        },
+        {
+            "source": 53,
+            "target": 284
+        },
+        {
+            "source": 53,
+            "target": 288
+        },
+        {
+            "source": 53,
+            "target": 238
+        },
+        {
+            "source": 53,
+            "target": 92
+        },
+        {
+            "source": 54,
+            "target": 298
+        },
+        {
+            "source": 54,
+            "target": 279
+        },
+        {
+            "source": 54,
+            "target": 220
+        },
+        {
+            "source": 55,
+            "target": 298
+        },
+        {
+            "source": 55,
+            "target": 191
+        },
+        {
+            "source": 56,
+            "target": 298
+        },
+        {
+            "source": 57,
+            "target": 293
+        },
+        {
+            "source": 58,
+            "target": 80
+        },
+        {
+            "source": 59,
+            "target": 310
+        },
+        {
+            "source": 59,
+            "target": 274
+        },
+        {
+            "source": 59,
+            "target": 111
+        },
+        {
+            "source": 59,
+            "target": 288
+        },
+        {
+            "source": 59,
+            "target": 60
+        },
+        {
+            "source": 59,
+            "target": 5
+        },
+        {
+            "source": 59,
+            "target": 306
+        },
+        {
+            "source": 59,
+            "target": 78
+        },
+        {
+            "source": 59,
+            "target": 298
+        },
+        {
+            "source": 59,
+            "target": 61
+        },
+        {
+            "source": 59,
+            "target": 282
+        },
+        {
+            "source": 59,
+            "target": 162
+        },
+        {
+            "source": 59,
+            "target": 214
+        },
+        {
+            "source": 59,
+            "target": 20
+        },
+        {
+            "source": 59,
+            "target": 231
+        },
+        {
+            "source": 59,
+            "target": 22
+        },
+        {
+            "source": 59,
+            "target": 283
+        },
+        {
+            "source": 59,
+            "target": 287
+        },
+        {
+            "source": 59,
+            "target": 281
+        },
+        {
+            "source": 59,
+            "target": 43
+        },
+        {
+            "source": 59,
+            "target": 51
+        },
+        {
+            "source": 59,
+            "target": 112
+        },
+        {
+            "source": 60,
+            "target": 298
+        },
+        {
+            "source": 62,
+            "target": 298
+        },
+        {
+            "source": 63,
+            "target": 214
+        },
+        {
+            "source": 63,
+            "target": 298
+        },
+        {
+            "source": 63,
+            "target": 64
+        },
+        {
+            "source": 65,
+            "target": 5
+        },
+        {
+            "source": 65,
+            "target": 286
+        },
+        {
+            "source": 65,
+            "target": 80
+        },
+        {
+            "source": 66,
+            "target": 67
+        },
+        {
+            "source": 68,
+            "target": 298
+        },
+        {
+            "source": 68,
+            "target": 14
+        },
+        {
+            "source": 69,
+            "target": 41
+        },
+        {
+            "source": 70,
+            "target": 298
+        },
+        {
+            "source": 70,
+            "target": 35
+        },
+        {
+            "source": 71,
+            "target": 298
+        },
+        {
+            "source": 71,
+            "target": 75
+        },
+        {
+            "source": 72,
+            "target": 298
+        },
+        {
+            "source": 72,
+            "target": 301
+        },
+        {
+            "source": 72,
+            "target": 3
+        },
+        {
+            "source": 72,
+            "target": 224
+        },
+        {
+            "source": 72,
+            "target": 203
+        },
+        {
+            "source": 73,
+            "target": 298
+        },
+        {
+            "source": 74,
+            "target": 298
+        },
+        {
+            "source": 74,
+            "target": 288
+        },
+        {
+            "source": 74,
+            "target": 158
+        },
+        {
+            "source": 75,
+            "target": 298
+        },
+        {
+            "source": 75,
+            "target": 302
+        },
+        {
+            "source": 76,
+            "target": 9
+        },
+        {
+            "source": 76,
+            "target": 290
+        },
+        {
+            "source": 76,
+            "target": 298
+        },
+        {
+            "source": 77,
+            "target": 78
+        },
+        {
+            "source": 78,
+            "target": 77
+        },
+        {
+            "source": 78,
+            "target": 31
+        },
+        {
+            "source": 78,
+            "target": 288
+        },
+        {
+            "source": 79,
+            "target": 42
+        },
+        {
+            "source": 80,
+            "target": 49
+        },
+        {
+            "source": 80,
+            "target": 173
+        },
+        {
+            "source": 82,
+            "target": 83
+        },
+        {
+            "source": 82,
+            "target": 84
+        },
+        {
+            "source": 82,
+            "target": 298
+        },
+        {
+            "source": 83,
+            "target": 84
+        },
+        {
+            "source": 84,
+            "target": 83
+        },
+        {
+            "source": 85,
+            "target": 298
+        },
+        {
+            "source": 86,
+            "target": 298
+        },
+        {
+            "source": 86,
+            "target": 25
+        },
+        {
+            "source": 87,
+            "target": 298
+        },
+        {
+            "source": 87,
+            "target": 62
+        },
+        {
+            "source": 87,
+            "target": 85
+        },
+        {
+            "source": 88,
+            "target": 231
+        },
+        {
+            "source": 88,
+            "target": 190
+        },
+        {
+            "source": 89,
+            "target": 37
+        },
+        {
+            "source": 90,
+            "target": 260
+        },
+        {
+            "source": 90,
+            "target": 163
+        },
+        {
+            "source": 90,
+            "target": 112
+        },
+        {
+            "source": 91,
+            "target": 312
+        },
+        {
+            "source": 92,
+            "target": 298
+        },
+        {
+            "source": 92,
+            "target": 290
+        },
+        {
+            "source": 92,
+            "target": 288
+        },
+        {
+            "source": 93,
+            "target": 5
+        },
+        {
+            "source": 94,
+            "target": 298
+        },
+        {
+            "source": 94,
+            "target": 281
+        },
+        {
+            "source": 95,
+            "target": 293
+        },
+        {
+            "source": 95,
+            "target": 97
+        },
+        {
+            "source": 95,
+            "target": 284
+        },
+        {
+            "source": 95,
+            "target": 98
+        },
+        {
+            "source": 95,
+            "target": 99
+        },
+        {
+            "source": 96,
+            "target": 298
+        },
+        {
+            "source": 97,
+            "target": 284
+        },
+        {
+            "source": 98,
+            "target": 99
+        },
+        {
+            "source": 99,
+            "target": 99
+        },
+        {
+            "source": 100,
+            "target": 35
+        },
+        {
+            "source": 101,
+            "target": 205
+        },
+        {
+            "source": 102,
+            "target": 41
+        },
+        {
+            "source": 102,
+            "target": 298
+        },
+        {
+            "source": 102,
+            "target": 53
+        },
+        {
+            "source": 103,
+            "target": 286
+        },
+        {
+            "source": 103,
+            "target": 281
+        },
+        {
+            "source": 103,
+            "target": 22
+        },
+        {
+            "source": 103,
+            "target": 298
+        },
+        {
+            "source": 104,
+            "target": 307
+        },
+        {
+            "source": 105,
+            "target": 106
+        },
+        {
+            "source": 105,
+            "target": 112
+        },
+        {
+            "source": 106,
+            "target": 112
+        },
+        {
+            "source": 107,
+            "target": 298
+        },
+        {
+            "source": 107,
+            "target": 6
+        },
+        {
+            "source": 108,
+            "target": 298
+        },
+        {
+            "source": 108,
+            "target": 239
+        },
+        {
+            "source": 108,
+            "target": 109
+        },
+        {
+            "source": 108,
+            "target": 153
+        },
+        {
+            "source": 108,
+            "target": 108
+        },
+        {
+            "source": 109,
+            "target": 298
+        },
+        {
+            "source": 109,
+            "target": 33
+        },
+        {
+            "source": 109,
+            "target": 108
+        },
+        {
+            "source": 109,
+            "target": 258
+        },
+        {
+            "source": 110,
+            "target": 33
+        },
+        {
+            "source": 110,
+            "target": 288
+        },
+        {
+            "source": 110,
+            "target": 298
+        },
+        {
+            "source": 111,
+            "target": 307
+        },
+        {
+            "source": 112,
+            "target": 197
+        },
+        {
+            "source": 112,
+            "target": 307
+        },
+        {
+            "source": 113,
+            "target": 121
+        },
+        {
+            "source": 113,
+            "target": 116
+        },
+        {
+            "source": 114,
+            "target": 41
+        },
+        {
+            "source": 114,
+            "target": 116
+        },
+        {
+            "source": 114,
+            "target": 121
+        },
+        {
+            "source": 114,
+            "target": 1
+        },
+        {
+            "source": 114,
+            "target": 244
+        },
+        {
+            "source": 114,
+            "target": 298
+        },
+        {
+            "source": 116,
+            "target": 114
+        },
+        {
+            "source": 116,
+            "target": 307
+        },
+        {
+            "source": 117,
+            "target": 114
+        },
+        {
+            "source": 117,
+            "target": 307
+        },
+        {
+            "source": 117,
+            "target": 7
+        },
+        {
+            "source": 118,
+            "target": 114
+        },
+        {
+            "source": 118,
+            "target": 307
+        },
+        {
+            "source": 119,
+            "target": 114
+        },
+        {
+            "source": 119,
+            "target": 307
+        },
+        {
+            "source": 119,
+            "target": 7
+        },
+        {
+            "source": 119,
+            "target": 278
+        },
+        {
+            "source": 120,
+            "target": 114
+        },
+        {
+            "source": 120,
+            "target": 307
+        },
+        {
+            "source": 121,
+            "target": 114
+        },
+        {
+            "source": 121,
+            "target": 307
+        },
+        {
+            "source": 121,
+            "target": 116
+        },
+        {
+            "source": 122,
+            "target": 312
+        },
+        {
+            "source": 122,
+            "target": 161
+        },
+        {
+            "source": 123,
+            "target": 151
+        },
+        {
+            "source": 124,
+            "target": 298
+        },
+        {
+            "source": 125,
+            "target": 22
+        },
+        {
+            "source": 126,
+            "target": 231
+        },
+        {
+            "source": 127,
+            "target": 231
+        },
+        {
+            "source": 128,
+            "target": 231
+        },
+        {
+            "source": 129,
+            "target": 230
+        },
+        {
+            "source": 130,
+            "target": 143
+        },
+        {
+            "source": 130,
+            "target": 10
+        },
+        {
+            "source": 130,
+            "target": 132
+        },
+        {
+            "source": 130,
+            "target": 39
+        },
+        {
+            "source": 130,
+            "target": 298
+        },
+        {
+            "source": 131,
+            "target": 10
+        },
+        {
+            "source": 131,
+            "target": 17
+        },
+        {
+            "source": 131,
+            "target": 298
+        },
+        {
+            "source": 132,
+            "target": 164
+        },
+        {
+            "source": 132,
+            "target": 298
+        },
+        {
+            "source": 132,
+            "target": 130
+        },
+        {
+            "source": 133,
+            "target": 13
+        },
+        {
+            "source": 134,
+            "target": 33
+        },
+        {
+            "source": 135,
+            "target": 22
+        },
+        {
+            "source": 137,
+            "target": 230
+        },
+        {
+            "source": 138,
+            "target": 93
+        },
+        {
+            "source": 139,
+            "target": 140
+        },
+        {
+            "source": 139,
+            "target": 47
+        },
+        {
+            "source": 140,
+            "target": 258
+        },
+        {
+            "source": 140,
+            "target": 318
+        },
+        {
+            "source": 141,
+            "target": 298
+        },
+        {
+            "source": 142,
+            "target": 217
+        },
+        {
+            "source": 142,
+            "target": 144
+        },
+        {
+            "source": 142,
+            "target": 272
+        },
+        {
+            "source": 143,
+            "target": 130
+        },
+        {
+            "source": 143,
+            "target": 132
+        },
+        {
+            "source": 144,
+            "target": 271
+        },
+        {
+            "source": 144,
+            "target": 70
+        },
+        {
+            "source": 145,
+            "target": 114
+        },
+        {
+            "source": 145,
+            "target": 307
+        },
+        {
+            "source": 145,
+            "target": 304
+        },
+        {
+            "source": 145,
+            "target": 226
+        },
+        {
+            "source": 146,
+            "target": 148
+        },
+        {
+            "source": 146,
+            "target": 147
+        },
+        {
+            "source": 146,
+            "target": 282
+        },
+        {
+            "source": 146,
+            "target": 284
+        },
+        {
+            "source": 146,
+            "target": 150
+        },
+        {
+            "source": 146,
+            "target": 149
+        },
+        {
+            "source": 146,
+            "target": 151
+        },
+        {
+            "source": 148,
+            "target": 151
+        },
+        {
+            "source": 148,
+            "target": 150
+        },
+        {
+            "source": 148,
+            "target": 189
+        },
+        {
+            "source": 149,
+            "target": 150
+        },
+        {
+            "source": 149,
+            "target": 146
+        },
+        {
+            "source": 149,
+            "target": 148
+        },
+        {
+            "source": 150,
+            "target": 148
+        },
+        {
+            "source": 150,
+            "target": 189
+        },
+        {
+            "source": 150,
+            "target": 149
+        },
+        {
+            "source": 151,
+            "target": 148
+        },
+        {
+            "source": 151,
+            "target": 189
+        },
+        {
+            "source": 151,
+            "target": 146
+        },
+        {
+            "source": 152,
+            "target": 38
+        },
+        {
+            "source": 152,
+            "target": 298
+        },
+        {
+            "source": 153,
+            "target": 108
+        },
+        {
+            "source": 154,
+            "target": 298
+        },
+        {
+            "source": 155,
+            "target": 179
+        },
+        {
+            "source": 155,
+            "target": 231
+        },
+        {
+            "source": 155,
+            "target": 20
+        },
+        {
+            "source": 155,
+            "target": 67
+        },
+        {
+            "source": 155,
+            "target": 298
+        },
+        {
+            "source": 156,
+            "target": 231
+        },
+        {
+            "source": 156,
+            "target": 93
+        },
+        {
+            "source": 156,
+            "target": 163
+        },
+        {
+            "source": 156,
+            "target": 19
+        },
+        {
+            "source": 156,
+            "target": 20
+        },
+        {
+            "source": 157,
+            "target": 310
+        },
+        {
+            "source": 157,
+            "target": 78
+        },
+        {
+            "source": 157,
+            "target": 286
+        },
+        {
+            "source": 157,
+            "target": 284
+        },
+        {
+            "source": 158,
+            "target": 3
+        },
+        {
+            "source": 158,
+            "target": 282
+        },
+        {
+            "source": 158,
+            "target": 40
+        },
+        {
+            "source": 158,
+            "target": 298
+        },
+        {
+            "source": 158,
+            "target": 288
+        },
+        {
+            "source": 159,
+            "target": 163
+        },
+        {
+            "source": 159,
+            "target": 298
+        },
+        {
+            "source": 160,
+            "target": 161
+        },
+        {
+            "source": 161,
+            "target": 141
+        },
+        {
+            "source": 162,
+            "target": 216
+        },
+        {
+            "source": 163,
+            "target": 251
+        },
+        {
+            "source": 163,
+            "target": 13
+        },
+        {
+            "source": 163,
+            "target": 134
+        },
+        {
+            "source": 164,
+            "target": 132
+        },
+        {
+            "source": 165,
+            "target": 298
+        },
+        {
+            "source": 166,
+            "target": 298
+        },
+        {
+            "source": 167,
+            "target": 298
+        },
+        {
+            "source": 168,
+            "target": 169
+        },
+        {
+            "source": 169,
+            "target": 170
+        },
+        {
+            "source": 169,
+            "target": 298
+        },
+        {
+            "source": 169,
+            "target": 231
+        },
+        {
+            "source": 169,
+            "target": 240
+        },
+        {
+            "source": 170,
+            "target": 298
+        },
+        {
+            "source": 170,
+            "target": 169
+        },
+        {
+            "source": 171,
+            "target": 298
+        },
+        {
+            "source": 172,
+            "target": 298
+        },
+        {
+            "source": 174,
+            "target": 298
+        },
+        {
+            "source": 175,
+            "target": 8
+        },
+        {
+            "source": 175,
+            "target": 231
+        },
+        {
+            "source": 175,
+            "target": 20
+        },
+        {
+            "source": 176,
+            "target": 298
+        },
+        {
+            "source": 176,
+            "target": 254
+        },
+        {
+            "source": 177,
+            "target": 141
+        },
+        {
+            "source": 177,
+            "target": 225
+        },
+        {
+            "source": 177,
+            "target": 138
+        },
+        {
+            "source": 177,
+            "target": 298
+        },
+        {
+            "source": 178,
+            "target": 298
+        },
+        {
+            "source": 178,
+            "target": 138
+        },
+        {
+            "source": 178,
+            "target": 142
+        },
+        {
+            "source": 179,
+            "target": 298
+        },
+        {
+            "source": 179,
+            "target": 231
+        },
+        {
+            "source": 180,
+            "target": 231
+        },
+        {
+            "source": 181,
+            "target": 231
+        },
+        {
+            "source": 182,
+            "target": 307
+        },
+        {
+            "source": 182,
+            "target": 298
+        },
+        {
+            "source": 183,
+            "target": 288
+        },
+        {
+            "source": 183,
+            "target": 41
+        },
+        {
+            "source": 183,
+            "target": 309
+        },
+        {
+            "source": 184,
+            "target": 246
+        },
+        {
+            "source": 184,
+            "target": 279
+        },
+        {
+            "source": 184,
+            "target": 206
+        },
+        {
+            "source": 184,
+            "target": 298
+        },
+        {
+            "source": 184,
+            "target": 62
+        },
+        {
+            "source": 185,
+            "target": 296
+        },
+        {
+            "source": 185,
+            "target": 206
+        },
+        {
+            "source": 185,
+            "target": 41
+        },
+        {
+            "source": 185,
+            "target": 94
+        },
+        {
+            "source": 185,
+            "target": 309
+        },
+        {
+            "source": 186,
+            "target": 288
+        },
+        {
+            "source": 186,
+            "target": 206
+        },
+        {
+            "source": 186,
+            "target": 94
+        },
+        {
+            "source": 186,
+            "target": 307
+        },
+        {
+            "source": 187,
+            "target": 288
+        },
+        {
+            "source": 187,
+            "target": 296
+        },
+        {
+            "source": 188,
+            "target": 309
+        },
+        {
+            "source": 188,
+            "target": 41
+        },
+        {
+            "source": 190,
+            "target": 88
+        },
+        {
+            "source": 191,
+            "target": 298
+        },
+        {
+            "source": 191,
+            "target": 55
+        },
+        {
+            "source": 192,
+            "target": 288
+        },
+        {
+            "source": 194,
+            "target": 193
+        },
+        {
+            "source": 195,
+            "target": 288
+        },
+        {
+            "source": 195,
+            "target": 221
+        },
+        {
+            "source": 195,
+            "target": 298
+        },
+        {
+            "source": 196,
+            "target": 298
+        },
+        {
+            "source": 196,
+            "target": 293
+        },
+        {
+            "source": 196,
+            "target": 246
+        },
+        {
+            "source": 197,
+            "target": 199
+        },
+        {
+            "source": 198,
+            "target": 199
+        },
+        {
+            "source": 200,
+            "target": 3
+        },
+        {
+            "source": 200,
+            "target": 298
+        },
+        {
+            "source": 200,
+            "target": 92
+        },
+        {
+            "source": 200,
+            "target": 311
+        },
+        {
+            "source": 200,
+            "target": 25
+        },
+        {
+            "source": 201,
+            "target": 7
+        },
+        {
+            "source": 201,
+            "target": 82
+        },
+        {
+            "source": 202,
+            "target": 298
+        },
+        {
+            "source": 203,
+            "target": 298
+        },
+        {
+            "source": 204,
+            "target": 291
+        },
+        {
+            "source": 204,
+            "target": 296
+        },
+        {
+            "source": 204,
+            "target": 308
+        },
+        {
+            "source": 204,
+            "target": 309
+        },
+        {
+            "source": 204,
+            "target": 41
+        },
+        {
+            "source": 206,
+            "target": 298
+        },
+        {
+            "source": 207,
+            "target": 291
+        },
+        {
+            "source": 207,
+            "target": 246
+        },
+        {
+            "source": 207,
+            "target": 41
+        },
+        {
+            "source": 207,
+            "target": 308
+        },
+        {
+            "source": 208,
+            "target": 311
+        },
+        {
+            "source": 208,
+            "target": 245
+        },
+        {
+            "source": 208,
+            "target": 293
+        },
+        {
+            "source": 208,
+            "target": 169
+        },
+        {
+            "source": 209,
+            "target": 208
+        },
+        {
+            "source": 210,
+            "target": 208
+        },
+        {
+            "source": 210,
+            "target": 246
+        },
+        {
+            "source": 210,
+            "target": 206
+        },
+        {
+            "source": 210,
+            "target": 41
+        },
+        {
+            "source": 210,
+            "target": 203
+        },
+        {
+            "source": 211,
+            "target": 288
+        },
+        {
+            "source": 211,
+            "target": 298
+        },
+        {
+            "source": 212,
+            "target": 291
+        },
+        {
+            "source": 212,
+            "target": 94
+        },
+        {
+            "source": 212,
+            "target": 296
+        },
+        {
+            "source": 212,
+            "target": 25
+        },
+        {
+            "source": 212,
+            "target": 41
+        },
+        {
+            "source": 212,
+            "target": 7
+        },
+        {
+            "source": 213,
+            "target": 293
+        },
+        {
+            "source": 213,
+            "target": 298
+        },
+        {
+            "source": 214,
+            "target": 292
+        },
+        {
+            "source": 214,
+            "target": 298
+        },
+        {
+            "source": 214,
+            "target": 61
+        },
+        {
+            "source": 214,
+            "target": 22
+        },
+        {
+            "source": 215,
+            "target": 298
+        },
+        {
+            "source": 215,
+            "target": 44
+        },
+        {
+            "source": 216,
+            "target": 298
+        },
+        {
+            "source": 217,
+            "target": 144
+        },
+        {
+            "source": 218,
+            "target": 138
+        },
+        {
+            "source": 219,
+            "target": 298
+        },
+        {
+            "source": 220,
+            "target": 221
+        },
+        {
+            "source": 221,
+            "target": 220
+        },
+        {
+            "source": 221,
+            "target": 298
+        },
+        {
+            "source": 222,
+            "target": 151
+        },
+        {
+            "source": 222,
+            "target": 223
+        },
+        {
+            "source": 222,
+            "target": 5
+        },
+        {
+            "source": 222,
+            "target": 281
+        },
+        {
+            "source": 222,
+            "target": 33
+        },
+        {
+            "source": 222,
+            "target": 260
+        },
+        {
+            "source": 223,
+            "target": 222
+        },
+        {
+            "source": 223,
+            "target": 5
+        },
+        {
+            "source": 223,
+            "target": 281
+        },
+        {
+            "source": 223,
+            "target": 33
+        },
+        {
+            "source": 223,
+            "target": 260
+        },
+        {
+            "source": 224,
+            "target": 298
+        },
+        {
+            "source": 224,
+            "target": 283
+        },
+        {
+            "source": 224,
+            "target": 72
+        },
+        {
+            "source": 225,
+            "target": 318
+        },
+        {
+            "source": 227,
+            "target": 298
+        },
+        {
+            "source": 228,
+            "target": 231
+        },
+        {
+            "source": 229,
+            "target": 231
+        },
+        {
+            "source": 229,
+            "target": 318
+        },
+        {
+            "source": 229,
+            "target": 165
+        },
+        {
+            "source": 229,
+            "target": 108
+        },
+        {
+            "source": 229,
+            "target": 136
+        },
+        {
+            "source": 229,
+            "target": 17
+        },
+        {
+            "source": 229,
+            "target": 10
+        },
+        {
+            "source": 229,
+            "target": 152
+        },
+        {
+            "source": 230,
+            "target": 293
+        },
+        {
+            "source": 231,
+            "target": 298
+        },
+        {
+            "source": 231,
+            "target": 138
+        },
+        {
+            "source": 231,
+            "target": 20
+        },
+        {
+            "source": 231,
+            "target": 34
+        },
+        {
+            "source": 231,
+            "target": 88
+        },
+        {
+            "source": 231,
+            "target": 81
+        },
+        {
+            "source": 231,
+            "target": 181
+        },
+        {
+            "source": 231,
+            "target": 180
+        },
+        {
+            "source": 231,
+            "target": 127
+        },
+        {
+            "source": 232,
+            "target": 298
+        },
+        {
+            "source": 233,
+            "target": 298
+        },
+        {
+            "source": 234,
+            "target": 298
+        },
+        {
+            "source": 235,
+            "target": 138
+        },
+        {
+            "source": 235,
+            "target": 190
+        },
+        {
+            "source": 236,
+            "target": 244
+        },
+        {
+            "source": 237,
+            "target": 287
+        },
+        {
+            "source": 238,
+            "target": 307
+        },
+        {
+            "source": 238,
+            "target": 270
+        },
+        {
+            "source": 239,
+            "target": 108
+        },
+        {
+            "source": 240,
+            "target": 298
+        },
+        {
+            "source": 241,
+            "target": 298
+        },
+        {
+            "source": 242,
+            "target": 311
+        },
+        {
+            "source": 242,
+            "target": 275
+        },
+        {
+            "source": 242,
+            "target": 304
+        },
+        {
+            "source": 242,
+            "target": 226
+        },
+        {
+            "source": 243,
+            "target": 242
+        },
+        {
+            "source": 246,
+            "target": 284
+        },
+        {
+            "source": 246,
+            "target": 49
+        },
+        {
+            "source": 246,
+            "target": 293
+        },
+        {
+            "source": 247,
+            "target": 88
+        },
+        {
+            "source": 247,
+            "target": 231
+        },
+        {
+            "source": 247,
+            "target": 225
+        },
+        {
+            "source": 247,
+            "target": 218
+        },
+        {
+            "source": 248,
+            "target": 190
+        },
+        {
+            "source": 248,
+            "target": 88
+        },
+        {
+            "source": 248,
+            "target": 298
+        },
+        {
+            "source": 249,
+            "target": 39
+        },
+        {
+            "source": 250,
+            "target": 101
+        },
+        {
+            "source": 252,
+            "target": 1
+        },
+        {
+            "source": 253,
+            "target": 298
+        },
+        {
+            "source": 254,
+            "target": 176
+        },
+        {
+            "source": 254,
+            "target": 298
+        },
+        {
+            "source": 255,
+            "target": 298
+        },
+        {
+            "source": 255,
+            "target": 41
+        },
+        {
+            "source": 256,
+            "target": 226
+        },
+        {
+            "source": 256,
+            "target": 275
+        },
+        {
+            "source": 257,
+            "target": 256
+        },
+        {
+            "source": 259,
+            "target": 3
+        },
+        {
+            "source": 260,
+            "target": 281
+        },
+        {
+            "source": 260,
+            "target": 282
+        },
+        {
+            "source": 261,
+            "target": 3
+        },
+        {
+            "source": 261,
+            "target": 212
+        },
+        {
+            "source": 261,
+            "target": 271
+        },
+        {
+            "source": 261,
+            "target": 279
+        },
+        {
+            "source": 262,
+            "target": 298
+        },
+        {
+            "source": 262,
+            "target": 290
+        },
+        {
+            "source": 263,
+            "target": 92
+        },
+        {
+            "source": 264,
+            "target": 298
+        },
+        {
+            "source": 264,
+            "target": 92
+        },
+        {
+            "source": 265,
+            "target": 3
+        },
+        {
+            "source": 265,
+            "target": 301
+        },
+        {
+            "source": 266,
+            "target": 246
+        },
+        {
+            "source": 266,
+            "target": 262
+        },
+        {
+            "source": 266,
+            "target": 298
+        },
+        {
+            "source": 266,
+            "target": 261
+        },
+        {
+            "source": 267,
+            "target": 311
+        },
+        {
+            "source": 268,
+            "target": 307
+        },
+        {
+            "source": 269,
+            "target": 298
+        },
+        {
+            "source": 270,
+            "target": 298
+        },
+        {
+            "source": 270,
+            "target": 279
+        },
+        {
+            "source": 271,
+            "target": 298
+        },
+        {
+            "source": 272,
+            "target": 144
+        },
+        {
+            "source": 273,
+            "target": 298
+        },
+        {
+            "source": 276,
+            "target": 284
+        },
+        {
+            "source": 277,
+            "target": 39
+        },
+        {
+            "source": 277,
+            "target": 298
+        },
+        {
+            "source": 277,
+            "target": 172
+        },
+        {
+            "source": 289,
+            "target": 262
+        },
+        {
+            "source": 295,
+            "target": 297
+        },
+        {
+            "source": 299,
+            "target": 298
+        },
+        {
+            "source": 300,
+            "target": 0
+        },
+        {
+            "source": 303,
+            "target": 44
+        },
+        {
+            "source": 305,
+            "target": 107
+        },
+        {
+            "source": 310,
+            "target": 138
+        },
+        {
+            "source": 311,
+            "target": 210
+        },
+        {
+            "source": 312,
+            "target": 91
+        },
+        {
+            "source": 313,
+            "target": 298
+        },
+        {
+            "source": 314,
+            "target": 298
+        },
+        {
+            "source": 315,
+            "target": 298
+        },
+        {
+            "source": 316,
+            "target": 298
+        },
+        {
+            "source": 317,
+            "target": 87
+        },
+        {
+            "source": 319,
+            "target": 166
+        }
+    ],
+    "edges": [
+        {
+            "source": "Main Screen",
+            "target": "Battery life"
+        },
+        {
+            "source": "Main Screen",
+            "target": "AAC"
+        },
+        {
+            "source": "GarageBand",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "GarageBand",
+            "target": "2002"
+        },
+        {
+            "source": "IDVD",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Dogcow",
+            "target": "1983"
+        },
+        {
+            "source": "Dogcow",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Macintosh 128K",
+            "target": "System 1.0"
+        },
+        {
+            "source": "Macintosh 128K",
+            "target": "System 3.2"
+        },
+        {
+            "source": "Scrapbook",
+            "target": "System Folder"
+        },
+        {
+            "source": "Software Update",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Software Update",
+            "target": "System 1.0"
+        },
+        {
+            "source": "Software Update",
+            "target": "System Folder"
+        },
+        {
+            "source": "MultiFinder",
+            "target": "Andy Hertzfeld"
+        },
+        {
+            "source": "MultiFinder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "MacWrite",
+            "target": "GUI"
+        },
+        {
+            "source": "MacWrite",
+            "target": "ImageWriter"
+        },
+        {
+            "source": "MacWrite",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "MacWrite",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "SimpleText",
+            "target": "Classic environment"
+        },
+        {
+            "source": "SimpleText",
+            "target": "PICT"
+        },
+        {
+            "source": "SimpleText",
+            "target": "TeachText"
+        },
+        {
+            "source": "SimpleText",
+            "target": "Read Me document"
+        },
+        {
+            "source": "SimpleText",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "December 2004",
+            "target": "GMT"
+        },
+        {
+            "source": "December 2004",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "December 2004",
+            "target": "AirPort Extreme"
+        },
+        {
+            "source": "December 2004",
+            "target": "OmniWeb"
+        },
+        {
+            "source": "December 2004",
+            "target": "London"
+        },
+        {
+            "source": "December 2004",
+            "target": "Michigan"
+        },
+        {
+            "source": "December 2004",
+            "target": "USA"
+        },
+        {
+            "source": "December 2004",
+            "target": "Mac OS X 10.3.7"
+        },
+        {
+            "source": "December 2004",
+            "target": "Microsoft Internet Explorer"
+        },
+        {
+            "source": "December 2004",
+            "target": "Safari"
+        },
+        {
+            "source": "December 2004",
+            "target": "Netscape"
+        },
+        {
+            "source": "December 2004",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "December 2004",
+            "target": "Mac OS X 10.2.8"
+        },
+        {
+            "source": "Compatibility Checker",
+            "target": "HyperCard"
+        },
+        {
+            "source": "Macintosh Portable",
+            "target": "1989"
+        },
+        {
+            "source": "Sad Mac icon",
+            "target": "System Folder"
+        },
+        {
+            "source": "Sad Mac icon",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "ICal",
+            "target": ".Mac"
+        },
+        {
+            "source": "ICal",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "ITunes Music Store",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "ITunes Music Store",
+            "target": "USA"
+        },
+        {
+            "source": "ITunes Music Store",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "TeachText",
+            "target": "Classic environment"
+        },
+        {
+            "source": "TeachText",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "TeachText",
+            "target": "SimpleText"
+        },
+        {
+            "source": "Tuna Helper",
+            "target": "System 7 Tune-Up 1.1.1"
+        },
+        {
+            "source": "Tuna Helper",
+            "target": "System file"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "System 7.0"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "Chooser"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "Tuna Helper"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "System file"
+        },
+        {
+            "source": "System 7 Tune-Up 1.1.1",
+            "target": "AppleTalk Remote Access"
+        },
+        {
+            "source": "System file",
+            "target": "System Folder"
+        },
+        {
+            "source": "System file",
+            "target": "Font"
+        },
+        {
+            "source": "System file",
+            "target": "WorldScript"
+        },
+        {
+            "source": "System file",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple File Exchange",
+            "target": "System 7.0"
+        },
+        {
+            "source": "WorldScript",
+            "target": "System file"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "OpenGL"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "FireWire"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "Safari"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "Mac OS X 10.3.5"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "Preview"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "Mac OS X 10.3.1"
+        },
+        {
+            "source": "Mac OS X 10.3.7",
+            "target": "Mac OS X 10.3.2"
+        },
+        {
+            "source": "Michigan",
+            "target": "IWork"
+        },
+        {
+            "source": "GMT",
+            "target": "Greenwich Mean Time"
+        },
+        {
+            "source": "Greenwich Mean Time",
+            "target": "Greenwich Mean Time"
+        },
+        {
+            "source": "System 5",
+            "target": "System file"
+        },
+        {
+            "source": "Apple Open Collaboration Environment",
+            "target": "PowerTalk"
+        },
+        {
+            "source": "HyperCard",
+            "target": "HyperTalk"
+        },
+        {
+            "source": "HyperCard",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "HyperCard",
+            "target": "1996"
+        },
+        {
+            "source": "HyperCard",
+            "target": "Worldwide Developers Conference"
+        },
+        {
+            "source": "HyperCard",
+            "target": "GUI"
+        },
+        {
+            "source": "HyperCard",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "HyperTalk",
+            "target": "HyperCard"
+        },
+        {
+            "source": "HyperTalk",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "Macintosh Classic",
+            "target": "1992"
+        },
+        {
+            "source": "ImageWriter",
+            "target": "GUI"
+        },
+        {
+            "source": "ImageWriter",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "ImageWriter",
+            "target": "1986"
+        },
+        {
+            "source": "LaserWriter",
+            "target": "GUI"
+        },
+        {
+            "source": "QuickTake",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Events",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Events",
+            "target": "AppleEvent Object Model"
+        },
+        {
+            "source": "Apple Backup",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Backup",
+            "target": ".Mac"
+        },
+        {
+            "source": "ResEdit",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "OpenDoc",
+            "target": "1992"
+        },
+        {
+            "source": "FireWire",
+            "target": "1995"
+        },
+        {
+            "source": "FireWire",
+            "target": "Central processing unit"
+        },
+        {
+            "source": "MacPPP",
+            "target": "FreePPP"
+        },
+        {
+            "source": "Steve Wozniak",
+            "target": "1976"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "WindowServer"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "Quartz 2D"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "OpenGL"
+        },
+        {
+            "source": "Quartz Compositor",
+            "target": "Quartz"
+        },
+        {
+            "source": "Groupware",
+            "target": "CSCW"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2.2",
+            "target": "1996"
+        },
+        {
+            "source": "Camino",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Camino",
+            "target": "Cocoa"
+        },
+        {
+            "source": "January 2005",
+            "target": "GMT"
+        },
+        {
+            "source": "January 2005",
+            "target": "Apple Store"
+        },
+        {
+            "source": "January 2005",
+            "target": "December 2004"
+        },
+        {
+            "source": "Power Computing",
+            "target": "1995"
+        },
+        {
+            "source": "Power Computing",
+            "target": "1996"
+        },
+        {
+            "source": "Quartz",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Quartz",
+            "target": "Quartz Compositor"
+        },
+        {
+            "source": "Quartz",
+            "target": "Quartz 2D"
+        },
+        {
+            "source": "Quartz 2D",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "1983"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "USA"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "1999"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "2002"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "Worldwide Developers Conference 2005"
+        },
+        {
+            "source": "Worldwide Developers Conference",
+            "target": "Mac OS X Server"
+        },
+        {
+            "source": "IPhoto",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IPhoto",
+            "target": ".Mac"
+        },
+        {
+            "source": "IPhoto",
+            "target": "Smart Album"
+        },
+        {
+            "source": "Music Player",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Music Player",
+            "target": "AppleCD Audio Player"
+        },
+        {
+            "source": "Sherlock 3",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Xserve RAID",
+            "target": "Ethernet"
+        },
+        {
+            "source": "Apple Developer Connection",
+            "target": "People's Republic of China"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1975"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1976"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1977"
+        },
+        {
+            "source": "Apple typography",
+            "target": "2002"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Gill Sans"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Macintosh 128K"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Mac-Roman encodiing"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Apple Type Services for Unicode Imaging"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1993"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Font/DA Mover"
+        },
+        {
+            "source": "Apple typography",
+            "target": "TrueType"
+        },
+        {
+            "source": "Apple typography",
+            "target": "System file"
+        },
+        {
+            "source": "Apple typography",
+            "target": "System Folder"
+        },
+        {
+            "source": "Apple typography",
+            "target": "WorldScript"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1995"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1989"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1992"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Steve Wozniak"
+        },
+        {
+            "source": "Apple typography",
+            "target": "Quartz"
+        },
+        {
+            "source": "Apple typography",
+            "target": "1996"
+        },
+        {
+            "source": "Gill Sans",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "PICT",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "QuickTime GX",
+            "target": "TrueType"
+        },
+        {
+            "source": "QuickTime GX",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "QuickTime GX",
+            "target": "ColourSync"
+        },
+        {
+            "source": "Inside Macintosh",
+            "target": "Macintosh 128K"
+        },
+        {
+            "source": "Inside Macintosh",
+            "target": "1986"
+        },
+        {
+            "source": "Inside Macintosh",
+            "target": "People's Republic of China"
+        },
+        {
+            "source": "Old World ROM",
+            "target": "Open Firmware"
+        },
+        {
+            "source": "Happy Mac icon",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Happy Mac icon",
+            "target": "Sad Mac icon"
+        },
+        {
+            "source": "ITrip",
+            "target": "FireWire"
+        },
+        {
+            "source": "Chooser",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Chooser",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "Macintosh Programmer's Workshop",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Macintosh Programmer's Workshop",
+            "target": "Xcode"
+        },
+        {
+            "source": "WebCore",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "WebCore",
+            "target": "Cocoa"
+        },
+        {
+            "source": "WebCore",
+            "target": "Safari"
+        },
+        {
+            "source": "WebCore",
+            "target": "OmniWeb"
+        },
+        {
+            "source": "WebCore",
+            "target": "Mac OS X 10.2.7"
+        },
+        {
+            "source": "Shake",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IChat",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IChat",
+            "target": "2002"
+        },
+        {
+            "source": "IChat",
+            "target": "Jens Alfke"
+        },
+        {
+            "source": "Xcode",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Xcode",
+            "target": "GNU Compiler Collection"
+        },
+        {
+            "source": "WriteNow",
+            "target": "MacWrite"
+        },
+        {
+            "source": "WriteNow",
+            "target": "GUI"
+        },
+        {
+            "source": "WriteNow",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jef Raskin",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "Bill Atkinson",
+            "target": "Jef Raskin"
+        },
+        {
+            "source": "Bill Atkinson",
+            "target": "HyperCard"
+        },
+        {
+            "source": "Bill Atkinson",
+            "target": "2002"
+        },
+        {
+            "source": "FreePPP",
+            "target": "MacPPP"
+        },
+        {
+            "source": "People's Republic of China",
+            "target": "January 2005"
+        },
+        {
+            "source": "People's Republic of China",
+            "target": "MacWorld China"
+        },
+        {
+            "source": "Apple Installer",
+            "target": "Custom Install"
+        },
+        {
+            "source": "Apple Installer",
+            "target": "Easy Install"
+        },
+        {
+            "source": "Apple Installer",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Custom Install",
+            "target": "Easy Install"
+        },
+        {
+            "source": "Easy Install",
+            "target": "Custom Install"
+        },
+        {
+            "source": "Grab",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Asia Text Extras folder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Asia Text Extras folder",
+            "target": "Mac OS X 10.3.7"
+        },
+        {
+            "source": "Screenshots",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Screenshots",
+            "target": "PICT"
+        },
+        {
+            "source": "Screenshots",
+            "target": "Grab"
+        },
+        {
+            "source": "Apple Menu Items folder",
+            "target": "System Folder"
+        },
+        {
+            "source": "Apple Menu Items folder",
+            "target": "Apple Menu Options control panel"
+        },
+        {
+            "source": "AppleEvent Object Model",
+            "target": "Apple Events"
+        },
+        {
+            "source": "A/UX",
+            "target": "Macintosh Quadra"
+        },
+        {
+            "source": "A/UX",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "A/UX",
+            "target": "1996"
+        },
+        {
+            "source": "Gershwin",
+            "target": "Gerschwin"
+        },
+        {
+            "source": "Mac OS X Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X Server",
+            "target": "GUI"
+        },
+        {
+            "source": "Mac OS X Server",
+            "target": "2002"
+        },
+        {
+            "source": "System 1.0",
+            "target": "Macintosh 128K"
+        },
+        {
+            "source": "OpenGL",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "OpenGL",
+            "target": "1992"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "Ethernet"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "AirPort (original)"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "1999"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "AirPort Extreme"
+        },
+        {
+            "source": "AirPort Base Station",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "StuffIt Expander",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "AirPort (original)",
+            "target": "1999"
+        },
+        {
+            "source": "AirPort Extreme",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "AirPort Express",
+            "target": "AirPort Express"
+        },
+        {
+            "source": "Macintosh Office",
+            "target": "LaserWriter"
+        },
+        {
+            "source": "Apple Store (retail)",
+            "target": "London"
+        },
+        {
+            "source": "ISight",
+            "target": "FireWire"
+        },
+        {
+            "source": "ISight",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "ISight",
+            "target": "Worldwide Developers Conference"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "1986"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "1992"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "WorldScript"
+        },
+        {
+            "source": "KanjiTalk",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "PowerTalk",
+            "target": "USA"
+        },
+        {
+            "source": "Macintouch (magazine)",
+            "target": "Macworld Switzerland"
+        },
+        {
+            "source": "Macintouch (magazine)",
+            "target": "1996"
+        },
+        {
+            "source": "Macworld Switzerland",
+            "target": "1996"
+        },
+        {
+            "source": "Map",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Map",
+            "target": "Scrapbook"
+        },
+        {
+            "source": "Memory control panel",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Memory control panel",
+            "target": "Modern Memory Manager"
+        },
+        {
+            "source": "Memory control panel",
+            "target": "Virtual memory"
+        },
+        {
+            "source": "Memory control panel",
+            "target": "Startup Memory Tests"
+        },
+        {
+            "source": "Memory control panel",
+            "target": "Memory control panel"
+        },
+        {
+            "source": "Virtual memory",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Virtual memory",
+            "target": "Macintosh Classic"
+        },
+        {
+            "source": "Virtual memory",
+            "target": "Memory control panel"
+        },
+        {
+            "source": "Virtual memory",
+            "target": "RAM Doubler"
+        },
+        {
+            "source": "Power key",
+            "target": "Macintosh Classic"
+        },
+        {
+            "source": "Power key",
+            "target": "2002"
+        },
+        {
+            "source": "Power key",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "1977",
+            "target": "USA"
+        },
+        {
+            "source": "1996",
+            "target": "Georgia"
+        },
+        {
+            "source": "1996",
+            "target": "USA"
+        },
+        {
+            "source": "New products released at the Macworld Conference & Expo San Francisco 2005",
+            "target": "Keynote 2"
+        },
+        {
+            "source": "New products released at the Macworld Conference & Expo San Francisco 2005",
+            "target": "Pages"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "FireWire"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "Pages"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "Keynote 2"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "GarageBand"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "Apple Store"
+        },
+        {
+            "source": "Macworld Conference & Expo San Francisco 2005 Keynote address",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Pages",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "Pages",
+            "target": "USA"
+        },
+        {
+            "source": "IPhoto 5",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "IPhoto 5",
+            "target": "USA"
+        },
+        {
+            "source": "IPhoto 5",
+            "target": "Software Update"
+        },
+        {
+            "source": "IMovie HD",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "IMovie HD",
+            "target": "USA"
+        },
+        {
+            "source": "ITunes 4.7.1",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "ITunes 4.7.1",
+            "target": "USA"
+        },
+        {
+            "source": "ITunes 4.7.1",
+            "target": "Software Update"
+        },
+        {
+            "source": "ITunes 4.7.1",
+            "target": "AAC"
+        },
+        {
+            "source": "ILife '05",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "ILife '05",
+            "target": "USA"
+        },
+        {
+            "source": "Keynote 2",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "Keynote 2",
+            "target": "USA"
+        },
+        {
+            "source": "Keynote 2",
+            "target": "Pages"
+        },
+        {
+            "source": "Gil Amelio",
+            "target": "Gerschwin"
+        },
+        {
+            "source": "Gil Amelio",
+            "target": "Twentieth Anniversary Macintosh"
+        },
+        {
+            "source": "Guy Kawasaki",
+            "target": "Macworld"
+        },
+        {
+            "source": "ZhongWen-Talk",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Text control panel",
+            "target": "WorldScript"
+        },
+        {
+            "source": "Application Support folder",
+            "target": "System Folder"
+        },
+        {
+            "source": "Internet Search Sites",
+            "target": "System Folder"
+        },
+        {
+            "source": "PrintMonitor Documents folder",
+            "target": "System Folder"
+        },
+        {
+            "source": "Network Software Selector",
+            "target": "Open Transport"
+        },
+        {
+            "source": "Balloon Help",
+            "target": "Guide menu"
+        },
+        {
+            "source": "Balloon Help",
+            "target": "SimpleText"
+        },
+        {
+            "source": "Balloon Help",
+            "target": "Apple Guide"
+        },
+        {
+            "source": "Balloon Help",
+            "target": "ResEdit"
+        },
+        {
+            "source": "Balloon Help",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Read Me document",
+            "target": "SimpleText"
+        },
+        {
+            "source": "Read Me document",
+            "target": "TeachText"
+        },
+        {
+            "source": "Read Me document",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Guide",
+            "target": "Huh?"
+        },
+        {
+            "source": "Apple Guide",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Apple Guide",
+            "target": "Balloon Help"
+        },
+        {
+            "source": "Battery desk accessory",
+            "target": "Macintosh Portable"
+        },
+        {
+            "source": "Brightness control panel",
+            "target": "Macintosh Classic"
+        },
+        {
+            "source": "Numbers control panel",
+            "target": "WorldScript"
+        },
+        {
+            "source": "7.5.2 Printing Fix",
+            "target": "Open Transport"
+        },
+        {
+            "source": "System 1",
+            "target": "System 1.0"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2.1",
+            "target": "Mac OS 7.5.3 Revision 2"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2.1",
+            "target": "Mac OS 7.5.3 Revision 2.2"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2",
+            "target": "RAM Doubler"
+        },
+        {
+            "source": "Mac OS 7.5.3 Revision 2",
+            "target": "About This Macintosh"
+        },
+        {
+            "source": "Mac OS 7.6.1",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "System 3",
+            "target": "System 3.1"
+        },
+        {
+            "source": "System 3",
+            "target": "System 3.2"
+        },
+        {
+            "source": "System 3",
+            "target": "System 3.3"
+        },
+        {
+            "source": "Guide menu",
+            "target": "Balloon Help"
+        },
+        {
+            "source": "Guide menu",
+            "target": "Apple Guide"
+        },
+        {
+            "source": "System 3.2",
+            "target": "Calculator"
+        },
+        {
+            "source": "System 3.2",
+            "target": "Chooser"
+        },
+        {
+            "source": "IPod Updater 2005-01-11",
+            "target": "Macworld Conference & Expo San Francisco 2005 Keynote address"
+        },
+        {
+            "source": "IPod Updater 2005-01-11",
+            "target": "USA"
+        },
+        {
+            "source": "IPod Updater 2005-01-11",
+            "target": "Dock Connector"
+        },
+        {
+            "source": "IPod Updater 2005-01-11",
+            "target": "Click Wheel"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Moscone Centre"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "1993"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "1999"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "MacWEEK"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Mac the Knife"
+        },
+        {
+            "source": "Macworld Conference & Expo",
+            "target": "Macworld"
+        },
+        {
+            "source": "Mac Publishing",
+            "target": "Macworld"
+        },
+        {
+            "source": "Mac Publishing",
+            "target": "MacWEEK"
+        },
+        {
+            "source": "Mac Publishing",
+            "target": "MacCentral Online"
+        },
+        {
+            "source": "Mac the Knife",
+            "target": "MacWEEK"
+        },
+        {
+            "source": "Mac the Knife",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "Mac the Knife",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "MacWEEK",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "MacWEEK",
+            "target": "MacCentral Online"
+        },
+        {
+            "source": "MacWEEK",
+            "target": "Mac the Knife"
+        },
+        {
+            "source": "Macworld",
+            "target": "Mac Publishing"
+        },
+        {
+            "source": "Macworld",
+            "target": "MacCentral Online"
+        },
+        {
+            "source": "Macworld",
+            "target": "Macworld Conference & Expo"
+        },
+        {
+            "source": "Utility",
+            "target": "Apple Backup"
+        },
+        {
+            "source": "Utility",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Startup Memory Tests",
+            "target": "Memory control panel"
+        },
+        {
+            "source": "ShutDown Manager",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Startup disk",
+            "target": "Startup Disk control panel"
+        },
+        {
+            "source": "Startup disk",
+            "target": "System Folder"
+        },
+        {
+            "source": "Startup disk",
+            "target": "System file"
+        },
+        {
+            "source": "Startup disk",
+            "target": "Open Firmware"
+        },
+        {
+            "source": "Startup disk",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System Folder"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System 1.0"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System 7 Tune-Up 1.1.1"
+        },
+        {
+            "source": "Blessed System Folder",
+            "target": "System file"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "1975"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "Bill Atkinson"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "1986"
+        },
+        {
+            "source": "Andy Hertzfeld",
+            "target": "1999"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "Safari"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "1993"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "OpenDoc"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jens Alfke",
+            "target": "2002"
+        },
+        {
+            "source": "ICab",
+            "target": "System 7.0.1"
+        },
+        {
+            "source": "ICab",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "AudioTuneUp 2.0",
+            "target": "Twentieth Anniversary Macintosh"
+        },
+        {
+            "source": "Twentieth Anniversary Macintosh",
+            "target": "Mac OS 7.6.1"
+        },
+        {
+            "source": "Font/DA Mover",
+            "target": "Font Book"
+        },
+        {
+            "source": "System 7.0.1",
+            "target": "System 7.0"
+        },
+        {
+            "source": "System 7.0.1",
+            "target": "Macintosh Portable"
+        },
+        {
+            "source": "System 7.0.1",
+            "target": "Brightness control panel"
+        },
+        {
+            "source": "Huh?",
+            "target": "Apple Guide"
+        },
+        {
+            "source": "Control panel",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Force Quit",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Network Utility",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Battery Monitor",
+            "target": "Menu Extra"
+        },
+        {
+            "source": "Menu Extra",
+            "target": "Dock Extra"
+        },
+        {
+            "source": "Menu Extra",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Menu Extra",
+            "target": "System Folder"
+        },
+        {
+            "source": "Menu Extra",
+            "target": "Library folder"
+        },
+        {
+            "source": "Dock Extra",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Dock Extra",
+            "target": "Menu Extra"
+        },
+        {
+            "source": "Avie Tevanian",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Package First Aid",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "OSXFAQ",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Performa control panel",
+            "target": "MultiFinder"
+        },
+        {
+            "source": "Performa control panel",
+            "target": "System Folder"
+        },
+        {
+            "source": "Performa control panel",
+            "target": "System file"
+        },
+        {
+            "source": "WindowShade",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "WindowShade",
+            "target": "WindowShade X"
+        },
+        {
+            "source": "Desktop Patterns control panel",
+            "target": "Mac OS 7.6.1"
+        },
+        {
+            "source": "Desktop Patterns control panel",
+            "target": "About This Macintosh..."
+        },
+        {
+            "source": "Desktop Patterns control panel",
+            "target": "System 1"
+        },
+        {
+            "source": "Desktop Patterns control panel",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mouse control panel",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mouse control panel",
+            "target": "System 1"
+        },
+        {
+            "source": "Mouse control panel",
+            "target": "System 3"
+        },
+        {
+            "source": "Startup Disk control panel",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Startup Disk control panel",
+            "target": "System Folder"
+        },
+        {
+            "source": "Appearance folder",
+            "target": "System Folder"
+        },
+        {
+            "source": "Contextual Menu Items folder",
+            "target": "System Folder"
+        },
+        {
+            "source": "Print Catalogue",
+            "target": "USA"
+        },
+        {
+            "source": "Print Catalogue",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.2.1",
+            "target": "2002"
+        },
+        {
+            "source": "Mac OS X 10.2.1",
+            "target": "FireWire"
+        },
+        {
+            "source": "Mac OS X 10.2.1",
+            "target": "Printing"
+        },
+        {
+            "source": "Mac OS X 10.2.5",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "Mac OS X 10.2.5",
+            "target": ".Mac"
+        },
+        {
+            "source": "Mac OS X 10.2.5",
+            "target": "Classic environment"
+        },
+        {
+            "source": "Mac OS X 10.2.5",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.2.5",
+            "target": "PICT"
+        },
+        {
+            "source": "Mac OS X 10.2.4",
+            "target": "Address Book"
+        },
+        {
+            "source": "Mac OS X 10.2.4",
+            "target": "Classic environment"
+        },
+        {
+            "source": "Mac OS X 10.2.4",
+            "target": "FireWire"
+        },
+        {
+            "source": "Mac OS X 10.2.4",
+            "target": "OpenGL"
+        },
+        {
+            "source": "Mac OS X 10.2.4",
+            "target": "Printing"
+        },
+        {
+            "source": "Mac OS X 10.2.3",
+            "target": "2002"
+        },
+        {
+            "source": "Mac OS X 10.2.3",
+            "target": "Classic environment"
+        },
+        {
+            "source": "Mac OS X 10.2.3",
+            "target": "OpenGL"
+        },
+        {
+            "source": "Mac OS X 10.2.3",
+            "target": "USA"
+        },
+        {
+            "source": "Mac OS X 10.2.2",
+            "target": "2002"
+        },
+        {
+            "source": "Mac OS X 10.2.2",
+            "target": "Address Book"
+        },
+        {
+            "source": "Mac OS X 10.3.1",
+            "target": "Printing"
+        },
+        {
+            "source": "Mac OS X 10.3.1",
+            "target": "FireWire"
+        },
+        {
+            "source": "Apple Menu Options control panel",
+            "target": "Apple Menu Items folder"
+        },
+        {
+            "source": "AppleCD Audio Player",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "AppleCD Audio Player",
+            "target": "Music Player"
+        },
+        {
+            "source": "Hong Kong University Mac User Group",
+            "target": "2002"
+        },
+        {
+            "source": "Powerbook G4 15-inch Aluminum",
+            "target": "PowerBook G4 (15-inch Aluminium)"
+        },
+        {
+            "source": "ITunes 3",
+            "target": "2002"
+        },
+        {
+            "source": "ITunes 3",
+            "target": "Smart Playlist"
+        },
+        {
+            "source": "ITunes 3",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Internet Connect",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Internet Connect",
+            "target": "Ethernet"
+        },
+        {
+            "source": "Internet Connect",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "Georgia",
+            "target": "Atlanta Macintosh Users Group"
+        },
+        {
+            "source": "AMUG",
+            "target": "Atlanta Macintosh Users Group"
+        },
+        {
+            "source": "Security Update 2005-001",
+            "target": "Safari"
+        },
+        {
+            "source": "Security Update 2005-001",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Security Update 2005-001",
+            "target": "Mac OS X Server"
+        },
+        {
+            "source": "Security Update 2005-001",
+            "target": "Mac OS X 10.2.8"
+        },
+        {
+            "source": "Security Update 2005-001",
+            "target": "Mac OS X 10.3.7"
+        },
+        {
+            "source": "IPhoto 5.0.1",
+            "target": "Software Update"
+        },
+        {
+            "source": "IPhoto 5.0.1",
+            "target": "Apple Installer"
+        },
+        {
+            "source": "Preview",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.2.7",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.3.2",
+            "target": "Application programme"
+        },
+        {
+            "source": "Mac OS X 10.3.2",
+            "target": "Address Book"
+        },
+        {
+            "source": "Mac OS X 10.3.2",
+            "target": "Font"
+        },
+        {
+            "source": "Mac OS X 10.3.2",
+            "target": "Printing"
+        },
+        {
+            "source": "Mac OS X 10.3.2",
+            "target": "FireWire"
+        },
+        {
+            "source": "Classic environment",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.3.5",
+            "target": "Application programme"
+        },
+        {
+            "source": "Mac OS X 10.3.5",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "Mac OS X 10.3.5",
+            "target": "FireWire"
+        },
+        {
+            "source": "Mac OS X 10.3.5",
+            "target": "Font"
+        },
+        {
+            "source": "Mac OS X 10.2.8 Build 6R73",
+            "target": "Mac OS X 10.2.8"
+        },
+        {
+            "source": "Mac OS X 10.2.8 Build 6R73",
+            "target": "Build number"
+        },
+        {
+            "source": "Mac OS X 10.2.8 Build 6R73",
+            "target": "Ethernet"
+        },
+        {
+            "source": "Mac OS X 10.2.8 Build 6R73",
+            "target": "Menu Extra"
+        },
+        {
+            "source": "Mac OS X 10.2.8 (6R73)",
+            "target": "Mac OS X 10.2.8 Build 6R73"
+        },
+        {
+            "source": "Mac OS X 10.2.8 (G5)",
+            "target": "Mac OS X 10.2.8 Build 6R73"
+        },
+        {
+            "source": "Mac OS X 10.2.8 (G5)",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "Mac OS X 10.2.8 (G5)",
+            "target": "Classic environment"
+        },
+        {
+            "source": "Mac OS X 10.2.8 (G5)",
+            "target": "FireWire"
+        },
+        {
+            "source": "Mac OS X 10.2.8 (G5)",
+            "target": "Mac OS X 10.2.7"
+        },
+        {
+            "source": "Mac OS X 10.2.0",
+            "target": "2002"
+        },
+        {
+            "source": "Mac OS X 10.2.0",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Mac OS X 10.3.8",
+            "target": "Application programme"
+        },
+        {
+            "source": "Mac OS X 10.3.8",
+            "target": "OpenGL"
+        },
+        {
+            "source": "Mac OS X 10.3.8",
+            "target": "Address Book"
+        },
+        {
+            "source": "Mac OS X 10.3.8",
+            "target": "Mac OS X 10.3.7"
+        },
+        {
+            "source": "Mac OS X 10.3.8",
+            "target": "FireWire"
+        },
+        {
+            "source": "Mac OS X 10.3.8",
+            "target": "Software Update"
+        },
+        {
+            "source": "AppleTalk Remote Access",
+            "target": "Ethernet"
+        },
+        {
+            "source": "AppleTalk Remote Access",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "TrueType",
+            "target": "System 7 (Macintosh)"
+        },
+        {
+            "source": "TrueType",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "TrueType",
+            "target": "Apple Type Services for Unicode Imaging"
+        },
+        {
+            "source": "TrueType",
+            "target": "WorldScript"
+        },
+        {
+            "source": "Core Image",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Core Image",
+            "target": "Quartz Compositor"
+        },
+        {
+            "source": "Font Book",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "System 3.1",
+            "target": "System 3.2"
+        },
+        {
+            "source": "Get Info",
+            "target": "System 1"
+        },
+        {
+            "source": "Macintosh Drag and Drop",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Smart Album",
+            "target": "Smart Playlist"
+        },
+        {
+            "source": "Smart Playlist",
+            "target": "Smart Album"
+        },
+        {
+            "source": "Smart Playlist",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Cary Lu",
+            "target": "Macworld"
+        },
+        {
+            "source": "Cary Lu",
+            "target": "The Apple Macintosh Book"
+        },
+        {
+            "source": "Cary Lu",
+            "target": "Macintosh 128K"
+        },
+        {
+            "source": "Cary Lu",
+            "target": "1992"
+        },
+        {
+            "source": "Cary Lu",
+            "target": "Macintosh Classic"
+        },
+        {
+            "source": "Cary Lu",
+            "target": "Macintosh Quadra"
+        },
+        {
+            "source": "The Apple Macintosh Book",
+            "target": "Cary Lu"
+        },
+        {
+            "source": "The Apple Macintosh Book",
+            "target": "Macintosh 128K"
+        },
+        {
+            "source": "The Apple Macintosh Book",
+            "target": "1992"
+        },
+        {
+            "source": "The Apple Macintosh Book",
+            "target": "Macintosh Classic"
+        },
+        {
+            "source": "The Apple Macintosh Book",
+            "target": "Macintosh Quadra"
+        },
+        {
+            "source": "OmniWeb",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "OmniWeb",
+            "target": "1995"
+        },
+        {
+            "source": "OmniWeb",
+            "target": "WebCore"
+        },
+        {
+            "source": "About This Macintosh...",
+            "target": "About This Macintosh"
+        },
+        {
+            "source": "Date & Time control panel",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Hardware System Update",
+            "target": "System Folder"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "System Folder"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "About This Macintosh"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "Control panel"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "Memory control panel"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "Screen control panel"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "TeachText"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "SimpleText"
+        },
+        {
+            "source": "System Update 3.0",
+            "target": "Utility"
+        },
+        {
+            "source": "Open Transport",
+            "target": "Ethernet"
+        },
+        {
+            "source": "System Folder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "System Folder",
+            "target": "System 1"
+        },
+        {
+            "source": "System Folder",
+            "target": "System file"
+        },
+        {
+            "source": "System Folder",
+            "target": "ImageWriter"
+        },
+        {
+            "source": "System Folder",
+            "target": "Apple Menu Items folder"
+        },
+        {
+            "source": "System Folder",
+            "target": "Shutdown Items folder"
+        },
+        {
+            "source": "System Folder",
+            "target": "Contextual Menu Items folder"
+        },
+        {
+            "source": "System Folder",
+            "target": "Appearance folder"
+        },
+        {
+            "source": "System Folder",
+            "target": "Internet Search Sites"
+        },
+        {
+            "source": "DigitalColor Meter",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Directory Setup",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "ColorSync (System Preferences)",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Appearance (System Preferences)",
+            "target": "System 1"
+        },
+        {
+            "source": "Appearance (System Preferences)",
+            "target": "Apple Menu Options control panel"
+        },
+        {
+            "source": "List of Apple Stores",
+            "target": "Apple Store"
+        },
+        {
+            "source": "Gestalt",
+            "target": "1989"
+        },
+        {
+            "source": "Worldwide Developers Conference 2005",
+            "target": "USA"
+        },
+        {
+            "source": "Worldwide Developers Conference 2005",
+            "target": "Worldwide Developers Conference 2005 Keynote address"
+        },
+        {
+            "source": "Modern Memory Manager",
+            "target": "Memory control panel"
+        },
+        {
+            "source": "Library folder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Security Update 2005-002",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IPod Updater 2005-02-22",
+            "target": "Mac OS X 10.2.8"
+        },
+        {
+            "source": "IPod Updater 2005-02-22",
+            "target": "Shuffle Songs"
+        },
+        {
+            "source": "IPod Updater 2005-02-22",
+            "target": "Dock Connector"
+        },
+        {
+            "source": "IPod Updater 2005-02-22",
+            "target": "Click Wheel"
+        },
+        {
+            "source": "IPod Updater 2005-02-23",
+            "target": "IPod Updater 2005-02-22"
+        },
+        {
+            "source": "Bluetooth",
+            "target": "1999"
+        },
+        {
+            "source": "Bluetooth",
+            "target": "January 2005"
+        },
+        {
+            "source": "Bluetooth",
+            "target": "Ethernet"
+        },
+        {
+            "source": "AliasMenu",
+            "target": "Apple Menu Items folder"
+        },
+        {
+            "source": "AliasMenu",
+            "target": "System Folder"
+        },
+        {
+            "source": "AliasMenu",
+            "target": "About This Macintosh..."
+        },
+        {
+            "source": "AliasMenu",
+            "target": "Get Info"
+        },
+        {
+            "source": "MenuChoice",
+            "target": "Apple Menu Options control panel"
+        },
+        {
+            "source": "MenuChoice",
+            "target": "Apple Menu Items folder"
+        },
+        {
+            "source": "MenuChoice",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "SafeSleep",
+            "target": "ResEdit"
+        },
+        {
+            "source": "Apple Store Shinsaibashi",
+            "target": "Apple Store (retail)"
+        },
+        {
+            "source": "Music folder",
+            "target": "GarageBand"
+        },
+        {
+            "source": "Pictures folder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "WindowShade X",
+            "target": "WindowShade"
+        },
+        {
+            "source": "WindowShade X",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IMovie",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "IMovie",
+            "target": "FireWire"
+        },
+        {
+            "source": "IPod 4G",
+            "target": "Click Wheel"
+        },
+        {
+            "source": "IPod 4G",
+            "target": "Shuffle Songs"
+        },
+        {
+            "source": "IPod (4G)",
+            "target": "IPod 4G"
+        },
+        {
+            "source": "Security Update 2005-003",
+            "target": "Safari"
+        },
+        {
+            "source": "Macintosh Quadra",
+            "target": "1992"
+        },
+        {
+            "source": "Macintosh Quadra",
+            "target": "1993"
+        },
+        {
+            "source": "Mac OS X 10.3.9",
+            "target": "Safari"
+        },
+        {
+            "source": "Mac OS X 10.3.9",
+            "target": "Mac OS X 10.3.8"
+        },
+        {
+            "source": "Mac OS X 10.3.9",
+            "target": "Calculator"
+        },
+        {
+            "source": "Mac OS X 10.3.9",
+            "target": ".Mac"
+        },
+        {
+            "source": "Terminal",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Terminal",
+            "target": "GUI"
+        },
+        {
+            "source": "Mac OS X Server Wiki",
+            "target": "Mac OS X Server"
+        },
+        {
+            "source": "Firewall",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Firewall",
+            "target": "Mac OS X Server"
+        },
+        {
+            "source": "Automator",
+            "target": "Safari"
+        },
+        {
+            "source": "Automator",
+            "target": "Cocoa"
+        },
+        {
+            "source": "Security Update 2005-005",
+            "target": "Bluetooth"
+        },
+        {
+            "source": "Security Update 2005-005",
+            "target": "Terminal"
+        },
+        {
+            "source": "Security Update 2005-005",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Security Update 2005-005",
+            "target": "Mac OS X 10.3.9"
+        },
+        {
+            "source": "Security Update 2005-004",
+            "target": "Mac OS X 10.2.8"
+        },
+        {
+            "source": "ITunes 4.8",
+            "target": "USA"
+        },
+        {
+            "source": "Lucida Grande",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Worldwide Developers Conference 2005 Keynote address",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Worldwide Developers Conference 2005 Keynote address",
+            "target": ".Mac"
+        },
+        {
+            "source": "Calculator",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "System 3.3",
+            "target": "System 3.2"
+        },
+        {
+            "source": "Suitcase",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "PowerBook 500",
+            "target": "1999"
+        },
+        {
+            "source": "Application package",
+            "target": "ResEdit"
+        },
+        {
+            "source": "Application package",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Application package",
+            "target": "Package First Aid"
+        },
+        {
+            "source": "Apple Terminal",
+            "target": "Terminal"
+        },
+        {
+            "source": "IPod Touch 4g",
+            "target": "IPod Touch 4"
+        },
+        {
+            "source": "Final Cut Server",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Main page",
+            "target": "Main Screen"
+        },
+        {
+            "source": "WindowServer",
+            "target": "Quartz Compositor"
+        },
+        {
+            "source": "Map control panel",
+            "target": "Map"
+        },
+        {
+            "source": "1975",
+            "target": "System 1"
+        },
+        {
+            "source": "Mac OS X 10.2.8",
+            "target": "Mac OS X 10.2.8 (G5)"
+        },
+        {
+            "source": "Gerschwin",
+            "target": "Gershwin"
+        },
+        {
+            "source": "App:Angry Birds Star Wars",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Jurassic Park Builder",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Temple Run 2",
+            "target": "Mac OS X"
+        },
+        {
+            "source": "Screen shot",
+            "target": "Screenshots"
+        },
+        {
+            "source": "Force quit",
+            "target": "Force Quit"
+        }
+    ],
+    "basic": {
+        "numNodes": 320,
+        "numEdges": 607,
+        "selfLinks": 3,
+        "numStrongComponents": 275,
+        "numWeakComponents": 5,
+        "sizeLargestStrong": 8,
+        "sizeLargestWeak": 312,
+        "radius": 2,
+        "diameter": 4,
+        "averageInDegree": 1.896875,
+        "averageOutDegree": 1.896875,
+        "maxOutDegree": 22,
+        "maxInDegree": 114,
+        "pageRank": {
+            "Main Screen": 0.002085794269888049,
+            "GarageBand": 0.002832797481588598,
+            "IDVD": 0.0010977237839695864,
+            "Safari": 0.00400054638434346,
+            "Dogcow": 0.0010977237839695864,
+            "Macintosh 128K": 0.016509364565352583,
+            "Scrapbook": 0.002036451045015696,
+            "Software Update": 0.0023782088106562346,
+            "MultiFinder": 0.001427080612609074,
+            "MacWrite": 0.001427080612609074,
+            "SimpleText": 0.002973535215088166,
+            "December 2004": 0.002062727427675415,
+            "Compatibility Checker": 0.0010977237839695864,
+            "Macintosh Portable": 0.0027947728604570572,
+            "Sad Mac icon": 0.0015917590269288178,
+            "ICal": 0.0010977237839695864,
+            "ITunes Music Store": 0.0010977237839695864,
+            "TeachText": 0.002246523339036532,
+            "Tuna Helper": 0.0013419496759784506,
+            "System 7 Tune-Up 1.1.1": 0.0018992906816503504,
+            "System file": 0.012299500815294614,
+            "Apple File Exchange": 0.0010977237839695864,
+            "WorldScript": 0.0064648986243320255,
+            "Microsoft Internet Explorer": 0.0012405476702492917,
+            "Netscape": 0.0012405476702492917,
+            "Mac OS X 10.3.7": 0.002142272344000529,
+            "Michigan": 0.0012405476702492917,
+            "GMT": 0.00220555131395512,
+            "Greenwich Mean Time": 0.03054488577537527,
+            "System 5": 0.0010977237839695864,
+            "Apple Open Collaboration Environment": 0.0010977237839695864,
+            "HyperCard": 0.004530864876569181,
+            "HyperTalk": 0.0017774563308831965,
+            "Macintosh Classic": 0.0040401122409043895,
+            "ImageWriter": 0.004195563343527067,
+            "LaserWriter": 0.006885058967297981,
+            "QuickTake": 0.0010977237839695864,
+            "Apple Events": 0.0035063302189874863,
+            "Apple Backup": 0.0016473455291896775,
+            "ResEdit": 0.0030034265505060314,
+            "OpenDoc": 0.0013546301502315294,
+            "FireWire": 0.006550067954793182,
+            "MacPPP": 0.01089212923809095,
+            "Steve Wozniak": 0.001142636078784062,
+            "Quartz Compositor": 0.0037281919096045354,
+            "Groupware": 0.0010977237839695864,
+            "CSCW": 0.002085794269888049,
+            "Mac OS 7.5.3 Revision 2.2": 0.0015917590269288178,
+            "Camino": 0.0010977237839695864,
+            "January 2005": 0.003216228944524274,
+            "Power Computing": 0.0010977237839695864,
+            "Quartz": 0.0018138048672588125,
+            "Quartz 2D": 0.002313107429887968,
+            "Worldwide Developers Conference": 0.002106813159522684,
+            "IPhoto": 0.0010977237839695864,
+            "Music Player": 0.0019960809279084926,
+            "Sherlock 3": 0.0010977237839695864,
+            "Xserve RAID": 0.0010977237839695864,
+            "Apple Developer Connection": 0.0010977237839695864,
+            "Apple typography": 0.0010977237839695864,
+            "Gill Sans": 0.001142636078784062,
+            "Apple Type Services for Unicode Imaging": 0.0014738756733861927,
+            "PICT": 0.002456469727906281,
+            "QuickTime GX": 0.0010977237839695864,
+            "ColourSync": 0.001427080612609074,
+            "Inside Macintosh": 0.0010977237839695864,
+            "Old World ROM": 0.0010977237839695864,
+            "Open Firmware": 0.0022834083670717417,
+            "Happy Mac icon": 0.0010977237839695864,
+            "ITrip": 0.0010977237839695864,
+            "Chooser": 0.0066097115403156055,
+            "Macintosh Programmer's Workshop": 0.0010977237839695864,
+            "WebCore": 0.0015538659272789994,
+            "Shake": 0.0010977237839695864,
+            "IChat": 0.0010977237839695864,
+            "Xcode": 0.0015917590269288178,
+            "WriteNow": 0.0010977237839695864,
+            "Jef Raskin": 0.00274282737301689,
+            "Bill Atkinson": 0.00548281104051946,
+            "FreePPP": 0.01089212923809095,
+            "People's Republic of China": 0.0024151510985275368,
+            "Shutdown Items folder": 0.0038744303856996388,
+            "Apple Installer": 0.0015917590269288178,
+            "Custom Install": 0.01562465355083189,
+            "Easy Install": 0.01562465355083189,
+            "Grab": 0.001723541958000326,
+            "Asia Text Extras folder": 0.0010977237839695864,
+            "Screenshots": 0.002085794269888049,
+            "Apple Menu Items folder": 0.01038968842631524,
+            "AppleEvent Object Model": 0.002675819025805329,
+            "A/UX": 0.0010977237839695864,
+            "Gershwin": 0.013197066528143574,
+            "Mac OS X Server": 0.0030483572358393886,
+            "System 1.0": 0.016223450142067688,
+            "OpenGL": 0.0026646365067871085,
+            "AirPort Base Station": 0.0010977237839695864,
+            "StuffIt Expander": 0.0010977237839695864,
+            "AirPort (original)": 0.001295337881153279,
+            "AirPort Extreme": 0.0014381617674329842,
+            "AirPort Express": 0.027091798950906614,
+            "Macintosh Office": 0.0010977237839695864,
+            "Apple Store (retail)": 0.002085794269888049,
+            "ISight": 0.0010977237839695864,
+            "KanjiTalk": 0.0010977237839695864,
+            "PowerTalk": 0.002085794269888049,
+            "Macintouch (magazine)": 0.0010977237839695864,
+            "Macworld Switzerland": 0.0015917590269288178,
+            "Map": 0.002085794269888049,
+            "Memory control panel": 0.007564606877375155,
+            "Virtual memory": 0.0024595955500977106,
+            "Power key": 0.0010977237839695864,
+            "1977": 0.001142636078784062,
+            "1996": 0.006005320948266305,
+            "New products released at the Macworld Conference & Expo San Francisco 2005": 0.0010977237839695864,
+            "Macworld Conference & Expo San Francisco 2005 Keynote address": 0.004979320512168675,
+            "IWork": 0.002214355720802216,
+            "Pages": 0.0030404862552693038,
+            "IPhoto 5": 0.0010977237839695864,
+            "IMovie HD": 0.0010977237839695864,
+            "ITunes 4.7.1": 0.0010977237839695864,
+            "ILife '05": 0.0010977237839695864,
+            "Keynote 2": 0.0023387622386293666,
+            "Gil Amelio": 0.0010977237839695864,
+            "Guy Kawasaki": 0.0010977237839695864,
+            "ZhongWen-Talk": 0.0010977237839695864,
+            "Text control panel": 0.0010977237839695864,
+            "Application Support folder": 0.0010977237839695864,
+            "Internet Search Sites": 0.0038744303856996388,
+            "PrintMonitor Documents folder": 0.0010977237839695864,
+            "Network Software Selector": 0.0010977237839695864,
+            "Balloon Help": 0.003267695818645873,
+            "Read Me document": 0.0016330374566918486,
+            "Apple Guide": 0.00470315030215949,
+            "Battery desk accessory": 0.0010977237839695864,
+            "Brightness control panel": 0.0018067023745385945,
+            "Numbers control panel": 0.0010977237839695864,
+            "Screen control panel": 0.0012212325947093942,
+            "7.5.2 Printing Fix": 0.0010977237839695864,
+            "System 1": 0.0075361970982191885,
+            "Mac OS 7.5.3 Revision 2.1": 0.0010977237839695864,
+            "Mac OS 7.5.3 Revision 2": 0.0015917590269288178,
+            "Mac OS 7.6.1": 0.0036668879456283002,
+            "System 3": 0.001427080612609074,
+            "Guide menu": 0.001685999235948081,
+            "System 3.2": 0.011703741094425547,
+            "IPod Updater 2005-01-11": 0.0010977237839695864,
+            "Macworld Conference & Expo": 0.004950052847464154,
+            "Moscone Centre": 0.0017342586529206128,
+            "Mac Publishing": 0.005244619617296021,
+            "Mac the Knife": 0.0029965794164442854,
+            "MacWEEK": 0.004207028936297557,
+            "Macworld": 0.0044956991348125966,
+            "Utility": 0.0012212325947093942,
+            "Startup Memory Tests": 0.0024595955500977106,
+            "ShutDown Manager": 0.0010977237839695864,
+            "Startup disk": 0.0010977237839695864,
+            "Blessed System Folder": 0.0010977237839695864,
+            "Andy Hertzfeld": 0.0017399896996244438,
+            "Jens Alfke": 0.001427080612609074,
+            "ICab": 0.0010977237839695864,
+            "AudioTuneUp 2.0": 0.0010977237839695864,
+            "Twentieth Anniversary Macintosh": 0.0025798295128472808,
+            "Font/DA Mover": 0.001142636078784062,
+            "System 7.0.1": 0.002362955844760862,
+            "Huh?": 0.002508890907505875,
+            "Control panel": 0.0012212325947093942,
+            "Force Quit": 0.002085794269888049,
+            "Network Utility": 0.0010977237839695864,
+            "Battery Monitor": 0.0010977237839695864,
+            "Menu Extra": 0.0035858760064096102,
+            "Dock Extra": 0.0019046576212496987,
+            "Avie Tevanian": 0.0010977237839695864,
+            "Package First Aid": 0.001427080612609074,
+            "MacWorld China": 0.002184681717711322,
+            "OSXFAQ": 0.0010977237839695864,
+            "Performa control panel": 0.0010977237839695864,
+            "WindowShade": 0.0019960809279084926,
+            "Desktop Patterns control panel": 0.0010977237839695864,
+            "Mouse control panel": 0.0010977237839695864,
+            "Startup Disk control panel": 0.001295337881153279,
+            "Appearance folder": 0.0038744303856996388,
+            "Contextual Menu Items folder": 0.0038744303856996388,
+            "Print Catalogue": 0.0010977237839695864,
+            "Mac OS X 10.2.1": 0.0010977237839695864,
+            "Mac OS X 10.2.5": 0.0010977237839695864,
+            "Mac OS X 10.2.4": 0.0010977237839695864,
+            "Mac OS X 10.2.3": 0.0010977237839695864,
+            "Mac OS X 10.2.2": 0.0010977237839695864,
+            "Mac OS X 10.3.1": 0.0013387606660407365,
+            "MacCentral Online": 0.00528261736079478,
+            "Apple Menu Options control panel": 0.006597451720637401,
+            "AppleCD Audio Player": 0.0019960809279084926,
+            "Hong Kong University Mac User Group": 0.0010977237839695864,
+            "PowerBook G4 (15-inch Aluminium)": 0.002085794269888049,
+            "Powerbook G4 15-inch Aluminum": 0.0010977237839695864,
+            "ITunes 3": 0.0010977237839695864,
+            "Internet Connect": 0.0010977237839695864,
+            "Georgia": 0.0038004948556129175,
+            "AMUG": 0.0010977237839695864,
+            "Atlanta Macintosh Users Group": 0.0055067407709490325,
+            "Security Update 2005-001": 0.0010977237839695864,
+            "IPhoto 5.0.1": 0.0010977237839695864,
+            "Preview": 0.0013387606660407365,
+            "Mac OS X 10.2.7": 0.0021484669662388146,
+            "Mac OS X 10.3.2": 0.0013387606660407365,
+            "London": 0.0031180021923415107,
+            "Classic environment": 0.003720345035644266,
+            "Mac OS X 10.3.5": 0.0013387606660407365,
+            "Mac OS X 10.2.8 Build 6R73": 0.002856805936198065,
+            "Mac OS X 10.2.8 (6R73)": 0.0010977237839695864,
+            "Mac OS X 10.2.8 (G5)": 0.0042827767626135126,
+            "Mac OS X 10.2.0": 0.0010977237839695864,
+            "Mac OS X 10.3.8": 0.0014003279077100619,
+            "AppleTalk Remote Access": 0.0013419496759784506,
+            "TrueType": 0.0014719929074235496,
+            "Core Image": 0.0010977237839695864,
+            "Font Book": 0.0021262208169868565,
+            "System 3.1": 0.0015259010610728246,
+            "Get Info": 0.001344741405449202,
+            "Macintosh Drag and Drop": 0.0010977237839695864,
+            "Smart Album": 0.003478687837477962,
+            "Smart Playlist": 0.004558393713544648,
+            "Cary Lu": 0.001331292227873567,
+            "The Apple Macintosh Book": 0.0012974423320297427,
+            "OmniWeb": 0.0015202791862085044,
+            "About This Macintosh...": 0.0015917590269288176,
+            "Click Wheel": 0.0027528322970183663,
+            "Date & Time control panel": 0.0010977237839695864,
+            "Hardware System Update": 0.0010977237839695864,
+            "System Update 3.0": 0.0010977237839695864,
+            "Open Transport": 0.003073864755806512,
+            "System Folder": 0.02776195650493535,
+            "DigitalColor Meter": 0.0010977237839695864,
+            "Directory Setup": 0.0010977237839695864,
+            "ColorSync (System Preferences)": 0.0010977237839695864,
+            "Appearance (System Preferences)": 0.0010977237839695864,
+            "List of Apple Stores": 0.0010977237839695864,
+            "Gestalt": 0.0010977237839695864,
+            "Worldwide Developers Conference 2005": 0.001368637409778002,
+            "Modern Memory Manager": 0.0024595955500977106,
+            "Library folder": 0.0019046576212496987,
+            "Security Update 2005-002": 0.0010977237839695864,
+            "IPod Updater 2005-02-22": 0.002085794269888049,
+            "IPod Updater 2005-02-23": 0.0010977237839695864,
+            "Apple Store": 0.0037978011252944267,
+            "Build number": 0.0017405933838358328,
+            "Bluetooth": 0.0034380180810135255,
+            "AliasMenu": 0.0010977237839695864,
+            "MenuChoice": 0.0010977237839695864,
+            "SafeSleep": 0.0010977237839695864,
+            "Apple Store Shinsaibashi": 0.0010977237839695864,
+            "System 7.0": 0.0030389987524659214,
+            "Music folder": 0.0010977237839695864,
+            "Pictures folder": 0.0010977237839695864,
+            "WindowShade X": 0.0019960809279084926,
+            "IMovie": 0.0010977237839695864,
+            "IPod 4G": 0.002085794269888049,
+            "IPod (4G)": 0.0010977237839695864,
+            "RAM Doubler": 0.00236760531558755,
+            "Security Update 2005-003": 0.0010977237839695864,
+            "Macintosh Quadra": 0.0018603676045732109,
+            "Mac OS X 10.3.9": 0.001344741405449202,
+            "Terminal": 0.0023328118913676647,
+            "Mac OS X Server Wiki": 0.0010977237839695864,
+            "Firewall": 0.0010977237839695864,
+            "Automator": 0.0010977237839695864,
+            "Security Update 2005-005": 0.0010977237839695864,
+            "Security Update 2005-004": 0.0010977237839695864,
+            "ITunes 4.8": 0.0010977237839695864,
+            "Lucida Grande": 0.0010977237839695864,
+            "Worldwide Developers Conference 2005 Keynote address": 0.0017136892407023244,
+            "Calculator": 0.006668089772047217,
+            "System 3.3": 0.0015259010610728246,
+            "Suitcase": 0.0010977237839695864,
+            "1976": 0.0021711331118013317,
+            "Shuffle Songs": 0.002505814675538751,
+            "PowerBook 500": 0.0010977237839695864,
+            "Application package": 0.0010977237839695864,
+            "AAC": 0.0022834686664953115,
+            ".Mac": 0.003933992608879276,
+            "Central processing unit": 0.004045668260946895,
+            "1992": 0.008715403440350392,
+            "1993": 0.0028733494976738464,
+            "1995": 0.005040757942030015,
+            "1999": 0.005779899012257338,
+            "1983": 0.0018626726527372333,
+            "1986": 0.0033245444571449625,
+            "1989": 0.004646334957592167,
+            "2002": 0.009045705526766517,
+            "Apple Terminal": 0.0010977237839695864,
+            "GUI": 0.011849093049269906,
+            "Application programme": 0.0018500650304273131,
+            "System 7 (Macintosh)": 0.001428963378571717,
+            "Ethernet": 0.007657973381153475,
+            "Battery life": 0.002036451045015696,
+            "IPod Touch 4g": 0.0010977237839695864,
+            "Address Book": 0.002240455530098341,
+            "IPod Touch 4": 0.002085794269888049,
+            "Mac OS X": 0.10804063193495476,
+            "Final Cut Server": 0.0010977237839695864,
+            "Main page": 0.0010977237839695864,
+            "Cocoa": 0.0023655257858472617,
+            "GNU Compiler Collection": 0.001814105035972257,
+            "WindowServer": 0.001768892572444337,
+            "Dock Connector": 0.001814105035972257,
+            "Map control panel": 0.0010977237839695864,
+            "Mac-Roman encodiing": 0.001142636078784062,
+            "USA": 0.013676226286739153,
+            "Font": 0.0044078540544482915,
+            "Printing": 0.0024682194631140764,
+            "1975": 0.0015341837092440504,
+            "Mac OS X 10.2.8": 0.003538465483740748,
+            "Gerschwin": 0.013484394675099008,
+            "App:Angry Birds Star Wars": 0.0010977237839695864,
+            "Jurassic Park Builder": 0.0010977237839695864,
+            "Temple Run": 0.0010977237839695864,
+            "Temple Run 2": 0.0010977237839695864,
+            "Screen shot": 0.0010977237839695864,
+            "About This Macintosh": 0.0033703763507174057,
+            "Force quit": 0.0010977237839695864
+        },
+        "hitsHubs": {
+            "Main Screen": 3.414881332827373e-06,
+            "GarageBand": 0.0007644134008721867,
+            "IDVD": 0.008070554848836536,
+            "Safari": 0.0,
+            "Dogcow": 0.008220999823622392,
+            "Macintosh 128K": 8.530262706715221e-05,
+            "Scrapbook": 0.0006312360340638229,
+            "Software Update": 0.00878635757146066,
+            "MultiFinder": 0.008138991662912723,
+            "MacWrite": 0.008752873653993553,
+            "SimpleText": 0.008768334889288673,
+            "December 2004": 0.00999845214392124,
+            "Compatibility Checker": 7.587293203490674e-06,
+            "Macintosh Portable": 0.00010712619859796052,
+            "Sad Mac icon": 0.00870179088290036,
+            "ICal": 0.0005355632652482402,
+            "ITunes Music Store": 0.008508776558731442,
+            "TeachText": 0.008544569110952482,
+            "Tuna Helper": 0.0003003924615371512,
+            "System 7 Tune-Up 1.1.1": 0.000545799567359121,
+            "System file": 0.009122382322716937,
+            "Apple File Exchange": 4.668547986807474e-06,
+            "WorldScript": 0.0002886084659434536,
+            "Microsoft Internet Explorer": 0.0,
+            "Netscape": 0.0,
+            "Mac OS X 10.3.7": 0.009307548712166139,
+            "Michigan": 4.273441322438028e-38,
+            "GMT": 5.601285010145972e-33,
+            "Greenwich Mean Time": 5.601285010145972e-33,
+            "System 5": 0.0002886084659434536,
+            "Apple Open Collaboration Environment": 4.273441322438028e-38,
+            "HyperCard": 0.009052858154131241,
+            "HyperTalk": 0.0001962876098925357,
+            "Macintosh Classic": 0.00026683342090623447,
+            "ImageWriter": 0.000615891781654518,
+            "LaserWriter": 0.00037754304188275897,
+            "QuickTake": 0.008070554848836536,
+            "Apple Events": 0.008138991662912723,
+            "Apple Backup": 0.00836971998330485,
+            "ResEdit": 0.008070554848836536,
+            "OpenDoc": 0.00026683342090623447,
+            "FireWire": 0.00018146523608134212,
+            "MacPPP": 4.273441322438028e-38,
+            "Steve Wozniak": 0.00010621778822528596,
+            "Quartz Compositor": 0.008641000486152899,
+            "Groupware": 4.273441322438028e-38,
+            "CSCW": 0.0,
+            "Mac OS 7.5.3 Revision 2.2": 0.00019185160435088248,
+            "Camino": 0.008218888523004361,
+            "January 2005": 0.00016205409640289886,
+            "Power Computing": 0.00037179098770510064,
+            "Quartz": 0.008353924581878773,
+            "Quartz 2D": 0.008070554848836536,
+            "Worldwide Developers Conference": 0.009670984366956025,
+            "IPhoto": 0.008510322762114267,
+            "Music Player": 0.008138991662912723,
+            "Sherlock 3": 0.008070554848836536,
+            "Xserve RAID": 0.00015182264859200638,
+            "Apple Developer Connection": 1.7275785193696603e-06,
+            "Apple typography": 0.012525955471760034,
+            "Gill Sans": 0.008070554848836536,
+            "Apple Type Services for Unicode Imaging": 0.0,
+            "PICT": 0.008070554848836536,
+            "QuickTime GX": 0.008315725265048436,
+            "ColourSync": 0.0,
+            "Inside Macintosh": 0.0002037283205179773,
+            "Old World ROM": 7.754655717782035e-05,
+            "Open Firmware": 0.0,
+            "Happy Mac icon": 0.008138991662912723,
+            "ITrip": 0.00034008897477645595,
+            "Chooser": 0.008224369663626557,
+            "Macintosh Programmer's Workshop": 0.008138991662912723,
+            "WebCore": 0.008866719831127134,
+            "Shake": 0.008070554848836536,
+            "IChat": 0.008829799886556366,
+            "Xcode": 0.008138991662912723,
+            "WriteNow": 0.008519736200039256,
+            "Jef Raskin": 0.00018870031668904503,
+            "Bill Atkinson": 0.0006984598556917671,
+            "FreePPP": 4.273441322438028e-38,
+            "People's Republic of China": 2.130716997023959e-06,
+            "Shutdown Items folder": 0.0,
+            "Apple Installer": 0.008209789851181074,
+            "Custom Install": 6.961750117226829e-05,
+            "Easy Install": 6.961750117226829e-05,
+            "Grab": 0.008070554848836536,
+            "Asia Text Extras folder": 0.008307893618638934,
+            "Screenshots": 0.00836120324123265,
+            "Apple Menu Items folder": 0.0007095843357439841,
+            "AppleEvent Object Model": 4.273441322438028e-38,
+            "A/UX": 0.00028856816994841207,
+            "Gershwin": 3.6791527263372164e-30,
+            "Mac OS X Server": 0.009133097444699078,
+            "System 1.0": 0.00011746681701686729,
+            "OpenGL": 0.008337388269742773,
+            "AirPort Base Station": 0.00042745219109071,
+            "StuffIt Expander": 0.008070554848836536,
+            "AirPort (original)": 9.520310470470013e-05,
+            "AirPort Extreme": 8.916585252210818e-05,
+            "AirPort Express": 8.916585252210818e-05,
+            "Macintosh Office": 0.0001538148147900188,
+            "Apple Store (retail)": 8.4785026957851e-05,
+            "ISight": 0.00855873109398784,
+            "KanjiTalk": 0.008755974824077514,
+            "PowerTalk": 0.0003588078630025014,
+            "Macintouch (magazine)": 0.0001934784705113164,
+            "Macworld Switzerland": 0.00019185160435088248,
+            "Map": 0.008138991662912723,
+            "Memory control panel": 0.008438208339041431,
+            "Virtual memory": 0.008453914480311225,
+            "Power key": 0.008912338469674786,
+            "1977": 0.0003588078630025014,
+            "1996": 0.00036185048739080056,
+            "New products released at the Macworld Conference & Expo San Francisco 2005": 0.00015296910883973028,
+            "Macworld Conference & Expo San Francisco 2005 Keynote address": 0.00871275217882651,
+            "IWork": 0.0,
+            "Pages": 0.0003823079725826457,
+            "IPhoto 5": 0.0003959059954068059,
+            "IMovie HD": 0.0003823079725826457,
+            "ITunes 4.7.1": 0.0003992921626668572,
+            "ILife '05": 0.0003823079725826457,
+            "Keynote 2": 0.0004607295521283152,
+            "Gil Amelio": 7.358305452674433e-30,
+            "Guy Kawasaki": 7.491359898927663e-06,
+            "ZhongWen-Talk": 0.008070554848836536,
+            "Text control panel": 0.00033405262935300205,
+            "Application Support folder": 0.0006312360340638229,
+            "Internet Search Sites": 0.0006312360340638229,
+            "PrintMonitor Documents folder": 0.0006312360340638229,
+            "Network Software Selector": 5.601285010145972e-33,
+            "Balloon Help": 0.008585052592375016,
+            "Read Me document": 0.008450743153752764,
+            "Apple Guide": 0.008209832900196739,
+            "Battery desk accessory": 4.026849192994631e-08,
+            "Brightness control panel": 0.0001567840668584653,
+            "Numbers control panel": 0.00033405262935300205,
+            "Screen control panel": 0.0,
+            "7.5.2 Printing Fix": 5.601285010145972e-33,
+            "System 1": 8.456668856030012e-05,
+            "Mac OS 7.5.3 Revision 2.1": 5.601285010145972e-33,
+            "Mac OS 7.5.3 Revision 2": 8.272231968731873e-05,
+            "Mac OS 7.6.1": 0.008070554848836536,
+            "System 3": 7.485264958255663e-07,
+            "Guide menu": 0.0001442685987981401,
+            "System 3.2": 1.081089317163519e-05,
+            "IPod Updater 2005-01-11": 0.0003919481961471206,
+            "Macworld Conference & Expo": 0.00030646818222352144,
+            "Moscone Centre": 0.0,
+            "Mac Publishing": 1.1770207105577744e-05,
+            "Mac the Knife": 8.690137706643478e-05,
+            "MacWEEK": 7.593926913116333e-06,
+            "Macworld": 8.436697859826893e-05,
+            "Utility": 0.008138991662912723,
+            "Startup Memory Tests": 0.00015479514638816933,
+            "ShutDown Manager": 0.008070554848836536,
+            "Startup disk": 0.009144840411995087,
+            "Blessed System Folder": 0.0011010439316234718,
+            "Andy Hertzfeld": 0.0004777794152293017,
+            "Jens Alfke": 0.009432890742103604,
+            "ICab": 0.008155403596298736,
+            "AudioTuneUp 2.0": 3.6791527263372164e-30,
+            "Twentieth Anniversary Macintosh": 7.161698953651169e-05,
+            "Font/DA Mover": 4.273441322438028e-38,
+            "System 7.0.1": 4.748746372544029e-06,
+            "Huh?": 7.402303095152921e-05,
+            "Control panel": 0.008070554848836536,
+            "Force Quit": 0.008070554848836536,
+            "Network Utility": 0.008070554848836536,
+            "Battery Monitor": 7.2395473732784e-05,
+            "Menu Extra": 0.008850632187715434,
+            "Dock Extra": 0.008142950322569321,
+            "Avie Tevanian": 0.008070554848836536,
+            "Package First Aid": 0.008070554848836536,
+            "MacWorld China": 0.0,
+            "OSXFAQ": 0.008070554848836536,
+            "Performa control panel": 0.0009276446114264282,
+            "WindowShade": 0.008138991662912723,
+            "Desktop Patterns control panel": 0.008445583710535687,
+            "Mouse control panel": 0.008365958492265065,
+            "Startup Disk control panel": 0.00870179088290036,
+            "Appearance folder": 0.0006312360340638229,
+            "Contextual Menu Items folder": 0.0006312360340638229,
+            "Print Catalogue": 0.008429362711839038,
+            "Mac OS X 10.2.1": 0.0010478995215881443,
+            "Mac OS X 10.2.5": 0.009075228340373487,
+            "Mac OS X 10.2.4": 0.0008122737901426999,
+            "Mac OS X 10.2.3": 0.0014694775514780972,
+            "Mac OS X 10.2.2": 0.0007087032420183069,
+            "Mac OS X 10.3.1": 0.0003628999676083619,
+            "MacCentral Online": 0.0,
+            "Apple Menu Options control panel": 0.00015584195200708115,
+            "AppleCD Audio Player": 0.008138991662912723,
+            "Hong Kong University Mac User Group": 0.0006849995539797822,
+            "PowerBook G4 (15-inch Aluminium)": 0.0,
+            "Powerbook G4 15-inch Aluminum": 4.273441322438028e-38,
+            "ITunes 3": 0.008830434858990504,
+            "Internet Connect": 0.008458775628208471,
+            "Georgia": 5.601285010145972e-33,
+            "AMUG": 5.601285010145972e-33,
+            "Atlanta Macintosh Users Group": 0.0,
+            "Security Update 2005-001": 0.009111403366480551,
+            "IPhoto 5.0.1": 1.3713331545480854e-05,
+            "Preview": 0.008070554848836536,
+            "Mac OS X 10.2.7": 0.008070554848836536,
+            "Mac OS X 10.3.2": 0.0004897718900861845,
+            "London": 0.0,
+            "Classic environment": 0.008070554848836536,
+            "Mac OS X 10.3.5": 0.0006796553399956818,
+            "Mac OS X 10.2.8 Build 6R73": 0.0003944377697201618,
+            "Mac OS X 10.2.8 (6R73)": 7.76129917901569e-06,
+            "Mac OS X 10.2.8 (G5)": 0.0009152674853200987,
+            "Mac OS X 10.2.0": 0.008755554402816319,
+            "Mac OS X 10.3.8": 0.0008082618970846681,
+            "AppleTalk Remote Access": 0.008222377497428544,
+            "TrueType": 0.008655491756054023,
+            "Core Image": 0.008211022540042173,
+            "Font Book": 0.008070554848836536,
+            "System 3.1": 7.359385068520946e-07,
+            "Get Info": 0.0002250583759043965,
+            "Macintosh Drag and Drop": 0.008070554848836536,
+            "Smart Album": 7.488045617418372e-05,
+            "Smart Playlist": 0.008211157627645954,
+            "Cary Lu": 0.0005651959400085164,
+            "The Apple Macintosh Book": 0.0005576410547616281,
+            "OmniWeb": 0.008320456898994067,
+            "About This Macintosh...": 1.0941901459266779e-05,
+            "Click Wheel": 0.0,
+            "Date & Time control panel": 0.008070554848836536,
+            "Hardware System Update": 0.0006312360340638229,
+            "System Update 3.0": 0.0012076243608496475,
+            "Open Transport": 0.00015182264859200638,
+            "System Folder": 0.0092004737909417,
+            "DigitalColor Meter": 0.008070554848836536,
+            "Directory Setup": 0.008070554848836536,
+            "ColorSync (System Preferences)": 0.008070554848836536,
+            "Appearance (System Preferences)": 0.0003034066775845577,
+            "List of Apple Stores": 7.525671758581926e-05,
+            "Gestalt": 0.00010712619859796052,
+            "Worldwide Developers Conference 2005": 0.00036185048739080056,
+            "Modern Memory Manager": 0.00015479514638816933,
+            "Library folder": 0.008070554848836536,
+            "Security Update 2005-002": 0.008070554848836536,
+            "IPod Updater 2005-02-22": 0.0001780945466153092,
+            "IPod Updater 2005-02-23": 4.273441322438028e-38,
+            "Apple Store": 0.0,
+            "Build number": 0.0,
+            "Bluetooth": 0.00024913855413297864,
+            "AliasMenu": 0.0008727701814108854,
+            "MenuChoice": 0.00830474510252378,
+            "SafeSleep": 0.00014304004427050345,
+            "Apple Store Shinsaibashi": 4.273441322438028e-38,
+            "System 7.0": 0.0,
+            "Music folder": 7.388252878796792e-05,
+            "Pictures folder": 0.008070554848836536,
+            "WindowShade X": 0.008138991662912723,
+            "IMovie": 0.008410643823612993,
+            "IPod 4G": 6.398322588552938e-06,
+            "IPod (4G)": 4.273441322438028e-38,
+            "RAM Doubler": 0.0,
+            "Security Update 2005-003": 0.0004069513078180858,
+            "Macintosh Quadra": 0.0004579018715678909,
+            "Mac OS X 10.3.9": 0.0007182867929380782,
+            "Terminal": 0.008448097890719297,
+            "Mac OS X Server Wiki": 0.0002296554275909066,
+            "Firewall": 0.008300210276427444,
+            "Automator": 0.0005552849819859088,
+            "Security Update 2005-005": 0.008449653498238419,
+            "Security Update 2005-004": 0.0001669030124326254,
+            "ITunes 4.8": 0.0003588078630025014,
+            "Lucida Grande": 0.008070554848836536,
+            "Worldwide Developers Conference 2005 Keynote address": 0.00836971998330485,
+            "Calculator": 0.008070554848836536,
+            "System 3.3": 7.359385068520946e-07,
+            "Suitcase": 0.008070554848836536,
+            "1976": 0.0,
+            "Shuffle Songs": 0.0,
+            "PowerBook 500": 9.520310470470013e-05,
+            "Application package": 0.008283244660331857,
+            "AAC": 0.0,
+            ".Mac": 0.0,
+            "Central processing unit": 0.0,
+            "1992": 0.0,
+            "1993": 0.0,
+            "1995": 0.0,
+            "1999": 0.0,
+            "1983": 0.0,
+            "1986": 0.0,
+            "1989": 0.0,
+            "2002": 0.0,
+            "Apple Terminal": 7.165150058426938e-05,
+            "GUI": 0.0,
+            "Application programme": 0.0,
+            "System 7 (Macintosh)": 0.0,
+            "Ethernet": 0.0,
+            "Battery life": 0.0,
+            "IPod Touch 4g": 4.273441322438028e-38,
+            "Address Book": 0.0,
+            "IPod Touch 4": 0.0,
+            "Mac OS X": 0.0,
+            "Final Cut Server": 0.008070554848836536,
+            "Main page": 4.273441322438028e-38,
+            "Cocoa": 0.0,
+            "GNU Compiler Collection": 0.0,
+            "WindowServer": 0.00014046769120563507,
+            "Dock Connector": 0.0,
+            "Map control panel": 4.273441322438028e-38,
+            "Mac-Roman encodiing": 0.0,
+            "USA": 0.0,
+            "Font": 0.0,
+            "Printing": 0.0,
+            "1975": 0.0002250583759043965,
+            "Mac OS X 10.2.8": 4.273441322438028e-38,
+            "Gerschwin": 4.273441322438028e-38,
+            "App:Angry Birds Star Wars": 0.008070554848836536,
+            "Jurassic Park Builder": 0.008070554848836536,
+            "Temple Run": 0.008070554848836536,
+            "Temple Run 2": 0.008070554848836536,
+            "Screen shot": 4.273441322438028e-38,
+            "About This Macintosh": 0.0,
+            "Force quit": 4.273441322438028e-38
+        },
+        "hitsAuths": {
+            "Main Screen": 1.7671005210552433e-36,
+            "GarageBand": 0.00305509881304777,
+            "IDVD": 0.0,
+            "Safari": 0.016827746395244453,
+            "Dogcow": 0.0,
+            "Macintosh 128K": 0.004857342312560027,
+            "Scrapbook": 0.002829914363826918,
+            "Software Update": 0.0005622885961187331,
+            "MultiFinder": 0.0003225405455013612,
+            "MacWrite": 0.0029622986294941356,
+            "SimpleText": 0.009314140941023355,
+            "December 2004": 5.6345949733987875e-05,
+            "Compatibility Checker": 0.0,
+            "Macintosh Portable": 1.6651327981946076e-06,
+            "Sad Mac icon": 0.002829914363826918,
+            "ICal": 0.0,
+            "ITunes Music Store": 0.0,
+            "TeachText": 0.00640693490923051,
+            "Tuna Helper": 0.00018977363531099648,
+            "System 7 Tune-Up 1.1.1": 0.000487277189098171,
+            "System file": 0.011934179787887496,
+            "Apple File Exchange": 0.0,
+            "WorldScript": 0.013813330542065128,
+            "Microsoft Internet Explorer": 0.003476445794515535,
+            "Netscape": 0.003476445794515535,
+            "Mac OS X 10.3.7": 0.009814138820213243,
+            "Michigan": 0.003476445794515535,
+            "GMT": 0.0035327917442495227,
+            "Greenwich Mean Time": 2.3161739949575285e-31,
+            "System 5": 0.0,
+            "Apple Open Collaboration Environment": 0.0,
+            "HyperCard": 0.00031374035026268237,
+            "HyperTalk": 0.003147664278978447,
+            "Macintosh Classic": 0.006483140526209293,
+            "ImageWriter": 0.006242350148224347,
+            "LaserWriter": 0.006360359692651416,
+            "QuickTake": 0.0,
+            "Apple Events": 1.7671005210552433e-36,
+            "Apple Backup": 0.002829914363826918,
+            "ResEdit": 0.0059148147287059714,
+            "OpenDoc": 0.0032798010010668304,
+            "FireWire": 0.014062938020867931,
+            "MacPPP": 1.7671005210552433e-36,
+            "Steve Wozniak": 0.0043552546531757125,
+            "Quartz Compositor": 0.005808445971110075,
+            "Groupware": 0.0,
+            "CSCW": 1.7671005210552433e-36,
+            "Mac OS 7.5.3 Revision 2.2": 1.1580869974787643e-31,
+            "Camino": 0.0,
+            "January 2005": 8.736592308075584e-05,
+            "Power Computing": 0.0,
+            "Quartz": 0.007359716680714216,
+            "Quartz 2D": 0.005909108223001195,
+            "Worldwide Developers Conference": 0.006123521370634994,
+            "IPhoto": 0.0,
+            "Music Player": 0.002829914363826918,
+            "Sherlock 3": 0.0,
+            "Xserve RAID": 0.0,
+            "Apple Developer Connection": 0.0,
+            "Apple typography": 0.0,
+            "Gill Sans": 0.0043552546531757125,
+            "Apple Type Services for Unicode Imaging": 0.00736475527205789,
+            "PICT": 0.00911135532606534,
+            "QuickTime GX": 0.0,
+            "ColourSync": 0.002891364354198922,
+            "Inside Macintosh": 0.0,
+            "Old World ROM": 0.0,
+            "Open Firmware": 0.003206609176437423,
+            "Happy Mac icon": 0.0,
+            "ITrip": 0.0,
+            "Chooser": 0.0001935325655502946,
+            "Macintosh Programmer's Workshop": 0.0,
+            "WebCore": 0.0028930095357436814,
+            "Shake": 0.0,
+            "IChat": 0.0,
+            "Xcode": 0.002829914363826918,
+            "WriteNow": 0.0,
+            "Jef Raskin": 0.0002428533730188462,
+            "Bill Atkinson": 0.007802901754931877,
+            "FreePPP": 1.7671005210552433e-36,
+            "People's Republic of China": 7.143668700241627e-05,
+            "Shutdown Items folder": 0.003198989999438215,
+            "Apple Installer": 4.768103412536385e-06,
+            "Custom Install": 0.0028787366741213354,
+            "Easy Install": 0.0028787366741213354,
+            "Grab": 0.002907176973660301,
+            "Asia Text Extras folder": 0.0,
+            "Screenshots": 1.7671005210552433e-36,
+            "Apple Menu Items folder": 0.006444183359861094,
+            "AppleEvent Object Model": 0.002829914363826918,
+            "A/UX": 0.0,
+            "Gershwin": 1.7671005210552433e-36,
+            "Mac OS X Server": 0.009496426770346532,
+            "System 1.0": 0.0034968969536141306,
+            "OpenGL": 0.007315074458960279,
+            "AirPort Base Station": 0.0,
+            "StuffIt Expander": 0.0,
+            "AirPort (original)": 0.0001486244421339063,
+            "AirPort Extreme": 0.003625070236649441,
+            "AirPort Express": 0.0036870758848342017,
+            "Macintosh Office": 0.0,
+            "Apple Store (retail)": 1.7671005210552433e-36,
+            "ISight": 0.0,
+            "KanjiTalk": 0.0,
+            "PowerTalk": 1.7671005210552433e-36,
+            "Macintouch (magazine)": 0.0,
+            "Macworld Switzerland": 6.727215428688313e-05,
+            "Map": 1.7671005210552433e-36,
+            "Memory control panel": 0.006400897150573276,
+            "Virtual memory": 0.0029339515228201177,
+            "Power key": 0.0,
+            "1977": 0.0043552546531757125,
+            "1996": 0.007933209898862375,
+            "New products released at the Macworld Conference & Expo San Francisco 2005": 0.0,
+            "Macworld Conference & Expo San Francisco 2005 Keynote address": 0.0009717474220574281,
+            "IWork": 1.7671005210552433e-36,
+            "Pages": 0.0032427920175131285,
+            "IPhoto 5": 0.0,
+            "IMovie HD": 0.0,
+            "ITunes 4.7.1": 0.0,
+            "ILife '05": 0.0,
+            "Keynote 2": 0.0030825970902476603,
+            "Gil Amelio": 0.0,
+            "Guy Kawasaki": 0.0,
+            "ZhongWen-Talk": 0.0,
+            "Text control panel": 0.0,
+            "Application Support folder": 0.0,
+            "Internet Search Sites": 0.003198989999438215,
+            "PrintMonitor Documents folder": 0.0,
+            "Network Software Selector": 0.0,
+            "Balloon Help": 0.0029047077092601795,
+            "Read Me document": 0.0030487359955302163,
+            "Apple Guide": 0.003060908684477031,
+            "Battery desk accessory": 0.0,
+            "Brightness control panel": 1.6511315080157615e-06,
+            "Numbers control panel": 0.0,
+            "Screen control panel": 0.00041988905588266466,
+            "7.5.2 Printing Fix": 0.0,
+            "System 1": 0.009306335183318132,
+            "Mac OS 7.5.3 Revision 2.1": 0.0,
+            "Mac OS 7.5.3 Revision 2": 1.1580869974787643e-31,
+            "Mac OS 7.6.1": 0.002961417040217544,
+            "System 3": 0.002908830366828127,
+            "Guide menu": 0.0029850090344823075,
+            "System 3.2": 3.0431617537245668e-05,
+            "IPod Updater 2005-01-11": 0.0,
+            "Macworld Conference & Expo": 0.003283823027725783,
+            "Moscone Centre": 0.00010655849606397201,
+            "Mac Publishing": 0.00016874862521358815,
+            "Mac the Knife": 0.00010919889228928584,
+            "MacWEEK": 0.00014086644783010502,
+            "Macworld": 0.00030977343508381354,
+            "Utility": 0.00041988905588266466,
+            "Startup Memory Tests": 0.0029339515228201177,
+            "ShutDown Manager": 0.0,
+            "Startup disk": 0.0,
+            "Blessed System Folder": 0.0,
+            "Andy Hertzfeld": 0.002829914363826918,
+            "Jens Alfke": 0.003070107276638245,
+            "ICab": 0.0,
+            "AudioTuneUp 2.0": 0.0,
+            "Twentieth Anniversary Macintosh": 1.5213576621763937e-28,
+            "Font/DA Mover": 0.0043552546531757125,
+            "System 7.0.1": 0.0035085603039424584,
+            "Huh?": 0.0028545457485539194,
+            "Control panel": 0.00041988905588266466,
+            "Force Quit": 1.7671005210552433e-36,
+            "Network Utility": 0.0,
+            "Battery Monitor": 0.0,
+            "Menu Extra": 0.002993607954402865,
+            "Dock Extra": 0.0030773506343970453,
+            "Avie Tevanian": 0.0,
+            "Package First Aid": 0.0028800708999586885,
+            "MacWorld China": 7.408468868784507e-07,
+            "OSXFAQ": 0.0,
+            "Performa control panel": 0.0,
+            "WindowShade": 0.002829914363826918,
+            "Desktop Patterns control panel": 0.0,
+            "Mouse control panel": 0.0,
+            "Startup Disk control panel": 0.003179646362722331,
+            "Appearance folder": 0.003198989999438215,
+            "Contextual Menu Items folder": 0.003198989999438215,
+            "Print Catalogue": 0.0,
+            "Mac OS X 10.2.1": 0.0,
+            "Mac OS X 10.2.5": 0.0,
+            "Mac OS X 10.2.4": 0.0,
+            "Mac OS X 10.2.3": 0.0,
+            "Mac OS X 10.2.2": 0.0,
+            "Mac OS X 10.3.1": 0.0032362197780095524,
+            "MacCentral Online": 3.606714170315299e-05,
+            "Apple Menu Options control panel": 0.0032397619219870326,
+            "AppleCD Audio Player": 0.002829914363826918,
+            "Hong Kong University Mac User Group": 0.0,
+            "PowerBook G4 (15-inch Aluminium)": 1.7671005210552433e-36,
+            "Powerbook G4 15-inch Aluminum": 0.0,
+            "ITunes 3": 0.0,
+            "Internet Connect": 0.0,
+            "Georgia": 0.00012581483484302327,
+            "AMUG": 0.0,
+            "Atlanta Macintosh Users Group": 2.3161739949575285e-31,
+            "Security Update 2005-001": 0.0,
+            "IPhoto 5.0.1": 0.0,
+            "Preview": 0.0032362197780095524,
+            "Mac OS X 10.2.7": 0.003401181320740336,
+            "Mac OS X 10.3.2": 0.0032362197780095524,
+            "London": 0.00350592541257653,
+            "Classic environment": 0.010286709670278006,
+            "Mac OS X 10.3.5": 0.0032362197780095524,
+            "Mac OS X 10.2.8 Build 6R73": 0.0003209356298235015,
+            "Mac OS X 10.2.8 (6R73)": 0.0,
+            "Mac OS X 10.2.8 (G5)": 1.7671005210552433e-36,
+            "Mac OS X 10.2.0": 0.0,
+            "Mac OS X 10.3.8": 0.0002497471673216206,
+            "AppleTalk Remote Access": 0.00018977363531099648,
+            "TrueType": 0.007246619007374636,
+            "Core Image": 0.0,
+            "Font Book": 1.7671005210552433e-36,
+            "System 3.1": 2.602614637208706e-07,
+            "Get Info": 0.0003034607940705031,
+            "Macintosh Drag and Drop": 0.0,
+            "Smart Album": 0.005814031946370289,
+            "Smart Playlist": 0.0030963638702020163,
+            "Cary Lu": 0.00019389090152023322,
+            "The Apple Macintosh Book": 0.00019651772302102413,
+            "OmniWeb": 0.006559390076724475,
+            "About This Macintosh...": 0.003239976721745414,
+            "Click Wheel": 0.0002004276350627295,
+            "Date & Time control panel": 0.0,
+            "Hardware System Update": 0.0,
+            "System Update 3.0": 0.0,
+            "Open Transport": 2.3161739949575285e-31,
+            "System Folder": 0.026102090576188154,
+            "DigitalColor Meter": 0.0,
+            "Directory Setup": 0.0,
+            "ColorSync (System Preferences)": 0.0,
+            "Appearance (System Preferences)": 0.0,
+            "List of Apple Stores": 0.0,
+            "Gestalt": 0.0,
+            "Worldwide Developers Conference 2005": 0.003362585773036898,
+            "Modern Memory Manager": 0.0029339515228201177,
+            "Library folder": 0.0030773506343970453,
+            "Security Update 2005-002": 0.0,
+            "IPod Updater 2005-02-22": 1.7671005210552433e-36,
+            "IPod Updater 2005-02-23": 0.0,
+            "Apple Store": 0.003111922566025522,
+            "Build number": 0.0001371453807039732,
+            "Bluetooth": 0.009775242680514279,
+            "AliasMenu": 0.0,
+            "MenuChoice": 0.0,
+            "SafeSleep": 0.0,
+            "Apple Store Shinsaibashi": 0.0,
+            "System 7.0": 0.0001930480134766968,
+            "Music folder": 0.0,
+            "Pictures folder": 0.0,
+            "WindowShade X": 0.002829914363826918,
+            "IMovie": 0.0,
+            "IPod 4G": 1.7671005210552433e-36,
+            "IPod (4G)": 0.0,
+            "RAM Doubler": 0.002968174941032978,
+            "Security Update 2005-003": 0.0,
+            "Macintosh Quadra": 0.0004907433150098668,
+            "Mac OS X 10.3.9": 0.002937930986337441,
+            "Terminal": 0.002962844098316004,
+            "Mac OS X Server Wiki": 0.0,
+            "Firewall": 0.0,
+            "Automator": 0.0,
+            "Security Update 2005-005": 0.0,
+            "Security Update 2005-004": 0.0,
+            "ITunes 4.8": 0.0,
+            "Lucida Grande": 0.0,
+            "Worldwide Developers Conference 2005 Keynote address": 0.00012581483484302327,
+            "Calculator": 0.00025350609756091873,
+            "System 3.3": 2.602614637208706e-07,
+            "Suitcase": 0.0,
+            "1976": 0.004392186408006079,
+            "Shuffle Songs": 6.414787509452715e-05,
+            "PowerBook 500": 0.0,
+            "Application package": 0.0,
+            "AAC": 0.0001400205941333276,
+            ".Mac": 0.0123707060683102,
+            "Central processing unit": 6.309517191676348e-05,
+            "1992": 0.011033765097992587,
+            "1993": 0.007900825897588476,
+            "1995": 0.0074406304917319765,
+            "1999": 0.003936720858817693,
+            "1983": 0.006221014242979196,
+            "1986": 0.003495542154697374,
+            "1989": 0.0044297498685000065,
+            "2002": 0.028325253055532885,
+            "Apple Terminal": 0.0,
+            "GUI": 0.015611692209949134,
+            "Application programme": 0.0006876393415783962,
+            "System 7 (Macintosh)": 0.0030095006188821773,
+            "Ethernet": 0.006277982103703313,
+            "Battery life": 1.1873487696624687e-06,
+            "IPod Touch 4g": 0.0,
+            "Address Book": 0.000980165546298202,
+            "IPod Touch 4": 1.7671005210552433e-36,
+            "Mac OS X": 0.333723587210686,
+            "Final Cut Server": 0.0,
+            "Main page": 0.0,
+            "Cocoa": 0.00613371035506478,
+            "GNU Compiler Collection": 0.002829914363826918,
+            "WindowServer": 0.0030044620275385034,
+            "Dock Connector": 0.00019820294854743683,
+            "Map control panel": 0.0,
+            "Mac-Roman encodiing": 0.0043552546531757125,
+            "USA": 0.014836978299931561,
+            "Font": 0.0035784456957148004,
+            "Printing": 0.0009432519198848302,
+            "1975": 0.00452137779054854,
+            "Mac OS X 10.2.8": 0.006901566629376812,
+            "Gerschwin": 1.5213576621763937e-28,
+            "App:Angry Birds Star Wars": 0.0,
+            "Jurassic Park Builder": 0.0,
+            "Temple Run": 0.0,
+            "Temple Run 2": 0.0,
+            "Screen shot": 0.0,
+            "About This Macintosh": 0.0004524559555429779,
+            "Force quit": 0.0
+        },
+        "averagePathLength": 2.107142857142857
+    }
+}

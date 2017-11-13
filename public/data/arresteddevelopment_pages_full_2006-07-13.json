@@ -1,0 +1,609 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Michael"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "George Michael"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lindsay"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Tobias"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Lucille"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Oscar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Kitty"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Barry"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Lemon grove"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Jeff Garlin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Cookies scented spray"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hurwitz"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Afternoon Deelite"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Reno"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Arrested Development Netflix Premiere"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "2013 Netflix Orange Carpet Season Four Premiere"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "James"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "The Plumb Clinic"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Dr. Sandor Plumb"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chareth Richter"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Freddie Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pete the mailman"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Mural"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Herb Zuckerkorn"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mitchell Hurwitz"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "UnLead News"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fox.com/arresteddev"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Arrested Development bobbleheads"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of Queen for a Day"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of Burning Love"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of Ready, Aim, Marry Me"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of Hand to God"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of Motherboy XXX"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Transcript of Righteous Brothers"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of Spring Breakout"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Transcript of The Cabin Show"
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 8,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 10,
+            "target": 16
+        },
+        {
+            "source": 11,
+            "target": 24
+        },
+        {
+            "source": 12,
+            "target": 0
+        },
+        {
+            "source": 12,
+            "target": 4
+        },
+        {
+            "source": 13,
+            "target": 1
+        },
+        {
+            "source": 13,
+            "target": 6
+        },
+        {
+            "source": 13,
+            "target": 3
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 18,
+            "target": 17
+        },
+        {
+            "source": 19,
+            "target": 0
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 1
+        },
+        {
+            "source": 20,
+            "target": 0
+        },
+        {
+            "source": 20,
+            "target": 2
+        },
+        {
+            "source": 21,
+            "target": 1
+        },
+        {
+            "source": 22,
+            "target": 0
+        },
+        {
+            "source": 23,
+            "target": 7
+        },
+        {
+            "source": 23,
+            "target": 4
+        },
+        {
+            "source": 25,
+            "target": 26
+        },
+        {
+            "source": 25,
+            "target": 1
+        },
+        {
+            "source": 27,
+            "target": 0
+        },
+        {
+            "source": 28,
+            "target": 0
+        },
+        {
+            "source": 29,
+            "target": 9
+        },
+        {
+            "source": 30,
+            "target": 0
+        },
+        {
+            "source": 31,
+            "target": 24
+        },
+        {
+            "source": 32,
+            "target": 24
+        },
+        {
+            "source": 33,
+            "target": 24
+        },
+        {
+            "source": 34,
+            "target": 9
+        },
+        {
+            "source": 34,
+            "target": 24
+        },
+        {
+            "source": 35,
+            "target": 9
+        },
+        {
+            "source": 36,
+            "target": 24
+        }
+    ],
+    "edges": [
+        {
+            "source": "Lemon grove",
+            "target": "Oscar"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Michael"
+        },
+        {
+            "source": "Lemon grove",
+            "target": "Lucille"
+        },
+        {
+            "source": "Cookies scented spray",
+            "target": "James"
+        },
+        {
+            "source": "Hurwitz",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Afternoon Deelite",
+            "target": "Michael"
+        },
+        {
+            "source": "Afternoon Deelite",
+            "target": "Lucille"
+        },
+        {
+            "source": "Reno",
+            "target": "George Michael"
+        },
+        {
+            "source": "Reno",
+            "target": "Kitty"
+        },
+        {
+            "source": "Reno",
+            "target": "Tobias"
+        },
+        {
+            "source": "Arrested Development Netflix Premiere",
+            "target": "2013 Netflix Orange Carpet Season Four Premiere"
+        },
+        {
+            "source": "The Plumb Clinic",
+            "target": "Dr. Sandor Plumb"
+        },
+        {
+            "source": "Dr. Sandor Plumb",
+            "target": "The Plumb Clinic"
+        },
+        {
+            "source": "Chareth Richter",
+            "target": "Michael"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Tobias"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "George Michael"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Michael"
+        },
+        {
+            "source": "Freddie Wilson",
+            "target": "Lindsay"
+        },
+        {
+            "source": "Pete the mailman",
+            "target": "George Michael"
+        },
+        {
+            "source": "Mural",
+            "target": "Michael"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "Barry"
+        },
+        {
+            "source": "Herb Zuckerkorn",
+            "target": "Lucille"
+        },
+        {
+            "source": "UnLead News",
+            "target": "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep"
+        },
+        {
+            "source": "UnLead News",
+            "target": "George Michael"
+        },
+        {
+            "source": "Fox.com/arresteddev",
+            "target": "Michael"
+        },
+        {
+            "source": "Arrested Development bobbleheads",
+            "target": "Michael"
+        },
+        {
+            "source": "Transcript of Queen for a Day",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Transcript of Burning Love",
+            "target": "Michael"
+        },
+        {
+            "source": "Transcript of Ready, Aim, Marry Me",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Hand to God",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Motherboy XXX",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Transcript of Righteous Brothers",
+            "target": "Mitchell Hurwitz"
+        },
+        {
+            "source": "Transcript of Spring Breakout",
+            "target": "Jeff Garlin"
+        },
+        {
+            "source": "Transcript of The Cabin Show",
+            "target": "Mitchell Hurwitz"
+        }
+    ],
+    "basic": {
+        "numNodes": 37,
+        "numEdges": 35,
+        "selfLinks": 0,
+        "numStrongComponents": 36,
+        "numWeakComponents": 5,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 21,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.9459459459459459,
+        "averageOutDegree": 0.9459459459459459,
+        "maxOutDegree": 4,
+        "maxInDegree": 8,
+        "pageRank": {
+            "Michael": 0.0865791739319814,
+            "George Michael": 0.038442319293488805,
+            "Lindsay": 0.016379594250846362,
+            "Tobias": 0.020390998804054077,
+            "Lucille": 0.02941665904877144,
+            "Oscar": 0.01738244538914829,
+            "Kitty": 0.01738244538914829,
+            "Barry": 0.01938814766575215,
+            "Lemon grove": 0.013371040835940574,
+            "Jeff Garlin": 0.04345657498499845,
+            "Cookies scented spray": 0.013371040835940574,
+            "Hurwitz": 0.013371040835940574,
+            "Afternoon Deelite": 0.013371040835940574,
+            "Reno": 0.013371040835940574,
+            "Arrested Development Netflix Premiere": 0.013371040835940574,
+            "2013 Netflix Orange Carpet Season Four Premiere": 0.025405254495563724,
+            "James": 0.025405254495563724,
+            "The Plumb Clinic": 0.13363043511518563,
+            "Dr. Sandor Plumb": 0.13363043511518563,
+            "Chareth Richter": 0.013371040835940574,
+            "Freddie Wilson": 0.013371040835940574,
+            "Pete the mailman": 0.013371040835940574,
+            "Mural": 0.013371040835940574,
+            "Herb Zuckerkorn": 0.013371040835940574,
+            "Mitchell Hurwitz": 0.07955921596386789,
+            "UnLead News": 0.013371040835940574,
+            "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep": 0.01938814766575215,
+            "Fox.com/arresteddev": 0.013371040835940574,
+            "Arrested Development bobbleheads": 0.013371040835940574,
+            "Transcript of Queen for a Day": 0.013371040835940574,
+            "Transcript of Burning Love": 0.013371040835940574,
+            "Transcript of Ready, Aim, Marry Me": 0.013371040835940574,
+            "Transcript of Hand to God": 0.013371040835940574,
+            "Transcript of Motherboy XXX": 0.013371040835940574,
+            "Transcript of Righteous Brothers": 0.013371040835940574,
+            "Transcript of Spring Breakout": 0.013371040835940574,
+            "Transcript of The Cabin Show": 0.013371040835940574
+        },
+        "hitsHubs": {
+            "Michael": 0.0,
+            "George Michael": 0.0,
+            "Lindsay": 0.0,
+            "Tobias": 0.0,
+            "Lucille": 0.0,
+            "Oscar": 0.0,
+            "Kitty": 0.0,
+            "Barry": 0.0,
+            "Lemon grove": 0.13222964737909257,
+            "Jeff Garlin": 0.0,
+            "Cookies scented spray": 7.766859260357094e-48,
+            "Hurwitz": 2.951146064031601e-10,
+            "Afternoon Deelite": 0.11842086547163307,
+            "Reno": 0.05648871383876865,
+            "Arrested Development Netflix Premiere": 7.766859260357094e-48,
+            "2013 Netflix Orange Carpet Season Four Premiere": 0.0,
+            "James": 0.0,
+            "The Plumb Clinic": 7.766859260357094e-48,
+            "Dr. Sandor Plumb": 7.766859260357094e-48,
+            "Chareth Richter": 0.08879019306450872,
+            "Freddie Wilson": 0.15563252496430433,
+            "Pete the mailman": 0.028437695570631548,
+            "Mural": 0.08879019306450872,
+            "Herb Zuckerkorn": 0.03308583625355689,
+            "Mitchell Hurwitz": 0.0,
+            "UnLead News": 0.03175374916072128,
+            "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep": 0.0,
+            "Fox.com/arresteddev": 0.08879019306450872,
+            "Arrested Development bobbleheads": 0.08879019306450872,
+            "Transcript of Queen for a Day": 8.935351315774342e-11,
+            "Transcript of Burning Love": 0.08879019306450872,
+            "Transcript of Ready, Aim, Marry Me": 2.951146064031601e-10,
+            "Transcript of Hand to God": 2.951146064031601e-10,
+            "Transcript of Motherboy XXX": 2.951146064031601e-10,
+            "Transcript of Righteous Brothers": 3.8446811956090355e-10,
+            "Transcript of Spring Breakout": 8.935351315774342e-11,
+            "Transcript of The Cabin Show": 2.951146064031601e-10
+        },
+        "hitsAuths": {
+            "Michael": 0.4193313299891437,
+            "George Michael": 0.13430330866377974,
+            "Lindsay": 0.07675721441643626,
+            "Tobias": 0.10461717698687469,
+            "Lucille": 0.13993740569890295,
+            "Oscar": 0.0652150275039731,
+            "Kitty": 0.02785996257043843,
+            "Barry": 0.016317775657975254,
+            "Lemon grove": 0.0,
+            "Jeff Garlin": 4.2199173375393883e-10,
+            "Cookies scented spray": 0.0,
+            "Hurwitz": 0.0,
+            "Afternoon Deelite": 0.0,
+            "Reno": 0.0,
+            "Arrested Development Netflix Premiere": 0.0,
+            "2013 Netflix Orange Carpet Season Four Premiere": 3.6680711135719813e-47,
+            "James": 3.6680711135719813e-47,
+            "The Plumb Clinic": 3.6680711135719813e-47,
+            "Dr. Sandor Plumb": 3.6680711135719813e-47,
+            "Chareth Richter": 0.0,
+            "Freddie Wilson": 0.0,
+            "Pete the mailman": 0.0,
+            "Mural": 0.0,
+            "Herb Zuckerkorn": 0.0,
+            "Mitchell Hurwitz": 1.3937440175667954e-09,
+            "UnLead News": 0.0,
+            "John Beard's To Entrap a Local Predator: Orange County Edition: Super Creep": 0.01566079669674042,
+            "Fox.com/arresteddev": 0.0,
+            "Arrested Development bobbleheads": 0.0,
+            "Transcript of Queen for a Day": 0.0,
+            "Transcript of Burning Love": 0.0,
+            "Transcript of Ready, Aim, Marry Me": 0.0,
+            "Transcript of Hand to God": 0.0,
+            "Transcript of Motherboy XXX": 0.0,
+            "Transcript of Righteous Brothers": 0.0,
+            "Transcript of Spring Breakout": 0.0,
+            "Transcript of The Cabin Show": 0.0
+        },
+        "averagePathLength": 1.0
+    }
+}

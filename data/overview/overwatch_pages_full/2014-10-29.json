@@ -1,0 +1,43 @@
+{
+  "numNodes": 7,
+  "numEdges": 4,
+  "selfLinks": 0,
+  "numStrongComponents": 7,
+  "numWeakComponents": 3,
+  "sizeLargestStrong": 1,
+  "sizeLargestWeak": 3,
+  "radius": 0,
+  "diameter": 0,
+  "averageInDegree": 0.5714285714285714,
+  "averageOutDegree": 0.5714285714285714,
+  "maxOutDegree": 2,
+  "maxInDegree": 1,
+  "pageRank": {
+    "Spectator Mode": 0.19587651042179915,
+    "Spectate": 0.10309261718365052,
+    "Ultimate abilities": 0.10309261718365052,
+    "Ultimate Ability": 0.19587651042179915,
+    "Fortified": 0.14948456380272485,
+    "Soundwave": 0.14948456380272485,
+    "Crowd control": 0.10309261718365052
+  },
+  "hitsHubs": {
+    "Spectator Mode": 0.0,
+    "Spectate": 3.7252902707063384e-09,
+    "Ultimate abilities": 3.7252902707063384e-09,
+    "Ultimate Ability": 0.0,
+    "Fortified": 0.0,
+    "Soundwave": 0.0,
+    "Crowd control": 0.9999999925494194
+  },
+  "hitsAuths": {
+    "Spectator Mode": 3.7252902707063384e-09,
+    "Spectate": 0.0,
+    "Ultimate abilities": 0.0,
+    "Ultimate Ability": 3.7252902707063384e-09,
+    "Fortified": 0.4999999962747097,
+    "Soundwave": 0.4999999962747097,
+    "Crowd control": 0.0
+  },
+  "averagePathLength": 0
+}

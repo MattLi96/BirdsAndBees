@@ -1,0 +1,513 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Teardrops on My Guitar"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Tim McGraw (song)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Discography"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beautiful Eyes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (Taylor Swift song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (Taylor Swift song)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Tim McGraw"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan survey (how well do you know her)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift discography"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David Cook"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Gallery"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Teardrops on my Guitar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of songs"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Childhood pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beautiful Eyes (EP)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Songs by Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Survey"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe and Sound (Lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (Taylor Swift album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe & Sound (Lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Big Machine Records"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Take Two with Phineas and Ferb"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dan Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Come Back... Be Here"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sarah Hyland"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 28
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 1,
+            "target": 28
+        },
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 4,
+            "target": 15
+        },
+        {
+            "source": 5,
+            "target": 16
+        },
+        {
+            "source": 6,
+            "target": 1
+        },
+        {
+            "source": 7,
+            "target": 21
+        },
+        {
+            "source": 8,
+            "target": 2
+        },
+        {
+            "source": 10,
+            "target": 9
+        },
+        {
+            "source": 11,
+            "target": 12
+        },
+        {
+            "source": 12,
+            "target": 28
+        },
+        {
+            "source": 12,
+            "target": 1
+        },
+        {
+            "source": 13,
+            "target": 0
+        },
+        {
+            "source": 14,
+            "target": 20
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 19,
+            "target": 3
+        },
+        {
+            "source": 22,
+            "target": 27
+        },
+        {
+            "source": 23,
+            "target": 24
+        },
+        {
+            "source": 25,
+            "target": 26
+        },
+        {
+            "source": 29,
+            "target": 12
+        },
+        {
+            "source": 30,
+            "target": 31
+        },
+        {
+            "source": 32,
+            "target": 12
+        }
+    ],
+    "edges": [
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Discography",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Breathe (Taylor Swift song)",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "Change (Taylor Swift song)",
+            "target": "Change (song)"
+        },
+        {
+            "source": "Tim McGraw",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Fan survey (how well do you know her)",
+            "target": "Fan Survey"
+        },
+        {
+            "source": "Taylor Swift discography",
+            "target": "Discography"
+        },
+        {
+            "source": "David",
+            "target": "David Cook"
+        },
+        {
+            "source": "Fan Gallery",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Teardrops on my Guitar",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "List of songs",
+            "target": "List of Songs by Taylor Swift"
+        },
+        {
+            "source": "Childhood pictures",
+            "target": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "source": "Beautiful Eyes (EP)",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Safe and Sound (Lyrics)",
+            "target": "Safe & Sound (Lyrics)"
+        },
+        {
+            "source": "Fearless (Taylor Swift album)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Quotes",
+            "target": "Taylor Swift Quotes"
+        },
+        {
+            "source": "Take Two with Phineas and Ferb",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Dan Wilson",
+            "target": "Come Back... Be Here"
+        },
+        {
+            "source": "Sarah Hyland",
+            "target": "Taylor Swift"
+        }
+    ],
+    "basic": {
+        "numNodes": 33,
+        "numEdges": 27,
+        "selfLinks": 0,
+        "numStrongComponents": 30,
+        "numWeakComponents": 12,
+        "sizeLargestStrong": 4,
+        "sizeLargestWeak": 11,
+        "radius": 1,
+        "diameter": 2,
+        "averageInDegree": 0.8181818181818182,
+        "averageOutDegree": 0.8181818181818182,
+        "maxOutDegree": 4,
+        "maxInDegree": 6,
+        "pageRank": {
+            "Teardrops on My Guitar": 0.05437653975417052,
+            "Tim McGraw (song)": 0.12212133868862934,
+            "Discography": 0.026901544210567736,
+            "Beautiful Eyes": 0.026901544210567736,
+            "Breathe (Taylor Swift song)": 0.014158698095897228,
+            "Change (Taylor Swift song)": 0.014158698095897228,
+            "Tim McGraw": 0.04163369363950001,
+            "Fan survey (how well do you know her)": 0.014158698095897228,
+            "Taylor Swift discography": 0.014158698095897228,
+            "David Cook": 0.026901544210567736,
+            "David": 0.014158698095897228,
+            "Fan Gallery": 0.014158698095897228,
+            "Taylor Swift": 0.12038775188736936,
+            "Teardrops on my Guitar": 0.014158698095897228,
+            "List of songs": 0.014158698095897228,
+            "Breathe (song)": 0.026901544210567736,
+            "Change (song)": 0.026901544210567736,
+            "Childhood pictures": 0.014158698095897228,
+            "Taylor Swift's Childhood Pictures": 0.026901544210567736,
+            "Beautiful Eyes (EP)": 0.014158698095897228,
+            "List of Songs by Taylor Swift": 0.026901544210567736,
+            "Fan Survey": 0.026901544210567736,
+            "Safe and Sound (Lyrics)": 0.014158698095897228,
+            "Fearless (Taylor Swift album)": 0.014158698095897228,
+            "Fearless (album)": 0.026901544210567736,
+            "Quotes": 0.014158698095897228,
+            "Taylor Swift Quotes": 0.026901544210567736,
+            "Safe & Sound (Lyrics)": 0.026901544210567736,
+            "Big Machine Records": 0.1121229759691622,
+            "Take Two with Phineas and Ferb": 0.014158698095897228,
+            "Dan Wilson": 0.014158698095897228,
+            "Come Back... Be Here": 0.026901544210567736,
+            "Sarah Hyland": 0.014158698095897228
+        },
+        "hitsHubs": {
+            "Teardrops on My Guitar": 0.2056909078511947,
+            "Tim McGraw (song)": 0.21934450668259126,
+            "Discography": 0.09880812622480174,
+            "Beautiful Eyes": 0.0,
+            "Breathe (Taylor Swift song)": 4.0955832624526186e-18,
+            "Change (Taylor Swift song)": 4.0955832624526186e-18,
+            "Tim McGraw": 0.042808789543285125,
+            "Fan survey (how well do you know her)": 4.0955832624526186e-18,
+            "Taylor Swift discography": 4.0955832624526186e-18,
+            "David Cook": 0.0,
+            "David": 4.0955832624526186e-18,
+            "Fan Gallery": 0.09880812622480174,
+            "Taylor Swift": 0.10688278162639298,
+            "Teardrops on my Guitar": 0.03004050939732883,
+            "List of songs": 4.0955832624526186e-18,
+            "Breathe (song)": 0.0,
+            "Change (song)": 0.0,
+            "Childhood pictures": 4.0955832624526186e-18,
+            "Taylor Swift's Childhood Pictures": 0.0,
+            "Beautiful Eyes (EP)": 4.0955832624526186e-18,
+            "List of Songs by Taylor Swift": 0.0,
+            "Fan Survey": 0.0,
+            "Safe and Sound (Lyrics)": 4.0955832624526186e-18,
+            "Fearless (Taylor Swift album)": 4.0955832624526186e-18,
+            "Fearless (album)": 0.0,
+            "Quotes": 4.0955832624526186e-18,
+            "Taylor Swift Quotes": 0.0,
+            "Safe & Sound (Lyrics)": 0.0,
+            "Big Machine Records": 0.0,
+            "Take Two with Phineas and Ferb": 0.09880812622480174,
+            "Dan Wilson": 4.0955832624526186e-18,
+            "Come Back... Be Here": 0.0,
+            "Sarah Hyland": 0.09880812622480174
+        },
+        "hitsAuths": {
+            "Teardrops on My Guitar": 0.1145913853833268,
+            "Tim McGraw (song)": 0.16329678153808241,
+            "Discography": 1.5622856250198684e-17,
+            "Beautiful Eyes": 1.5622856250198684e-17,
+            "Breathe (Taylor Swift song)": 0.0,
+            "Change (Taylor Swift song)": 0.0,
+            "Tim McGraw": 0.1007878953182691,
+            "Fan survey (how well do you know her)": 0.0,
+            "Taylor Swift discography": 0.0,
+            "David Cook": 1.5622856250198684e-17,
+            "David": 0.0,
+            "Fan Gallery": 0.0,
+            "Taylor Swift": 0.3769097228503538,
+            "Teardrops on my Guitar": 0.0,
+            "List of songs": 0.0,
+            "Breathe (song)": 1.5622856250198684e-17,
+            "Change (song)": 1.5622856250198684e-17,
+            "Childhood pictures": 0.0,
+            "Taylor Swift's Childhood Pictures": 1.5622856250198684e-17,
+            "Beautiful Eyes (EP)": 0.0,
+            "List of Songs by Taylor Swift": 1.5622856250198684e-17,
+            "Fan Survey": 1.5622856250198684e-17,
+            "Safe and Sound (Lyrics)": 0.0,
+            "Fearless (Taylor Swift album)": 0.0,
+            "Fearless (album)": 1.5622856250198684e-17,
+            "Quotes": 0.0,
+            "Taylor Swift Quotes": 1.5622856250198684e-17,
+            "Safe & Sound (Lyrics)": 1.5622856250198684e-17,
+            "Big Machine Records": 0.24441421490996804,
+            "Take Two with Phineas and Ferb": 0.0,
+            "Dan Wilson": 0.0,
+            "Come Back... Be Here": 1.5622856250198684e-17,
+            "Sarah Hyland": 0.0
+        },
+        "averagePathLength": 1.4166666666666667
+    }
+}

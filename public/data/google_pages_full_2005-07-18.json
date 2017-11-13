@@ -1,0 +1,369 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Wiki:Main Page"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google+ Local"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Blogger"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Video"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Google"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Blogspot"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of devices running Chromium OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Local"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chromebooks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chrome OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "List of Devices Running Chromium"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HP"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chromebox"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moto G2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Motorola Moto G (2014)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Android 2.2 Froyo"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 6,
+            "target": 6
+        },
+        {
+            "source": 7,
+            "target": 2
+        },
+        {
+            "source": 8,
+            "target": 22
+        },
+        {
+            "source": 9,
+            "target": 17
+        },
+        {
+            "source": 10,
+            "target": 15
+        },
+        {
+            "source": 11,
+            "target": 16
+        },
+        {
+            "source": 12,
+            "target": 1
+        },
+        {
+            "source": 13,
+            "target": 17
+        },
+        {
+            "source": 18,
+            "target": 13
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 19,
+            "target": 14
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 20,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 6
+        }
+    ],
+    "edges": [
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google"
+        },
+        {
+            "source": "Blogger",
+            "target": "Google"
+        },
+        {
+            "source": "Zeitgeist",
+            "target": "Google Zeitgeist"
+        },
+        {
+            "source": "Google Video",
+            "target": "Google"
+        },
+        {
+            "source": "Google",
+            "target": "Google"
+        },
+        {
+            "source": "Blogspot",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Presentations",
+            "target": "Presentations"
+        },
+        {
+            "source": "List of devices running Chromium OS",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "Series 5 550",
+            "target": "Samsung Series 5 550"
+        },
+        {
+            "source": "Series 5",
+            "target": "Samsung Series 5"
+        },
+        {
+            "source": "Google Local",
+            "target": "Google+ Local"
+        },
+        {
+            "source": "Chromebooks",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebooks"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebox"
+        },
+        {
+            "source": "Chromebox",
+            "target": "Chrome OS"
+        },
+        {
+            "source": "Chromebox",
+            "target": "HP"
+        },
+        {
+            "source": "Moto G2",
+            "target": "Motorola Moto G (2014)"
+        },
+        {
+            "source": "Android 2.2 Froyo",
+            "target": "Google"
+        }
+    ],
+    "basic": {
+        "numNodes": 24,
+        "numEdges": 18,
+        "selfLinks": 1,
+        "numStrongComponents": 23,
+        "numWeakComponents": 8,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 6,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.75,
+        "averageOutDegree": 0.75,
+        "maxOutDegree": 2,
+        "maxInDegree": 5,
+        "pageRank": {
+            "Google Wiki:Main Page": 0.011210524496871724,
+            "Google+ Local": 0.021300243343753467,
+            "Blogger": 0.021300243343753467,
+            "Google Zeitgeist": 0.021300243343753467,
+            "Zeitgeist": 0.011210524496871724,
+            "Google Video": 0.011210524496871724,
+            "Google": 0.6064034470133808,
+            "Blogspot": 0.011210524496871724,
+            "Google Presentations": 0.011210524496871724,
+            "List of devices running Chromium OS": 0.011210524496871724,
+            "Series 5 550": 0.011210524496871724,
+            "Series 5": 0.011210524496871724,
+            "Google Local": 0.011210524496871724,
+            "Chromebooks": 0.02038331429412434,
+            "Chrome OS": 0.02038331429412434,
+            "Samsung Series 5 550": 0.021300243343753467,
+            "Samsung Series 5": 0.021300243343753467,
+            "List of Devices Running Chromium": 0.0396458229382587,
+            "HP": 0.02038331429412434,
+            "Chromebox": 0.02038331429412434,
+            "Moto G2": 0.011210524496871724,
+            "Motorola Moto G (2014)": 0.021300243343753467,
+            "Presentations": 0.021300243343753467,
+            "Android 2.2 Froyo": 0.011210524496871724
+        },
+        "hitsHubs": {
+            "Google Wiki:Main Page": 0.19999999988740996,
+            "Google+ Local": 0.0,
+            "Blogger": 0.19999999988740996,
+            "Google Zeitgeist": 0.0,
+            "Zeitgeist": 1.6777215990555284e-17,
+            "Google Video": 0.19999999988740996,
+            "Google": 0.19999999988740996,
+            "Blogspot": 1.6777215990555284e-17,
+            "Google Presentations": 1.6777215990555284e-17,
+            "List of devices running Chromium OS": 1.4073748827609998e-10,
+            "Series 5 550": 1.6777215990555284e-17,
+            "Series 5": 1.6777215990555284e-17,
+            "Google Local": 1.6777215990555284e-17,
+            "Chromebooks": 1.4073748827609998e-10,
+            "Chrome OS": 0.0,
+            "Samsung Series 5 550": 0.0,
+            "Samsung Series 5": 0.0,
+            "List of Devices Running Chromium": 0.0,
+            "HP": 1.4073748827609998e-10,
+            "Chromebox": 1.4073748827609998e-10,
+            "Moto G2": 1.6777215990555284e-17,
+            "Motorola Moto G (2014)": 0.0,
+            "Presentations": 0.0,
+            "Android 2.2 Froyo": 0.19999999988740996
+        },
+        "hitsAuths": {
+            "Google Wiki:Main Page": 0.0,
+            "Google+ Local": 8.388607982291136e-17,
+            "Blogger": 8.388607982291136e-17,
+            "Google Zeitgeist": 8.388607982291136e-17,
+            "Zeitgeist": 0.0,
+            "Google Video": 0.0,
+            "Google": 0.9999999978889376,
+            "Blogspot": 0.0,
+            "Google Presentations": 0.0,
+            "List of devices running Chromium OS": 0.0,
+            "Series 5 550": 0.0,
+            "Series 5": 0.0,
+            "Google Local": 0.0,
+            "Chromebooks": 3.518437201455564e-10,
+            "Chrome OS": 3.518437201455564e-10,
+            "Samsung Series 5 550": 8.388607982291136e-17,
+            "Samsung Series 5": 8.388607982291136e-17,
+            "List of Devices Running Chromium": 7.036874402911128e-10,
+            "HP": 3.518437201455564e-10,
+            "Chromebox": 3.518437201455564e-10,
+            "Moto G2": 0.0,
+            "Motorola Moto G (2014)": 8.388607982291136e-17,
+            "Presentations": 8.388607982291136e-17,
+            "Android 2.2 Froyo": 0.0
+        },
+        "averagePathLength": 1.0
+    }
+}

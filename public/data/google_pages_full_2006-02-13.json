@@ -1,0 +1,617 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Wiki:Main Page"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gmail"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google+ Local"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Blogger"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Zeitgeist"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Video"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Wiki talk:Main Page"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Google"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Help"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Google Reader"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Base"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Desktop Search"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Summer of Code"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google Toolbar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Cooking"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Analytics"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Analytics"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Google in China"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Talk"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Blogspot"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Desktop Search"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Reader"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Toolbar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Summer of Code"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of devices running Chromium OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Series 5"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Google Local"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Chromebooks"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chrome OS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5 550"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Samsung Series 5"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "List of Devices Running Chromium"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "HP"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chromebox"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moto G2"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Motorola Moto G (2014)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Presentations"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Android 2.2 Froyo"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 3,
+            "target": 8
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 8
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 8
+        },
+        {
+            "source": 10,
+            "target": 8
+        },
+        {
+            "source": 10,
+            "target": 1
+        },
+        {
+            "source": 12,
+            "target": 22
+        },
+        {
+            "source": 13,
+            "target": 8
+        },
+        {
+            "source": 14,
+            "target": 8
+        },
+        {
+            "source": 15,
+            "target": 11
+        },
+        {
+            "source": 17,
+            "target": 16
+        },
+        {
+            "source": 18,
+            "target": 1
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 8
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 21,
+            "target": 39
+        },
+        {
+            "source": 23,
+            "target": 10
+        },
+        {
+            "source": 24,
+            "target": 14
+        },
+        {
+            "source": 25,
+            "target": 13
+        },
+        {
+            "source": 26,
+            "target": 34
+        },
+        {
+            "source": 27,
+            "target": 32
+        },
+        {
+            "source": 28,
+            "target": 33
+        },
+        {
+            "source": 29,
+            "target": 2
+        },
+        {
+            "source": 30,
+            "target": 34
+        },
+        {
+            "source": 35,
+            "target": 30
+        },
+        {
+            "source": 35,
+            "target": 36
+        },
+        {
+            "source": 36,
+            "target": 31
+        },
+        {
+            "source": 36,
+            "target": 35
+        },
+        {
+            "source": 37,
+            "target": 38
+        },
+        {
+            "source": 40,
+            "target": 8
+        }
+    ],
+    "edges": [
+        {
+            "source": "Google Wiki:Main Page",
+            "target": "Google"
+        },
+        {
+            "source": "Blogger",
+            "target": "Google"
+        },
+        {
+            "source": "Zeitgeist",
+            "target": "Google Zeitgeist"
+        },
+        {
+            "source": "Google Video",
+            "target": "Google"
+        },
+        {
+            "source": "Google Wiki talk:Main Page",
+            "target": "Help"
+        },
+        {
+            "source": "Google",
+            "target": "Google"
+        },
+        {
+            "source": "Google Reader",
+            "target": "Google"
+        },
+        {
+            "source": "Google Reader",
+            "target": "Gmail"
+        },
+        {
+            "source": "Desktop Search",
+            "target": "Google Desktop Search"
+        },
+        {
+            "source": "Google Summer of Code",
+            "target": "Google"
+        },
+        {
+            "source": "Google Toolbar",
+            "target": "Google"
+        },
+        {
+            "source": "Google Cooking",
+            "target": "Google Base"
+        },
+        {
+            "source": "Analytics",
+            "target": "Google Analytics"
+        },
+        {
+            "source": "Google in China",
+            "target": "Gmail"
+        },
+        {
+            "source": "Google in China",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Talk",
+            "target": "Google"
+        },
+        {
+            "source": "Blogspot",
+            "target": "Blogger"
+        },
+        {
+            "source": "Google Presentations",
+            "target": "Presentations"
+        },
+        {
+            "source": "Reader",
+            "target": "Google Reader"
+        },
+        {
+            "source": "Toolbar",
+            "target": "Google Toolbar"
+        },
+        {
+            "source": "Summer of Code",
+            "target": "Google Summer of Code"
+        },
+        {
+            "source": "List of devices running Chromium OS",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "Series 5 550",
+            "target": "Samsung Series 5 550"
+        },
+        {
+            "source": "Series 5",
+            "target": "Samsung Series 5"
+        },
+        {
+            "source": "Google Local",
+            "target": "Google+ Local"
+        },
+        {
+            "source": "Chromebooks",
+            "target": "List of Devices Running Chromium"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebooks"
+        },
+        {
+            "source": "HP",
+            "target": "Chromebox"
+        },
+        {
+            "source": "Chromebox",
+            "target": "Chrome OS"
+        },
+        {
+            "source": "Chromebox",
+            "target": "HP"
+        },
+        {
+            "source": "Moto G2",
+            "target": "Motorola Moto G (2014)"
+        },
+        {
+            "source": "Android 2.2 Froyo",
+            "target": "Google"
+        }
+    ],
+    "basic": {
+        "numNodes": 41,
+        "numEdges": 32,
+        "selfLinks": 1,
+        "numStrongComponents": 40,
+        "numWeakComponents": 12,
+        "sizeLargestStrong": 2,
+        "sizeLargestWeak": 15,
+        "radius": 1,
+        "diameter": 1,
+        "averageInDegree": 0.7804878048780488,
+        "averageOutDegree": 0.7804878048780488,
+        "maxOutDegree": 2,
+        "maxInDegree": 9,
+        "pageRank": {
+            "Google Wiki:Main Page": 0.005880827500929554,
+            "Gmail": 0.013555779300149486,
+            "Google+ Local": 0.011173800752792284,
+            "Blogger": 0.013820287378723648,
+            "Google Zeitgeist": 0.011173800752792284,
+            "Zeitgeist": 0.005880827500929554,
+            "Google Video": 0.005880827500929554,
+            "Google Wiki talk:Main Page": 0.005880827500929554,
+            "Google": 0.6461781065565437,
+            "Help": 0.011173800752792284,
+            "Google Reader": 0.011173800752792284,
+            "Google Base": 0.011173800752792284,
+            "Desktop Search": 0.005880827500929554,
+            "Google Summer of Code": 0.011173800752792284,
+            "Google Toolbar": 0.011173800752792284,
+            "Google Cooking": 0.005880827500929554,
+            "Google Analytics": 0.011173800752792284,
+            "Analytics": 0.005880827500929554,
+            "Google in China": 0.005880827500929554,
+            "Google Talk": 0.005880827500929554,
+            "Blogspot": 0.005880827500929554,
+            "Google Presentations": 0.005880827500929554,
+            "Google Desktop Search": 0.011173800752792284,
+            "Reader": 0.005880827500929554,
+            "Toolbar": 0.005880827500929554,
+            "Summer of Code": 0.005880827500929554,
+            "List of devices running Chromium OS": 0.005880827500929554,
+            "Series 5 550": 0.005880827500929554,
+            "Series 5": 0.005880827500929554,
+            "Google Local": 0.005880827500929554,
+            "Chromebooks": 0.010692953534793225,
+            "Chrome OS": 0.010692953534793225,
+            "Samsung Series 5 550": 0.011173800752792284,
+            "Samsung Series 5": 0.011173800752792284,
+            "List of Devices Running Chromium": 0.020798052820519625,
+            "HP": 0.010692953534793225,
+            "Chromebox": 0.010692953534793225,
+            "Moto G2": 0.005880827500929554,
+            "Motorola Moto G (2014)": 0.011173800752792284,
+            "Presentations": 0.011173800752792284,
+            "Android 2.2 Froyo": 0.005880827500929554
+        },
+        "hitsHubs": {
+            "Google Wiki:Main Page": 0.10723188537631392,
+            "Gmail": 0.0,
+            "Google+ Local": 0.0,
+            "Blogger": 0.10723188537631392,
+            "Google Zeitgeist": 0.0,
+            "Zeitgeist": 5.385650618721374e-19,
+            "Google Video": 0.10723188537631392,
+            "Google Wiki talk:Main Page": 5.385650618721374e-19,
+            "Google": 0.10723188537631392,
+            "Help": 0.0,
+            "Google Reader": 0.12254460346258413,
+            "Google Base": 0.0,
+            "Desktop Search": 5.385650618721374e-19,
+            "Google Summer of Code": 0.10723188537631392,
+            "Google Toolbar": 0.10723188537631392,
+            "Google Cooking": 5.385650618721374e-19,
+            "Google Analytics": 0.0,
+            "Analytics": 5.385650618721374e-19,
+            "Google in China": 0.01745651580630502,
+            "Google Talk": 0.10723188537631392,
+            "Blogspot": 0.0021437977200348185,
+            "Google Presentations": 5.385650618721374e-19,
+            "Google Desktop Search": 0.0,
+            "Reader": 5.385650618721374e-19,
+            "Toolbar": 5.385650618721374e-19,
+            "Summer of Code": 5.385650618721374e-19,
+            "List of devices running Chromium OS": 1.4118159957940958e-13,
+            "Series 5 550": 5.385650618721374e-19,
+            "Series 5": 5.385650618721374e-19,
+            "Google Local": 5.385650618721374e-19,
+            "Chromebooks": 1.4118159957940958e-13,
+            "Chrome OS": 0.0,
+            "Samsung Series 5 550": 0.0,
+            "Samsung Series 5": 0.0,
+            "List of Devices Running Chromium": 0.0,
+            "HP": 1.4118159957940958e-13,
+            "Chromebox": 1.4118159957940958e-13,
+            "Moto G2": 5.385650618721374e-19,
+            "Motorola Moto G (2014)": 0.0,
+            "Presentations": 0.0,
+            "Android 2.2 Froyo": 0.10723188537631392
+        },
+        "hitsAuths": {
+            "Google Wiki:Main Page": 0.0,
+            "Gmail": 0.12280787900865886,
+            "Google+ Local": 4.3192875741627656e-18,
+            "Blogger": 0.017193240908492557,
+            "Google Zeitgeist": 4.3192875741627656e-18,
+            "Zeitgeist": 0.0,
+            "Google Video": 0.0,
+            "Google Wiki talk:Main Page": 0.0,
+            "Google": 0.8599988800794516,
+            "Help": 4.3192875741627656e-18,
+            "Google Reader": 4.3192875741627656e-18,
+            "Google Base": 4.3192875741627656e-18,
+            "Desktop Search": 0.0,
+            "Google Summer of Code": 4.3192875741627656e-18,
+            "Google Toolbar": 4.3192875741627656e-18,
+            "Google Cooking": 0.0,
+            "Google Analytics": 4.3192875741627656e-18,
+            "Analytics": 0.0,
+            "Google in China": 0.0,
+            "Google Talk": 0.0,
+            "Blogspot": 0.0,
+            "Google Presentations": 0.0,
+            "Google Desktop Search": 4.3192875741627656e-18,
+            "Reader": 0.0,
+            "Toolbar": 0.0,
+            "Summer of Code": 0.0,
+            "List of devices running Chromium OS": 0.0,
+            "Series 5 550": 0.0,
+            "Series 5": 0.0,
+            "Google Local": 0.0,
+            "Chromebooks": 5.66137660920662e-13,
+            "Chrome OS": 5.66137660920662e-13,
+            "Samsung Series 5 550": 4.3192875741627656e-18,
+            "Samsung Series 5": 4.3192875741627656e-18,
+            "List of Devices Running Chromium": 1.132275321841324e-12,
+            "HP": 5.66137660920662e-13,
+            "Chromebox": 5.66137660920662e-13,
+            "Moto G2": 0.0,
+            "Motorola Moto G (2014)": 4.3192875741627656e-18,
+            "Presentations": 4.3192875741627656e-18,
+            "Android 2.2 Froyo": 0.0
+        },
+        "averagePathLength": 1.0
+    }
+}

@@ -1,0 +1,4209 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 45,
+            "parity": 0,
+            "id": "Microsoft"
+        },
+        {
+            "degree": 53,
+            "parity": 0,
+            "id": "Microsoft Windows"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "MS-DOS"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "id": "Windows NT"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Windows CE"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Windows 1.0"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Windows 2.0"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Windows 3.0"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Windows 3.1x"
+        },
+        {
+            "degree": 26,
+            "parity": 1,
+            "id": "Windows 95"
+        },
+        {
+            "degree": 22,
+            "parity": 1,
+            "id": "Windows 98"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Windows Millennium Edition"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Windows NT 3.1"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Windows NT 3.5"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Windows NT 3.51"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Windows NT 4.0"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Windows 95/Version Numbers"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Windows 98 SE"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Windows Versions"
+        },
+        {
+            "degree": 29,
+            "parity": 0,
+            "id": "Windows 2000"
+        },
+        {
+            "degree": 19,
+            "parity": 0,
+            "id": "Windows Server 2003"
+        },
+        {
+            "degree": 35,
+            "parity": 0,
+            "id": "Windows XP"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Windows XP Professional x64 Edition"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Windows XP 64-bit Edition"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Windows Mobile"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Windows XP Media Center Edition"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Registry"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Microsoft Windows Vista"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "SageTV"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Bill Gates"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows Sidebar"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Windows 3.x"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Xbox 360"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows Server 2007"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Blue Dragon"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Windows Aero"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Features new to Windows Vista"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Windows 3.1"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Windows 98 Second Edition"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Office 2007"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Windows"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Office"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Microsoft Corporation"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PowerPoint"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Excel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Word"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Access"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": ".NET"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "XP"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Direct3D"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Start menu"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Cairo (operating system)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Windows registry"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Win"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ms"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Msft"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "MSFT"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "MS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "LOP"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Operating system"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Microsoft Windows versions"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Microsoft Windows components"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Windows CE"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Original equipment manufacturer"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Windows Server domain"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Blue Screen of Death"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Outlook Express"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Personal Files"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Windows CE 3.0"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Virtual PC"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "GUI"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Virtual PC"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Microsoft codenames"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Architecture of the Windows NT operating system line"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Development stage"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Virtual Memory System"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "CPU"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Developer Network"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Apple Computer"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Office Word"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Remote Desktop"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guide:Saem"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "SMS"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "United States v. Microsoft"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Microsoft Venus"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Response Point"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Midori (operating system)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows for Workgroups"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows Write"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Notepad (Windows)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "IIS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Metro design language"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Product Activation"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Sound Recorder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Popfly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Popfly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microshaft Winblows 98"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Metro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Whistler"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Windows 4.00"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Windows Explorer"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows NT 5.0"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Microsoft Windows x99"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Version Numbers"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows Millenium Edition"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Office 98 Macintosh Edition"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Microsoft Windows 98"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "TheFallenOneGOTH/Windows XP's legendary legacy"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Wallet"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows CE 2.0"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Policy"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Windows API"
+        },
+        {
+            "degree": 38,
+            "parity": 1,
+            "id": "History of Microsoft Windows"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Microsoft Wiki:Imported/Windows Wiki"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Office Online"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Nier"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Japan"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows Cougar"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 40
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 29
+        },
+        {
+            "source": 1,
+            "target": 21
+        },
+        {
+            "source": 1,
+            "target": 42
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 15
+        },
+        {
+            "source": 1,
+            "target": 19
+        },
+        {
+            "source": 1,
+            "target": 72
+        },
+        {
+            "source": 1,
+            "target": 20
+        },
+        {
+            "source": 1,
+            "target": 23
+        },
+        {
+            "source": 1,
+            "target": 22
+        },
+        {
+            "source": 1,
+            "target": 78
+        },
+        {
+            "source": 1,
+            "target": 111
+        },
+        {
+            "source": 1,
+            "target": 65
+        },
+        {
+            "source": 1,
+            "target": 73
+        },
+        {
+            "source": 1,
+            "target": 112
+        },
+        {
+            "source": 1,
+            "target": 61
+        },
+        {
+            "source": 1,
+            "target": 100
+        },
+        {
+            "source": 2,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 2,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 112
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 21
+        },
+        {
+            "source": 3,
+            "target": 20
+        },
+        {
+            "source": 3,
+            "target": 90
+        },
+        {
+            "source": 3,
+            "target": 7
+        },
+        {
+            "source": 3,
+            "target": 111
+        },
+        {
+            "source": 3,
+            "target": 75
+        },
+        {
+            "source": 3,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 3,
+            "target": 14
+        },
+        {
+            "source": 3,
+            "target": 15
+        },
+        {
+            "source": 3,
+            "target": 19
+        },
+        {
+            "source": 3,
+            "target": 22
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 32
+        },
+        {
+            "source": 3,
+            "target": 29
+        },
+        {
+            "source": 3,
+            "target": 10
+        },
+        {
+            "source": 3,
+            "target": 73
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 64
+        },
+        {
+            "source": 4,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 4,
+            "target": 70
+        },
+        {
+            "source": 4,
+            "target": 24
+        },
+        {
+            "source": 4,
+            "target": 68
+        },
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 88
+        },
+        {
+            "source": 5,
+            "target": 78
+        },
+        {
+            "source": 5,
+            "target": 70
+        },
+        {
+            "source": 6,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 1
+        },
+        {
+            "source": 6,
+            "target": 5
+        },
+        {
+            "source": 6,
+            "target": 78
+        },
+        {
+            "source": 6,
+            "target": 79
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 6,
+            "target": 31
+        },
+        {
+            "source": 7,
+            "target": 0
+        },
+        {
+            "source": 7,
+            "target": 31
+        },
+        {
+            "source": 7,
+            "target": 1
+        },
+        {
+            "source": 7,
+            "target": 70
+        },
+        {
+            "source": 7,
+            "target": 6
+        },
+        {
+            "source": 7,
+            "target": 2
+        },
+        {
+            "source": 7,
+            "target": 8
+        },
+        {
+            "source": 8,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 31
+        },
+        {
+            "source": 8,
+            "target": 1
+        },
+        {
+            "source": 8,
+            "target": 7
+        },
+        {
+            "source": 8,
+            "target": 111
+        },
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 10
+        },
+        {
+            "source": 8,
+            "target": 19
+        },
+        {
+            "source": 9,
+            "target": 0
+        },
+        {
+            "source": 9,
+            "target": 1
+        },
+        {
+            "source": 9,
+            "target": 72
+        },
+        {
+            "source": 9,
+            "target": 2
+        },
+        {
+            "source": 9,
+            "target": 37
+        },
+        {
+            "source": 9,
+            "target": 21
+        },
+        {
+            "source": 9,
+            "target": 87
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 9,
+            "target": 38
+        },
+        {
+            "source": 9,
+            "target": 19
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 10,
+            "target": 0
+        },
+        {
+            "source": 10,
+            "target": 72
+        },
+        {
+            "source": 10,
+            "target": 9
+        },
+        {
+            "source": 10,
+            "target": 100
+        },
+        {
+            "source": 10,
+            "target": 29
+        },
+        {
+            "source": 10,
+            "target": 21
+        },
+        {
+            "source": 11,
+            "target": 0
+        },
+        {
+            "source": 11,
+            "target": 9
+        },
+        {
+            "source": 11,
+            "target": 10
+        },
+        {
+            "source": 11,
+            "target": 19
+        },
+        {
+            "source": 11,
+            "target": 2
+        },
+        {
+            "source": 11,
+            "target": 52
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 11,
+            "target": 21
+        },
+        {
+            "source": 11,
+            "target": 17
+        },
+        {
+            "source": 12,
+            "target": 0
+        },
+        {
+            "source": 12,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 37
+        },
+        {
+            "source": 12,
+            "target": 76
+        },
+        {
+            "source": 12,
+            "target": 75
+        },
+        {
+            "source": 12,
+            "target": 7
+        },
+        {
+            "source": 12,
+            "target": 111
+        },
+        {
+            "source": 13,
+            "target": 0
+        },
+        {
+            "source": 13,
+            "target": 3
+        },
+        {
+            "source": 13,
+            "target": 12
+        },
+        {
+            "source": 14,
+            "target": 0
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 14,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 1
+        },
+        {
+            "source": 14,
+            "target": 76
+        },
+        {
+            "source": 14,
+            "target": 9
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 14,
+            "target": 100
+        },
+        {
+            "source": 14,
+            "target": 72
+        },
+        {
+            "source": 14,
+            "target": 51
+        },
+        {
+            "source": 15,
+            "target": 0
+        },
+        {
+            "source": 15,
+            "target": 3
+        },
+        {
+            "source": 15,
+            "target": 1
+        },
+        {
+            "source": 15,
+            "target": 9
+        },
+        {
+            "source": 15,
+            "target": 29
+        },
+        {
+            "source": 15,
+            "target": 21
+        },
+        {
+            "source": 15,
+            "target": 19
+        },
+        {
+            "source": 15,
+            "target": 100
+        },
+        {
+            "source": 15,
+            "target": 14
+        },
+        {
+            "source": 15,
+            "target": 20
+        },
+        {
+            "source": 16,
+            "target": 38
+        },
+        {
+            "source": 17,
+            "target": 38
+        },
+        {
+            "source": 18,
+            "target": 0
+        },
+        {
+            "source": 18,
+            "target": 1
+        },
+        {
+            "source": 18,
+            "target": 21
+        },
+        {
+            "source": 18,
+            "target": 20
+        },
+        {
+            "source": 18,
+            "target": 4
+        },
+        {
+            "source": 18,
+            "target": 24
+        },
+        {
+            "source": 18,
+            "target": 22
+        },
+        {
+            "source": 18,
+            "target": 25
+        },
+        {
+            "source": 18,
+            "target": 5
+        },
+        {
+            "source": 18,
+            "target": 6
+        },
+        {
+            "source": 18,
+            "target": 7
+        },
+        {
+            "source": 18,
+            "target": 37
+        },
+        {
+            "source": 18,
+            "target": 9
+        },
+        {
+            "source": 18,
+            "target": 10
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 18,
+            "target": 15
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 23
+        },
+        {
+            "source": 18,
+            "target": 51
+        },
+        {
+            "source": 19,
+            "target": 15
+        },
+        {
+            "source": 19,
+            "target": 0
+        },
+        {
+            "source": 19,
+            "target": 3
+        },
+        {
+            "source": 19,
+            "target": 72
+        },
+        {
+            "source": 19,
+            "target": 37
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 21
+        },
+        {
+            "source": 19,
+            "target": 2
+        },
+        {
+            "source": 19,
+            "target": 31
+        },
+        {
+            "source": 19,
+            "target": 65
+        },
+        {
+            "source": 19,
+            "target": 52
+        },
+        {
+            "source": 19,
+            "target": 10
+        },
+        {
+            "source": 19,
+            "target": 64
+        },
+        {
+            "source": 20,
+            "target": 0
+        },
+        {
+            "source": 20,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 19
+        },
+        {
+            "source": 20,
+            "target": 21
+        },
+        {
+            "source": 20,
+            "target": 15
+        },
+        {
+            "source": 20,
+            "target": 72
+        },
+        {
+            "source": 20,
+            "target": 64
+        },
+        {
+            "source": 20,
+            "target": 63
+        },
+        {
+            "source": 21,
+            "target": 0
+        },
+        {
+            "source": 21,
+            "target": 3
+        },
+        {
+            "source": 21,
+            "target": 72
+        },
+        {
+            "source": 21,
+            "target": 19
+        },
+        {
+            "source": 21,
+            "target": 73
+        },
+        {
+            "source": 21,
+            "target": 1
+        },
+        {
+            "source": 21,
+            "target": 64
+        },
+        {
+            "source": 21,
+            "target": 25
+        },
+        {
+            "source": 21,
+            "target": 23
+        },
+        {
+            "source": 21,
+            "target": 22
+        },
+        {
+            "source": 21,
+            "target": 20
+        },
+        {
+            "source": 21,
+            "target": 83
+        },
+        {
+            "source": 22,
+            "target": 23
+        },
+        {
+            "source": 22,
+            "target": 0
+        },
+        {
+            "source": 22,
+            "target": 3
+        },
+        {
+            "source": 22,
+            "target": 21
+        },
+        {
+            "source": 22,
+            "target": 20
+        },
+        {
+            "source": 22,
+            "target": 1
+        },
+        {
+            "source": 22,
+            "target": 2
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 0
+        },
+        {
+            "source": 23,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 20
+        },
+        {
+            "source": 23,
+            "target": 2
+        },
+        {
+            "source": 23,
+            "target": 15
+        },
+        {
+            "source": 24,
+            "target": 0
+        },
+        {
+            "source": 24,
+            "target": 4
+        },
+        {
+            "source": 24,
+            "target": 111
+        },
+        {
+            "source": 24,
+            "target": 1
+        },
+        {
+            "source": 24,
+            "target": 68
+        },
+        {
+            "source": 24,
+            "target": 78
+        },
+        {
+            "source": 25,
+            "target": 0
+        },
+        {
+            "source": 25,
+            "target": 3
+        },
+        {
+            "source": 25,
+            "target": 21
+        },
+        {
+            "source": 25,
+            "target": 80
+        },
+        {
+            "source": 25,
+            "target": 77
+        },
+        {
+            "source": 25,
+            "target": 32
+        },
+        {
+            "source": 25,
+            "target": 28
+        },
+        {
+            "source": 26,
+            "target": 1
+        },
+        {
+            "source": 26,
+            "target": 24
+        },
+        {
+            "source": 26,
+            "target": 31
+        },
+        {
+            "source": 26,
+            "target": 3
+        },
+        {
+            "source": 26,
+            "target": 19
+        },
+        {
+            "source": 26,
+            "target": 9
+        },
+        {
+            "source": 26,
+            "target": 21
+        },
+        {
+            "source": 26,
+            "target": 10
+        },
+        {
+            "source": 26,
+            "target": 0
+        },
+        {
+            "source": 27,
+            "target": 0
+        },
+        {
+            "source": 27,
+            "target": 3
+        },
+        {
+            "source": 27,
+            "target": 1
+        },
+        {
+            "source": 27,
+            "target": 21
+        },
+        {
+            "source": 27,
+            "target": 35
+        },
+        {
+            "source": 27,
+            "target": 69
+        },
+        {
+            "source": 27,
+            "target": 29
+        },
+        {
+            "source": 27,
+            "target": 20
+        },
+        {
+            "source": 27,
+            "target": 74
+        },
+        {
+            "source": 27,
+            "target": 71
+        },
+        {
+            "source": 27,
+            "target": 63
+        },
+        {
+            "source": 27,
+            "target": 50
+        },
+        {
+            "source": 27,
+            "target": 78
+        },
+        {
+            "source": 27,
+            "target": 100
+        },
+        {
+            "source": 27,
+            "target": 30
+        },
+        {
+            "source": 27,
+            "target": 32
+        },
+        {
+            "source": 27,
+            "target": 49
+        },
+        {
+            "source": 27,
+            "target": 51
+        },
+        {
+            "source": 27,
+            "target": 19
+        },
+        {
+            "source": 27,
+            "target": 36
+        },
+        {
+            "source": 27,
+            "target": 112
+        },
+        {
+            "source": 29,
+            "target": 0
+        },
+        {
+            "source": 31,
+            "target": 7
+        },
+        {
+            "source": 31,
+            "target": 8
+        },
+        {
+            "source": 32,
+            "target": 0
+        },
+        {
+            "source": 32,
+            "target": 74
+        },
+        {
+            "source": 32,
+            "target": 34
+        },
+        {
+            "source": 32,
+            "target": 29
+        },
+        {
+            "source": 34,
+            "target": 0
+        },
+        {
+            "source": 35,
+            "target": 70
+        },
+        {
+            "source": 36,
+            "target": 35
+        },
+        {
+            "source": 36,
+            "target": 41
+        },
+        {
+            "source": 36,
+            "target": 70
+        },
+        {
+            "source": 37,
+            "target": 8
+        },
+        {
+            "source": 38,
+            "target": 10
+        },
+        {
+            "source": 40,
+            "target": 1
+        },
+        {
+            "source": 42,
+            "target": 0
+        },
+        {
+            "source": 48,
+            "target": 21
+        },
+        {
+            "source": 52,
+            "target": 26
+        },
+        {
+            "source": 53,
+            "target": 1
+        },
+        {
+            "source": 54,
+            "target": 0
+        },
+        {
+            "source": 55,
+            "target": 0
+        },
+        {
+            "source": 56,
+            "target": 0
+        },
+        {
+            "source": 57,
+            "target": 0
+        },
+        {
+            "source": 58,
+            "target": 110
+        },
+        {
+            "source": 60,
+            "target": 18
+        },
+        {
+            "source": 62,
+            "target": 4
+        },
+        {
+            "source": 67,
+            "target": 1
+        },
+        {
+            "source": 67,
+            "target": 21
+        },
+        {
+            "source": 68,
+            "target": 4
+        },
+        {
+            "source": 81,
+            "target": 82
+        },
+        {
+            "source": 83,
+            "target": 42
+        },
+        {
+            "source": 83,
+            "target": 1
+        },
+        {
+            "source": 83,
+            "target": 63
+        },
+        {
+            "source": 83,
+            "target": 29
+        },
+        {
+            "source": 84,
+            "target": 0
+        },
+        {
+            "source": 84,
+            "target": 29
+        },
+        {
+            "source": 84,
+            "target": 19
+        },
+        {
+            "source": 84,
+            "target": 4
+        },
+        {
+            "source": 85,
+            "target": 0
+        },
+        {
+            "source": 86,
+            "target": 43
+        },
+        {
+            "source": 89,
+            "target": 1
+        },
+        {
+            "source": 89,
+            "target": 5
+        },
+        {
+            "source": 89,
+            "target": 9
+        },
+        {
+            "source": 89,
+            "target": 10
+        },
+        {
+            "source": 89,
+            "target": 37
+        },
+        {
+            "source": 89,
+            "target": 15
+        },
+        {
+            "source": 89,
+            "target": 19
+        },
+        {
+            "source": 89,
+            "target": 3
+        },
+        {
+            "source": 89,
+            "target": 21
+        },
+        {
+            "source": 91,
+            "target": 97
+        },
+        {
+            "source": 92,
+            "target": 1
+        },
+        {
+            "source": 93,
+            "target": 1
+        },
+        {
+            "source": 93,
+            "target": 21
+        },
+        {
+            "source": 93,
+            "target": 37
+        },
+        {
+            "source": 94,
+            "target": 95
+        },
+        {
+            "source": 96,
+            "target": 106
+        },
+        {
+            "source": 98,
+            "target": 21
+        },
+        {
+            "source": 99,
+            "target": 1
+        },
+        {
+            "source": 99,
+            "target": 9
+        },
+        {
+            "source": 99,
+            "target": 15
+        },
+        {
+            "source": 101,
+            "target": 19
+        },
+        {
+            "source": 102,
+            "target": 5
+        },
+        {
+            "source": 102,
+            "target": 10
+        },
+        {
+            "source": 103,
+            "target": 16
+        },
+        {
+            "source": 104,
+            "target": 11
+        },
+        {
+            "source": 105,
+            "target": 66
+        },
+        {
+            "source": 106,
+            "target": 10
+        },
+        {
+            "source": 107,
+            "target": 0
+        },
+        {
+            "source": 107,
+            "target": 21
+        },
+        {
+            "source": 107,
+            "target": 11
+        },
+        {
+            "source": 107,
+            "target": 1
+        },
+        {
+            "source": 107,
+            "target": 3
+        },
+        {
+            "source": 107,
+            "target": 2
+        },
+        {
+            "source": 108,
+            "target": 0
+        },
+        {
+            "source": 109,
+            "target": 4
+        },
+        {
+            "source": 111,
+            "target": 1
+        },
+        {
+            "source": 111,
+            "target": 52
+        },
+        {
+            "source": 111,
+            "target": 21
+        },
+        {
+            "source": 111,
+            "target": 10
+        },
+        {
+            "source": 111,
+            "target": 49
+        },
+        {
+            "source": 111,
+            "target": 5
+        },
+        {
+            "source": 111,
+            "target": 0
+        },
+        {
+            "source": 111,
+            "target": 12
+        },
+        {
+            "source": 111,
+            "target": 3
+        },
+        {
+            "source": 111,
+            "target": 9
+        },
+        {
+            "source": 111,
+            "target": 73
+        },
+        {
+            "source": 111,
+            "target": 22
+        },
+        {
+            "source": 111,
+            "target": 47
+        },
+        {
+            "source": 112,
+            "target": 0
+        },
+        {
+            "source": 112,
+            "target": 1
+        },
+        {
+            "source": 112,
+            "target": 2
+        },
+        {
+            "source": 112,
+            "target": 78
+        },
+        {
+            "source": 112,
+            "target": 29
+        },
+        {
+            "source": 112,
+            "target": 5
+        },
+        {
+            "source": 112,
+            "target": 6
+        },
+        {
+            "source": 112,
+            "target": 7
+        },
+        {
+            "source": 112,
+            "target": 70
+        },
+        {
+            "source": 112,
+            "target": 3
+        },
+        {
+            "source": 112,
+            "target": 8
+        },
+        {
+            "source": 112,
+            "target": 12
+        },
+        {
+            "source": 112,
+            "target": 111
+        },
+        {
+            "source": 112,
+            "target": 75
+        },
+        {
+            "source": 112,
+            "target": 51
+        },
+        {
+            "source": 112,
+            "target": 21
+        },
+        {
+            "source": 112,
+            "target": 9
+        },
+        {
+            "source": 112,
+            "target": 83
+        },
+        {
+            "source": 112,
+            "target": 63
+        },
+        {
+            "source": 112,
+            "target": 13
+        },
+        {
+            "source": 112,
+            "target": 14
+        },
+        {
+            "source": 112,
+            "target": 15
+        },
+        {
+            "source": 112,
+            "target": 64
+        },
+        {
+            "source": 112,
+            "target": 25
+        },
+        {
+            "source": 112,
+            "target": 22
+        },
+        {
+            "source": 112,
+            "target": 23
+        },
+        {
+            "source": 112,
+            "target": 35
+        },
+        {
+            "source": 112,
+            "target": 37
+        },
+        {
+            "source": 112,
+            "target": 10
+        },
+        {
+            "source": 112,
+            "target": 19
+        },
+        {
+            "source": 112,
+            "target": 20
+        },
+        {
+            "source": 112,
+            "target": 4
+        },
+        {
+            "source": 112,
+            "target": 65
+        },
+        {
+            "source": 112,
+            "target": 59
+        },
+        {
+            "source": 112,
+            "target": 72
+        },
+        {
+            "source": 113,
+            "target": 0
+        },
+        {
+            "source": 113,
+            "target": 1
+        },
+        {
+            "source": 113,
+            "target": 41
+        },
+        {
+            "source": 113,
+            "target": 32
+        },
+        {
+            "source": 113,
+            "target": 39
+        },
+        {
+            "source": 113,
+            "target": 50
+        },
+        {
+            "source": 113,
+            "target": 31
+        },
+        {
+            "source": 113,
+            "target": 9
+        },
+        {
+            "source": 113,
+            "target": 10
+        },
+        {
+            "source": 113,
+            "target": 3
+        },
+        {
+            "source": 113,
+            "target": 19
+        },
+        {
+            "source": 113,
+            "target": 21
+        },
+        {
+            "source": 113,
+            "target": 20
+        },
+        {
+            "source": 113,
+            "target": 33
+        },
+        {
+            "source": 113,
+            "target": 46
+        },
+        {
+            "source": 113,
+            "target": 44
+        },
+        {
+            "source": 113,
+            "target": 45
+        },
+        {
+            "source": 113,
+            "target": 47
+        },
+        {
+            "source": 113,
+            "target": 111
+        },
+        {
+            "source": 113,
+            "target": 103
+        },
+        {
+            "source": 114,
+            "target": 0
+        },
+        {
+            "source": 115,
+            "target": 32
+        },
+        {
+            "source": 116,
+            "target": 0
+        },
+        {
+            "source": 117,
+            "target": 9
+        }
+    ],
+    "edges": [
+        {
+            "source": "Microsoft",
+            "target": "Windows"
+        },
+        {
+            "source": "Microsoft",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Microsoft",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Microsoft Corporation"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 2.0"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 3.1x"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows XP 64-bit Edition"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Apple Computer"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows API"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Blue Screen of Death"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Architecture of the Windows NT operating system line"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "History of Microsoft Windows"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "List of Microsoft Windows components"
+        },
+        {
+            "source": "Microsoft Windows",
+            "target": "Windows Explorer"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "Microsoft"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "Windows 95"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "Windows 98"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "Windows NT"
+        },
+        {
+            "source": "MS-DOS",
+            "target": "History of Microsoft Windows"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows NT",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows NT",
+            "target": "IIS"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows API"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Virtual Memory System"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows NT 3.1"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows NT 3.5"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows NT 3.51"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Xbox 360"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Architecture of the Windows NT operating system line"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows NT",
+            "target": "Windows Server domain"
+        },
+        {
+            "source": "Windows CE",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows CE",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows CE",
+            "target": "GUI"
+        },
+        {
+            "source": "Windows CE",
+            "target": "Windows Mobile"
+        },
+        {
+            "source": "Windows CE",
+            "target": "Windows CE 3.0"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "Windows 2.0"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "Windows Write"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "Apple Computer"
+        },
+        {
+            "source": "Windows 1.0",
+            "target": "GUI"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "Apple Computer"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "Microsoft Office Word"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows 2.0",
+            "target": "Windows 3.x"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "Windows 3.x"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "GUI"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "Windows 2.0"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows 3.0",
+            "target": "Windows 3.1x"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows 3.x"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows API"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows 3.1x",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Windows 95",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows for Workgroups"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows 98 Second Edition"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows 95",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows 98",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 98",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Windows 98",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows 98",
+            "target": "Windows Explorer"
+        },
+        {
+            "source": "Windows 98",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Windows 98",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows registry"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows Millennium Edition",
+            "target": "Windows 98 SE"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "CPU"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "Virtual Memory System"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "Windows NT 3.1",
+            "target": "Windows API"
+        },
+        {
+            "source": "Windows NT 3.5",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows NT 3.5",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows NT 3.5",
+            "target": "Windows NT 3.1"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Windows NT 3.5"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "CPU"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Windows Explorer"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Windows NT 3.51",
+            "target": "Cairo (operating system)"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows Explorer"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows NT 3.51"
+        },
+        {
+            "source": "Windows NT 4.0",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows 95/Version Numbers",
+            "target": "Windows 98 Second Edition"
+        },
+        {
+            "source": "Windows 98 SE",
+            "target": "Windows 98 Second Edition"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows Mobile"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows XP Media Center Edition"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 2.0"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Windows XP 64-bit Edition"
+        },
+        {
+            "source": "Windows Versions",
+            "target": "Cairo (operating system)"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows 3.x"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Blue Screen of Death"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows registry"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows 2000",
+            "target": "Windows Server domain"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Windows Server domain"
+        },
+        {
+            "source": "Windows Server 2003",
+            "target": "Original equipment manufacturer"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Architecture of the Windows NT operating system line"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows Server domain"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows XP Media Center Edition"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows XP 64-bit Edition"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "Windows XP",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows XP",
+            "target": "United States v. Microsoft"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "Windows XP 64-bit Edition"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows XP Professional x64 Edition",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows XP 64-bit Edition",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "Windows XP 64-bit Edition",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows XP 64-bit Edition",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows XP 64-bit Edition",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Windows XP 64-bit Edition",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Windows XP 64-bit Edition",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows Mobile",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows Mobile",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Windows Mobile",
+            "target": "Windows API"
+        },
+        {
+            "source": "Windows Mobile",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows Mobile",
+            "target": "Windows CE 3.0"
+        },
+        {
+            "source": "Windows Mobile",
+            "target": "Apple Computer"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "Remote Desktop"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "Microsoft Developer Network"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "Xbox 360"
+        },
+        {
+            "source": "Windows XP Media Center Edition",
+            "target": "SageTV"
+        },
+        {
+            "source": "Registry",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows Mobile"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows 3.x"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Registry",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Registry",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows Aero"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Microsoft Virtual PC"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Development stage"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Virtual PC"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Original equipment manufacturer"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Start menu"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Apple Computer"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows Explorer"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows Sidebar"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Xbox 360"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Direct3D"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Cairo (operating system)"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "Features new to Windows Vista"
+        },
+        {
+            "source": "Microsoft Windows Vista",
+            "target": "History of Microsoft Windows"
+        },
+        {
+            "source": "Bill Gates",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows 3.x",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "Windows 3.x",
+            "target": "Windows 3.1x"
+        },
+        {
+            "source": "Xbox 360",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Xbox 360",
+            "target": "Development stage"
+        },
+        {
+            "source": "Xbox 360",
+            "target": "Blue Dragon"
+        },
+        {
+            "source": "Xbox 360",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Blue Dragon",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows Aero",
+            "target": "GUI"
+        },
+        {
+            "source": "Features new to Windows Vista",
+            "target": "Windows Aero"
+        },
+        {
+            "source": "Features new to Windows Vista",
+            "target": "Office"
+        },
+        {
+            "source": "Features new to Windows Vista",
+            "target": "GUI"
+        },
+        {
+            "source": "Windows 3.1",
+            "target": "Windows 3.1x"
+        },
+        {
+            "source": "Windows 98 Second Edition",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Microsoft Corporation",
+            "target": "Microsoft"
+        },
+        {
+            "source": "XP",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows registry",
+            "target": "Registry"
+        },
+        {
+            "source": "Win",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Ms",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Msft",
+            "target": "Microsoft"
+        },
+        {
+            "source": "MSFT",
+            "target": "Microsoft"
+        },
+        {
+            "source": "MS",
+            "target": "Microsoft"
+        },
+        {
+            "source": "LOP",
+            "target": "Policy"
+        },
+        {
+            "source": "List of Microsoft Windows versions",
+            "target": "Windows Versions"
+        },
+        {
+            "source": "Microsoft Windows CE",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Personal Files",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Personal Files",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows CE 3.0",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Guide:Saem",
+            "target": "SMS"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Microsoft Corporation"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Original equipment manufacturer"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Microsoft Venus",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Venus",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "Microsoft Venus",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Microsoft Venus",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Microsoft Response Point",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Midori (operating system)",
+            "target": "PowerPoint"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Metro design language",
+            "target": "Metro"
+        },
+        {
+            "source": "Microsoft Product Activation",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Sound Recorder",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Sound Recorder",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Sound Recorder",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Popfly",
+            "target": "Microsoft Popfly"
+        },
+        {
+            "source": "Microshaft Winblows 98",
+            "target": "Microsoft Windows 98"
+        },
+        {
+            "source": "Whistler",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows 4.00",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows 4.00",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows 4.00",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "Windows NT 5.0",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Microsoft Windows x99",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "Microsoft Windows x99",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Version Numbers",
+            "target": "Windows 95/Version Numbers"
+        },
+        {
+            "source": "Windows Millenium Edition",
+            "target": "Windows Millennium Edition"
+        },
+        {
+            "source": "Microsoft Office 98 Macintosh Edition",
+            "target": "Outlook Express"
+        },
+        {
+            "source": "Microsoft Windows 98",
+            "target": "Windows 98"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "Microsoft"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "Windows XP"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "Windows Millennium Edition"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "Windows NT"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "Microsoft Wallet",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows CE 2.0",
+            "target": "Windows CE"
+        },
+        {
+            "source": "Windows API",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows registry"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Windows API",
+            "target": "Direct3D"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "Windows API",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows NT 3.1"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Windows API",
+            "target": "Architecture of the Windows NT operating system line"
+        },
+        {
+            "source": "Windows API",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "Windows API",
+            "target": ".NET"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Microsoft"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "MS-DOS"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Apple Computer"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Bill Gates"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 1.0"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 2.0"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 3.0"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "GUI"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows NT"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 3.1x"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows NT 3.1"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows API"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Virtual Memory System"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Cairo (operating system)"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows XP"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 95"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "United States v. Microsoft"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Original equipment manufacturer"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows NT 3.5"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows NT 3.51"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows NT 4.0"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows Server domain"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows XP Media Center Edition"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows XP Professional x64 Edition"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows XP 64-bit Edition"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows Aero"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 98"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Windows CE"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Blue Screen of Death"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Operating system"
+        },
+        {
+            "source": "History of Microsoft Windows",
+            "target": "Microsoft codenames"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Microsoft Windows"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Office"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Xbox 360"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Office 2007"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Start menu"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows 3.x"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows 95"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows 98"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows NT"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows 2000"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows XP"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows Server 2003"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows Server 2007"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Access"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Excel"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Word"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": ".NET"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Windows API"
+        },
+        {
+            "source": "Microsoft Wiki:Imported/Windows Wiki",
+            "target": "Version Numbers"
+        },
+        {
+            "source": "Microsoft Office Online",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Nier",
+            "target": "Xbox 360"
+        },
+        {
+            "source": "Microsoft Japan",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Windows Cougar",
+            "target": "Windows 95"
+        }
+    ],
+    "basic": {
+        "numNodes": 118,
+        "numEdges": 404,
+        "selfLinks": 0,
+        "numStrongComponents": 83,
+        "numWeakComponents": 7,
+        "sizeLargestStrong": 36,
+        "sizeLargestWeak": 106,
+        "radius": 3,
+        "diameter": 6,
+        "averageInDegree": 3.4237288135593222,
+        "averageOutDegree": 3.4237288135593222,
+        "maxOutDegree": 35,
+        "maxInDegree": 42,
+        "pageRank": {
+            "Microsoft": 0.11720015204166079,
+            "Microsoft Windows": 0.0726195077748401,
+            "MS-DOS": 0.05361229217671386,
+            "Windows NT": 0.02979026650744809,
+            "Windows CE": 0.01794561310365798,
+            "Windows 1.0": 0.008491620359208986,
+            "Windows 2.0": 0.009141927636623632,
+            "Windows 3.0": 0.020825477371907788,
+            "Windows 3.1x": 0.01953960668086254,
+            "Windows 95": 0.025972667347789274,
+            "Windows 98": 0.03566930661124434,
+            "Windows Millennium Edition": 0.004613021737540546,
+            "Windows NT 3.1": 0.005820956400076684,
+            "Windows NT 3.5": 0.004276602440525101,
+            "Windows NT 3.51": 0.004941395862133606,
+            "Windows NT 4.0": 0.01232893502070235,
+            "Windows 95/Version Numbers": 0.004366611242196355,
+            "Windows 98 SE": 0.0027115202347967465,
+            "Windows Versions": 0.004275479104867386,
+            "Windows 2000": 0.019767202275806268,
+            "Windows Server 2003": 0.014332929724946746,
+            "Windows XP": 0.02994279756898806,
+            "Windows XP Professional x64 Edition": 0.010955021104665213,
+            "Windows XP 64-bit Edition": 0.009026587107568202,
+            "Windows Mobile": 0.006338233994331597,
+            "Windows XP Media Center Edition": 0.005003181344691182,
+            "Registry": 0.006558008705442224,
+            "Microsoft Windows Vista": 0.0022502233088284233,
+            "SageTV": 0.002893511608530197,
+            "Bill Gates": 0.04857957321422023,
+            "Windows Sidebar": 0.002346664061020755,
+            "Windows 3.x": 0.01018236542164496,
+            "Xbox 360": 0.006393293888372649,
+            "Windows Server 2007": 0.0023514860986303715,
+            "Blue Dragon": 0.003688656129356853,
+            "Windows Aero": 0.0033555122837746944,
+            "Features new to Windows Vista": 0.002346664061020755,
+            "Windows 3.1": 0.007899684652031686,
+            "Windows 98 Second Edition": 0.01074571840935045,
+            "Office 2007": 0.0023514860986303715,
+            "Windows": 0.03741637060628305,
+            "Office": 0.0030555022012239844,
+            "Microsoft Corporation": 0.005945415875297695,
+            "PowerPoint": 0.004275479104867386,
+            "Excel": 0.0023514860986303715,
+            "Word": 0.0023514860986303715,
+            "Access": 0.0023514860986303715,
+            ".NET": 0.003057632924072053,
+            "XP": 0.0022502233088284233,
+            "Direct3D": 0.0030528108864624364,
+            "Start menu": 0.002447926850822703,
+            "Cairo (operating system)": 0.0032987412268355026,
+            "Windows registry": 0.0047861014559045355,
+            "Win": 0.0022502233088284233,
+            "Ms": 0.0022502233088284233,
+            "Msft": 0.0022502233088284233,
+            "MSFT": 0.0022502233088284233,
+            "MS": 0.0022502233088284233,
+            "LOP": 0.0022502233088284233,
+            "Operating system": 0.0025550554289887496,
+            "List of Microsoft Windows versions": 0.0022502233088284233,
+            "List of Microsoft Windows components": 0.004865229054978258,
+            "Microsoft Windows CE": 0.0022502233088284233,
+            "Original equipment manufacturer": 0.005344076530232815,
+            "Windows Server domain": 0.009058311234971512,
+            "Blue Screen of Death": 0.006538495570804691,
+            "Outlook Express": 0.004275479104867386,
+            "Personal Files": 0.0022502233088284233,
+            "Windows CE 3.0": 0.006430859134272413,
+            "Microsoft Virtual PC": 0.002346664061020755,
+            "GUI": 0.013278086987343536,
+            "Virtual PC": 0.002346664061020755,
+            "Microsoft codenames": 0.018317015817867086,
+            "Architecture of the Windows NT operating system line": 0.009093803762004301,
+            "Development stage": 0.0037850968815491847,
+            "Virtual Memory System": 0.004580296538873344,
+            "CPU": 0.003443365546630947,
+            "Microsoft Developer Network": 0.002893511608530197,
+            "Apple Computer": 0.008484313004502527,
+            "Microsoft Office Word": 0.0034254583717282755,
+            "Remote Desktop": 0.002893511608530197,
+            "Guide:Saem": 0.0022502233088284233,
+            "SMS": 0.004275479104867386,
+            "United States v. Microsoft": 0.0048006603687639005,
+            "Microsoft Venus": 0.0022502233088284233,
+            "Microsoft Response Point": 0.0022502233088284233,
+            "Midori (operating system)": 0.0022502233088284233,
+            "Windows for Workgroups": 0.004375365305074161,
+            "Windows Write": 0.003341899521986504,
+            "Notepad (Windows)": 0.0022502233088284233,
+            "IIS": 0.0035270462506376337,
+            "Metro design language": 0.0022502233088284233,
+            "Microsoft Product Activation": 0.0022502233088284233,
+            "Sound Recorder": 0.0022502233088284233,
+            "Popfly": 0.0022502233088284233,
+            "Microsoft Popfly": 0.004275479104867386,
+            "Microshaft Winblows 98": 0.0022502233088284233,
+            "Metro": 0.004275479104867386,
+            "Whistler": 0.0022502233088284233,
+            "Windows 4.00": 0.0022502233088284233,
+            "Windows Explorer": 0.011866567080815441,
+            "Windows NT 5.0": 0.0022502233088284233,
+            "Microsoft Windows x99": 0.0022502233088284233,
+            "Version Numbers": 0.0023514860986303715,
+            "Windows Millenium Edition": 0.0022502233088284233,
+            "Microsoft Office 98 Macintosh Edition": 0.0022502233088284233,
+            "Microsoft Windows 98": 0.004275479104867386,
+            "TheFallenOneGOTH/Windows XP's legendary legacy": 0.0022502233088284233,
+            "Microsoft Wallet": 0.0022502233088284233,
+            "Windows CE 2.0": 0.0022502233088284233,
+            "Policy": 0.004275479104867386,
+            "Windows API": 0.010201251782742164,
+            "History of Microsoft Windows": 0.011853241113820853,
+            "Microsoft Wiki:Imported/Windows Wiki": 0.0022502233088284233,
+            "Microsoft Office Online": 0.0022502233088284233,
+            "Nier": 0.0022502233088284233,
+            "Microsoft Japan": 0.0022502233088284233,
+            "Windows Cougar": 0.0022502233088284233
+        },
+        "hitsHubs": {
+            "Microsoft": 0.003931317920130376,
+            "Microsoft Windows": 0.051381663783456946,
+            "MS-DOS": 0.02326646552590245,
+            "Windows NT": 0.04403356751823931,
+            "Windows CE": 0.011599599955660258,
+            "Windows 1.0": 0.015980847360936717,
+            "Windows 2.0": 0.016632294667049782,
+            "Windows 3.0": 0.01652711900511674,
+            "Windows 3.1x": 0.02876033575173253,
+            "Windows 95": 0.03157873352627763,
+            "Windows 98": 0.017338776643402342,
+            "Windows Millennium Edition": 0.027282554007029267,
+            "Windows NT 3.1": 0.01631282085869893,
+            "Windows NT 3.5": 0.011177428409714672,
+            "Windows NT 3.51": 0.024925242839657965,
+            "Windows NT 4.0": 0.03137242871075909,
+            "Windows 95/Version Numbers": 0.00020991194360017886,
+            "Windows 98 SE": 0.00020991194360017886,
+            "Windows Versions": 0.0472204172138703,
+            "Windows 2000": 0.03232033120734735,
+            "Windows Server 2003": 0.024091603580404734,
+            "Windows XP": 0.029732235106182888,
+            "Windows XP Professional x64 Edition": 0.025341638709998043,
+            "Windows XP 64-bit Edition": 0.019354334524653027,
+            "Windows Mobile": 0.01485910766623483,
+            "Windows XP Media Center Edition": 0.015575399189143727,
+            "Registry": 0.03003769076109566,
+            "Microsoft Windows Vista": 0.03513859190319521,
+            "SageTV": 0.0,
+            "Bill Gates": 0.00578267465786777,
+            "Windows Sidebar": 0.0,
+            "Windows 3.x": 0.0027303134150183797,
+            "Xbox 360": 0.0075835045722095346,
+            "Windows Server 2007": 0.0,
+            "Blue Dragon": 0.00578267465786777,
+            "Windows Aero": 0.0007346214145486268,
+            "Features new to Windows Vista": 0.0016620335834924037,
+            "Windows 3.1": 0.0008988437091822495,
+            "Windows 98 Second Edition": 0.0032145983786999177,
+            "Office 2007": 0.0,
+            "Windows": 0.004325823126800726,
+            "Office": 0.0,
+            "Microsoft Corporation": 0.00578267465786777,
+            "PowerPoint": 0.0,
+            "Excel": 0.0,
+            "Word": 0.0,
+            "Access": 0.0,
+            ".NET": 0.0,
+            "XP": 0.004220096079883105,
+            "Direct3D": 0.0,
+            "Start menu": 0.0,
+            "Cairo (operating system)": 0.0,
+            "Windows registry": 7.739489015432757e-33,
+            "Win": 0.004325823126800726,
+            "Ms": 0.00578267465786777,
+            "Msft": 0.00578267465786777,
+            "MSFT": 0.00578267465786777,
+            "MS": 0.00578267465786777,
+            "LOP": 7.739489015432757e-33,
+            "Operating system": 0.0,
+            "List of Microsoft Windows versions": 7.739489015432757e-33,
+            "List of Microsoft Windows components": 0.0,
+            "Microsoft Windows CE": 0.0015743093556656689,
+            "Original equipment manufacturer": 0.0,
+            "Windows Server domain": 0.0,
+            "Blue Screen of Death": 0.0,
+            "Outlook Express": 0.0,
+            "Personal Files": 0.008545919206683832,
+            "Windows CE 3.0": 0.0015743093556656689,
+            "Microsoft Virtual PC": 0.0,
+            "GUI": 0.0,
+            "Virtual PC": 0.0,
+            "Microsoft codenames": 0.0,
+            "Architecture of the Windows NT operating system line": 0.0,
+            "Development stage": 0.0,
+            "Virtual Memory System": 0.0,
+            "CPU": 0.0,
+            "Microsoft Developer Network": 0.0,
+            "Apple Computer": 0.0,
+            "Microsoft Office Word": 0.0,
+            "Remote Desktop": 0.0,
+            "Guide:Saem": 7.739489015432757e-33,
+            "SMS": 0.0,
+            "United States v. Microsoft": 0.0070442374392253254,
+            "Microsoft Venus": 0.01228688968042919,
+            "Microsoft Response Point": 0.00578267465786777,
+            "Midori (operating system)": 7.739489015432757e-33,
+            "Windows for Workgroups": 0.0,
+            "Windows Write": 0.0,
+            "Notepad (Windows)": 0.02800966507016609,
+            "IIS": 0.0,
+            "Metro design language": 7.739489015432757e-33,
+            "Microsoft Product Activation": 0.004325823126800726,
+            "Sound Recorder": 0.010061178803884817,
+            "Popfly": 7.739489015432757e-33,
+            "Microsoft Popfly": 0.0,
+            "Microshaft Winblows 98": 7.739489015432757e-33,
+            "Metro": 0.0,
+            "Whistler": 0.004220096079883105,
+            "Windows 4.00": 0.009596720245124424,
+            "Windows Explorer": 0.0,
+            "Windows NT 5.0": 0.0034590827073585025,
+            "Microsoft Windows x99": 0.00482522152865903,
+            "Version Numbers": 7.739489015432757e-33,
+            "Windows Millenium Edition": 0.0001406332425854442,
+            "Microsoft Office 98 Macintosh Edition": 7.739489015432757e-33,
+            "Microsoft Windows 98": 0.0032145983786999177,
+            "TheFallenOneGOTH/Windows XP's legendary legacy": 0.021297217361258895,
+            "Microsoft Wallet": 0.00578267465786777,
+            "Windows CE 2.0": 0.0015743093556656689,
+            "Policy": 0.0,
+            "Windows API": 0.0319709139300555,
+            "History of Microsoft Windows": 0.0654799998237206,
+            "Microsoft Wiki:Imported/Windows Wiki": 0.037430199776990546,
+            "Microsoft Office Online": 0.00578267465786777,
+            "Nier": 0.0008728176288468905,
+            "Microsoft Japan": 0.00578267465786777,
+            "Windows Cougar": 0.002998409026357954
+        },
+        "hitsAuths": {
+            "Microsoft": 0.07367555465011034,
+            "Microsoft Windows": 0.05511418799113872,
+            "MS-DOS": 0.031019947880134274,
+            "Windows NT": 0.05597370105938015,
+            "Windows CE": 0.020057866269843714,
+            "Windows 1.0": 0.02052053088341995,
+            "Windows 2.0": 0.01643095976900386,
+            "Windows 3.0": 0.02333427944433336,
+            "Windows 3.1x": 0.011451934050563183,
+            "Windows 95": 0.038201949989397285,
+            "Windows 98": 0.040956362330678016,
+            "Windows Millennium Edition": 0.0017917715871545485,
+            "Windows NT 3.1": 0.01275945416444134,
+            "Windows NT 3.5": 0.01123637087980103,
+            "Windows NT 3.51": 0.011775225482093444,
+            "Windows NT 4.0": 0.028953180062369598,
+            "Windows 95/Version Numbers": 9.860681771965661e-32,
+            "Windows 98 SE": 0.002280270816126234,
+            "Windows Versions": 9.860681771965661e-32,
+            "Windows 2000": 0.04407127361012786,
+            "Windows Server 2003": 0.035003678534063914,
+            "Windows XP": 0.0537671471693668,
+            "Windows XP Professional x64 Edition": 0.024169036858832395,
+            "Windows XP 64-bit Edition": 0.01831701413836836,
+            "Windows Mobile": 0.007426710788233064,
+            "Windows XP Media Center Edition": 0.011904494711880424,
+            "Registry": 9.860681771965661e-32,
+            "Microsoft Windows Vista": 0.0,
+            "SageTV": 0.0013017889825886943,
+            "Bill Gates": 0.0187393729973355,
+            "Windows Sidebar": 0.0029368770099648194,
+            "Windows 3.x": 0.013515522311319531,
+            "Xbox 360": 0.011120342526307702,
+            "Windows Server 2007": 0.0031284091721804396,
+            "Blue Dragon": 0.0006338279091012867,
+            "Windows Aero": 0.00854859573865661,
+            "Features new to Windows Vista": 0.0029368770099648194,
+            "Windows 3.1": 0.019305528646816398,
+            "Windows 98 Second Edition": 0.0026744335082700926,
+            "Office 2007": 0.0031284091721804396,
+            "Windows": 0.00032857882434789414,
+            "Office": 0.0032673216315571353,
+            "Microsoft Corporation": 0.004883226013632693,
+            "PowerPoint": 9.860681771965661e-32,
+            "Excel": 0.0031284091721804396,
+            "Word": 0.0031284091721804396,
+            "Access": 0.0031284091721804396,
+            ".NET": 0.005800532243181436,
+            "XP": 0.0,
+            "Direct3D": 0.005609000080965815,
+            "Start menu": 0.0060652861821452585,
+            "Cairo (operating system)": 0.014439604197773452,
+            "Windows registry": 0.007653721189376687,
+            "Win": 0.0,
+            "Ms": 0.0,
+            "Msft": 0.0,
+            "MSFT": 0.0,
+            "MS": 0.0,
+            "LOP": 0.0,
+            "Operating system": 0.005472806269315095,
+            "List of Microsoft Windows versions": 0.0,
+            "List of Microsoft Windows components": 0.004294469951796454,
+            "Microsoft Windows CE": 0.0,
+            "Original equipment manufacturer": 0.011012011110869371,
+            "Windows Server domain": 0.016353037475875496,
+            "Blue Screen of Death": 0.012468603523361007,
+            "Outlook Express": 9.860681771965661e-32,
+            "Personal Files": 0.0,
+            "Windows CE 3.0": 0.002211413887733707,
+            "Microsoft Virtual PC": 0.0029368770099648194,
+            "GUI": 0.009359620483071684,
+            "Virtual PC": 0.0029368770099648194,
+            "Microsoft codenames": 0.023138953636192946,
+            "Architecture of the Windows NT operating system line": 0.013131925157355177,
+            "Development stage": 0.003570704919066106,
+            "Virtual Memory System": 0.010516546244063637,
+            "CPU": 0.0034466697339703995,
+            "Microsoft Developer Network": 0.0013017889825886943,
+            "Apple Computer": 0.01667187507722714,
+            "Microsoft Office Word": 0.0013901241110037355,
+            "Remote Desktop": 0.0013017889825886943,
+            "Guide:Saem": 0.0,
+            "SMS": 9.860681771965661e-32,
+            "United States v. Microsoft": 0.007957820978240783,
+            "Microsoft Venus": 0.0,
+            "Microsoft Response Point": 0.0,
+            "Midori (operating system)": 0.0,
+            "Windows for Workgroups": 0.0026393447054442838,
+            "Windows Write": 0.0013356762656465014,
+            "Notepad (Windows)": 0.0,
+            "IIS": 0.0036803174256320385,
+            "Metro design language": 0.0,
+            "Microsoft Product Activation": 0.0,
+            "Sound Recorder": 0.0,
+            "Popfly": 0.0,
+            "Microsoft Popfly": 9.860681771965661e-32,
+            "Microshaft Winblows 98": 0.0,
+            "Metro": 9.860681771965661e-32,
+            "Whistler": 0.0,
+            "Windows 4.00": 0.0,
+            "Windows Explorer": 0.013385867677616336,
+            "Windows NT 5.0": 0.0,
+            "Microsoft Windows x99": 0.0,
+            "Version Numbers": 0.0031284091721804396,
+            "Windows Millenium Edition": 0.0,
+            "Microsoft Office 98 Macintosh Edition": 0.0,
+            "Microsoft Windows 98": 9.860681771965661e-32,
+            "TheFallenOneGOTH/Windows XP's legendary legacy": 0.0,
+            "Microsoft Wallet": 0.0,
+            "Windows CE 2.0": 0.0,
+            "Policy": 9.860681771965661e-32,
+            "Windows API": 0.02158513037846055,
+            "History of Microsoft Windows": 0.009175953845700122,
+            "Microsoft Wiki:Imported/Windows Wiki": 0.0,
+            "Microsoft Office Online": 0.0,
+            "Nier": 0.0,
+            "Microsoft Japan": 0.0,
+            "Windows Cougar": 0.0
+        },
+        "averagePathLength": 2.403174603174603
+    }
+}

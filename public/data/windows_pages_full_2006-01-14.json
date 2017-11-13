@@ -1,0 +1,473 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Microsoft"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Windows 3.1"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Windows"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Microsoft Corporation"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "PowerPoint"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ms"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Msft"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "MSFT"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "MS"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "LOP"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Original equipment manufacturer"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Outlook Express"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guide:Saem"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "SMS"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "United States v. Microsoft"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Venus"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Response Point"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Midori (operating system)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Notepad (Windows)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Metro design language"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sound Recorder"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Popfly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Popfly"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microshaft Winblows 98"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Metro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Office 98 Macintosh Edition"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Windows 98"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "TheFallenOneGOTH/Windows XP's legendary legacy"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Wallet"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Policy"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Office Online"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Microsoft Japan"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 0
+        },
+        {
+            "source": 7,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 0
+        },
+        {
+            "source": 9,
+            "target": 29
+        },
+        {
+            "source": 12,
+            "target": 13
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 14,
+            "target": 10
+        },
+        {
+            "source": 15,
+            "target": 0
+        },
+        {
+            "source": 16,
+            "target": 0
+        },
+        {
+            "source": 17,
+            "target": 4
+        },
+        {
+            "source": 18,
+            "target": 1
+        },
+        {
+            "source": 19,
+            "target": 24
+        },
+        {
+            "source": 20,
+            "target": 1
+        },
+        {
+            "source": 21,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 26
+        },
+        {
+            "source": 25,
+            "target": 11
+        },
+        {
+            "source": 27,
+            "target": 0
+        },
+        {
+            "source": 28,
+            "target": 0
+        },
+        {
+            "source": 30,
+            "target": 0
+        },
+        {
+            "source": 31,
+            "target": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": "Microsoft",
+            "target": "Windows"
+        },
+        {
+            "source": "Microsoft Corporation",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Ms",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Msft",
+            "target": "Microsoft"
+        },
+        {
+            "source": "MSFT",
+            "target": "Microsoft"
+        },
+        {
+            "source": "MS",
+            "target": "Microsoft"
+        },
+        {
+            "source": "LOP",
+            "target": "Policy"
+        },
+        {
+            "source": "Guide:Saem",
+            "target": "SMS"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Microsoft Corporation"
+        },
+        {
+            "source": "United States v. Microsoft",
+            "target": "Original equipment manufacturer"
+        },
+        {
+            "source": "Microsoft Venus",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Response Point",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Midori (operating system)",
+            "target": "PowerPoint"
+        },
+        {
+            "source": "Notepad (Windows)",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Metro design language",
+            "target": "Metro"
+        },
+        {
+            "source": "Sound Recorder",
+            "target": "Windows 3.1"
+        },
+        {
+            "source": "Popfly",
+            "target": "Microsoft Popfly"
+        },
+        {
+            "source": "Microshaft Winblows 98",
+            "target": "Microsoft Windows 98"
+        },
+        {
+            "source": "Microsoft Office 98 Macintosh Edition",
+            "target": "Outlook Express"
+        },
+        {
+            "source": "TheFallenOneGOTH/Windows XP's legendary legacy",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Wallet",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Office Online",
+            "target": "Microsoft"
+        },
+        {
+            "source": "Microsoft Japan",
+            "target": "Microsoft"
+        }
+    ],
+    "basic": {
+        "numNodes": 32,
+        "numEdges": 23,
+        "selfLinks": 0,
+        "numStrongComponents": 32,
+        "numWeakComponents": 9,
+        "sizeLargestStrong": 1,
+        "sizeLargestWeak": 15,
+        "radius": 0,
+        "diameter": 0,
+        "averageInDegree": 0.71875,
+        "averageOutDegree": 0.71875,
+        "maxOutDegree": 2,
+        "maxInDegree": 11,
+        "pageRank": {
+            "Microsoft": 0.1838789399707533,
+            "Windows 3.1": 0.045543069980786346,
+            "Windows": 0.18176315250593877,
+            "Microsoft Corporation": 0.02358504422377787,
+            "PowerPoint": 0.030904386142780696,
+            "Ms": 0.016265702304775045,
+            "Msft": 0.016265702304775045,
+            "MSFT": 0.016265702304775045,
+            "MS": 0.016265702304775045,
+            "LOP": 0.016265702304775045,
+            "Original equipment manufacturer": 0.02358504422377787,
+            "Outlook Express": 0.030904386142780696,
+            "Guide:Saem": 0.016265702304775045,
+            "SMS": 0.030904386142780696,
+            "United States v. Microsoft": 0.016265702304775045,
+            "Microsoft Venus": 0.016265702304775045,
+            "Microsoft Response Point": 0.016265702304775045,
+            "Midori (operating system)": 0.016265702304775045,
+            "Notepad (Windows)": 0.016265702304775045,
+            "Metro design language": 0.016265702304775045,
+            "Sound Recorder": 0.016265702304775045,
+            "Popfly": 0.016265702304775045,
+            "Microsoft Popfly": 0.030904386142780696,
+            "Microshaft Winblows 98": 0.016265702304775045,
+            "Metro": 0.030904386142780696,
+            "Microsoft Office 98 Macintosh Edition": 0.016265702304775045,
+            "Microsoft Windows 98": 0.030904386142780696,
+            "TheFallenOneGOTH/Windows XP's legendary legacy": 0.016265702304775045,
+            "Microsoft Wallet": 0.016265702304775045,
+            "Policy": 0.030904386142780696,
+            "Microsoft Office Online": 0.016265702304775045,
+            "Microsoft Japan": 0.016265702304775045
+        },
+        "hitsHubs": {
+            "Microsoft": 2.6333125428903265e-15,
+            "Windows 3.1": 0.0,
+            "Windows": 0.0,
+            "Microsoft Corporation": 0.09090909090320567,
+            "PowerPoint": 0.0,
+            "Ms": 0.09090909090320567,
+            "Msft": 0.09090909090320567,
+            "MSFT": 0.09090909090320567,
+            "MS": 0.09090909090320567,
+            "LOP": 2.6333125428903265e-15,
+            "Original equipment manufacturer": 0.0,
+            "Outlook Express": 0.0,
+            "Guide:Saem": 2.6333125428903265e-15,
+            "SMS": 0.0,
+            "United States v. Microsoft": 2.1572096351357555e-11,
+            "Microsoft Venus": 0.09090909090320567,
+            "Microsoft Response Point": 0.09090909090320567,
+            "Midori (operating system)": 2.6333125428903265e-15,
+            "Notepad (Windows)": 2.1572096351357555e-11,
+            "Metro design language": 2.6333125428903265e-15,
+            "Sound Recorder": 2.1572096351357555e-11,
+            "Popfly": 2.6333125428903265e-15,
+            "Microsoft Popfly": 0.0,
+            "Microshaft Winblows 98": 2.6333125428903265e-15,
+            "Metro": 0.0,
+            "Microsoft Office 98 Macintosh Edition": 2.6333125428903265e-15,
+            "Microsoft Windows 98": 0.0,
+            "TheFallenOneGOTH/Windows XP's legendary legacy": 0.09090909090320567,
+            "Microsoft Wallet": 0.09090909090320567,
+            "Policy": 0.0,
+            "Microsoft Office Online": 0.09090909090320567,
+            "Microsoft Japan": 0.09090909090320567
+        },
+        "hitsAuths": {
+            "Microsoft": 0.9999999995251831,
+            "Windows 3.1": 2.3729305976762413e-10,
+            "Windows": 2.8966437959915055e-14,
+            "Microsoft Corporation": 1.1864652988381206e-10,
+            "PowerPoint": 2.8966437959915055e-14,
+            "Ms": 0.0,
+            "Msft": 0.0,
+            "MSFT": 0.0,
+            "MS": 0.0,
+            "LOP": 0.0,
+            "Original equipment manufacturer": 1.1864652988381206e-10,
+            "Outlook Express": 2.8966437959915055e-14,
+            "Guide:Saem": 0.0,
+            "SMS": 2.8966437959915055e-14,
+            "United States v. Microsoft": 0.0,
+            "Microsoft Venus": 0.0,
+            "Microsoft Response Point": 0.0,
+            "Midori (operating system)": 0.0,
+            "Notepad (Windows)": 0.0,
+            "Metro design language": 0.0,
+            "Sound Recorder": 0.0,
+            "Popfly": 0.0,
+            "Microsoft Popfly": 2.8966437959915055e-14,
+            "Microshaft Winblows 98": 0.0,
+            "Metro": 2.8966437959915055e-14,
+            "Microsoft Office 98 Macintosh Edition": 0.0,
+            "Microsoft Windows 98": 2.8966437959915055e-14,
+            "TheFallenOneGOTH/Windows XP's legendary legacy": 0.0,
+            "Microsoft Wallet": 0.0,
+            "Policy": 2.8966437959915055e-14,
+            "Microsoft Office Online": 0.0,
+            "Microsoft Japan": 0.0
+        },
+        "averagePathLength": 0
+    }
+}

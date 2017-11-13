@@ -1,0 +1,4361 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 28,
+            "parity": 1,
+            "id": "Taylor Swift Wiki"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Main Page"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Songs"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "YouTube videos"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Interviews"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Selena Gomez"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Liz Huett"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Music videos"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Abigail Anderson"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Kellie Pickler"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Al Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Caitlin Evanson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Paul Sidoti"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Amos Heller"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "13"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Grant Mickelson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Home movies"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Scott Swift"
+        },
+        {
+            "degree": 33,
+            "parity": 0,
+            "id": "Lyrics"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Austin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Andrea Swift"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Achievements"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Biography"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "List of Taylor Swift's ex-boyfriends"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Speak Now"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Miley Cyrus"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan survey"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Fearless (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Tim McGraw (lyrics)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Picture to Burn (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Pictures to Burn (song)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Teardrops on My Guitar (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "A Place in This World (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Cold as You (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "The Outside (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Tied Together with a Smile (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Stay Beautiful (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Should've Said No (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Mary's Song (Oh My My My) (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Our Song (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "I'm Only Me When I'm With You (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Invisible (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "A Perfectly Good Heart (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "White Horse (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "You Belong with Me (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tell Me Why (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fifteen (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Love Story (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Hey Stephen (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "You're Not Sorry (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "The Way I Loved You (lyrics)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Forever & Always (lyrics)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "The Best Day (lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Change (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tim Mcgraw (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Pictures to Burn (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Teardrops on my Guitar (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "A Place in this World (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tied Together With A Smile (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "You Belong With Me (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beautiful Eyes (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Television appearances"
+        },
+        {
+            "degree": 19,
+            "parity": 0,
+            "id": "Picture to Burn"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Should've Said No"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Change"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "You're Not Sorry"
+        },
+        {
+            "degree": 17,
+            "parity": 0,
+            "id": "White Horse (song)"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Love Story (song)"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Teardrops on My Guitar"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Two Is Better Than One"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Fearless (song)"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Fifteen (song)"
+        },
+        {
+            "degree": 17,
+            "parity": 0,
+            "id": "Tim McGraw (song)"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Today Was a Fairytale"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Crazier (song)"
+        },
+        {
+            "degree": 26,
+            "parity": 1,
+            "id": "Discography"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Half of My Heart"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Breathe"
+        },
+        {
+            "degree": 25,
+            "parity": 0,
+            "id": "You Belong with Me"
+        },
+        {
+            "degree": 16,
+            "parity": 1,
+            "id": "Our Song (song)"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Sounds of the Season: The Taylor Swift Holiday Collection"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Beautiful Eyes"
+        },
+        {
+            "degree": 17,
+            "parity": 0,
+            "id": "List of awards and nominations received by Taylor Swift"
+        },
+        {
+            "degree": 31,
+            "parity": 0,
+            "id": "Taylor Swift (album)"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Valentine's Day (soundtrack)"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Jump Then Fall"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Love Story (Taylor Swift song)"
+        },
+        {
+            "degree": 19,
+            "parity": 0,
+            "id": "Liz Rose"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "2009 MTV Video Music Awards"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Our Song (Taylor Swift song)"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Fearless (Taylor Swift song)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Breathe (Taylor Swift song)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Change (Taylor Swift song)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Crazier (Taylor Swift song)"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Tim McGraw"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Interesting news coverage"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Known facts about Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Awards and other achievements"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift/Gallery"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Katy Perry"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Taylor Swift ( album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Chuck Ainlay"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Bryan Sutton"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Mine (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Abigail"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Picture to burn"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Speak Now (album)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Caitlin Everson"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Fan survey (how well do you know her)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Gallery of pictures"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Taylor Swift discography"
+        },
+        {
+            "degree": 17,
+            "parity": 0,
+            "id": "Fearless"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fans singing her songs or doing other interesting things"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "News"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Known Facts About Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David Cook"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Gallery"
+        },
+        {
+            "degree": 53,
+            "parity": 0,
+            "id": "Taylor Swift"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Grant Michelson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Teardrops on my Guitar"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "A Place in This World"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Forever and Always"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Superstar (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of songs"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Breathe (song)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Change (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hey Stephen"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Best Day"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Childhood pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "White Horse"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Stay Beautiful"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Our Song"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Untouchable (lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Beautiful Eyes (EP)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Songs by Taylor Swift"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Fan Survey"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe and Sound (Lyrics)"
+        },
+        {
+            "degree": 18,
+            "parity": 1,
+            "id": "Fearless (Taylor Swift album)"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "Fearless (album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe & Sound (Lyrics)"
+        },
+        {
+            "degree": 24,
+            "parity": 1,
+            "id": "Big Machine Records"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Take Two with Phineas and Ferb"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Forever & Always"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Nathan Chapman (record producer)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dan Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Come Back... Be Here"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sarah Hyland"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 119
+        },
+        {
+            "source": 0,
+            "target": 111
+        },
+        {
+            "source": 0,
+            "target": 83
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 62
+        },
+        {
+            "source": 0,
+            "target": 96
+        },
+        {
+            "source": 0,
+            "target": 110
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 120
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 108
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 25
+        },
+        {
+            "source": 0,
+            "target": 100
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 109
+        },
+        {
+            "source": 0,
+            "target": 23
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 113
+        },
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 111
+        },
+        {
+            "source": 3,
+            "target": 79
+        },
+        {
+            "source": 3,
+            "target": 19
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 88
+        },
+        {
+            "source": 7,
+            "target": 14
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 16,
+            "target": 3
+        },
+        {
+            "source": 18,
+            "target": 84
+        },
+        {
+            "source": 18,
+            "target": 28
+        },
+        {
+            "source": 18,
+            "target": 29
+        },
+        {
+            "source": 18,
+            "target": 31
+        },
+        {
+            "source": 18,
+            "target": 32
+        },
+        {
+            "source": 18,
+            "target": 33
+        },
+        {
+            "source": 18,
+            "target": 34
+        },
+        {
+            "source": 18,
+            "target": 35
+        },
+        {
+            "source": 18,
+            "target": 36
+        },
+        {
+            "source": 18,
+            "target": 37
+        },
+        {
+            "source": 18,
+            "target": 38
+        },
+        {
+            "source": 18,
+            "target": 39
+        },
+        {
+            "source": 18,
+            "target": 40
+        },
+        {
+            "source": 18,
+            "target": 41
+        },
+        {
+            "source": 18,
+            "target": 42
+        },
+        {
+            "source": 18,
+            "target": 61
+        },
+        {
+            "source": 18,
+            "target": 141
+        },
+        {
+            "source": 18,
+            "target": 27
+        },
+        {
+            "source": 18,
+            "target": 47
+        },
+        {
+            "source": 18,
+            "target": 48
+        },
+        {
+            "source": 18,
+            "target": 49
+        },
+        {
+            "source": 18,
+            "target": 43
+        },
+        {
+            "source": 18,
+            "target": 44
+        },
+        {
+            "source": 18,
+            "target": 45
+        },
+        {
+            "source": 18,
+            "target": 46
+        },
+        {
+            "source": 18,
+            "target": 50
+        },
+        {
+            "source": 18,
+            "target": 51
+        },
+        {
+            "source": 18,
+            "target": 52
+        },
+        {
+            "source": 18,
+            "target": 53
+        },
+        {
+            "source": 18,
+            "target": 54
+        },
+        {
+            "source": 18,
+            "target": 135
+        },
+        {
+            "source": 18,
+            "target": 124
+        },
+        {
+            "source": 21,
+            "target": 83
+        },
+        {
+            "source": 22,
+            "target": 119
+        },
+        {
+            "source": 23,
+            "target": 95
+        },
+        {
+            "source": 23,
+            "target": 30
+        },
+        {
+            "source": 28,
+            "target": 84
+        },
+        {
+            "source": 29,
+            "target": 101
+        },
+        {
+            "source": 30,
+            "target": 29
+        },
+        {
+            "source": 31,
+            "target": 101
+        },
+        {
+            "source": 33,
+            "target": 101
+        },
+        {
+            "source": 34,
+            "target": 101
+        },
+        {
+            "source": 35,
+            "target": 101
+        },
+        {
+            "source": 36,
+            "target": 101
+        },
+        {
+            "source": 37,
+            "target": 101
+        },
+        {
+            "source": 38,
+            "target": 101
+        },
+        {
+            "source": 39,
+            "target": 101
+        },
+        {
+            "source": 40,
+            "target": 101
+        },
+        {
+            "source": 41,
+            "target": 101
+        },
+        {
+            "source": 42,
+            "target": 84
+        },
+        {
+            "source": 48,
+            "target": 141
+        },
+        {
+            "source": 49,
+            "target": 141
+        },
+        {
+            "source": 50,
+            "target": 141
+        },
+        {
+            "source": 51,
+            "target": 141
+        },
+        {
+            "source": 52,
+            "target": 141
+        },
+        {
+            "source": 53,
+            "target": 141
+        },
+        {
+            "source": 54,
+            "target": 141
+        },
+        {
+            "source": 55,
+            "target": 28
+        },
+        {
+            "source": 56,
+            "target": 29
+        },
+        {
+            "source": 57,
+            "target": 31
+        },
+        {
+            "source": 58,
+            "target": 32
+        },
+        {
+            "source": 59,
+            "target": 35
+        },
+        {
+            "source": 60,
+            "target": 44
+        },
+        {
+            "source": 63,
+            "target": 119
+        },
+        {
+            "source": 63,
+            "target": 84
+        },
+        {
+            "source": 63,
+            "target": 88
+        },
+        {
+            "source": 63,
+            "target": 145
+        },
+        {
+            "source": 63,
+            "target": 148
+        },
+        {
+            "source": 63,
+            "target": 80
+        },
+        {
+            "source": 63,
+            "target": 64
+        },
+        {
+            "source": 63,
+            "target": 87
+        },
+        {
+            "source": 63,
+            "target": 79
+        },
+        {
+            "source": 64,
+            "target": 119
+        },
+        {
+            "source": 64,
+            "target": 84
+        },
+        {
+            "source": 64,
+            "target": 145
+        },
+        {
+            "source": 64,
+            "target": 148
+        },
+        {
+            "source": 64,
+            "target": 63
+        },
+        {
+            "source": 64,
+            "target": 87
+        },
+        {
+            "source": 65,
+            "target": 119
+        },
+        {
+            "source": 65,
+            "target": 140
+        },
+        {
+            "source": 65,
+            "target": 145
+        },
+        {
+            "source": 66,
+            "target": 119
+        },
+        {
+            "source": 66,
+            "target": 140
+        },
+        {
+            "source": 66,
+            "target": 145
+        },
+        {
+            "source": 66,
+            "target": 84
+        },
+        {
+            "source": 67,
+            "target": 119
+        },
+        {
+            "source": 67,
+            "target": 140
+        },
+        {
+            "source": 67,
+            "target": 145
+        },
+        {
+            "source": 67,
+            "target": 88
+        },
+        {
+            "source": 67,
+            "target": 148
+        },
+        {
+            "source": 67,
+            "target": 87
+        },
+        {
+            "source": 67,
+            "target": 79
+        },
+        {
+            "source": 67,
+            "target": 69
+        },
+        {
+            "source": 67,
+            "target": 63
+        },
+        {
+            "source": 68,
+            "target": 119
+        },
+        {
+            "source": 68,
+            "target": 140
+        },
+        {
+            "source": 68,
+            "target": 145
+        },
+        {
+            "source": 68,
+            "target": 148
+        },
+        {
+            "source": 68,
+            "target": 93
+        },
+        {
+            "source": 68,
+            "target": 67
+        },
+        {
+            "source": 68,
+            "target": 74
+        },
+        {
+            "source": 68,
+            "target": 91
+        },
+        {
+            "source": 68,
+            "target": 66
+        },
+        {
+            "source": 68,
+            "target": 25
+        },
+        {
+            "source": 69,
+            "target": 119
+        },
+        {
+            "source": 69,
+            "target": 84
+        },
+        {
+            "source": 69,
+            "target": 88
+        },
+        {
+            "source": 69,
+            "target": 145
+        },
+        {
+            "source": 69,
+            "target": 148
+        },
+        {
+            "source": 69,
+            "target": 73
+        },
+        {
+            "source": 69,
+            "target": 80
+        },
+        {
+            "source": 69,
+            "target": 87
+        },
+        {
+            "source": 69,
+            "target": 140
+        },
+        {
+            "source": 69,
+            "target": 82
+        },
+        {
+            "source": 70,
+            "target": 119
+        },
+        {
+            "source": 70,
+            "target": 72
+        },
+        {
+            "source": 70,
+            "target": 91
+        },
+        {
+            "source": 70,
+            "target": 95
+        },
+        {
+            "source": 71,
+            "target": 119
+        },
+        {
+            "source": 71,
+            "target": 140
+        },
+        {
+            "source": 71,
+            "target": 145
+        },
+        {
+            "source": 71,
+            "target": 88
+        },
+        {
+            "source": 71,
+            "target": 148
+        },
+        {
+            "source": 71,
+            "target": 70
+        },
+        {
+            "source": 71,
+            "target": 77
+        },
+        {
+            "source": 71,
+            "target": 84
+        },
+        {
+            "source": 71,
+            "target": 27
+        },
+        {
+            "source": 72,
+            "target": 119
+        },
+        {
+            "source": 72,
+            "target": 140
+        },
+        {
+            "source": 72,
+            "target": 145
+        },
+        {
+            "source": 72,
+            "target": 148
+        },
+        {
+            "source": 72,
+            "target": 79
+        },
+        {
+            "source": 72,
+            "target": 70
+        },
+        {
+            "source": 72,
+            "target": 86
+        },
+        {
+            "source": 72,
+            "target": 25
+        },
+        {
+            "source": 72,
+            "target": 73
+        },
+        {
+            "source": 73,
+            "target": 119
+        },
+        {
+            "source": 73,
+            "target": 84
+        },
+        {
+            "source": 73,
+            "target": 145
+        },
+        {
+            "source": 73,
+            "target": 88
+        },
+        {
+            "source": 73,
+            "target": 148
+        },
+        {
+            "source": 73,
+            "target": 69
+        },
+        {
+            "source": 73,
+            "target": 95
+        },
+        {
+            "source": 74,
+            "target": 119
+        },
+        {
+            "source": 74,
+            "target": 85
+        },
+        {
+            "source": 74,
+            "target": 145
+        },
+        {
+            "source": 74,
+            "target": 79
+        },
+        {
+            "source": 74,
+            "target": 72
+        },
+        {
+            "source": 74,
+            "target": 87
+        },
+        {
+            "source": 75,
+            "target": 119
+        },
+        {
+            "source": 76,
+            "target": 119
+        },
+        {
+            "source": 76,
+            "target": 145
+        },
+        {
+            "source": 76,
+            "target": 84
+        },
+        {
+            "source": 76,
+            "target": 81
+        },
+        {
+            "source": 76,
+            "target": 82
+        },
+        {
+            "source": 76,
+            "target": 140
+        },
+        {
+            "source": 76,
+            "target": 87
+        },
+        {
+            "source": 76,
+            "target": 79
+        },
+        {
+            "source": 76,
+            "target": 91
+        },
+        {
+            "source": 76,
+            "target": 74
+        },
+        {
+            "source": 76,
+            "target": 85
+        },
+        {
+            "source": 76,
+            "target": 24
+        },
+        {
+            "source": 76,
+            "target": 73
+        },
+        {
+            "source": 76,
+            "target": 69
+        },
+        {
+            "source": 76,
+            "target": 90
+        },
+        {
+            "source": 76,
+            "target": 63
+        },
+        {
+            "source": 76,
+            "target": 64
+        },
+        {
+            "source": 76,
+            "target": 67
+        },
+        {
+            "source": 76,
+            "target": 72
+        },
+        {
+            "source": 76,
+            "target": 70
+        },
+        {
+            "source": 76,
+            "target": 77
+        },
+        {
+            "source": 76,
+            "target": 93
+        },
+        {
+            "source": 76,
+            "target": 92
+        },
+        {
+            "source": 76,
+            "target": 66
+        },
+        {
+            "source": 76,
+            "target": 94
+        },
+        {
+            "source": 77,
+            "target": 119
+        },
+        {
+            "source": 77,
+            "target": 91
+        },
+        {
+            "source": 78,
+            "target": 119
+        },
+        {
+            "source": 78,
+            "target": 140
+        },
+        {
+            "source": 78,
+            "target": 145
+        },
+        {
+            "source": 79,
+            "target": 119
+        },
+        {
+            "source": 79,
+            "target": 140
+        },
+        {
+            "source": 79,
+            "target": 87
+        },
+        {
+            "source": 79,
+            "target": 145
+        },
+        {
+            "source": 79,
+            "target": 88
+        },
+        {
+            "source": 79,
+            "target": 148
+        },
+        {
+            "source": 79,
+            "target": 67
+        },
+        {
+            "source": 79,
+            "target": 72
+        },
+        {
+            "source": 79,
+            "target": 126
+        },
+        {
+            "source": 79,
+            "target": 89
+        },
+        {
+            "source": 79,
+            "target": 84
+        },
+        {
+            "source": 79,
+            "target": 74
+        },
+        {
+            "source": 79,
+            "target": 25
+        },
+        {
+            "source": 79,
+            "target": 64
+        },
+        {
+            "source": 80,
+            "target": 119
+        },
+        {
+            "source": 80,
+            "target": 84
+        },
+        {
+            "source": 80,
+            "target": 145
+        },
+        {
+            "source": 80,
+            "target": 148
+        },
+        {
+            "source": 80,
+            "target": 69
+        },
+        {
+            "source": 80,
+            "target": 63
+        },
+        {
+            "source": 80,
+            "target": 73
+        },
+        {
+            "source": 80,
+            "target": 140
+        },
+        {
+            "source": 80,
+            "target": 95
+        },
+        {
+            "source": 80,
+            "target": 39
+        },
+        {
+            "source": 81,
+            "target": 145
+        },
+        {
+            "source": 81,
+            "target": 119
+        },
+        {
+            "source": 81,
+            "target": 69
+        },
+        {
+            "source": 81,
+            "target": 88
+        },
+        {
+            "source": 82,
+            "target": 119
+        },
+        {
+            "source": 82,
+            "target": 145
+        },
+        {
+            "source": 82,
+            "target": 84
+        },
+        {
+            "source": 82,
+            "target": 140
+        },
+        {
+            "source": 82,
+            "target": 64
+        },
+        {
+            "source": 82,
+            "target": 69
+        },
+        {
+            "source": 82,
+            "target": 63
+        },
+        {
+            "source": 82,
+            "target": 88
+        },
+        {
+            "source": 82,
+            "target": 73
+        },
+        {
+            "source": 83,
+            "target": 119
+        },
+        {
+            "source": 83,
+            "target": 145
+        },
+        {
+            "source": 83,
+            "target": 84
+        },
+        {
+            "source": 83,
+            "target": 140
+        },
+        {
+            "source": 83,
+            "target": 87
+        },
+        {
+            "source": 83,
+            "target": 79
+        },
+        {
+            "source": 83,
+            "target": 67
+        },
+        {
+            "source": 83,
+            "target": 78
+        },
+        {
+            "source": 83,
+            "target": 69
+        },
+        {
+            "source": 83,
+            "target": 73
+        },
+        {
+            "source": 83,
+            "target": 80
+        },
+        {
+            "source": 83,
+            "target": 63
+        },
+        {
+            "source": 83,
+            "target": 64
+        },
+        {
+            "source": 83,
+            "target": 9
+        },
+        {
+            "source": 83,
+            "target": 134
+        },
+        {
+            "source": 84,
+            "target": 119
+        },
+        {
+            "source": 84,
+            "target": 145
+        },
+        {
+            "source": 84,
+            "target": 148
+        },
+        {
+            "source": 84,
+            "target": 140
+        },
+        {
+            "source": 84,
+            "target": 73
+        },
+        {
+            "source": 84,
+            "target": 69
+        },
+        {
+            "source": 84,
+            "target": 80
+        },
+        {
+            "source": 84,
+            "target": 63
+        },
+        {
+            "source": 84,
+            "target": 64
+        },
+        {
+            "source": 84,
+            "target": 88
+        },
+        {
+            "source": 84,
+            "target": 95
+        },
+        {
+            "source": 84,
+            "target": 134
+        },
+        {
+            "source": 84,
+            "target": 82
+        },
+        {
+            "source": 84,
+            "target": 102
+        },
+        {
+            "source": 85,
+            "target": 145
+        },
+        {
+            "source": 85,
+            "target": 119
+        },
+        {
+            "source": 85,
+            "target": 86
+        },
+        {
+            "source": 85,
+            "target": 74
+        },
+        {
+            "source": 86,
+            "target": 119
+        },
+        {
+            "source": 86,
+            "target": 140
+        },
+        {
+            "source": 86,
+            "target": 145
+        },
+        {
+            "source": 86,
+            "target": 85
+        },
+        {
+            "source": 87,
+            "target": 68
+        },
+        {
+            "source": 88,
+            "target": 119
+        },
+        {
+            "source": 88,
+            "target": 67
+        },
+        {
+            "source": 88,
+            "target": 79
+        },
+        {
+            "source": 88,
+            "target": 84
+        },
+        {
+            "source": 88,
+            "target": 73
+        },
+        {
+            "source": 88,
+            "target": 69
+        },
+        {
+            "source": 88,
+            "target": 140
+        },
+        {
+            "source": 88,
+            "target": 91
+        },
+        {
+            "source": 89,
+            "target": 100
+        },
+        {
+            "source": 89,
+            "target": 119
+        },
+        {
+            "source": 89,
+            "target": 25
+        },
+        {
+            "source": 89,
+            "target": 79
+        },
+        {
+            "source": 89,
+            "target": 9
+        },
+        {
+            "source": 90,
+            "target": 80
+        },
+        {
+            "source": 91,
+            "target": 71
+        },
+        {
+            "source": 92,
+            "target": 126
+        },
+        {
+            "source": 93,
+            "target": 127
+        },
+        {
+            "source": 94,
+            "target": 75
+        },
+        {
+            "source": 95,
+            "target": 73
+        },
+        {
+            "source": 97,
+            "target": 5
+        },
+        {
+            "source": 98,
+            "target": 21
+        },
+        {
+            "source": 101,
+            "target": 84
+        },
+        {
+            "source": 104,
+            "target": 119
+        },
+        {
+            "source": 104,
+            "target": 24
+        },
+        {
+            "source": 104,
+            "target": 145
+        },
+        {
+            "source": 104,
+            "target": 148
+        },
+        {
+            "source": 104,
+            "target": 77
+        },
+        {
+            "source": 104,
+            "target": 87
+        },
+        {
+            "source": 105,
+            "target": 8
+        },
+        {
+            "source": 106,
+            "target": 63
+        },
+        {
+            "source": 107,
+            "target": 24
+        },
+        {
+            "source": 108,
+            "target": 11
+        },
+        {
+            "source": 109,
+            "target": 138
+        },
+        {
+            "source": 110,
+            "target": 99
+        },
+        {
+            "source": 111,
+            "target": 76
+        },
+        {
+            "source": 112,
+            "target": 119
+        },
+        {
+            "source": 112,
+            "target": 145
+        },
+        {
+            "source": 112,
+            "target": 82
+        },
+        {
+            "source": 112,
+            "target": 93
+        },
+        {
+            "source": 112,
+            "target": 87
+        },
+        {
+            "source": 112,
+            "target": 67
+        },
+        {
+            "source": 112,
+            "target": 9
+        },
+        {
+            "source": 112,
+            "target": 63
+        },
+        {
+            "source": 112,
+            "target": 91
+        },
+        {
+            "source": 112,
+            "target": 25
+        },
+        {
+            "source": 112,
+            "target": 66
+        },
+        {
+            "source": 112,
+            "target": 79
+        },
+        {
+            "source": 112,
+            "target": 72
+        },
+        {
+            "source": 112,
+            "target": 134
+        },
+        {
+            "source": 112,
+            "target": 64
+        },
+        {
+            "source": 112,
+            "target": 103
+        },
+        {
+            "source": 114,
+            "target": 96
+        },
+        {
+            "source": 115,
+            "target": 97
+        },
+        {
+            "source": 117,
+            "target": 116
+        },
+        {
+            "source": 118,
+            "target": 119
+        },
+        {
+            "source": 119,
+            "target": 145
+        },
+        {
+            "source": 119,
+            "target": 148
+        },
+        {
+            "source": 119,
+            "target": 88
+        },
+        {
+            "source": 119,
+            "target": 73
+        },
+        {
+            "source": 119,
+            "target": 84
+        },
+        {
+            "source": 119,
+            "target": 140
+        },
+        {
+            "source": 119,
+            "target": 69
+        },
+        {
+            "source": 119,
+            "target": 81
+        },
+        {
+            "source": 119,
+            "target": 63
+        },
+        {
+            "source": 119,
+            "target": 82
+        },
+        {
+            "source": 119,
+            "target": 87
+        },
+        {
+            "source": 119,
+            "target": 25
+        },
+        {
+            "source": 119,
+            "target": 67
+        },
+        {
+            "source": 119,
+            "target": 72
+        },
+        {
+            "source": 119,
+            "target": 79
+        },
+        {
+            "source": 119,
+            "target": 70
+        },
+        {
+            "source": 119,
+            "target": 89
+        },
+        {
+            "source": 119,
+            "target": 74
+        },
+        {
+            "source": 119,
+            "target": 9
+        },
+        {
+            "source": 119,
+            "target": 24
+        },
+        {
+            "source": 120,
+            "target": 15
+        },
+        {
+            "source": 121,
+            "target": 69
+        },
+        {
+            "source": 122,
+            "target": 32
+        },
+        {
+            "source": 123,
+            "target": 52
+        },
+        {
+            "source": 125,
+            "target": 137
+        },
+        {
+            "source": 126,
+            "target": 78
+        },
+        {
+            "source": 127,
+            "target": 65
+        },
+        {
+            "source": 128,
+            "target": 49
+        },
+        {
+            "source": 129,
+            "target": 53
+        },
+        {
+            "source": 130,
+            "target": 131
+        },
+        {
+            "source": 132,
+            "target": 67
+        },
+        {
+            "source": 133,
+            "target": 36
+        },
+        {
+            "source": 134,
+            "target": 80
+        },
+        {
+            "source": 136,
+            "target": 82
+        },
+        {
+            "source": 138,
+            "target": 26
+        },
+        {
+            "source": 139,
+            "target": 144
+        },
+        {
+            "source": 140,
+            "target": 141
+        },
+        {
+            "source": 141,
+            "target": 112
+        },
+        {
+            "source": 142,
+            "target": 143
+        },
+        {
+            "source": 146,
+            "target": 119
+        },
+        {
+            "source": 147,
+            "target": 52
+        },
+        {
+            "source": 149,
+            "target": 150
+        },
+        {
+            "source": 151,
+            "target": 119
+        }
+    ],
+    "edges": [
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Taylor Swift discography"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "List of awards and nominations received by Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "YouTube videos"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Music videos"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Interviews"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Television appearances"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Interesting news coverage"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Gallery of pictures"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Liz Huett"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Grant Michelson"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Al Wilson"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Caitlin Everson"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Paul Sidoti"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Amos Heller"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Abigail Anderson"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Selena Gomez"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Kellie Pickler"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Katy Perry"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Andrea Swift"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Scott Swift"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "13"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Fan survey (how well do you know her)"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "List of Taylor Swift's ex-boyfriends"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Lyrics"
+        },
+        {
+            "source": "Taylor Swift Wiki",
+            "target": "Fans singing her songs or doing other interesting things"
+        },
+        {
+            "source": "Main Page",
+            "target": "Taylor Swift Wiki"
+        },
+        {
+            "source": "Songs",
+            "target": "Taylor Swift discography"
+        },
+        {
+            "source": "YouTube videos",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "YouTube videos",
+            "target": "Austin"
+        },
+        {
+            "source": "YouTube videos",
+            "target": "Liz Huett"
+        },
+        {
+            "source": "YouTube videos",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Music videos",
+            "target": "13"
+        },
+        {
+            "source": "Music videos",
+            "target": "Kellie Pickler"
+        },
+        {
+            "source": "Home movies",
+            "target": "YouTube videos"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Tim McGraw (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Picture to Burn (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Teardrops on My Guitar (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "A Place in This World (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Cold as You (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "The Outside (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Tied Together with a Smile (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Stay Beautiful (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Should've Said No (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Mary's Song (Oh My My My) (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Our Song (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "I'm Only Me When I'm With You (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Invisible (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "A Perfectly Good Heart (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Beautiful Eyes (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Fearless (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Fifteen (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Love Story (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Hey Stephen (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "White Horse (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "You Belong with Me (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Breathe (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Tell Me Why (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "You're Not Sorry (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "The Way I Loved You (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Forever & Always (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "The Best Day (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Change (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Untouchable (lyrics)"
+        },
+        {
+            "source": "Lyrics",
+            "target": "Superstar (lyrics)"
+        },
+        {
+            "source": "Achievements",
+            "target": "List of awards and nominations received by Taylor Swift"
+        },
+        {
+            "source": "Biography",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "List of Taylor Swift's ex-boyfriends",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "List of Taylor Swift's ex-boyfriends",
+            "target": "Pictures to Burn (song)"
+        },
+        {
+            "source": "Tim McGraw (lyrics)",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Picture to Burn (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Pictures to Burn (song)",
+            "target": "Picture to Burn (lyrics)"
+        },
+        {
+            "source": "Teardrops on My Guitar (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Cold as You (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "The Outside (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Tied Together with a Smile (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Stay Beautiful (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Should've Said No (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Mary's Song (Oh My My My) (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Our Song (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "I'm Only Me When I'm With You (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "Invisible (lyrics)",
+            "target": "Taylor Swift ( album)"
+        },
+        {
+            "source": "A Perfectly Good Heart (lyrics)",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Love Story (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Hey Stephen (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "You're Not Sorry (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "The Way I Loved You (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Forever & Always (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "The Best Day (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Change (lyrics)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Tim Mcgraw (song)",
+            "target": "Tim McGraw (lyrics)"
+        },
+        {
+            "source": "Pictures to Burn (lyrics)",
+            "target": "Picture to Burn (lyrics)"
+        },
+        {
+            "source": "Teardrops on my Guitar (lyrics)",
+            "target": "Teardrops on My Guitar (lyrics)"
+        },
+        {
+            "source": "A Place in this World (lyrics)",
+            "target": "A Place in This World (lyrics)"
+        },
+        {
+            "source": "Tied Together With A Smile (lyrics)",
+            "target": "Tied Together with a Smile (lyrics)"
+        },
+        {
+            "source": "You Belong With Me (lyrics)",
+            "target": "You Belong with Me (lyrics)"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Picture to Burn",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Should've Said No",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Change",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Change",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Change",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "You're Not Sorry",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "You're Not Sorry",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "You're Not Sorry",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "You're Not Sorry",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "White Horse (song)",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Change (Taylor Swift song)"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Today Was a Fairytale"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Fearless (Taylor Swift song)"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "You're Not Sorry"
+        },
+        {
+            "source": "Love Story (song)",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Teardrops on My Guitar",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Two Is Better Than One",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Two Is Better Than One",
+            "target": "Fifteen (song)"
+        },
+        {
+            "source": "Two Is Better Than One",
+            "target": "Fearless (Taylor Swift song)"
+        },
+        {
+            "source": "Two Is Better Than One",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Two Is Better Than One"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Half of My Heart"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Fearless (song)",
+            "target": "Fearless (lyrics)"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Two Is Better Than One"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Jump Then Fall"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "Fifteen (song)",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Today Was a Fairytale",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Today Was a Fairytale",
+            "target": "Valentine's Day (soundtrack)"
+        },
+        {
+            "source": "Today Was a Fairytale",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Today Was a Fairytale",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Today Was a Fairytale",
+            "target": "Fifteen (song)"
+        },
+        {
+            "source": "Today Was a Fairytale",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Crazier (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Discography",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Discography",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Discography",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Discography",
+            "target": "Sounds of the Season: The Taylor Swift Holiday Collection"
+        },
+        {
+            "source": "Discography",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Discography",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Discography",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Discography",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Discography",
+            "target": "Fearless (Taylor Swift song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Today Was a Fairytale"
+        },
+        {
+            "source": "Discography",
+            "target": "Valentine's Day (soundtrack)"
+        },
+        {
+            "source": "Discography",
+            "target": "Speak Now"
+        },
+        {
+            "source": "Discography",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Discography",
+            "target": "Our Song (Taylor Swift song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Discography",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Discography",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Fifteen (song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Two Is Better Than One"
+        },
+        {
+            "source": "Discography",
+            "target": "Half of My Heart"
+        },
+        {
+            "source": "Discography",
+            "target": "Change (Taylor Swift song)"
+        },
+        {
+            "source": "Discography",
+            "target": "Breathe (Taylor Swift song)"
+        },
+        {
+            "source": "Discography",
+            "target": "You're Not Sorry"
+        },
+        {
+            "source": "Discography",
+            "target": "Crazier (Taylor Swift song)"
+        },
+        {
+            "source": "Half of My Heart",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Half of My Heart",
+            "target": "Fearless (Taylor Swift song)"
+        },
+        {
+            "source": "Breathe",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Breathe",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Breathe",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Fifteen (song)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "2009 MTV Video Music Awards"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Today Was a Fairytale"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "You Belong with Me",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Our Song (song)",
+            "target": "Our Song (lyrics)"
+        },
+        {
+            "source": "Sounds of the Season: The Taylor Swift Holiday Collection",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Sounds of the Season: The Taylor Swift Holiday Collection",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Sounds of the Season: The Taylor Swift Holiday Collection",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Sounds of the Season: The Taylor Swift Holiday Collection",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Beautiful Eyes",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Breathe"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Kellie Pickler"
+        },
+        {
+            "source": "List of awards and nominations received by Taylor Swift",
+            "target": "Our Song"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Our Song"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Taylor Swift (album)",
+            "target": "Chuck Ainlay"
+        },
+        {
+            "source": "Valentine's Day (soundtrack)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Valentine's Day (soundtrack)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Valentine's Day (soundtrack)",
+            "target": "Jump Then Fall"
+        },
+        {
+            "source": "Valentine's Day (soundtrack)",
+            "target": "Today Was a Fairytale"
+        },
+        {
+            "source": "Jump Then Fall",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Jump Then Fall",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Jump Then Fall",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Jump Then Fall",
+            "target": "Valentine's Day (soundtrack)"
+        },
+        {
+            "source": "Love Story (Taylor Swift song)",
+            "target": "Love Story (song)"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Liz Rose",
+            "target": "Fearless (Taylor Swift song)"
+        },
+        {
+            "source": "2009 MTV Video Music Awards",
+            "target": "Katy Perry"
+        },
+        {
+            "source": "2009 MTV Video Music Awards",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "2009 MTV Video Music Awards",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "2009 MTV Video Music Awards",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "2009 MTV Video Music Awards",
+            "target": "Kellie Pickler"
+        },
+        {
+            "source": "Our Song (Taylor Swift song)",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Fearless (Taylor Swift song)",
+            "target": "Fearless (song)"
+        },
+        {
+            "source": "Breathe (Taylor Swift song)",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "Change (Taylor Swift song)",
+            "target": "Change (song)"
+        },
+        {
+            "source": "Crazier (Taylor Swift song)",
+            "target": "Crazier (song)"
+        },
+        {
+            "source": "Tim McGraw",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Known facts about Taylor Swift",
+            "target": "Selena Gomez"
+        },
+        {
+            "source": "Awards and other achievements",
+            "target": "Achievements"
+        },
+        {
+            "source": "Taylor Swift ( album)",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Mine (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Mine (song)",
+            "target": "Speak Now"
+        },
+        {
+            "source": "Mine (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Mine (song)",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Mine (song)",
+            "target": "Half of My Heart"
+        },
+        {
+            "source": "Mine (song)",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Abigail",
+            "target": "Abigail Anderson"
+        },
+        {
+            "source": "Picture to burn",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Speak Now (album)",
+            "target": "Speak Now"
+        },
+        {
+            "source": "Caitlin Everson",
+            "target": "Caitlin Evanson"
+        },
+        {
+            "source": "Fan survey (how well do you know her)",
+            "target": "Fan Survey"
+        },
+        {
+            "source": "Gallery of pictures",
+            "target": "Taylor Swift/Gallery"
+        },
+        {
+            "source": "Taylor Swift discography",
+            "target": "Discography"
+        },
+        {
+            "source": "Fearless",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Fearless",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Fearless",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Fearless",
+            "target": "Change (Taylor Swift song)"
+        },
+        {
+            "source": "Fearless",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Fearless",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "Fearless",
+            "target": "Kellie Pickler"
+        },
+        {
+            "source": "Fearless",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Fearless",
+            "target": "Fearless (Taylor Swift song)"
+        },
+        {
+            "source": "Fearless",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "Fearless",
+            "target": "You're Not Sorry"
+        },
+        {
+            "source": "Fearless",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Fearless",
+            "target": "Fifteen (song)"
+        },
+        {
+            "source": "Fearless",
+            "target": "Our Song"
+        },
+        {
+            "source": "Fearless",
+            "target": "Should've Said No"
+        },
+        {
+            "source": "Fearless",
+            "target": "Bryan Sutton"
+        },
+        {
+            "source": "News",
+            "target": "Interesting news coverage"
+        },
+        {
+            "source": "Known Facts About Taylor Swift",
+            "target": "Known facts about Taylor Swift"
+        },
+        {
+            "source": "David",
+            "target": "David Cook"
+        },
+        {
+            "source": "Fan Gallery",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Nathan Chapman (record producer)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Liz Rose"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Taylor Swift (album)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Fearless (Taylor Swift album)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Sounds of the Season: The Taylor Swift Holiday Collection"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Picture to Burn"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Love Story (Taylor Swift song)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Miley Cyrus"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Fifteen (song)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "You Belong with Me"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Two Is Better Than One"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "2009 MTV Video Music Awards"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Today Was a Fairytale"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Kellie Pickler"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Speak Now"
+        },
+        {
+            "source": "Grant Michelson",
+            "target": "Grant Mickelson"
+        },
+        {
+            "source": "Teardrops on my Guitar",
+            "target": "Teardrops on My Guitar"
+        },
+        {
+            "source": "A Place in This World",
+            "target": "A Place in This World (lyrics)"
+        },
+        {
+            "source": "Forever and Always",
+            "target": "Forever & Always (lyrics)"
+        },
+        {
+            "source": "List of songs",
+            "target": "List of Songs by Taylor Swift"
+        },
+        {
+            "source": "Breathe (song)",
+            "target": "Breathe"
+        },
+        {
+            "source": "Change (song)",
+            "target": "Change"
+        },
+        {
+            "source": "Hey Stephen",
+            "target": "Hey Stephen (lyrics)"
+        },
+        {
+            "source": "The Best Day",
+            "target": "The Best Day (lyrics)"
+        },
+        {
+            "source": "Childhood pictures",
+            "target": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "source": "White Horse",
+            "target": "White Horse (song)"
+        },
+        {
+            "source": "Stay Beautiful",
+            "target": "Stay Beautiful (lyrics)"
+        },
+        {
+            "source": "Our Song",
+            "target": "Our Song (song)"
+        },
+        {
+            "source": "Beautiful Eyes (EP)",
+            "target": "Beautiful Eyes"
+        },
+        {
+            "source": "Fan Survey",
+            "target": "Fan survey"
+        },
+        {
+            "source": "Safe and Sound (Lyrics)",
+            "target": "Safe & Sound (Lyrics)"
+        },
+        {
+            "source": "Fearless (Taylor Swift album)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Fearless (album)",
+            "target": "Fearless"
+        },
+        {
+            "source": "Quotes",
+            "target": "Taylor Swift Quotes"
+        },
+        {
+            "source": "Take Two with Phineas and Ferb",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Forever & Always",
+            "target": "Forever & Always (lyrics)"
+        },
+        {
+            "source": "Dan Wilson",
+            "target": "Come Back... Be Here"
+        },
+        {
+            "source": "Sarah Hyland",
+            "target": "Taylor Swift"
+        }
+    ],
+    "basic": {
+        "numNodes": 152,
+        "numEdges": 389,
+        "selfLinks": 0,
+        "numStrongComponents": 117,
+        "numWeakComponents": 7,
+        "sizeLargestStrong": 36,
+        "sizeLargestWeak": 140,
+        "radius": 4,
+        "diameter": 8,
+        "averageInDegree": 2.5592105263157894,
+        "averageOutDegree": 2.5592105263157894,
+        "maxOutDegree": 32,
+        "maxInDegree": 33,
+        "pageRank": {
+            "Taylor Swift Wiki": 0.003598189873106851,
+            "Main Page": 0.0018937929846884068,
+            "Songs": 0.0018937929846884068,
+            "YouTube videos": 0.0037181289172755552,
+            "Interviews": 0.002013732028857111,
+            "Selena Gomez": 0.005252086221412123,
+            "Liz Huett": 0.0028503053226760695,
+            "Music videos": 0.002013732028857111,
+            "Abigail Anderson": 0.0037181289172755552,
+            "Kellie Pickler": 0.0092089018087112,
+            "Al Wilson": 0.002013732028857111,
+            "Caitlin Evanson": 0.003706128855827673,
+            "Paul Sidoti": 0.002013732028857111,
+            "Amos Heller": 0.002013732028857111,
+            "13": 0.0029198999644267443,
+            "Grant Mickelson": 0.003706128855827673,
+            "Home movies": 0.0018937929846884068,
+            "Scott Swift": 0.002013732028857111,
+            "Lyrics": 0.002013732028857111,
+            "Austin": 0.0027303662785073653,
+            "Andrea Swift": 0.002013732028857111,
+            "Achievements": 0.003598189873106851,
+            "Biography": 0.0018937929846884068,
+            "List of Taylor Swift's ex-boyfriends": 0.002013732028857111,
+            "Speak Now": 0.006563249807412174,
+            "Miley Cyrus": 0.011787249206278293,
+            "Fan survey": 0.005229280718121244,
+            "Fearless (lyrics)": 0.0032127673953305813,
+            "Tim McGraw (lyrics)": 0.003654825369079953,
+            "Picture to Burn (lyrics)": 0.006174767680005593,
+            "Pictures to Burn (song)": 0.00279996092025804,
+            "Teardrops on My Guitar (lyrics)": 0.003654825369079953,
+            "A Place in This World (lyrics)": 0.005359222257498397,
+            "Cold as You (lyrics)": 0.0019504284806615088,
+            "The Outside (lyrics)": 0.0019504284806615088,
+            "Tied Together with a Smile (lyrics)": 0.003654825369079953,
+            "Stay Beautiful (lyrics)": 0.003654825369079953,
+            "Should've Said No (lyrics)": 0.0019504284806615088,
+            "Mary's Song (Oh My My My) (lyrics)": 0.0019504284806615088,
+            "Our Song (lyrics)": 0.0036836758619342236,
+            "I'm Only Me When I'm With You (lyrics)": 0.0019504284806615088,
+            "Invisible (lyrics)": 0.0019504284806615088,
+            "A Perfectly Good Heart (lyrics)": 0.0019504284806615088,
+            "White Horse (lyrics)": 0.0019504284806615088,
+            "You Belong with Me (lyrics)": 0.003654825369079953,
+            "Breathe (lyrics)": 0.0019504284806615088,
+            "Tell Me Why (lyrics)": 0.0019504284806615088,
+            "Fifteen (lyrics)": 0.0019504284806615088,
+            "Love Story (lyrics)": 0.0019504284806615088,
+            "Hey Stephen (lyrics)": 0.003654825369079953,
+            "You're Not Sorry (lyrics)": 0.0019504284806615088,
+            "The Way I Loved You (lyrics)": 0.0019504284806615088,
+            "Forever & Always (lyrics)": 0.005359222257498397,
+            "The Best Day (lyrics)": 0.003654825369079953,
+            "Change (lyrics)": 0.0019504284806615088,
+            "Tim Mcgraw (song)": 0.0018937929846884068,
+            "Pictures to Burn (lyrics)": 0.0018937929846884068,
+            "Teardrops on my Guitar (lyrics)": 0.0018937929846884068,
+            "A Place in this World (lyrics)": 0.0018937929846884068,
+            "Tied Together With A Smile (lyrics)": 0.0018937929846884068,
+            "You Belong With Me (lyrics)": 0.0018937929846884068,
+            "Beautiful Eyes (lyrics)": 0.0019504284806615088,
+            "Television appearances": 0.002013732028857111,
+            "Picture to Burn": 0.019344961461461318,
+            "Should've Said No": 0.013075936611357003,
+            "Change": 0.008577734988474776,
+            "You're Not Sorry": 0.006149266815023021,
+            "White Horse (song)": 0.014370146733522045,
+            "Love Story (song)": 0.017520402690942308,
+            "Teardrops on My Guitar": 0.022324879622757244,
+            "Two Is Better Than One": 0.006935009354680707,
+            "Fearless (song)": 0.01262381587775913,
+            "Fifteen (song)": 0.010982530489886289,
+            "Tim McGraw (song)": 0.029682909663827573,
+            "Today Was a Fairytale": 0.008221746783468334,
+            "Crazier (song)": 0.003767949796144808,
+            "Discography": 0.005240086159964241,
+            "Half of My Heart": 0.003628833365937559,
+            "Breathe": 0.006612282267284098,
+            "You Belong with Me": 0.017494718631599578,
+            "Our Song (song)": 0.01925332361511046,
+            "Sounds of the Season: The Taylor Swift Holiday Collection": 0.004574786770923989,
+            "Beautiful Eyes": 0.014462152553211073,
+            "List of awards and nominations received by Taylor Swift": 0.005252086221412123,
+            "Taylor Swift (album)": 0.0572973762224414,
+            "Valentine's Day (soundtrack)": 0.004201262012255852,
+            "Jump Then Fall": 0.003936892441964553,
+            "Love Story (Taylor Swift song)": 0.017363586802394675,
+            "Liz Rose": 0.02296671129105298,
+            "2009 MTV Video Music Awards": 0.0055107067659361944,
+            "Our Song (Taylor Swift song)": 0.0020824283031987455,
+            "Fearless (Taylor Swift song)": 0.01192735636770221,
+            "Breathe (Taylor Swift song)": 0.0020824283031987455,
+            "Change (Taylor Swift song)": 0.006149266815023022,
+            "Crazier (Taylor Swift song)": 0.0020824283031987455,
+            "Tim McGraw": 0.013594430386717858,
+            "Interesting news coverage": 0.0037181289172755552,
+            "Known facts about Taylor Swift": 0.003598189873106851,
+            "Awards and other achievements": 0.0018937929846884068,
+            "Taylor Swift/Gallery": 0.003706128855827673,
+            "Katy Perry": 0.0030056132441185846,
+            "Taylor Swift ( album)": 0.03116709027880178,
+            "Chuck Ainlay": 0.005577398305489178,
+            "Bryan Sutton": 0.004383442585679382,
+            "Mine (song)": 0.0018937929846884068,
+            "Abigail": 0.0018937929846884068,
+            "Picture to burn": 0.0018937929846884068,
+            "Speak Now (album)": 0.0018937929846884068,
+            "Caitlin Everson": 0.002013732028857111,
+            "Fan survey (how well do you know her)": 0.002013732028857111,
+            "Gallery of pictures": 0.002013732028857111,
+            "Taylor Swift discography": 0.0037181289172755552,
+            "Fearless": 0.04425708882406671,
+            "Fans singing her songs or doing other interesting things": 0.002013732028857111,
+            "News": 0.0018937929846884068,
+            "Known Facts About Taylor Swift": 0.0018937929846884068,
+            "David Cook": 0.003598189873106851,
+            "David": 0.0018937929846884068,
+            "Fan Gallery": 0.0018937929846884068,
+            "Taylor Swift": 0.05538761397377156,
+            "Grant Michelson": 0.002013732028857111,
+            "Teardrops on my Guitar": 0.0018937929846884068,
+            "A Place in This World": 0.0018937929846884068,
+            "Forever and Always": 0.0018937929846884068,
+            "Superstar (lyrics)": 0.0019504284806615088,
+            "List of songs": 0.0018937929846884068,
+            "Breathe (song)": 0.0048925051096673534,
+            "Change (song)": 0.0074256225354507235,
+            "Hey Stephen": 0.0018937929846884068,
+            "The Best Day": 0.0018937929846884068,
+            "Childhood pictures": 0.0018937929846884068,
+            "Taylor Swift's Childhood Pictures": 0.003598189873106851,
+            "White Horse": 0.0018937929846884068,
+            "Stay Beautiful": 0.0018937929846884068,
+            "Our Song": 0.00838216046678692,
+            "Untouchable (lyrics)": 0.0019504284806615088,
+            "Beautiful Eyes (EP)": 0.0018937929846884068,
+            "List of Songs by Taylor Swift": 0.003598189873106851,
+            "Fan Survey": 0.003706128855827673,
+            "Safe and Sound (Lyrics)": 0.0018937929846884068,
+            "Fearless (Taylor Swift album)": 0.029671462304254548,
+            "Fearless (album)": 0.04707778618660072,
+            "Quotes": 0.0018937929846884068,
+            "Taylor Swift Quotes": 0.003598189873106851,
+            "Safe & Sound (Lyrics)": 0.003598189873106851,
+            "Big Machine Records": 0.04078132943342942,
+            "Take Two with Phineas and Ferb": 0.0018937929846884068,
+            "Forever & Always": 0.0018937929846884068,
+            "Nathan Chapman (record producer)": 0.02630853147918765,
+            "Dan Wilson": 0.0018937929846884068,
+            "Come Back... Be Here": 0.003598189873106851,
+            "Sarah Hyland": 0.0018937929846884068
+        },
+        "hitsHubs": {
+            "Taylor Swift Wiki": 0.013572376626690584,
+            "Main Page": 1.3430576962585012e-35,
+            "Songs": 0.00011169481277576244,
+            "YouTube videos": 0.0067605751369427146,
+            "Interviews": 0.0,
+            "Selena Gomez": 0.0,
+            "Liz Huett": 0.0,
+            "Music videos": 0.0015932142929416394,
+            "Abigail Anderson": 0.0,
+            "Kellie Pickler": 0.0,
+            "Al Wilson": 0.0,
+            "Caitlin Evanson": 0.0,
+            "Paul Sidoti": 0.0,
+            "Amos Heller": 0.0,
+            "13": 0.0,
+            "Grant Mickelson": 0.0,
+            "Home movies": 0.00011169481277576244,
+            "Scott Swift": 0.0,
+            "Lyrics": 0.00676306468664381,
+            "Austin": 0.0,
+            "Andrea Swift": 0.0,
+            "Achievements": 0.00011169481277576244,
+            "Biography": 0.007276807140668628,
+            "List of Taylor Swift's ex-boyfriends": 0.0010528796493530692,
+            "Speak Now": 0.0,
+            "Miley Cyrus": 0.0,
+            "Fan survey": 0.0,
+            "Fearless (lyrics)": 0.0,
+            "Tim McGraw (lyrics)": 0.004444659931403318,
+            "Picture to Burn (lyrics)": 6.171313833426977e-19,
+            "Pictures to Burn (song)": 5.6118944592474315e-05,
+            "Teardrops on My Guitar (lyrics)": 6.171313833426977e-19,
+            "A Place in This World (lyrics)": 0.0,
+            "Cold as You (lyrics)": 6.171313833426977e-19,
+            "The Outside (lyrics)": 6.171313833426977e-19,
+            "Tied Together with a Smile (lyrics)": 6.171313833426977e-19,
+            "Stay Beautiful (lyrics)": 6.171313833426977e-19,
+            "Should've Said No (lyrics)": 6.171313833426977e-19,
+            "Mary's Song (Oh My My My) (lyrics)": 6.171313833426977e-19,
+            "Our Song (lyrics)": 6.171313833426977e-19,
+            "I'm Only Me When I'm With You (lyrics)": 6.171313833426977e-19,
+            "Invisible (lyrics)": 6.171313833426977e-19,
+            "A Perfectly Good Heart (lyrics)": 0.004444659931403318,
+            "White Horse (lyrics)": 0.0,
+            "You Belong with Me (lyrics)": 0.0,
+            "Breathe (lyrics)": 0.0,
+            "Tell Me Why (lyrics)": 0.0,
+            "Fifteen (lyrics)": 0.0,
+            "Love Story (lyrics)": 5.905934059649218e-05,
+            "Hey Stephen (lyrics)": 5.905934059649218e-05,
+            "You're Not Sorry (lyrics)": 5.905934059649218e-05,
+            "The Way I Loved You (lyrics)": 5.905934059649218e-05,
+            "Forever & Always (lyrics)": 5.905934059649218e-05,
+            "The Best Day (lyrics)": 5.905934059649218e-05,
+            "Change (lyrics)": 5.905934059649218e-05,
+            "Tim Mcgraw (song)": 5.5657109824509905e-05,
+            "Pictures to Burn (lyrics)": 5.6118944592474315e-05,
+            "Teardrops on my Guitar (lyrics)": 5.5657109824509905e-05,
+            "A Place in this World (lyrics)": 5.6118944592474315e-05,
+            "Tied Together With A Smile (lyrics)": 5.5657109824509905e-05,
+            "You Belong With Me (lyrics)": 5.5657109824509905e-05,
+            "Beautiful Eyes (lyrics)": 0.0,
+            "Television appearances": 0.0,
+            "Picture to Burn": 0.03692137656463588,
+            "Should've Said No": 0.02963587701396439,
+            "Change": 0.019294505746184572,
+            "You're Not Sorry": 0.023739165677587888,
+            "White Horse (song)": 0.04039199852608446,
+            "Love Story (song)": 0.0335818012590561,
+            "Teardrops on My Guitar": 0.04157907404741689,
+            "Two Is Better Than One": 0.011887679926178214,
+            "Fearless (song)": 0.033886390180544144,
+            "Fifteen (song)": 0.03382363893641131,
+            "Tim McGraw (song)": 0.030298420039309822,
+            "Today Was a Fairytale": 0.02395944687834675,
+            "Crazier (song)": 0.007276807140668628,
+            "Discography": 0.06296251076504376,
+            "Half of My Heart": 0.008836338099291855,
+            "Breathe": 0.019294505746184572,
+            "You Belong with Me": 0.047098215194355815,
+            "Our Song (song)": 0.0392946351814178,
+            "Sounds of the Season: The Taylor Swift Holiday Collection": 0.020782851474010884,
+            "Beautiful Eyes": 0.03977114474428198,
+            "List of awards and nominations received by Taylor Swift": 0.05065279117540015,
+            "Taylor Swift (album)": 0.04540499565959315,
+            "Valentine's Day (soundtrack)": 0.016256736446242606,
+            "Jump Then Fall": 0.020168621482756017,
+            "Love Story (Taylor Swift song)": 1.3430576962585012e-35,
+            "Liz Rose": 0.03120200660493829,
+            "2009 MTV Video Music Awards": 0.014222848449296185,
+            "Our Song (Taylor Swift song)": 0.0014484592921425903,
+            "Fearless (Taylor Swift song)": 1.3430576962585012e-35,
+            "Breathe (Taylor Swift song)": 0.0003875980215833889,
+            "Change (Taylor Swift song)": 1.3430576962585012e-35,
+            "Crazier (Taylor Swift song)": 1.3430576962585012e-35,
+            "Tim McGraw": 0.003308953088939253,
+            "Interesting news coverage": 0.0,
+            "Known facts about Taylor Swift": 0.00011169481277576244,
+            "Awards and other achievements": 1.3430576962585012e-35,
+            "Taylor Swift/Gallery": 0.0,
+            "Katy Perry": 0.0,
+            "Taylor Swift ( album)": 0.004444659931403318,
+            "Chuck Ainlay": 0.0,
+            "Bryan Sutton": 0.0,
+            "Mine (song)": 0.02400725317089341,
+            "Abigail": 0.00011169481277576244,
+            "Picture to burn": 0.0033584597349827147,
+            "Speak Now (album)": 0.001188020009604722,
+            "Caitlin Everson": 1.3430576962585012e-35,
+            "Fan survey (how well do you know her)": 1.3430576962585012e-35,
+            "Gallery of pictures": 1.3430576962585012e-35,
+            "Taylor Swift discography": 1.3430576962585012e-35,
+            "Fearless": 0.04259254728443486,
+            "Fans singing her songs or doing other interesting things": 0.0,
+            "News": 0.00011169481277576244,
+            "Known Facts About Taylor Swift": 1.3430576962585012e-35,
+            "David Cook": 0.0,
+            "David": 1.3430576962585012e-35,
+            "Fan Gallery": 0.007276807140668628,
+            "Taylor Swift": 0.05739016298588673,
+            "Grant Michelson": 1.3430576962585012e-35,
+            "Teardrops on my Guitar": 0.0034412068504667192,
+            "A Place in This World": 5.6118944592474315e-05,
+            "Forever and Always": 5.6118944592474315e-05,
+            "Superstar (lyrics)": 0.0,
+            "List of songs": 1.3430576962585012e-35,
+            "Breathe (song)": 0.000416850650623081,
+            "Change (song)": 1.3430576962585012e-35,
+            "Hey Stephen": 5.5657109824509905e-05,
+            "The Best Day": 5.5657109824509905e-05,
+            "Childhood pictures": 1.3430576962585012e-35,
+            "Taylor Swift's Childhood Pictures": 0.0,
+            "White Horse": 0.002678560476385504,
+            "Stay Beautiful": 5.5657109824509905e-05,
+            "Our Song": 0.0014484592921425903,
+            "Untouchable (lyrics)": 0.0,
+            "Beautiful Eyes (EP)": 0.002056810395502919,
+            "List of Songs by Taylor Swift": 0.0,
+            "Fan Survey": 1.3430576962585012e-35,
+            "Safe and Sound (Lyrics)": 1.3430576962585012e-35,
+            "Fearless (Taylor Swift album)": 5.905934059649218e-05,
+            "Fearless (album)": 1.3430576962585012e-35,
+            "Quotes": 1.3430576962585012e-35,
+            "Taylor Swift Quotes": 0.0,
+            "Safe & Sound (Lyrics)": 0.0,
+            "Big Machine Records": 0.0,
+            "Take Two with Phineas and Ferb": 0.007276807140668628,
+            "Forever & Always": 5.6118944592474315e-05,
+            "Nathan Chapman (record producer)": 0.0,
+            "Dan Wilson": 1.3430576962585012e-35,
+            "Come Back... Be Here": 0.0,
+            "Sarah Hyland": 0.007276807140668628
+        },
+        "hitsAuths": {
+            "Taylor Swift Wiki": 1.5737173594291977e-34,
+            "Main Page": 0.0,
+            "Songs": 0.0,
+            "YouTube videos": 0.0013087752396124873,
+            "Interviews": 0.0012980924975618605,
+            "Selena Gomez": 0.0013087752396124873,
+            "Liz Huett": 0.0019446890447864416,
+            "Music videos": 0.0012980924975618605,
+            "Abigail Anderson": 0.0013087752396124873,
+            "Kellie Pickler": 0.0172178928851679,
+            "Al Wilson": 0.0012980924975618605,
+            "Caitlin Evanson": 1.5737173594291977e-34,
+            "Paul Sidoti": 0.0012980924975618605,
+            "Amos Heller": 0.0012980924975618605,
+            "13": 0.001450471080711891,
+            "Grant Mickelson": 1.5737173594291977e-34,
+            "Home movies": 0.0,
+            "Scott Swift": 0.0012980924975618605,
+            "Lyrics": 0.0012980924975618605,
+            "Austin": 0.000646596547224581,
+            "Andrea Swift": 0.0012980924975618605,
+            "Achievements": 1.5737173594291977e-34,
+            "Biography": 0.0,
+            "List of Taylor Swift's ex-boyfriends": 0.0012980924975618605,
+            "Speak Now": 0.013920531617312932,
+            "Miley Cyrus": 0.02317235395721727,
+            "Fan survey": 1.5737173594291977e-34,
+            "Fearless (lyrics)": 0.003887804914230644,
+            "Tim McGraw (lyrics)": 0.0006521578346968515,
+            "Picture to Burn (lyrics)": 0.0006575693474975172,
+            "Pictures to Burn (song)": 0.00010069976773953551,
+            "Teardrops on My Guitar (lyrics)": 0.0006521578346968515,
+            "A Place in This World (lyrics)": 0.0006575693474975172,
+            "Cold as You (lyrics)": 0.000646834663739971,
+            "The Outside (lyrics)": 0.000646834663739971,
+            "Tied Together with a Smile (lyrics)": 0.0006521578346968515,
+            "Stay Beautiful (lyrics)": 0.0006521578346968515,
+            "Should've Said No (lyrics)": 0.000646834663739971,
+            "Mary's Song (Oh My My My) (lyrics)": 0.000646834663739971,
+            "Our Song (lyrics)": 0.0044050615785369744,
+            "I'm Only Me When I'm With You (lyrics)": 0.000646834663739971,
+            "Invisible (lyrics)": 0.000646834663739971,
+            "A Perfectly Good Heart (lyrics)": 0.000646834663739971,
+            "White Horse (lyrics)": 0.000646834663739971,
+            "You Belong with Me (lyrics)": 0.0006521578346968515,
+            "Breathe (lyrics)": 0.000646834663739971,
+            "Tell Me Why (lyrics)": 0.000646834663739971,
+            "Fifteen (lyrics)": 0.000646834663739971,
+            "Love Story (lyrics)": 0.000646834663739971,
+            "Hey Stephen (lyrics)": 0.0006521578346968515,
+            "You're Not Sorry (lyrics)": 0.000646834663739971,
+            "The Way I Loved You (lyrics)": 0.000646834663739971,
+            "Forever & Always (lyrics)": 0.0006575693474975172,
+            "The Best Day (lyrics)": 0.0006521578346968515,
+            "Change (lyrics)": 0.000646834663739971,
+            "Tim Mcgraw (song)": 0.0,
+            "Pictures to Burn (lyrics)": 0.0,
+            "Teardrops on my Guitar (lyrics)": 0.0,
+            "A Place in this World (lyrics)": 0.0,
+            "Tied Together With A Smile (lyrics)": 0.0,
+            "You Belong With Me (lyrics)": 0.0,
+            "Beautiful Eyes (lyrics)": 0.000646834663739971,
+            "Television appearances": 0.0012980924975618605,
+            "Picture to Burn": 0.03935248947688554,
+            "Should've Said No": 0.031122327306473553,
+            "Change": 1.5737173594291977e-34,
+            "You're Not Sorry": 0.013307360837779149,
+            "White Horse (song)": 0.03138582304923914,
+            "Love Story (song)": 1.5737173594291977e-34,
+            "Teardrops on My Guitar": 0.04032207233578014,
+            "Two Is Better Than One": 0.017986738092981864,
+            "Fearless (song)": 1.5737173594291977e-34,
+            "Fifteen (song)": 0.0235175241506995,
+            "Tim McGraw (song)": 0.03877239922087679,
+            "Today Was a Fairytale": 0.020782047411685534,
+            "Crazier (song)": 1.5737173594291977e-34,
+            "Discography": 1.5737173594291977e-34,
+            "Half of My Heart": 0.01155895325284811,
+            "Breathe": 0.00488441492128299,
+            "You Belong with Me": 0.038341051772806244,
+            "Our Song (song)": 0.016972208556798953,
+            "Sounds of the Season: The Taylor Swift Holiday Collection": 0.01151079926242888,
+            "Beautiful Eyes": 0.024100515067033847,
+            "List of awards and nominations received by Taylor Swift": 0.0013087752396124873,
+            "Taylor Swift (album)": 0.05207995539055768,
+            "Valentine's Day (soundtrack)": 0.01024238283005195,
+            "Jump Then Fall": 0.004789799262712791,
+            "Love Story (Taylor Swift song)": 0.043726795432691395,
+            "Liz Rose": 0.03828417345501589,
+            "2009 MTV Video Music Awards": 0.0099935025043178,
+            "Our Song (Taylor Swift song)": 0.006021875541890575,
+            "Fearless (Taylor Swift song)": 0.018273682128397965,
+            "Breathe (Taylor Swift song)": 0.006021875541890575,
+            "Change (Taylor Swift song)": 0.013307360837779149,
+            "Crazier (Taylor Swift song)": 0.006021875541890575,
+            "Tim McGraw": 0.012236335239710641,
+            "Interesting news coverage": 0.0013087752396124873,
+            "Known facts about Taylor Swift": 1.5737173594291977e-34,
+            "Awards and other achievements": 0.0,
+            "Taylor Swift/Gallery": 1.5737173594291977e-34,
+            "Katy Perry": 0.0026583975769485803,
+            "Taylor Swift ( album)": 7.231188754738584e-18,
+            "Chuck Ainlay": 0.0043426354750230765,
+            "Bryan Sutton": 0.004073646613061893,
+            "Mine (song)": 0.0,
+            "Abigail": 0.0,
+            "Picture to burn": 0.0,
+            "Speak Now (album)": 0.0,
+            "Caitlin Everson": 0.0012980924975618605,
+            "Fan survey (how well do you know her)": 0.0012980924975618605,
+            "Gallery of pictures": 0.0012980924975618605,
+            "Taylor Swift discography": 0.0013087752396124873,
+            "Fearless": 1.5737173594291977e-34,
+            "Fans singing her songs or doing other interesting things": 0.0012980924975618605,
+            "News": 0.0,
+            "Known Facts About Taylor Swift": 0.0,
+            "David Cook": 1.5737173594291977e-34,
+            "David": 0.0,
+            "Fan Gallery": 0.0,
+            "Taylor Swift": 0.08526541897932316,
+            "Grant Michelson": 0.0012980924975618605,
+            "Teardrops on my Guitar": 0.0,
+            "A Place in This World": 0.0,
+            "Forever and Always": 0.0,
+            "Superstar (lyrics)": 0.000646834663739971,
+            "List of songs": 0.0,
+            "Breathe (song)": 0.00454164952663947,
+            "Change (song)": 1.5737173594291977e-34,
+            "Hey Stephen": 0.0,
+            "The Best Day": 0.0,
+            "Childhood pictures": 0.0,
+            "Taylor Swift's Childhood Pictures": 1.5737173594291977e-34,
+            "White Horse": 0.0,
+            "Stay Beautiful": 0.0,
+            "Our Song": 0.01326082847955406,
+            "Untouchable (lyrics)": 0.000646834663739971,
+            "Beautiful Eyes (EP)": 0.0,
+            "List of Songs by Taylor Swift": 1.5737173594291977e-34,
+            "Fan Survey": 1.5737173594291977e-34,
+            "Safe and Sound (Lyrics)": 0.0,
+            "Fearless (Taylor Swift album)": 0.061166671041047296,
+            "Fearless (album)": 0.0006920232078790188,
+            "Quotes": 0.0,
+            "Taylor Swift Quotes": 1.5737173594291977e-34,
+            "Safe & Sound (Lyrics)": 1.5737173594291977e-34,
+            "Big Machine Records": 0.07964977317110353,
+            "Take Two with Phineas and Ferb": 0.0,
+            "Forever & Always": 0.0,
+            "Nathan Chapman (record producer)": 0.04718164038019138,
+            "Dan Wilson": 0.0,
+            "Come Back... Be Here": 1.5737173594291977e-34,
+            "Sarah Hyland": 0.0
+        },
+        "averagePathLength": 2.824603174603175
+    }
+}

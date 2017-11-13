@@ -1,0 +1,441 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Tim McGraw (song)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Discography"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (Taylor Swift song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (Taylor Swift song)"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Tim McGraw"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan survey (how well do you know her)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift discography"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David Cook"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "David"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Gallery"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of songs"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Breathe (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Change (song)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Childhood pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "List of Songs by Taylor Swift"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fan Survey"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe and Sound (Lyrics)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (Taylor Swift album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Fearless (album)"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Taylor Swift Quotes"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Safe & Sound (Lyrics)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Big Machine Records"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Take Two with Phineas and Ferb"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dan Wilson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Come Back... Be Here"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sarah Hyland"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 24
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 4,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 17
+        },
+        {
+            "source": 6,
+            "target": 1
+        },
+        {
+            "source": 8,
+            "target": 7
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 10,
+            "target": 24
+        },
+        {
+            "source": 10,
+            "target": 0
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 16
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 18,
+            "target": 23
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 21,
+            "target": 22
+        },
+        {
+            "source": 25,
+            "target": 10
+        },
+        {
+            "source": 26,
+            "target": 27
+        },
+        {
+            "source": 28,
+            "target": 10
+        }
+    ],
+    "edges": [
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Tim McGraw (song)",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "Discography",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Breathe (Taylor Swift song)",
+            "target": "Breathe (song)"
+        },
+        {
+            "source": "Change (Taylor Swift song)",
+            "target": "Change (song)"
+        },
+        {
+            "source": "Tim McGraw",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Fan survey (how well do you know her)",
+            "target": "Fan Survey"
+        },
+        {
+            "source": "Taylor Swift discography",
+            "target": "Discography"
+        },
+        {
+            "source": "David",
+            "target": "David Cook"
+        },
+        {
+            "source": "Fan Gallery",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Big Machine Records"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Tim McGraw (song)"
+        },
+        {
+            "source": "Taylor Swift",
+            "target": "Tim McGraw"
+        },
+        {
+            "source": "List of songs",
+            "target": "List of Songs by Taylor Swift"
+        },
+        {
+            "source": "Childhood pictures",
+            "target": "Taylor Swift's Childhood Pictures"
+        },
+        {
+            "source": "Safe and Sound (Lyrics)",
+            "target": "Safe & Sound (Lyrics)"
+        },
+        {
+            "source": "Fearless (Taylor Swift album)",
+            "target": "Fearless (album)"
+        },
+        {
+            "source": "Quotes",
+            "target": "Taylor Swift Quotes"
+        },
+        {
+            "source": "Take Two with Phineas and Ferb",
+            "target": "Taylor Swift"
+        },
+        {
+            "source": "Dan Wilson",
+            "target": "Come Back... Be Here"
+        },
+        {
+            "source": "Sarah Hyland",
+            "target": "Taylor Swift"
+        }
+    ],
+    "basic": {
+        "numNodes": 29,
+        "numEdges": 22,
+        "selfLinks": 0,
+        "numStrongComponents": 27,
+        "numWeakComponents": 11,
+        "sizeLargestStrong": 3,
+        "sizeLargestWeak": 9,
+        "radius": 1,
+        "diameter": 2,
+        "averageInDegree": 0.7586206896551724,
+        "averageOutDegree": 0.7586206896551724,
+        "maxOutDegree": 3,
+        "maxInDegree": 5,
+        "pageRank": {
+            "Tim McGraw (song)": 0.13908070584619192,
+            "Discography": 0.02964186539919226,
+            "Breathe (Taylor Swift song)": 0.015600878892131114,
+            "Change (Taylor Swift song)": 0.015600878892131114,
+            "Tim McGraw": 0.09516091427457804,
+            "Fan survey (how well do you know her)": 0.015600878892131114,
+            "Taylor Swift discography": 0.015600878892131114,
+            "David Cook": 0.02964186539919226,
+            "David": 0.015600878892131114,
+            "Fan Gallery": 0.015600878892131114,
+            "Taylor Swift": 0.12612464172370144,
+            "List of songs": 0.015600878892131114,
+            "Breathe (song)": 0.02964186539919226,
+            "Change (song)": 0.02964186539919226,
+            "Childhood pictures": 0.015600878892131114,
+            "Taylor Swift's Childhood Pictures": 0.02964186539919226,
+            "List of Songs by Taylor Swift": 0.02964186539919226,
+            "Fan Survey": 0.02964186539919226,
+            "Safe and Sound (Lyrics)": 0.015600878892131114,
+            "Fearless (Taylor Swift album)": 0.015600878892131114,
+            "Fearless (album)": 0.02964186539919226,
+            "Quotes": 0.015600878892131114,
+            "Taylor Swift Quotes": 0.02964186539919226,
+            "Safe & Sound (Lyrics)": 0.02964186539919226,
+            "Big Machine Records": 0.09516091427457804,
+            "Take Two with Phineas and Ferb": 0.015600878892131114,
+            "Dan Wilson": 0.015600878892131114,
+            "Come Back... Be Here": 0.02964186539919226,
+            "Sarah Hyland": 0.015600878892131114
+        },
+        "hitsHubs": {
+            "Tim McGraw (song)": 0.2749767587607334,
+            "Discography": 0.1262861842468061,
+            "Breathe (Taylor Swift song)": 1.3980230340791225e-27,
+            "Change (Taylor Swift song)": 1.3980230340791225e-27,
+            "Tim McGraw": 0.03559396486905745,
+            "Fan survey (how well do you know her)": 1.3980230340791225e-27,
+            "Taylor Swift discography": 1.3980230340791225e-27,
+            "David Cook": 0.0,
+            "David": 1.3980230340791225e-27,
+            "Fan Gallery": 0.1262861842468061,
+            "Taylor Swift": 0.18428453938298478,
+            "List of songs": 1.3980230340791225e-27,
+            "Breathe (song)": 0.0,
+            "Change (song)": 0.0,
+            "Childhood pictures": 1.3980230340791225e-27,
+            "Taylor Swift's Childhood Pictures": 0.0,
+            "List of Songs by Taylor Swift": 0.0,
+            "Fan Survey": 0.0,
+            "Safe and Sound (Lyrics)": 1.3980230340791225e-27,
+            "Fearless (Taylor Swift album)": 1.3980230340791225e-27,
+            "Fearless (album)": 0.0,
+            "Quotes": 1.3980230340791225e-27,
+            "Taylor Swift Quotes": 0.0,
+            "Safe & Sound (Lyrics)": 0.0,
+            "Big Machine Records": 0.0,
+            "Take Two with Phineas and Ferb": 0.1262861842468061,
+            "Dan Wilson": 1.3980230340791225e-27,
+            "Come Back... Be Here": 0.0,
+            "Sarah Hyland": 0.1262861842468061
+        },
+        "hitsAuths": {
+            "Tim McGraw (song)": 0.11460824269929087,
+            "Discography": 4.50146432908984e-27,
+            "Breathe (Taylor Swift song)": 0.0,
+            "Change (Taylor Swift song)": 0.0,
+            "Tim McGraw": 0.23938279303359367,
+            "Fan survey (how well do you know her)": 0.0,
+            "Taylor Swift discography": 0.0,
+            "David Cook": 4.50146432908984e-27,
+            "David": 0.0,
+            "Fan Gallery": 0.0,
+            "Taylor Swift": 0.40662617123352185,
+            "List of songs": 0.0,
+            "Breathe (song)": 4.50146432908984e-27,
+            "Change (song)": 4.50146432908984e-27,
+            "Childhood pictures": 0.0,
+            "Taylor Swift's Childhood Pictures": 4.50146432908984e-27,
+            "List of Songs by Taylor Swift": 4.50146432908984e-27,
+            "Fan Survey": 4.50146432908984e-27,
+            "Safe and Sound (Lyrics)": 0.0,
+            "Fearless (Taylor Swift album)": 0.0,
+            "Fearless (album)": 4.50146432908984e-27,
+            "Quotes": 0.0,
+            "Taylor Swift Quotes": 4.50146432908984e-27,
+            "Safe & Sound (Lyrics)": 4.50146432908984e-27,
+            "Big Machine Records": 0.23938279303359367,
+            "Take Two with Phineas and Ferb": 0.0,
+            "Dan Wilson": 0.0,
+            "Come Back... Be Here": 4.50146432908984e-27,
+            "Sarah Hyland": 0.0
+        },
+        "averagePathLength": 1.1666666666666667
+    }
+}

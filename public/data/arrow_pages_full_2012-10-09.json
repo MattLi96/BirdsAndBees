@@ -1,0 +1,4337 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "Arrowverse Wiki"
+        },
+        {
+            "degree": 36,
+            "parity": 1,
+            "id": "Oliver Queen"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Moira Queen"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Robert Queen"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Thea Queen"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Stephen Amell"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Susanna Thompson"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Jamey Sheridan"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Willa Holland"
+        },
+        {
+            "degree": 48,
+            "parity": 1,
+            "id": "Arrow"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Katie Cassidy"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Colin Donnell"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "David Ramsey"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Paul Blackthorne"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Colin Salmon"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Darren Shahlavi"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Jacqueline MacInnes Wood"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Laurel Lance"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Sara Lance"
+        },
+        {
+            "degree": 11,
+            "parity": 0,
+            "id": "Quentin Lance"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Tommy Merlyn"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Star City"
+        },
+        {
+            "degree": 10,
+            "parity": 1,
+            "id": "John Diggle"
+        },
+        {
+            "degree": 13,
+            "parity": 0,
+            "id": "Walter Steele"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Green Arrow (character)"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Constantine Drakon"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Roger Cross"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Kathleen Gati"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Raisa"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Queen Mansion"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Lucas Hilton"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Adam Hunt"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Greg Berlanti"
+        },
+        {
+            "degree": 15,
+            "parity": 0,
+            "id": "Marc Guggenheim"
+        },
+        {
+            "degree": 14,
+            "parity": 1,
+            "id": "Andrew Kreisberg"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Annie Ilonzeh"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Joanna de la Vega"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Brian Markinson"
+        },
+        {
+            "degree": 18,
+            "parity": 1,
+            "id": "Pilot (Arrow)"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "David Nutter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Melissa Kellner Berman"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Simon Chin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jon Wallace"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Glen Winter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Paul Karasick"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tish Monaghan"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Adrien Van Viersen"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Shivas Thilak Anthikkat"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Curtis Braconnier"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Isabel Bloor"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tom Trafalski"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Colin House"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Noel Johansen"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "James Bamford"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Hiro Kanagawa"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Neil Lamb"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jack Hardy"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Dave Abuel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Eric Mattson"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "J.J. Makaro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Andrew Chin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Colin Decker"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Simon Burnett"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Jon Kralt"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Shamus Whiting-Hewlett"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "A. J. Gillespie"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "George Manno"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Peter Rotter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ryan Doucette"
+        },
+        {
+            "degree": 46,
+            "parity": 1,
+            "id": "Season 1 (Arrow)"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Queen's Gambit"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Guy Bee"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dave Isaac Santos Abuel"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "City Necessary Resources Initiative"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "CNRI"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Honor Thy Father"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "The CW"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "CW"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Sky1"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Kelly Hu"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Chien Na Wei"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Test Drive"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Star City Plaza Hotel"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Queen Consolidated"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Patel"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Unidac Industries"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Groves"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Joanna"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "David Barrett"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Floyd Lawton"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Deadshot"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Michael Rowe"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Slade Wilson"
+        },
+        {
+            "degree": 20,
+            "parity": 1,
+            "id": "Lone Gunmen"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "An Innocent Man"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Salvage"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Moira Kirland"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Lana Cho"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Vince Misiano"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Billy Wintergreen"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "CTV Two"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Byron Mann"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Damaged"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Wendy Mericle"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Ben Sokolowski"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Michael Schultz"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Emily Bett Rickards"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Felicity Smoak"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "John Barrowman"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Jessica De Gouw"
+        },
+        {
+            "degree": 9,
+            "parity": 0,
+            "id": "Helena Bertinelli"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Huntress"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Huntress"
+        },
+        {
+            "degree": 12,
+            "parity": 1,
+            "id": "Legacies"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "John Behring"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Laurel"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Oliver"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Kirby Morrow"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Frank Bertinelli"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Jeffrey Nordling"
+        },
+        {
+            "degree": 21,
+            "parity": 0,
+            "id": "Muse of Fire"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Geoff Johns"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "David Grossman"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Royal Flush Gang"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Kyle Reston"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Kyle Schmid"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Tahmoh Penikett"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Nick Salvati"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Nine Network"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Warner Channel"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Vendetta"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Beth Schwartz"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Ken Fink"
+        },
+        {
+            "degree": 8,
+            "parity": 1,
+            "id": "List of Arrow episodes"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Chinese Triad"
+        },
+        {
+            "degree": 7,
+            "parity": 0,
+            "id": "Martin Somers"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Ty Olsson"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Slade"
+        },
+        {
+            "degree": 4,
+            "parity": 1,
+            "id": "Derek Reston"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Currie Graham"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Queen's Game"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Tommy"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Thea"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Guy Norman Bee"
+        },
+        {
+            "degree": 6,
+            "parity": 1,
+            "id": "Detective Hilton"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "King"
+        },
+        {
+            "degree": 3,
+            "parity": 0,
+            "id": "Ace"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Emily Rickards"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Helena"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ollie"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Diggle"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Dig"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "John"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Quentin"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Detective Lance"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Moira"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Byron Chan"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Felicity"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Walter"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Ollie Queen"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Hood"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Digg"
+        },
+        {
+            "degree": 2,
+            "parity": 1,
+            "id": "Officer Groves"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Bam-Bam"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "J. J. Makaro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "JJ Makaro"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "The Arrow"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Lone Gunman"
+        },
+        {
+            "degree": 5,
+            "parity": 0,
+            "id": "Joanna De La Vega"
+        },
+        {
+            "degree": 1,
+            "parity": 0,
+            "id": "Bill Wintergreen"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 76
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 22
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 23
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 75
+        },
+        {
+            "source": 1,
+            "target": 93
+        },
+        {
+            "source": 1,
+            "target": 94
+        },
+        {
+            "source": 2,
+            "target": 23
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 7
+        },
+        {
+            "source": 3,
+            "target": 23
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 23
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 4,
+            "target": 8
+        },
+        {
+            "source": 5,
+            "target": 1
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 7,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 1
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 9,
+            "target": 2
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 20
+        },
+        {
+            "source": 9,
+            "target": 17
+        },
+        {
+            "source": 9,
+            "target": 9
+        },
+        {
+            "source": 9,
+            "target": 22
+        },
+        {
+            "source": 9,
+            "target": 19
+        },
+        {
+            "source": 10,
+            "target": 17
+        },
+        {
+            "source": 11,
+            "target": 20
+        },
+        {
+            "source": 12,
+            "target": 22
+        },
+        {
+            "source": 13,
+            "target": 19
+        },
+        {
+            "source": 14,
+            "target": 23
+        },
+        {
+            "source": 15,
+            "target": 25
+        },
+        {
+            "source": 15,
+            "target": 9
+        },
+        {
+            "source": 17,
+            "target": 19
+        },
+        {
+            "source": 17,
+            "target": 10
+        },
+        {
+            "source": 17,
+            "target": 1
+        },
+        {
+            "source": 18,
+            "target": 17
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 16
+        },
+        {
+            "source": 18,
+            "target": 1
+        },
+        {
+            "source": 19,
+            "target": 17
+        },
+        {
+            "source": 19,
+            "target": 13
+        },
+        {
+            "source": 19,
+            "target": 144
+        },
+        {
+            "source": 20,
+            "target": 11
+        },
+        {
+            "source": 20,
+            "target": 1
+        },
+        {
+            "source": 21,
+            "target": 1
+        },
+        {
+            "source": 22,
+            "target": 12
+        },
+        {
+            "source": 22,
+            "target": 1
+        },
+        {
+            "source": 23,
+            "target": 2
+        },
+        {
+            "source": 23,
+            "target": 1
+        },
+        {
+            "source": 23,
+            "target": 4
+        },
+        {
+            "source": 23,
+            "target": 14
+        },
+        {
+            "source": 23,
+            "target": 83
+        },
+        {
+            "source": 23,
+            "target": 3
+        },
+        {
+            "source": 24,
+            "target": 1
+        },
+        {
+            "source": 25,
+            "target": 15
+        },
+        {
+            "source": 26,
+            "target": 144
+        },
+        {
+            "source": 27,
+            "target": 28
+        },
+        {
+            "source": 28,
+            "target": 27
+        },
+        {
+            "source": 28,
+            "target": 29
+        },
+        {
+            "source": 29,
+            "target": 1
+        },
+        {
+            "source": 29,
+            "target": 28
+        },
+        {
+            "source": 30,
+            "target": 26
+        },
+        {
+            "source": 30,
+            "target": 19
+        },
+        {
+            "source": 31,
+            "target": 37
+        },
+        {
+            "source": 31,
+            "target": 1
+        },
+        {
+            "source": 32,
+            "target": 33
+        },
+        {
+            "source": 32,
+            "target": 34
+        },
+        {
+            "source": 32,
+            "target": 39
+        },
+        {
+            "source": 33,
+            "target": 32
+        },
+        {
+            "source": 33,
+            "target": 34
+        },
+        {
+            "source": 33,
+            "target": 39
+        },
+        {
+            "source": 33,
+            "target": 121
+        },
+        {
+            "source": 34,
+            "target": 32
+        },
+        {
+            "source": 34,
+            "target": 33
+        },
+        {
+            "source": 34,
+            "target": 39
+        },
+        {
+            "source": 34,
+            "target": 131
+        },
+        {
+            "source": 35,
+            "target": 168
+        },
+        {
+            "source": 36,
+            "target": 35
+        },
+        {
+            "source": 36,
+            "target": 17
+        },
+        {
+            "source": 36,
+            "target": 73
+        },
+        {
+            "source": 36,
+            "target": 1
+        },
+        {
+            "source": 37,
+            "target": 31
+        },
+        {
+            "source": 38,
+            "target": 34
+        },
+        {
+            "source": 38,
+            "target": 33
+        },
+        {
+            "source": 38,
+            "target": 39
+        },
+        {
+            "source": 38,
+            "target": 37
+        },
+        {
+            "source": 38,
+            "target": 31
+        },
+        {
+            "source": 38,
+            "target": 26
+        },
+        {
+            "source": 38,
+            "target": 144
+        },
+        {
+            "source": 38,
+            "target": 15
+        },
+        {
+            "source": 38,
+            "target": 25
+        },
+        {
+            "source": 38,
+            "target": 27
+        },
+        {
+            "source": 38,
+            "target": 28
+        },
+        {
+            "source": 38,
+            "target": 16
+        },
+        {
+            "source": 38,
+            "target": 35
+        },
+        {
+            "source": 38,
+            "target": 168
+        },
+        {
+            "source": 38,
+            "target": 7
+        },
+        {
+            "source": 38,
+            "target": 3
+        },
+        {
+            "source": 38,
+            "target": 9
+        },
+        {
+            "source": 38,
+            "target": 29
+        },
+        {
+            "source": 39,
+            "target": 32
+        },
+        {
+            "source": 39,
+            "target": 33
+        },
+        {
+            "source": 39,
+            "target": 34
+        },
+        {
+            "source": 40,
+            "target": 9
+        },
+        {
+            "source": 41,
+            "target": 9
+        },
+        {
+            "source": 42,
+            "target": 9
+        },
+        {
+            "source": 43,
+            "target": 9
+        },
+        {
+            "source": 44,
+            "target": 9
+        },
+        {
+            "source": 45,
+            "target": 9
+        },
+        {
+            "source": 46,
+            "target": 9
+        },
+        {
+            "source": 47,
+            "target": 9
+        },
+        {
+            "source": 48,
+            "target": 9
+        },
+        {
+            "source": 49,
+            "target": 9
+        },
+        {
+            "source": 50,
+            "target": 9
+        },
+        {
+            "source": 51,
+            "target": 9
+        },
+        {
+            "source": 52,
+            "target": 9
+        },
+        {
+            "source": 55,
+            "target": 54
+        },
+        {
+            "source": 55,
+            "target": 2
+        },
+        {
+            "source": 56,
+            "target": 9
+        },
+        {
+            "source": 57,
+            "target": 9
+        },
+        {
+            "source": 58,
+            "target": 9
+        },
+        {
+            "source": 59,
+            "target": 9
+        },
+        {
+            "source": 60,
+            "target": 9
+        },
+        {
+            "source": 61,
+            "target": 9
+        },
+        {
+            "source": 62,
+            "target": 9
+        },
+        {
+            "source": 63,
+            "target": 9
+        },
+        {
+            "source": 64,
+            "target": 9
+        },
+        {
+            "source": 65,
+            "target": 9
+        },
+        {
+            "source": 66,
+            "target": 9
+        },
+        {
+            "source": 67,
+            "target": 9
+        },
+        {
+            "source": 68,
+            "target": 9
+        },
+        {
+            "source": 69,
+            "target": 9
+        },
+        {
+            "source": 69,
+            "target": 5
+        },
+        {
+            "source": 69,
+            "target": 1
+        },
+        {
+            "source": 69,
+            "target": 8
+        },
+        {
+            "source": 69,
+            "target": 4
+        },
+        {
+            "source": 69,
+            "target": 10
+        },
+        {
+            "source": 69,
+            "target": 17
+        },
+        {
+            "source": 69,
+            "target": 13
+        },
+        {
+            "source": 69,
+            "target": 19
+        },
+        {
+            "source": 69,
+            "target": 11
+        },
+        {
+            "source": 69,
+            "target": 20
+        },
+        {
+            "source": 69,
+            "target": 12
+        },
+        {
+            "source": 69,
+            "target": 22
+        },
+        {
+            "source": 69,
+            "target": 6
+        },
+        {
+            "source": 69,
+            "target": 2
+        },
+        {
+            "source": 69,
+            "target": 14
+        },
+        {
+            "source": 69,
+            "target": 23
+        },
+        {
+            "source": 69,
+            "target": 15
+        },
+        {
+            "source": 69,
+            "target": 25
+        },
+        {
+            "source": 69,
+            "target": 16
+        },
+        {
+            "source": 69,
+            "target": 7
+        },
+        {
+            "source": 69,
+            "target": 3
+        },
+        {
+            "source": 69,
+            "target": 39
+        },
+        {
+            "source": 69,
+            "target": 34
+        },
+        {
+            "source": 69,
+            "target": 33
+        },
+        {
+            "source": 69,
+            "target": 31
+        },
+        {
+            "source": 69,
+            "target": 75
+        },
+        {
+            "source": 69,
+            "target": 88
+        },
+        {
+            "source": 69,
+            "target": 32
+        },
+        {
+            "source": 69,
+            "target": 93
+        },
+        {
+            "source": 69,
+            "target": 143
+        },
+        {
+            "source": 69,
+            "target": 94
+        },
+        {
+            "source": 69,
+            "target": 98
+        },
+        {
+            "source": 69,
+            "target": 97
+        },
+        {
+            "source": 69,
+            "target": 102
+        },
+        {
+            "source": 69,
+            "target": 105
+        },
+        {
+            "source": 69,
+            "target": 103
+        },
+        {
+            "source": 69,
+            "target": 104
+        },
+        {
+            "source": 69,
+            "target": 113
+        },
+        {
+            "source": 69,
+            "target": 114
+        },
+        {
+            "source": 69,
+            "target": 120
+        },
+        {
+            "source": 69,
+            "target": 122
+        },
+        {
+            "source": 69,
+            "target": 121
+        },
+        {
+            "source": 69,
+            "target": 130
+        },
+        {
+            "source": 69,
+            "target": 132
+        },
+        {
+            "source": 69,
+            "target": 131
+        },
+        {
+            "source": 70,
+            "target": 3
+        },
+        {
+            "source": 72,
+            "target": 57
+        },
+        {
+            "source": 73,
+            "target": 17
+        },
+        {
+            "source": 73,
+            "target": 168
+        },
+        {
+            "source": 74,
+            "target": 73
+        },
+        {
+            "source": 75,
+            "target": 32
+        },
+        {
+            "source": 75,
+            "target": 33
+        },
+        {
+            "source": 75,
+            "target": 34
+        },
+        {
+            "source": 75,
+            "target": 88
+        },
+        {
+            "source": 75,
+            "target": 136
+        },
+        {
+            "source": 75,
+            "target": 135
+        },
+        {
+            "source": 75,
+            "target": 79
+        },
+        {
+            "source": 75,
+            "target": 93
+        },
+        {
+            "source": 75,
+            "target": 1
+        },
+        {
+            "source": 75,
+            "target": 17
+        },
+        {
+            "source": 75,
+            "target": 134
+        },
+        {
+            "source": 75,
+            "target": 83
+        },
+        {
+            "source": 76,
+            "target": 9
+        },
+        {
+            "source": 77,
+            "target": 76
+        },
+        {
+            "source": 78,
+            "target": 9
+        },
+        {
+            "source": 79,
+            "target": 75
+        },
+        {
+            "source": 80,
+            "target": 75
+        },
+        {
+            "source": 80,
+            "target": 79
+        },
+        {
+            "source": 80,
+            "target": 134
+        },
+        {
+            "source": 81,
+            "target": 9
+        },
+        {
+            "source": 81,
+            "target": 75
+        },
+        {
+            "source": 81,
+            "target": 1
+        },
+        {
+            "source": 81,
+            "target": 144
+        },
+        {
+            "source": 81,
+            "target": 85
+        },
+        {
+            "source": 81,
+            "target": 162
+        },
+        {
+            "source": 82,
+            "target": 1
+        },
+        {
+            "source": 84,
+            "target": 85
+        },
+        {
+            "source": 84,
+            "target": 1
+        },
+        {
+            "source": 84,
+            "target": 144
+        },
+        {
+            "source": 87,
+            "target": 168
+        },
+        {
+            "source": 89,
+            "target": 93
+        },
+        {
+            "source": 89,
+            "target": 91
+        },
+        {
+            "source": 90,
+            "target": 89
+        },
+        {
+            "source": 91,
+            "target": 89
+        },
+        {
+            "source": 91,
+            "target": 93
+        },
+        {
+            "source": 93,
+            "target": 32
+        },
+        {
+            "source": 93,
+            "target": 33
+        },
+        {
+            "source": 93,
+            "target": 34
+        },
+        {
+            "source": 93,
+            "target": 143
+        },
+        {
+            "source": 93,
+            "target": 91
+        },
+        {
+            "source": 93,
+            "target": 89
+        },
+        {
+            "source": 93,
+            "target": 106
+        },
+        {
+            "source": 93,
+            "target": 107
+        },
+        {
+            "source": 93,
+            "target": 75
+        },
+        {
+            "source": 93,
+            "target": 94
+        },
+        {
+            "source": 93,
+            "target": 1
+        },
+        {
+            "source": 94,
+            "target": 97
+        },
+        {
+            "source": 94,
+            "target": 98
+        },
+        {
+            "source": 94,
+            "target": 117
+        },
+        {
+            "source": 94,
+            "target": 93
+        },
+        {
+            "source": 94,
+            "target": 102
+        },
+        {
+            "source": 95,
+            "target": 94
+        },
+        {
+            "source": 96,
+            "target": 97
+        },
+        {
+            "source": 96,
+            "target": 33
+        },
+        {
+            "source": 99,
+            "target": 92
+        },
+        {
+            "source": 100,
+            "target": 9
+        },
+        {
+            "source": 102,
+            "target": 103
+        },
+        {
+            "source": 102,
+            "target": 104
+        },
+        {
+            "source": 102,
+            "target": 105
+        },
+        {
+            "source": 102,
+            "target": 94
+        },
+        {
+            "source": 102,
+            "target": 113
+        },
+        {
+            "source": 103,
+            "target": 104
+        },
+        {
+            "source": 104,
+            "target": 103
+        },
+        {
+            "source": 106,
+            "target": 107
+        },
+        {
+            "source": 107,
+            "target": 93
+        },
+        {
+            "source": 107,
+            "target": 106
+        },
+        {
+            "source": 108,
+            "target": 120
+        },
+        {
+            "source": 109,
+            "target": 110
+        },
+        {
+            "source": 109,
+            "target": 120
+        },
+        {
+            "source": 110,
+            "target": 118
+        },
+        {
+            "source": 110,
+            "target": 120
+        },
+        {
+            "source": 110,
+            "target": 109
+        },
+        {
+            "source": 111,
+            "target": 110
+        },
+        {
+            "source": 112,
+            "target": 110
+        },
+        {
+            "source": 113,
+            "target": 33
+        },
+        {
+            "source": 113,
+            "target": 114
+        },
+        {
+            "source": 113,
+            "target": 102
+        },
+        {
+            "source": 113,
+            "target": 120
+        },
+        {
+            "source": 115,
+            "target": 17
+        },
+        {
+            "source": 116,
+            "target": 1
+        },
+        {
+            "source": 117,
+            "target": 94
+        },
+        {
+            "source": 118,
+            "target": 110
+        },
+        {
+            "source": 118,
+            "target": 120
+        },
+        {
+            "source": 118,
+            "target": 119
+        },
+        {
+            "source": 119,
+            "target": 118
+        },
+        {
+            "source": 119,
+            "target": 120
+        },
+        {
+            "source": 120,
+            "target": 34
+        },
+        {
+            "source": 120,
+            "target": 121
+        },
+        {
+            "source": 120,
+            "target": 33
+        },
+        {
+            "source": 120,
+            "target": 122
+        },
+        {
+            "source": 120,
+            "target": 109
+        },
+        {
+            "source": 120,
+            "target": 110
+        },
+        {
+            "source": 120,
+            "target": 119
+        },
+        {
+            "source": 120,
+            "target": 118
+        },
+        {
+            "source": 120,
+            "target": 113
+        },
+        {
+            "source": 120,
+            "target": 130
+        },
+        {
+            "source": 121,
+            "target": 33
+        },
+        {
+            "source": 123,
+            "target": 145
+        },
+        {
+            "source": 123,
+            "target": 146
+        },
+        {
+            "source": 124,
+            "target": 113
+        },
+        {
+            "source": 124,
+            "target": 125
+        },
+        {
+            "source": 124,
+            "target": 123
+        },
+        {
+            "source": 125,
+            "target": 146
+        },
+        {
+            "source": 125,
+            "target": 113
+        },
+        {
+            "source": 126,
+            "target": 120
+        },
+        {
+            "source": 127,
+            "target": 120
+        },
+        {
+            "source": 127,
+            "target": 126
+        },
+        {
+            "source": 127,
+            "target": 118
+        },
+        {
+            "source": 128,
+            "target": 9
+        },
+        {
+            "source": 129,
+            "target": 9
+        },
+        {
+            "source": 130,
+            "target": 131
+        },
+        {
+            "source": 130,
+            "target": 34
+        },
+        {
+            "source": 130,
+            "target": 132
+        },
+        {
+            "source": 130,
+            "target": 120
+        },
+        {
+            "source": 131,
+            "target": 34
+        },
+        {
+            "source": 133,
+            "target": 9
+        },
+        {
+            "source": 133,
+            "target": 75
+        },
+        {
+            "source": 133,
+            "target": 93
+        },
+        {
+            "source": 133,
+            "target": 94
+        },
+        {
+            "source": 133,
+            "target": 102
+        },
+        {
+            "source": 133,
+            "target": 113
+        },
+        {
+            "source": 133,
+            "target": 120
+        },
+        {
+            "source": 133,
+            "target": 130
+        },
+        {
+            "source": 134,
+            "target": 135
+        },
+        {
+            "source": 135,
+            "target": 75
+        },
+        {
+            "source": 135,
+            "target": 136
+        },
+        {
+            "source": 135,
+            "target": 134
+        },
+        {
+            "source": 135,
+            "target": 17
+        },
+        {
+            "source": 136,
+            "target": 135
+        },
+        {
+            "source": 136,
+            "target": 75
+        },
+        {
+            "source": 137,
+            "target": 92
+        },
+        {
+            "source": 138,
+            "target": 123
+        },
+        {
+            "source": 138,
+            "target": 113
+        },
+        {
+            "source": 138,
+            "target": 139
+        },
+        {
+            "source": 139,
+            "target": 145
+        },
+        {
+            "source": 139,
+            "target": 113
+        },
+        {
+            "source": 140,
+            "target": 70
+        },
+        {
+            "source": 141,
+            "target": 20
+        },
+        {
+            "source": 142,
+            "target": 4
+        },
+        {
+            "source": 143,
+            "target": 71
+        },
+        {
+            "source": 144,
+            "target": 30
+        },
+        {
+            "source": 145,
+            "target": 138
+        },
+        {
+            "source": 146,
+            "target": 124
+        },
+        {
+            "source": 147,
+            "target": 106
+        },
+        {
+            "source": 148,
+            "target": 110
+        },
+        {
+            "source": 149,
+            "target": 1
+        },
+        {
+            "source": 150,
+            "target": 22
+        },
+        {
+            "source": 151,
+            "target": 22
+        },
+        {
+            "source": 152,
+            "target": 22
+        },
+        {
+            "source": 153,
+            "target": 19
+        },
+        {
+            "source": 154,
+            "target": 19
+        },
+        {
+            "source": 155,
+            "target": 2
+        },
+        {
+            "source": 156,
+            "target": 101
+        },
+        {
+            "source": 157,
+            "target": 107
+        },
+        {
+            "source": 158,
+            "target": 23
+        },
+        {
+            "source": 159,
+            "target": 1
+        },
+        {
+            "source": 160,
+            "target": 1
+        },
+        {
+            "source": 161,
+            "target": 22
+        },
+        {
+            "source": 162,
+            "target": 86
+        },
+        {
+            "source": 163,
+            "target": 53
+        },
+        {
+            "source": 164,
+            "target": 59
+        },
+        {
+            "source": 165,
+            "target": 59
+        },
+        {
+            "source": 166,
+            "target": 1
+        },
+        {
+            "source": 167,
+            "target": 93
+        },
+        {
+            "source": 168,
+            "target": 36
+        },
+        {
+            "source": 169,
+            "target": 99
+        }
+    ],
+    "edges": [
+        {
+            "source": "Arrowverse Wiki",
+            "target": "The CW"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "Arrow"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "Tommy Merlyn"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Arrowverse Wiki",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Stephen Amell"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Arrow"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Oliver Queen",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "Moira Queen",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Moira Queen",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Moira Queen",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Moira Queen",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Moira Queen",
+            "target": "Susanna Thompson"
+        },
+        {
+            "source": "Robert Queen",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Robert Queen",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Robert Queen",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Robert Queen",
+            "target": "Jamey Sheridan"
+        },
+        {
+            "source": "Robert Queen",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Thea Queen",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Thea Queen",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Thea Queen",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Thea Queen",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Thea Queen",
+            "target": "Willa Holland"
+        },
+        {
+            "source": "Stephen Amell",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Susanna Thompson",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Jamey Sheridan",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Willa Holland",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Arrow",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Arrow",
+            "target": "Stephen Amell"
+        },
+        {
+            "source": "Arrow",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Arrow",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Arrow",
+            "target": "Tommy Merlyn"
+        },
+        {
+            "source": "Arrow",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Arrow",
+            "target": "Arrow"
+        },
+        {
+            "source": "Arrow",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Arrow",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Katie Cassidy",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Colin Donnell",
+            "target": "Tommy Merlyn"
+        },
+        {
+            "source": "David Ramsey",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Paul Blackthorne",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Colin Salmon",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Darren Shahlavi",
+            "target": "Constantine Drakon"
+        },
+        {
+            "source": "Darren Shahlavi",
+            "target": "Arrow"
+        },
+        {
+            "source": "Laurel Lance",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Laurel Lance",
+            "target": "Katie Cassidy"
+        },
+        {
+            "source": "Laurel Lance",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Sara Lance",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Sara Lance",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Sara Lance",
+            "target": "Jacqueline MacInnes Wood"
+        },
+        {
+            "source": "Sara Lance",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Quentin Lance",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Quentin Lance",
+            "target": "Paul Blackthorne"
+        },
+        {
+            "source": "Quentin Lance",
+            "target": "Detective Hilton"
+        },
+        {
+            "source": "Tommy Merlyn",
+            "target": "Colin Donnell"
+        },
+        {
+            "source": "Tommy Merlyn",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Star City",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "John Diggle",
+            "target": "David Ramsey"
+        },
+        {
+            "source": "John Diggle",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Walter Steele",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Walter Steele",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Walter Steele",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Walter Steele",
+            "target": "Colin Salmon"
+        },
+        {
+            "source": "Walter Steele",
+            "target": "Queen Consolidated"
+        },
+        {
+            "source": "Walter Steele",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Green Arrow (character)",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Constantine Drakon",
+            "target": "Darren Shahlavi"
+        },
+        {
+            "source": "Roger Cross",
+            "target": "Detective Hilton"
+        },
+        {
+            "source": "Kathleen Gati",
+            "target": "Raisa"
+        },
+        {
+            "source": "Raisa",
+            "target": "Kathleen Gati"
+        },
+        {
+            "source": "Raisa",
+            "target": "Queen Mansion"
+        },
+        {
+            "source": "Queen Mansion",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Queen Mansion",
+            "target": "Raisa"
+        },
+        {
+            "source": "Lucas Hilton",
+            "target": "Roger Cross"
+        },
+        {
+            "source": "Lucas Hilton",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Adam Hunt",
+            "target": "Brian Markinson"
+        },
+        {
+            "source": "Adam Hunt",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Greg Berlanti",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Greg Berlanti",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Greg Berlanti",
+            "target": "David Nutter"
+        },
+        {
+            "source": "Marc Guggenheim",
+            "target": "Greg Berlanti"
+        },
+        {
+            "source": "Marc Guggenheim",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Marc Guggenheim",
+            "target": "David Nutter"
+        },
+        {
+            "source": "Marc Guggenheim",
+            "target": "Geoff Johns"
+        },
+        {
+            "source": "Andrew Kreisberg",
+            "target": "Greg Berlanti"
+        },
+        {
+            "source": "Andrew Kreisberg",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Andrew Kreisberg",
+            "target": "David Nutter"
+        },
+        {
+            "source": "Andrew Kreisberg",
+            "target": "Beth Schwartz"
+        },
+        {
+            "source": "Annie Ilonzeh",
+            "target": "Joanna De La Vega"
+        },
+        {
+            "source": "Joanna de la Vega",
+            "target": "Annie Ilonzeh"
+        },
+        {
+            "source": "Joanna de la Vega",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Joanna de la Vega",
+            "target": "City Necessary Resources Initiative"
+        },
+        {
+            "source": "Joanna de la Vega",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Brian Markinson",
+            "target": "Adam Hunt"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "David Nutter"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Brian Markinson"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Adam Hunt"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Roger Cross"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Detective Hilton"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Darren Shahlavi"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Constantine Drakon"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Kathleen Gati"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Raisa"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Jacqueline MacInnes Wood"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Annie Ilonzeh"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Joanna De La Vega"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Jamey Sheridan"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Arrow"
+        },
+        {
+            "source": "Pilot (Arrow)",
+            "target": "Queen Mansion"
+        },
+        {
+            "source": "David Nutter",
+            "target": "Greg Berlanti"
+        },
+        {
+            "source": "David Nutter",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "David Nutter",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Melissa Kellner Berman",
+            "target": "Arrow"
+        },
+        {
+            "source": "Simon Chin",
+            "target": "Arrow"
+        },
+        {
+            "source": "Jon Wallace",
+            "target": "Arrow"
+        },
+        {
+            "source": "Glen Winter",
+            "target": "Arrow"
+        },
+        {
+            "source": "Paul Karasick",
+            "target": "Arrow"
+        },
+        {
+            "source": "Tish Monaghan",
+            "target": "Arrow"
+        },
+        {
+            "source": "Adrien Van Viersen",
+            "target": "Arrow"
+        },
+        {
+            "source": "Shivas Thilak Anthikkat",
+            "target": "Arrow"
+        },
+        {
+            "source": "Curtis Braconnier",
+            "target": "Arrow"
+        },
+        {
+            "source": "Isabel Bloor",
+            "target": "Arrow"
+        },
+        {
+            "source": "Tom Trafalski",
+            "target": "Arrow"
+        },
+        {
+            "source": "Colin House",
+            "target": "Arrow"
+        },
+        {
+            "source": "Noel Johansen",
+            "target": "Arrow"
+        },
+        {
+            "source": "Neil Lamb",
+            "target": "Hiro Kanagawa"
+        },
+        {
+            "source": "Neil Lamb",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Jack Hardy",
+            "target": "Arrow"
+        },
+        {
+            "source": "Dave Abuel",
+            "target": "Arrow"
+        },
+        {
+            "source": "Eric Mattson",
+            "target": "Arrow"
+        },
+        {
+            "source": "J.J. Makaro",
+            "target": "Arrow"
+        },
+        {
+            "source": "Andrew Chin",
+            "target": "Arrow"
+        },
+        {
+            "source": "Colin Decker",
+            "target": "Arrow"
+        },
+        {
+            "source": "Simon Burnett",
+            "target": "Arrow"
+        },
+        {
+            "source": "Jon Kralt",
+            "target": "Arrow"
+        },
+        {
+            "source": "Shamus Whiting-Hewlett",
+            "target": "Arrow"
+        },
+        {
+            "source": "A. J. Gillespie",
+            "target": "Arrow"
+        },
+        {
+            "source": "George Manno",
+            "target": "Arrow"
+        },
+        {
+            "source": "Peter Rotter",
+            "target": "Arrow"
+        },
+        {
+            "source": "Ryan Doucette",
+            "target": "Arrow"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Arrow"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Stephen Amell"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Willa Holland"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Katie Cassidy"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Paul Blackthorne"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Colin Donnell"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Tommy Merlyn"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "David Ramsey"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Susanna Thompson"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Colin Salmon"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Darren Shahlavi"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Constantine Drakon"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Jacqueline MacInnes Wood"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Jamey Sheridan"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "David Nutter"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Adam Hunt"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "David Barrett"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Greg Berlanti"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Guy Norman Bee"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Vince Misiano"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Lana Cho"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Damaged"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Michael Schultz"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Wendy Mericle"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Ben Sokolowski"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Legacies"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "John Behring"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "David Grossman"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Geoff Johns"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Vendetta"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Ken Fink"
+        },
+        {
+            "source": "Season 1 (Arrow)",
+            "target": "Beth Schwartz"
+        },
+        {
+            "source": "Queen's Gambit",
+            "target": "Robert Queen"
+        },
+        {
+            "source": "Dave Isaac Santos Abuel",
+            "target": "Dave Abuel"
+        },
+        {
+            "source": "City Necessary Resources Initiative",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "City Necessary Resources Initiative",
+            "target": "Joanna De La Vega"
+        },
+        {
+            "source": "CNRI",
+            "target": "City Necessary Resources Initiative"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Greg Berlanti"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "David Barrett"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Ty Olsson"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Martin Somers"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Kelly Hu"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Chinese Triad"
+        },
+        {
+            "source": "Honor Thy Father",
+            "target": "Queen Consolidated"
+        },
+        {
+            "source": "The CW",
+            "target": "Arrow"
+        },
+        {
+            "source": "CW",
+            "target": "The CW"
+        },
+        {
+            "source": "Sky1",
+            "target": "Arrow"
+        },
+        {
+            "source": "Kelly Hu",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Chien Na Wei",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Chien Na Wei",
+            "target": "Kelly Hu"
+        },
+        {
+            "source": "Chien Na Wei",
+            "target": "Chinese Triad"
+        },
+        {
+            "source": "Test Drive",
+            "target": "Arrow"
+        },
+        {
+            "source": "Test Drive",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Test Drive",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Test Drive",
+            "target": "Detective Hilton"
+        },
+        {
+            "source": "Test Drive",
+            "target": "Unidac Industries"
+        },
+        {
+            "source": "Test Drive",
+            "target": "Officer Groves"
+        },
+        {
+            "source": "Star City Plaza Hotel",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Patel",
+            "target": "Unidac Industries"
+        },
+        {
+            "source": "Patel",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Patel",
+            "target": "Detective Hilton"
+        },
+        {
+            "source": "Joanna",
+            "target": "Joanna De La Vega"
+        },
+        {
+            "source": "Floyd Lawton",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Floyd Lawton",
+            "target": "Michael Rowe"
+        },
+        {
+            "source": "Deadshot",
+            "target": "Floyd Lawton"
+        },
+        {
+            "source": "Michael Rowe",
+            "target": "Floyd Lawton"
+        },
+        {
+            "source": "Michael Rowe",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Greg Berlanti"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Guy Norman Bee"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Michael Rowe"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Floyd Lawton"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Emily Bett Rickards"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Felicity Smoak"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "Lone Gunmen",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "An Innocent Man",
+            "target": "Lana Cho"
+        },
+        {
+            "source": "An Innocent Man",
+            "target": "Vince Misiano"
+        },
+        {
+            "source": "An Innocent Man",
+            "target": "Kirby Morrow"
+        },
+        {
+            "source": "An Innocent Man",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "An Innocent Man",
+            "target": "Damaged"
+        },
+        {
+            "source": "Salvage",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "Moira Kirland",
+            "target": "Lana Cho"
+        },
+        {
+            "source": "Moira Kirland",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Billy Wintergreen",
+            "target": "Slade Wilson"
+        },
+        {
+            "source": "CTV Two",
+            "target": "Arrow"
+        },
+        {
+            "source": "Damaged",
+            "target": "Wendy Mericle"
+        },
+        {
+            "source": "Damaged",
+            "target": "Ben Sokolowski"
+        },
+        {
+            "source": "Damaged",
+            "target": "Michael Schultz"
+        },
+        {
+            "source": "Damaged",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "Damaged",
+            "target": "Legacies"
+        },
+        {
+            "source": "Wendy Mericle",
+            "target": "Ben Sokolowski"
+        },
+        {
+            "source": "Ben Sokolowski",
+            "target": "Wendy Mericle"
+        },
+        {
+            "source": "Emily Bett Rickards",
+            "target": "Felicity Smoak"
+        },
+        {
+            "source": "Felicity Smoak",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Felicity Smoak",
+            "target": "Emily Bett Rickards"
+        },
+        {
+            "source": "John Barrowman",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Jessica De Gouw",
+            "target": "Helena Bertinelli"
+        },
+        {
+            "source": "Jessica De Gouw",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Helena Bertinelli",
+            "target": "Frank Bertinelli"
+        },
+        {
+            "source": "Helena Bertinelli",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Helena Bertinelli",
+            "target": "Jessica De Gouw"
+        },
+        {
+            "source": "The Huntress",
+            "target": "Helena Bertinelli"
+        },
+        {
+            "source": "Huntress",
+            "target": "Helena Bertinelli"
+        },
+        {
+            "source": "Legacies",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Legacies",
+            "target": "John Behring"
+        },
+        {
+            "source": "Legacies",
+            "target": "Damaged"
+        },
+        {
+            "source": "Legacies",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Laurel",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Oliver",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Kirby Morrow",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "Frank Bertinelli",
+            "target": "Helena Bertinelli"
+        },
+        {
+            "source": "Frank Bertinelli",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Frank Bertinelli",
+            "target": "Jeffrey Nordling"
+        },
+        {
+            "source": "Jeffrey Nordling",
+            "target": "Frank Bertinelli"
+        },
+        {
+            "source": "Jeffrey Nordling",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Geoff Johns"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "David Grossman"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Jessica De Gouw"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Helena Bertinelli"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Jeffrey Nordling"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Frank Bertinelli"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Legacies"
+        },
+        {
+            "source": "Muse of Fire",
+            "target": "Vendetta"
+        },
+        {
+            "source": "Geoff Johns",
+            "target": "Marc Guggenheim"
+        },
+        {
+            "source": "Royal Flush Gang",
+            "target": "King"
+        },
+        {
+            "source": "Royal Flush Gang",
+            "target": "Ace"
+        },
+        {
+            "source": "Kyle Reston",
+            "target": "Legacies"
+        },
+        {
+            "source": "Kyle Reston",
+            "target": "Kyle Schmid"
+        },
+        {
+            "source": "Kyle Reston",
+            "target": "Royal Flush Gang"
+        },
+        {
+            "source": "Kyle Schmid",
+            "target": "Ace"
+        },
+        {
+            "source": "Kyle Schmid",
+            "target": "Legacies"
+        },
+        {
+            "source": "Tahmoh Penikett",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Nick Salvati",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Nick Salvati",
+            "target": "Tahmoh Penikett"
+        },
+        {
+            "source": "Nick Salvati",
+            "target": "Frank Bertinelli"
+        },
+        {
+            "source": "Nine Network",
+            "target": "Arrow"
+        },
+        {
+            "source": "Warner Channel",
+            "target": "Arrow"
+        },
+        {
+            "source": "Vendetta",
+            "target": "Beth Schwartz"
+        },
+        {
+            "source": "Vendetta",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "Vendetta",
+            "target": "Ken Fink"
+        },
+        {
+            "source": "Vendetta",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "Beth Schwartz",
+            "target": "Andrew Kreisberg"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Arrow"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "An Innocent Man"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Damaged"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Legacies"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Muse of Fire"
+        },
+        {
+            "source": "List of Arrow episodes",
+            "target": "Vendetta"
+        },
+        {
+            "source": "Chinese Triad",
+            "target": "Martin Somers"
+        },
+        {
+            "source": "Martin Somers",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Martin Somers",
+            "target": "Ty Olsson"
+        },
+        {
+            "source": "Martin Somers",
+            "target": "Chinese Triad"
+        },
+        {
+            "source": "Martin Somers",
+            "target": "Laurel Lance"
+        },
+        {
+            "source": "Ty Olsson",
+            "target": "Martin Somers"
+        },
+        {
+            "source": "Ty Olsson",
+            "target": "Honor Thy Father"
+        },
+        {
+            "source": "Slade",
+            "target": "Slade Wilson"
+        },
+        {
+            "source": "Derek Reston",
+            "target": "Royal Flush Gang"
+        },
+        {
+            "source": "Derek Reston",
+            "target": "Legacies"
+        },
+        {
+            "source": "Derek Reston",
+            "target": "Currie Graham"
+        },
+        {
+            "source": "Currie Graham",
+            "target": "King"
+        },
+        {
+            "source": "Currie Graham",
+            "target": "Legacies"
+        },
+        {
+            "source": "Queen's Game",
+            "target": "Queen's Gambit"
+        },
+        {
+            "source": "Tommy",
+            "target": "Tommy Merlyn"
+        },
+        {
+            "source": "Thea",
+            "target": "Thea Queen"
+        },
+        {
+            "source": "Guy Norman Bee",
+            "target": "Guy Bee"
+        },
+        {
+            "source": "Detective Hilton",
+            "target": "Lucas Hilton"
+        },
+        {
+            "source": "King",
+            "target": "Derek Reston"
+        },
+        {
+            "source": "Ace",
+            "target": "Kyle Reston"
+        },
+        {
+            "source": "Emily Rickards",
+            "target": "Emily Bett Rickards"
+        },
+        {
+            "source": "Helena",
+            "target": "Helena Bertinelli"
+        },
+        {
+            "source": "Ollie",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Diggle",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Dig",
+            "target": "John Diggle"
+        },
+        {
+            "source": "John",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Quentin",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Detective Lance",
+            "target": "Quentin Lance"
+        },
+        {
+            "source": "Moira",
+            "target": "Moira Queen"
+        },
+        {
+            "source": "Byron Chan",
+            "target": "Byron Mann"
+        },
+        {
+            "source": "Felicity",
+            "target": "Felicity Smoak"
+        },
+        {
+            "source": "Walter",
+            "target": "Walter Steele"
+        },
+        {
+            "source": "Ollie Queen",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "The Hood",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Digg",
+            "target": "John Diggle"
+        },
+        {
+            "source": "Officer Groves",
+            "target": "Groves"
+        },
+        {
+            "source": "Bam-Bam",
+            "target": "James Bamford"
+        },
+        {
+            "source": "J. J. Makaro",
+            "target": "J.J. Makaro"
+        },
+        {
+            "source": "JJ Makaro",
+            "target": "J.J. Makaro"
+        },
+        {
+            "source": "The Arrow",
+            "target": "Oliver Queen"
+        },
+        {
+            "source": "Lone Gunman",
+            "target": "Lone Gunmen"
+        },
+        {
+            "source": "Joanna De La Vega",
+            "target": "Joanna de la Vega"
+        },
+        {
+            "source": "Bill Wintergreen",
+            "target": "Billy Wintergreen"
+        }
+    ],
+    "basic": {
+        "numNodes": 170,
+        "numEdges": 368,
+        "selfLinks": 1,
+        "numStrongComponents": 110,
+        "numWeakComponents": 4,
+        "sizeLargestStrong": 42,
+        "sizeLargestWeak": 162,
+        "radius": 5,
+        "diameter": 11,
+        "averageInDegree": 2.164705882352941,
+        "averageOutDegree": 2.164705882352941,
+        "maxOutDegree": 46,
+        "maxInDegree": 39,
+        "pageRank": {
+            "Arrowverse Wiki": 0.000784892124142246,
+            "Oliver Queen": 0.07223988281689671,
+            "Moira Queen": 0.03778203682352138,
+            "Robert Queen": 0.034325458241200604,
+            "Thea Queen": 0.037435071530479036,
+            "Stephen Amell": 0.011812655774330624,
+            "Susanna Thompson": 0.007601994796552248,
+            "Jamey Sheridan": 0.007019020233887549,
+            "Willa Holland": 0.00753953945127,
+            "Arrow": 0.03787428844652473,
+            "Katie Cassidy": 0.009338855219643043,
+            "Colin Donnell": 0.005416449515590423,
+            "David Ramsey": 0.0070193725900129815,
+            "Paul Blackthorne": 0.010391460796930766,
+            "Colin Salmon": 0.005860066770576858,
+            "Darren Shahlavi": 0.0026808839220514836,
+            "Jacqueline MacInnes Wood": 0.0010160990964155684,
+            "Laurel Lance": 0.028458644397723592,
+            "Sara Lance": 0.000784892124142246,
+            "Quentin Lance": 0.03196610834127942,
+            "Tommy Merlyn": 0.010257662719701355,
+            "Star City": 0.000784892124142246,
+            "John Diggle": 0.013819601247569719,
+            "Walter Steele": 0.0337269040690609,
+            "Green Arrow (character)": 0.000784892124142246,
+            "Constantine Drakon": 0.0020459283555053697,
+            "Roger Cross": 0.008720616850621006,
+            "Kathleen Gati": 0.00304508690509891,
+            "Raisa": 0.004935280086779112,
+            "Queen Mansion": 0.00304508690509891,
+            "Lucas Hilton": 0.01754452970294923,
+            "Adam Hunt": 0.0026576531528569535,
+            "Greg Berlanti": 0.03687626988648939,
+            "Marc Guggenheim": 0.05148411543446166,
+            "Andrew Kreisberg": 0.04955615420704977,
+            "Annie Ilonzeh": 0.0018875648704874035,
+            "Joanna de la Vega": 0.004726187478650796,
+            "Brian Markinson": 0.002020117206752701,
+            "Pilot (Arrow)": 0.000784892124142246,
+            "David Nutter": 0.03462496388791395,
+            "Melissa Kellner Berman": 0.000784892124142246,
+            "Simon Chin": 0.000784892124142246,
+            "Jon Wallace": 0.000784892124142246,
+            "Glen Winter": 0.000784892124142246,
+            "Paul Karasick": 0.000784892124142246,
+            "Tish Monaghan": 0.000784892124142246,
+            "Adrien Van Viersen": 0.000784892124142246,
+            "Shivas Thilak Anthikkat": 0.000784892124142246,
+            "Curtis Braconnier": 0.000784892124142246,
+            "Isabel Bloor": 0.000784892124142246,
+            "Tom Trafalski": 0.000784892124142246,
+            "Colin House": 0.000784892124142246,
+            "Noel Johansen": 0.000784892124142246,
+            "James Bamford": 0.0014913104748518805,
+            "Hiro Kanagawa": 0.0011381012994970633,
+            "Neil Lamb": 0.000784892124142246,
+            "Jack Hardy": 0.000784892124142246,
+            "Dave Abuel": 0.0014913104748518805,
+            "Eric Mattson": 0.000784892124142246,
+            "J.J. Makaro": 0.002197728825561515,
+            "Andrew Chin": 0.000784892124142246,
+            "Colin Decker": 0.000784892124142246,
+            "Simon Burnett": 0.000784892124142246,
+            "Jon Kralt": 0.000784892124142246,
+            "Shamus Whiting-Hewlett": 0.000784892124142246,
+            "A. J. Gillespie": 0.000784892124142246,
+            "George Manno": 0.000784892124142246,
+            "Peter Rotter": 0.000784892124142246,
+            "Ryan Doucette": 0.000784892124142246,
+            "Season 1 (Arrow)": 0.000784892124142246,
+            "Queen's Gambit": 0.0014913104748518805,
+            "Guy Bee": 0.0031393432566946848,
+            "Dave Isaac Santos Abuel": 0.000784892124142246,
+            "City Necessary Resources Initiative": 0.002554737757268725,
+            "CNRI": 0.000784892124142246,
+            "Honor Thy Father": 0.015338146658159673,
+            "The CW": 0.0015796127686905847,
+            "CW": 0.000784892124142246,
+            "Sky1": 0.000784892124142246,
+            "Kelly Hu": 0.002170857234332519,
+            "Chien Na Wei": 0.000784892124142246,
+            "Test Drive": 0.000784892124142246,
+            "Star City Plaza Hotel": 0.000784892124142246,
+            "Queen Consolidated": 0.006995202176529653,
+            "Patel": 0.000784892124142246,
+            "Unidac Industries": 0.0011381012994970633,
+            "Groves": 0.001597275869196832,
+            "Joanna": 0.000784892124142246,
+            "David Barrett": 0.0019507413714302414,
+            "Floyd Lawton": 0.005614313715261804,
+            "Deadshot": 0.000784892124142246,
+            "Michael Rowe": 0.00512713223802967,
+            "Slade Wilson": 0.0028335211916312238,
+            "Lone Gunmen": 0.022187246956768793,
+            "An Innocent Man": 0.014606113324166494,
+            "Salvage": 0.000784892124142246,
+            "Moira Kirland": 0.000784892124142246,
+            "Lana Cho": 0.0037828616546290964,
+            "Vince Misiano": 0.003429652479274279,
+            "Billy Wintergreen": 0.0014913104748518805,
+            "CTV Two": 0.000784892124142246,
+            "Byron Mann": 0.0014913104748518805,
+            "Damaged": 0.004986323900795026,
+            "Wendy Mericle": 0.016936827806741654,
+            "Ben Sokolowski": 0.016936827806741658,
+            "Michael Schultz": 0.0016978671393101624,
+            "Emily Bett Rickards": 0.008060272641499486,
+            "Felicity Smoak": 0.010561925157161395,
+            "John Barrowman": 0.000784892124142246,
+            "Jessica De Gouw": 0.004240871625701829,
+            "Helena Bertinelli": 0.00778349772090427,
+            "The Huntress": 0.000784892124142246,
+            "Huntress": 0.000784892124142246,
+            "Legacies": 0.006525771417593937,
+            "John Behring": 0.0022686181724918893,
+            "Laurel": 0.000784892124142246,
+            "Oliver": 0.000784892124142246,
+            "Kirby Morrow": 0.0034142955586066786,
+            "Frank Bertinelli": 0.006166517537385324,
+            "Jeffrey Nordling": 0.0037557655317239547,
+            "Muse of Fire": 0.012453127865459634,
+            "Geoff Johns": 0.013501193568549527,
+            "David Grossman": 0.0019210816077927899,
+            "Royal Flush Gang": 0.002793384206736899,
+            "Kyle Reston": 0.0033473689523971883,
+            "Kyle Schmid": 0.0017891381654395726,
+            "Tahmoh Penikett": 0.0010203649077121242,
+            "Nick Salvati": 0.000784892124142246,
+            "Nine Network": 0.000784892124142246,
+            "Warner Channel": 0.000784892124142246,
+            "Vendetta": 0.0020093839016314943,
+            "Beth Schwartz": 0.012398674130863983,
+            "Ken Fink": 0.001252378121919404,
+            "List of Arrow episodes": 0.000784892124142246,
+            "Chinese Triad": 0.0037095084618472152,
+            "Martin Somers": 0.006837735502650579,
+            "Ty Olsson": 0.003474035678277338,
+            "Slade": 0.000784892124142246,
+            "Derek Reston": 0.0033473689523971883,
+            "Currie Graham": 0.0017891381654395726,
+            "Queen's Game": 0.000784892124142246,
+            "Tommy": 0.000784892124142246,
+            "Thea": 0.000784892124142246,
+            "Guy Norman Bee": 0.002615788814568875,
+            "Detective Hilton": 0.01861859805510169,
+            "King": 0.0028470989570886407,
+            "Ace": 0.0028470989570886407,
+            "Emily Rickards": 0.000784892124142246,
+            "Helena": 0.000784892124142246,
+            "Ollie": 0.000784892124142246,
+            "Diggle": 0.000784892124142246,
+            "Dig": 0.000784892124142246,
+            "John": 0.000784892124142246,
+            "Quentin": 0.000784892124142246,
+            "Detective Lance": 0.000784892124142246,
+            "Moira": 0.000784892124142246,
+            "Byron Chan": 0.000784892124142246,
+            "Felicity": 0.000784892124142246,
+            "Walter": 0.000784892124142246,
+            "Ollie Queen": 0.000784892124142246,
+            "The Hood": 0.000784892124142246,
+            "Digg": 0.000784892124142246,
+            "Officer Groves": 0.000902628515927185,
+            "Bam-Bam": 0.000784892124142246,
+            "J. J. Makaro": 0.000784892124142246,
+            "JJ Makaro": 0.000784892124142246,
+            "The Arrow": 0.000784892124142246,
+            "Lone Gunman": 0.000784892124142246,
+            "Joanna De La Vega": 0.004379082628544352,
+            "Bill Wintergreen": 0.000784892124142246
+        },
+        "hitsHubs": {
+            "Arrowverse Wiki": 0.028555170581460176,
+            "Oliver Queen": 0.031108669677728327,
+            "Moira Queen": 0.017147473516981045,
+            "Robert Queen": 0.018069320061171363,
+            "Thea Queen": 0.017200528195524173,
+            "Stephen Amell": 0.005881112067668604,
+            "Susanna Thompson": 0.0036493673231892177,
+            "Jamey Sheridan": 0.0032074716976272888,
+            "Willa Holland": 0.003597032479243948,
+            "Arrow": 0.032961546888213775,
+            "Katie Cassidy": 0.0033428816610593325,
+            "Colin Donnell": 0.002411165899763918,
+            "David Ramsey": 0.0025164508796636288,
+            "Paul Blackthorne": 0.002418752805403897,
+            "Colin Salmon": 0.0027181122137808805,
+            "Darren Shahlavi": 0.008863190075524894,
+            "Jacqueline MacInnes Wood": 0.0,
+            "Laurel Lance": 0.009945900520530584,
+            "Sara Lance": 0.013808634434741176,
+            "Quentin Lance": 0.005820683975002712,
+            "Tommy Merlyn": 0.007493879211365089,
+            "Star City": 0.005881112067668604,
+            "John Diggle": 0.007493879211365089,
+            "Walter Steele": 0.01870589639002157,
+            "Green Arrow (character)": 0.005881112067668604,
+            "Constantine Drakon": 0.00200574885871126,
+            "Roger Cross": 0.0008877367274252625,
+            "Kathleen Gati": 0.0005625009657771122,
+            "Raisa": 0.0009609632927049225,
+            "Queen Mansion": 0.006443613033445716,
+            "Lucas Hilton": 0.002925894216733636,
+            "Adam Hunt": 0.006435876167790106,
+            "Greg Berlanti": 0.009370413278716926,
+            "Marc Guggenheim": 0.010317698177390732,
+            "Andrew Kreisberg": 0.010300733251874463,
+            "Annie Ilonzeh": 0.0005345572871625866,
+            "Joanna de la Vega": 0.009963666432555848,
+            "Brian Markinson": 0.00200574885871126,
+            "Pilot (Arrow)": 0.03445244884004884,
+            "David Nutter": 0.009593388719290786,
+            "Melissa Kellner Berman": 0.006764400912170481,
+            "Simon Chin": 0.006764400912170481,
+            "Jon Wallace": 0.006764400912170481,
+            "Glen Winter": 0.006764400912170481,
+            "Paul Karasick": 0.006764400912170481,
+            "Tish Monaghan": 0.006764400912170481,
+            "Adrien Van Viersen": 0.006764400912170481,
+            "Shivas Thilak Anthikkat": 0.006764400912170481,
+            "Curtis Braconnier": 0.006764400912170481,
+            "Isabel Bloor": 0.006764400912170481,
+            "Tom Trafalski": 0.006764400912170481,
+            "Colin House": 0.006764400912170481,
+            "Noel Johansen": 0.006764400912170481,
+            "James Bamford": 0.0,
+            "Hiro Kanagawa": 0.0,
+            "Neil Lamb": 0.0036995621964664334,
+            "Jack Hardy": 0.006764400912170481,
+            "Dave Abuel": 0.006764400912170481,
+            "Eric Mattson": 0.006764400912170481,
+            "J.J. Makaro": 0.006764400912170481,
+            "Andrew Chin": 0.006764400912170481,
+            "Colin Decker": 0.006764400912170481,
+            "Simon Burnett": 0.006764400912170481,
+            "Jon Kralt": 0.006764400912170481,
+            "Shamus Whiting-Hewlett": 0.006764400912170481,
+            "A. J. Gillespie": 0.006764400912170481,
+            "George Manno": 0.006764400912170481,
+            "Peter Rotter": 0.006764400912170481,
+            "Ryan Doucette": 0.006764400912170481,
+            "Season 1 (Arrow)": 0.11137348648026345,
+            "Queen's Gambit": 0.0032074716976272888,
+            "Guy Bee": 0.0,
+            "Dave Isaac Santos Abuel": 9.031655316424446e-53,
+            "City Necessary Resources Initiative": 0.003877438948221919,
+            "CNRI": 0.00013704429548987642,
+            "Honor Thy Father": 0.02596044431688785,
+            "The CW": 0.006764400912170481,
+            "CW": 0.0003927593587010427,
+            "Sky1": 0.006764400912170481,
+            "Kelly Hu": 0.0030752479644803625,
+            "Chien Na Wei": 0.00398800406059573,
+            "Test Drive": 0.01717074144197872,
+            "Star City Plaza Hotel": 0.005881112067668604,
+            "Queen Consolidated": 0.0,
+            "Patel": 0.007098123596072683,
+            "Unidac Industries": 0.0,
+            "Groves": 0.0,
+            "Joanna": 0.0005345572871625866,
+            "David Barrett": 0.0,
+            "Floyd Lawton": 0.0032834296731044333,
+            "Deadshot": 0.00038501236067549815,
+            "Michael Rowe": 0.0032887252887326746,
+            "Slade Wilson": 0.0,
+            "Lone Gunmen": 0.024703207693550396,
+            "An Innocent Man": 0.008426399269106601,
+            "Salvage": 0.0028129412991282237,
+            "Moira Kirland": 0.005227377781887811,
+            "Lana Cho": 0.0,
+            "Vince Misiano": 0.0,
+            "Billy Wintergreen": 1.2122082566496102e-44,
+            "CTV Two": 0.006764400912170481,
+            "Byron Mann": 0.0,
+            "Damaged": 0.010132115674901099,
+            "Wendy Mericle": 0.0016712371655892887,
+            "Ben Sokolowski": 0.0016712371655892887,
+            "Michael Schultz": 0.0,
+            "Emily Bett Rickards": 0.0003445165232434863,
+            "Felicity Smoak": 0.0032887252887326746,
+            "John Barrowman": 0.0023498420277279167,
+            "Jessica De Gouw": 0.0026567808873515725,
+            "Helena Bertinelli": 0.00294060377542104,
+            "The Huntress": 0.0003069388596236557,
+            "Huntress": 0.0003069388596236557,
+            "Legacies": 0.009608936312569502,
+            "John Behring": 0.0,
+            "Laurel": 0.0033428816610593325,
+            "Oliver": 0.005881112067668604,
+            "Kirby Morrow": 0.0028129412991282237,
+            "Frank Bertinelli": 0.002915179665265771,
+            "Jeffrey Nordling": 0.0026818600485860314,
+            "Muse of Fire": 0.016129840047156157,
+            "Geoff Johns": 0.003531034454072818,
+            "David Grossman": 0.0,
+            "Royal Flush Gang": 6.585591639042935e-05,
+            "Kyle Reston": 0.002426921744101495,
+            "Kyle Schmid": 0.0023610658277110662,
+            "Tahmoh Penikett": 0.0023498420277279167,
+            "Nick Salvati": 0.0027187474357099894,
+            "Nine Network": 0.006764400912170481,
+            "Warner Channel": 0.006764400912170481,
+            "Vendetta": 0.009215821642660452,
+            "Beth Schwartz": 0.0034539612715134608,
+            "Ken Fink": 0.0,
+            "List of Arrow episodes": 0.02438162172688809,
+            "Chinese Triad": 0.00040493833347369937,
+            "Martin Somers": 0.00737686506723818,
+            "Ty Olsson": 0.0034801862979540617,
+            "Slade": 1.2122082566496102e-44,
+            "Derek Reston": 0.002426921744101495,
+            "Currie Graham": 0.0023610658277110662,
+            "Queen's Game": 9.031655316424446e-53,
+            "Tommy": 0.002411165899763918,
+            "Thea": 0.003597032479243948,
+            "Guy Norman Bee": 9.031655316424446e-53,
+            "Detective Hilton": 9.031655316424446e-53,
+            "King": 9.031655316424446e-53,
+            "Ace": 9.031655316424446e-53,
+            "Emily Rickards": 0.00038501236067549815,
+            "Helena": 0.0003069388596236557,
+            "Ollie": 0.005881112067668604,
+            "Diggle": 0.0025164508796636288,
+            "Dig": 0.0025164508796636288,
+            "John": 0.0025164508796636288,
+            "Quentin": 0.002418752805403897,
+            "Detective Lance": 0.002418752805403897,
+            "Moira": 0.0036493673231892177,
+            "Byron Chan": 9.031655316424446e-53,
+            "Felicity": 0.0003445165232434863,
+            "Walter": 0.0027181122137808805,
+            "Ollie Queen": 0.005881112067668604,
+            "The Hood": 0.005881112067668604,
+            "Digg": 0.0025164508796636288,
+            "Officer Groves": 9.031655316424446e-53,
+            "Bam-Bam": 9.031655316424446e-53,
+            "J. J. Makaro": 1.2122082566496102e-44,
+            "JJ Makaro": 1.2122082566496102e-44,
+            "The Arrow": 0.005881112067668604,
+            "Lone Gunman": 0.0029037129280571764,
+            "Joanna De La Vega": 9.031655316424446e-53,
+            "Bill Wintergreen": 9.031655316424446e-53
+        },
+        "hitsAuths": {
+            "Arrowverse Wiki": 0.0,
+            "Oliver Queen": 0.04800861077626915,
+            "Moira Queen": 0.029790463671283136,
+            "Robert Queen": 0.026183187556283242,
+            "Thea Queen": 0.029363244614054516,
+            "Stephen Amell": 0.019431507665859056,
+            "Susanna Thompson": 0.01423451497795592,
+            "Jamey Sheridan": 0.018152443522595534,
+            "Willa Holland": 0.014240391121555044,
+            "Arrow": 0.055219061767644594,
+            "Katie Cassidy": 0.013436894895629171,
+            "Colin Donnell": 0.013165317916679907,
+            "David Ramsey": 0.013165317916679907,
+            "Paul Blackthorne": 0.012980000886490489,
+            "Colin Salmon": 0.014407120238106242,
+            "Darren Shahlavi": 0.01637330068953908,
+            "Jacqueline MacInnes Wood": 0.017680545449392345,
+            "Laurel Lance": 0.027288564252873706,
+            "Sara Lance": 0.0,
+            "Quentin Lance": 0.019744728660591154,
+            "Tommy Merlyn": 0.019682795339873053,
+            "Star City": 0.0,
+            "John Diggle": 0.020542256197349326,
+            "Walter Steele": 0.02218845514524597,
+            "Green Arrow (character)": 0.0,
+            "Constantine Drakon": 0.01713280598729977,
+            "Roger Cross": 0.004139889589743692,
+            "Kathleen Gati": 0.003922260973683615,
+            "Raisa": 0.00459179992092451,
+            "Queen Mansion": 0.003922260973683615,
+            "Lucas Hilton": 7.372708082461867e-52,
+            "Adam Hunt": 0.01637330068953908,
+            "Greg Berlanti": 0.021292796761131792,
+            "Marc Guggenheim": 0.02882449046926244,
+            "Andrew Kreisberg": 0.028195327756461535,
+            "Annie Ilonzeh": 0.0049193676919835165,
+            "Joanna de la Vega": 7.372708082461867e-52,
+            "Brian Markinson": 0.004528642448729677,
+            "Pilot (Arrow)": 0.0,
+            "David Nutter": 0.01947260680113648,
+            "Melissa Kellner Berman": 0.0,
+            "Simon Chin": 0.0,
+            "Jon Wallace": 0.0,
+            "Glen Winter": 0.0,
+            "Paul Karasick": 0.0,
+            "Tish Monaghan": 0.0,
+            "Adrien Van Viersen": 0.0,
+            "Shivas Thilak Anthikkat": 0.0,
+            "Curtis Braconnier": 0.0,
+            "Isabel Bloor": 0.0,
+            "Tom Trafalski": 0.0,
+            "Colin House": 0.0,
+            "Noel Johansen": 0.0,
+            "James Bamford": 7.372708082461867e-52,
+            "Hiro Kanagawa": 0.00040975007896513094,
+            "Neil Lamb": 0.0,
+            "Jack Hardy": 0.0,
+            "Dave Abuel": 7.372708082461867e-52,
+            "Eric Mattson": 0.0,
+            "J.J. Makaro": 9.895481280352685e-44,
+            "Andrew Chin": 0.0,
+            "Colin Decker": 0.0,
+            "Simon Burnett": 0.0,
+            "Jon Kralt": 0.0,
+            "Shamus Whiting-Hewlett": 0.0,
+            "A. J. Gillespie": 0.0,
+            "George Manno": 0.0,
+            "Peter Rotter": 0.0,
+            "Ryan Doucette": 0.0,
+            "Season 1 (Arrow)": 0.0,
+            "Queen's Gambit": 7.372708082461867e-52,
+            "Guy Bee": 7.372708082461867e-52,
+            "Dave Isaac Santos Abuel": 0.0,
+            "City Necessary Resources Initiative": 0.001118718052908941,
+            "CNRI": 0.0,
+            "Honor Thy Father": 0.025103820649651158,
+            "The CW": 0.0032061676369466445,
+            "CW": 0.0,
+            "Sky1": 0.0,
+            "Kelly Hu": 0.0033169814235024047,
+            "Chien Na Wei": 0.0,
+            "Test Drive": 0.0,
+            "Star City Plaza Hotel": 0.0,
+            "Queen Consolidated": 0.004947081749585057,
+            "Patel": 0.0,
+            "Unidac Industries": 0.0026879313940521713,
+            "Groves": 7.372708082461867e-52,
+            "Joanna": 0.0,
+            "David Barrett": 0.015210607630271598,
+            "Floyd Lawton": 0.0031429274523330003,
+            "Deadshot": 0.0,
+            "Michael Rowe": 0.0030996983578026227,
+            "Slade Wilson": 9.895481280352685e-44,
+            "Lone Gunmen": 0.023703548268615156,
+            "An Innocent Man": 0.022962562592328668,
+            "Salvage": 0.0,
+            "Moira Kirland": 0.0,
+            "Lana Cho": 0.01384756583975032,
+            "Vince Misiano": 0.013268600453117436,
+            "Billy Wintergreen": 7.372708082461867e-52,
+            "CTV Two": 0.0,
+            "Byron Mann": 7.372708082461867e-52,
+            "Damaged": 0.017033271272108703,
+            "Wendy Mericle": 0.013642619571678696,
+            "Ben Sokolowski": 0.013642619571678696,
+            "Michael Schultz": 0.013457519410133543,
+            "Emily Bett Rickards": 0.0031429274523330003,
+            "Felicity Smoak": 0.0028123524054774096,
+            "John Barrowman": 0.0,
+            "Jessica De Gouw": 0.002112173128057316,
+            "Helena Bertinelli": 0.002505598953775004,
+            "The Huntress": 0.0,
+            "Huntress": 0.0,
+            "Legacies": 0.019005022098718016,
+            "John Behring": 0.013399573963056586,
+            "Laurel": 0.0,
+            "Oliver": 0.0,
+            "Kirby Morrow": 0.0009332773937210451,
+            "Frank Bertinelli": 0.0027103248077371316,
+            "Jeffrey Nordling": 0.0021093572459101413,
+            "Muse of Fire": 0.01918219717578515,
+            "Geoff Johns": 0.015264556382977934,
+            "David Grossman": 0.0141218055882914,
+            "Royal Flush Gang": 0.000537594084405195,
+            "Kyle Reston": 7.372708082461867e-52,
+            "Kyle Schmid": 0.0002687970422025975,
+            "Tahmoh Penikett": 0.00030111859638302935,
+            "Nick Salvati": 0.0,
+            "Nine Network": 0.0,
+            "Warner Channel": 0.0,
+            "Vendetta": 0.01682222550362247,
+            "Beth Schwartz": 0.014496905830362441,
+            "Ken Fink": 0.01335603400923377,
+            "List of Arrow episodes": 0.0,
+            "Chinese Triad": 0.0041340162190983505,
+            "Martin Somers": 0.0033055868714021207,
+            "Ty Olsson": 0.003692319366471152,
+            "Slade": 0.0,
+            "Derek Reston": 7.372708082461867e-52,
+            "Currie Graham": 0.0002687970422025975,
+            "Queen's Game": 0.0,
+            "Tommy": 0.0,
+            "Thea": 0.0,
+            "Guy Norman Bee": 0.015071360666027895,
+            "Detective Hilton": 0.007246759886290254,
+            "King": 0.0002687970422025975,
+            "Ace": 0.0002687970422025975,
+            "Emily Rickards": 0.0,
+            "Helena": 0.0,
+            "Ollie": 0.0,
+            "Diggle": 0.0,
+            "Dig": 0.0,
+            "John": 0.0,
+            "Quentin": 0.0,
+            "Detective Lance": 0.0,
+            "Moira": 0.0,
+            "Byron Chan": 0.0,
+            "Felicity": 0.0,
+            "Walter": 0.0,
+            "Ollie Queen": 0.0,
+            "The Hood": 0.0,
+            "Digg": 0.0,
+            "Officer Groves": 0.0019017689918558328,
+            "Bam-Bam": 0.0,
+            "J. J. Makaro": 0.0,
+            "JJ Makaro": 0.0,
+            "The Arrow": 0.0,
+            "Lone Gunman": 0.0,
+            "Joanna De La Vega": 0.004363690479236261,
+            "Bill Wintergreen": 0.0
+        },
+        "averagePathLength": 4.246225319396051
+    }
+}
